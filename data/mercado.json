@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-23T05:00:41.988959+00:00",
+  "actualizado": "2026-07-23T18:16:49.894345+00:00",
   "macro": {
     "dolar": 936.4,
     "uf": 40844.79,
@@ -10,124 +10,184 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 339.0,
-      "anterior": 337.5
+      "precio": 336.02,
+      "anterior": 335.46,
+      "alto52": 400.0,
+      "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 193.5,
-      "anterior": 189.5
+      "precio": 191.69,
+      "anterior": 188.88,
+      "alto52": 200.68,
+      "bajo52": 132.31
     },
     "BCI": {
-      "precio": 64500.0,
-      "anterior": 64477.0
+      "precio": 64042.0,
+      "anterior": 62802.0,
+      "alto52": 66985.0,
+      "bajo52": 37164.0
     },
     "ITAUCL": {
-      "precio": 21500.0,
-      "anterior": 20480.0
+      "precio": 21097.0,
+      "anterior": 20500.0,
+      "alto52": 25887.0,
+      "bajo52": 12562.0
     },
     "BSANTANDER": {
-      "precio": 79.85,
-      "anterior": 78.64
+      "precio": 79.73,
+      "anterior": 78.16,
+      "alto52": 80.68,
+      "bajo52": 52.0
     },
     "CAP": {
-      "precio": 6300.0,
-      "anterior": 6363.8
+      "precio": 6220.0,
+      "anterior": 6390.0,
+      "alto52": 8680.0,
+      "bajo52": 4502.0
     },
     "CENCOSUD": {
-      "precio": 2009.8,
-      "anterior": 2040.0
+      "precio": 1978.0,
+      "anterior": 2005.0,
+      "alto52": 3238.0,
+      "bajo52": 1978.0
     },
     "CENCOMALLS": {
-      "precio": 2278.4,
-      "anterior": 2260.0
+      "precio": 2250.8,
+      "anterior": 2249.9,
+      "alto52": 2799.9,
+      "bajo52": 1808.0
     },
     "COLBUN": {
-      "precio": 140.3,
-      "anterior": 133.77
+      "precio": 137.76,
+      "anterior": 135.6,
+      "alto52": 156.51,
+      "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5420.7,
-      "anterior": 5239.0
+      "precio": 5390.0,
+      "anterior": 5206.7,
+      "alto52": 6598.3,
+      "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.3,
-      "anterior": 47.4
+      "precio": 48.5,
+      "anterior": 47.2,
+      "alto52": 55.0,
+      "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4700.0,
-      "anterior": 4747.0
+      "precio": 4600.0,
+      "anterior": 4747.0,
+      "alto52": 4800.0,
+      "bajo52": 3500.1
     },
     "ENTEL": {
-      "precio": 3610.0,
-      "anterior": 3786.5
+      "precio": 3603.6,
+      "anterior": 3718.8,
+      "alto52": 5250.0,
+      "bajo52": 3025.0
     },
     "CMPC": {
-      "precio": 1070.0,
-      "anterior": 1103.0
+      "precio": 1052.6,
+      "anterior": 1074.0,
+      "alto52": 1599.0,
+      "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6550.0,
-      "anterior": 6210.0
+      "precio": 6450.6,
+      "anterior": 6126.0,
+      "alto52": 7949.0,
+      "bajo52": 5702.1
     },
     "ENELAM": {
       "precio": 84.53,
-      "anterior": 85.75
+      "anterior": 84.8,
+      "alto52": 105.23,
+      "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.25,
-      "anterior": 82.0
+      "precio": 81.84,
+      "anterior": 82.0,
+      "alto52": 84.0,
+      "bajo52": 61.51
     },
     "ECL": {
-      "precio": 1865.0,
-      "anterior": 1765.0
+      "precio": 1859.8,
+      "anterior": 1799.9,
+      "alto52": 1893.9,
+      "bajo52": 1158.5
     },
     "FALABELLA": {
-      "precio": 6042.0,
-      "anterior": 5875.0
+      "precio": 6080.2,
+      "anterior": 5853.0,
+      "alto52": 6948.5,
+      "bajo52": 4601.5
     },
     "IAM": {
-      "precio": 920.0,
-      "anterior": 917.94
+      "precio": 910.2,
+      "anterior": 925.63,
+      "alto52": 1150.0,
+      "bajo52": 806.98
     },
     "ILC": {
-      "precio": 21583.0,
-      "anterior": 21450.0
+      "precio": 21170.0,
+      "anterior": 21719.0,
+      "alto52": 23725.0,
+      "bajo52": 10025.0
     },
     "LTM": {
-      "precio": 24.09,
-      "anterior": 24.9
+      "precio": 23.6,
+      "anterior": 25.4,
+      "alto52": 30.0,
+      "bajo52": 19.9
     },
     "PARAUCO": {
-      "precio": 3993.1,
-      "anterior": 4000.0
+      "precio": 3930.1,
+      "anterior": 3968.1,
+      "alto52": 4596.3,
+      "bajo52": 1932.0
     },
     "MALLPLAZA": {
-      "precio": 3820.2,
-      "anterior": 3922.0
+      "precio": 3780.6,
+      "anterior": 3905.0,
+      "alto52": 4700.0,
+      "bajo52": 2001.9
     },
     "QUINENCO": {
-      "precio": 4300.0,
-      "anterior": 4210.0
+      "precio": 4277.4,
+      "anterior": 4280.0,
+      "alto52": 4750.0,
+      "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 383.98,
-      "anterior": 381.4
+      "precio": 376.63,
+      "anterior": 383.99,
+      "alto52": 490.0,
+      "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1245.0,
-      "anterior": 1258.7
+      "precio": 1225.8,
+      "anterior": 1245.0,
+      "alto52": 1499.9,
+      "bajo52": 691.25
     },
     "SMU": {
-      "precio": 131.0,
-      "anterior": 130.67
+      "precio": 128.98,
+      "anterior": 129.0,
+      "alto52": 169.5,
+      "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 65055.0,
-      "anterior": 67900.0
+      "precio": 66399.0,
+      "anterior": 66050.0,
+      "alto52": 86900.0,
+      "bajo52": 34560.0
     },
     "CONCHATORO": {
-      "precio": 848.98,
-      "anterior": 853.33
+      "precio": 838.0,
+      "anterior": 856.1,
+      "alto52": 1152.4,
+      "bajo52": 815.0
     }
   },
   "noticias": [
@@ -181,6 +241,18 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "\"Nefasto\" y \"lamentable\": Economistas critican cómo se debatió compensación al Fondo Común Municipal",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/nefasto-y-lamentable-economistas-critican-como-se-debatio/2026-07-23/113939.html",
+      "fecha": "Thu, 23 Jul 2026"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Petróleo de Texas, referencia para Chile, volvió a sobrepasar los 90 dólares",
+      "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/petroleo-de-texas-referencia-para-chile-volvio-a-sobrepasar-los-90/2026-07-23/101623.html",
+      "fecha": "Thu, 23 Jul 2026"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Bochorno en el Senado: Gobierno abortó, a última hora, el voto final de la megarreforma",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/bochorno-en-el-senado-gobierno-aborto-a-ultima-hora-el-voto-final-de/2026-07-22/212426.html",
       "fecha": "Wed, 22 Jul 2026"
@@ -190,18 +262,6 @@
       "texto": "Megarreforma: comisión mixta aprobó compensación a municipios por exención de contribuciones",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/megarreforma-comision-mixta-aprobo-compensacion-a-municipios-por/2026-07-22/171256.html",
       "fecha": "Wed, 22 Jul 2026"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Premio InspiraTEC: la iniciativa que busca reducir la brecha de género en ciencia y tecnología",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/premio-inspiratec-la-iniciativa-que-busca-reducir-la-brecha-de-genero/2026-07-21/170607.html",
-      "fecha": "Tue, 21 Jul 2026"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Megarreforma quedó a un paso de ser ley: sólo compensación a municipios pasó a mixta",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/megarreforma-quedo-a-un-paso-de-ser-ley-solo-compensacion-a-municipios/2026-07-21/161017.html",
-      "fecha": "Tue, 21 Jul 2026"
     }
   ]
 }
