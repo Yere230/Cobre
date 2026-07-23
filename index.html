@@ -172,6 +172,8 @@
   .badge.justa .dot{background:var(--gold);}
   .badge.cara{background:var(--red-bg);color:var(--red);}
   .badge.cara .dot{background:var(--red);}
+  .badge.flat{background:rgba(237,234,226,0.07);color:var(--text-faint);}
+  .badge.flat .dot{background:var(--text-faint);}
   .row-actions{display:flex;gap:4px;justify-self:end;}
   .row-actions i{cursor:pointer;color:var(--text-faint);font-size:14px;}
   .row-actions i:hover{color:var(--copper-light);}
@@ -290,7 +292,10 @@
     <section class="panel">
       <div class="section-head">
         <h2><i class="ti ti-chart-candle"></i>Watchlist</h2>
-        <button class="ghost-btn" id="btn-add-stock"><i class="ti ti-plus"></i>Agregar</button>
+        <div style="display:flex;gap:8px;">
+          <button class="ghost-btn" id="btn-load-ipsa"><i class="ti ti-download"></i>Cargar IPSA</button>
+          <button class="ghost-btn" id="btn-add-stock"><i class="ti ti-plus"></i>Agregar</button>
+        </div>
       </div>
       <div class="wl-head">
         <span>acción</span><span>precio</span><span>var</span><span>valorización</span><span></span>
@@ -326,7 +331,7 @@
     <div class="div-grid" id="div-grid"></div>
   </section>
 
-  <footer class="foot">cobre — precios y macro vía robot automático · watchlist y ajustes guardados en este navegador · fase 2</footer>
+  <footer class="foot">cobre — precios, macro y titulares vía robot automático · watchlist y ajustes guardados en este navegador · fase 3</footer>
 </div>
 
 <!-- Modal: agregar/editar acción -->
@@ -908,6 +913,14 @@ async function sincronizarConRobot(){
       localStorage.setItem(KEYS.watchlist, JSON.stringify(wl));
     }
 
+    if(remoto.noticias){
+      let notes = load(KEYS.notes, []).filter(n => !n.auto); // se quitan las automáticas viejas, las manuales quedan
+      remoto.noticias.forEach(n=>{
+        notes.push({id:uid(), fuente:n.fuente, texto:n.texto, link:n.link || '', fecha:n.fecha || 'hoy', auto:true});
+      });
+      localStorage.setItem(KEYS.notes, JSON.stringify(notes));
+    }
+
     if(remoto.actualizado){
       localStorage.setItem(KEYS.updated, remoto.actualizado);
     }
@@ -918,6 +931,34 @@ async function sincronizarConRobot(){
     return false;
   }
 }
+
+/* ========== universo IPSA (carga masiva) ========== */
+const IPSA_UNIVERSE = {
+  'AGUAS-A':'Aguas Andinas', 'CHILE':'Banco de Chile', 'BCI':'Banco de Crédito e Inversiones',
+  'ITAUCL':'Banco Itaú Chile', 'BSANTANDER':'Banco Santander Chile', 'CAP':'CAP',
+  'CENCOSUD':'Cencosud', 'CENCOMALLS':'Cencosud Shopping', 'COLBUN':'Colbún',
+  'CCU':'Compañía Cervecerías Unidas', 'VAPORES':'Cía. Sud Americana de Vapores',
+  'ANDINA-B':'Embotelladora Andina', 'ENTEL':'Entel', 'CMPC':'Empresas CMPC',
+  'COPEC':'Empresas Copec', 'ENELAM':'Enel Américas', 'ENELCHILE':'Enel Chile',
+  'ECL':'Engie Energía Chile', 'FALABELLA':'Falabella', 'IAM':'Inversiones Aguas Metropolitanas',
+  'ILC':'Inversiones La Construcción', 'LTM':'Latam Airlines Group', 'PARAUCO':'Parque Arauco',
+  'MALLPLAZA':'Plaza', 'QUINENCO':'Quiñenco', 'RIPLEY':'Ripley Corp', 'SALFACORP':'Salfacorp',
+  'SMU':'SMU', 'SQM-B':'SQM', 'CONCHATORO':'Viña Concha y Toro'
+};
+document.getElementById('btn-load-ipsa').addEventListener('click', ()=>{
+  let wl = load(KEYS.watchlist, []);
+  const existentes = new Set(wl.map(s=>s.ticker));
+  let agregadas = 0;
+  Object.entries(IPSA_UNIVERSE).forEach(([ticker, empresa])=>{
+    if(!existentes.has(ticker)){
+      wl.push({id:uid(), ticker, empresa, precio:0, anterior:0, objetivo:0, enCartera:false, cantidad:0});
+      agregadas++;
+    }
+  });
+  save(KEYS.watchlist, wl);
+  renderAll();
+  toast(agregadas > 0 ? `${agregadas} acciones agregadas. Corre el robot para traer sus precios.` : 'Ya tenías cargadas todas las del IPSA');
+});
 
 /* ========== toast ========== */
 let toastTimer;
