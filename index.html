@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+<html lang="es-CL">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cobre — Inversión en la Bolsa de Santiago</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.44.0/dist/tabler-icons.min.css">
+<style>
+  :root{
+    --bg:#14181A;
+    --bg-alt:#181D20;
+    --panel:#1E2427;
+    --panel-raised:#242B2E;
+    --border:rgba(237,234,226,0.09);
+    --border-strong:rgba(237,234,226,0.16);
+    --text:#EDEAE2;
+    --text-dim:#A39E95;
+    --text-faint:#6C6862;
+    --copper:#C77A3F;
+    --copper-light:#E0A066;
+    --copper-bg:rgba(199,122,63,0.14);
+    --green:#4AA381;
+    --green-bg:rgba(74,163,129,0.14);
+    --gold:#D9A441;
+    --gold-bg:rgba(217,164,65,0.14);
+    --red:#C24A3D;
+    --red-bg:rgba(194,74,61,0.14);
+    --font-display:'Fraunces',serif;
+    --font-sans:'IBM Plex Sans',-apple-system,sans-serif;
+    --font-mono:'IBM Plex Mono',monospace;
+    --radius:10px;
+    --maxw:1180px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:var(--font-sans);
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  ::selection{background:var(--copper);color:#14181A;}
+  a{color:var(--copper-light);}
+  button{font-family:var(--font-sans);}
+  input,select,textarea{font-family:var(--font-sans);}
+  *:focus-visible{outline:2px solid var(--copper);outline-offset:2px;}
+
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px 80px;}
+
+  /* ---------- Header ---------- */
+  header.top{
+    display:flex;align-items:center;justify-content:space-between;
+    padding:28px 0 20px;
+  }
+  .brand{display:flex;align-items:baseline;gap:10px;}
+  .brand .mark{
+    font-family:var(--font-display);font-weight:600;font-size:26px;
+    letter-spacing:0.01em;color:var(--text);
+  }
+  .brand .mark span{color:var(--copper-light);}
+  .brand .tag{font-size:12px;color:var(--text-faint);font-family:var(--font-mono);}
+  .top-actions{display:flex;align-items:center;gap:16px;}
+  .updated{font-size:12px;color:var(--text-faint);font-family:var(--font-mono);display:flex;align-items:center;gap:6px;}
+  .icon-btn{
+    width:36px;height:36px;border-radius:50%;
+    background:transparent;border:0.5px solid var(--border-strong);
+    color:var(--text-dim);display:flex;align-items:center;justify-content:center;
+    cursor:pointer;transition:border-color .15s, color .15s;
+  }
+  .icon-btn:hover{border-color:var(--copper);color:var(--copper-light);}
+
+  /* ---------- Ticker tape (signature element) ---------- */
+  .ticker-shell{
+    background:var(--bg-alt);
+    border-top:0.5px solid var(--border);
+    border-bottom:0.5px solid var(--border);
+    overflow:hidden;
+    position:relative;
+    margin-bottom:32px;
+  }
+  .ticker-track{
+    display:flex;width:max-content;
+    animation:scrollTicker 32s linear infinite;
+    padding:10px 0;
+  }
+  @keyframes scrollTicker{
+    from{transform:translateX(0);}
+    to{transform:translateX(-50%);}
+  }
+  @media (prefers-reduced-motion:reduce){
+    .ticker-track{animation:none;overflow-x:auto;}
+  }
+  .ticker-item{
+    display:flex;align-items:baseline;gap:8px;
+    padding:0 24px;border-right:0.5px solid var(--border);
+    font-family:var(--font-mono);font-size:13px;white-space:nowrap;
+  }
+  .ticker-item .tk{color:var(--text);font-weight:500;}
+  .ticker-item .px{color:var(--text-dim);}
+  .ticker-item .chg.up{color:var(--green);}
+  .ticker-item .chg.down{color:var(--red);}
+
+  /* ---------- KPI board ---------- */
+  .kpi-grid{
+    display:grid;grid-template-columns:repeat(4,1fr);gap:1px;
+    background:var(--border);
+    border:0.5px solid var(--border);
+    border-radius:var(--radius);
+    overflow:hidden;margin-bottom:32px;
+  }
+  .kpi{background:var(--panel);padding:18px 20px;}
+  .kpi .lbl{font-size:12px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.06em;margin:0 0 8px;}
+  .kpi .val{
+    font-family:var(--font-mono);font-size:24px;font-weight:500;color:var(--text);
+    background:transparent;border:none;padding:0;width:100%;
+    cursor:text;
+  }
+  .kpi .val:focus{outline:1px solid var(--copper);border-radius:4px;}
+  .kpi .sub{font-size:12px;margin-top:6px;font-family:var(--font-mono);}
+  .kpi .sub.up{color:var(--green);}
+  .kpi .sub.down{color:var(--red);}
+  .kpi .sub.flat{color:var(--text-faint);}
+
+  /* ---------- Section headers ---------- */
+  .section-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;}
+  .section-head h2{
+    font-family:var(--font-display);font-weight:500;font-size:18px;margin:0;
+    display:flex;align-items:center;gap:8px;
+  }
+  .section-head h2 i{font-size:16px;color:var(--copper-light);}
+  .ghost-btn{
+    background:transparent;border:0.5px solid var(--border-strong);color:var(--text-dim);
+    font-size:13px;padding:6px 12px;border-radius:var(--radius);cursor:pointer;
+    display:flex;align-items:center;gap:6px;transition:border-color .15s,color .15s;
+  }
+  .ghost-btn:hover{border-color:var(--copper);color:var(--copper-light);}
+
+  /* ---------- Main grid ---------- */
+  .main-grid{display:grid;grid-template-columns:1.5fr 1fr;gap:20px;margin-bottom:32px;align-items:start;}
+  .panel{
+    background:var(--panel);border:0.5px solid var(--border);border-radius:12px;
+    padding:20px 22px;
+  }
+
+  /* watchlist rows */
+  .wl-head,.wl-row{
+    display:grid;grid-template-columns:1.6fr 0.9fr 0.9fr 1.1fr 32px;gap:10px;align-items:center;
+  }
+  .wl-head{padding-bottom:8px;border-bottom:0.5px solid var(--border);margin-bottom:2px;}
+  .wl-head span{font-size:11px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.05em;}
+  .wl-row{padding:12px 0;border-bottom:0.5px solid var(--border);}
+  .wl-row:last-child{border-bottom:none;}
+  .wl-tk{display:flex;flex-direction:column;}
+  .wl-tk b{font-family:var(--font-mono);font-size:13.5px;font-weight:500;}
+  .wl-tk small{color:var(--text-faint);font-size:11.5px;}
+  .wl-px,.wl-chg{font-family:var(--font-mono);font-size:13px;text-align:right;}
+  .wl-chg.up{color:var(--green);}
+  .wl-chg.down{color:var(--red);}
+  .wl-chg.flat{color:var(--text-faint);}
+  .badge{
+    justify-self:end;display:inline-flex;align-items:center;gap:6px;
+    padding:3px 10px;border-radius:20px;font-size:11px;font-weight:500;white-space:nowrap;
+  }
+  .badge .dot{width:6px;height:6px;border-radius:50%;}
+  .badge.barata{background:var(--green-bg);color:var(--green);}
+  .badge.barata .dot{background:var(--green);}
+  .badge.justa{background:var(--gold-bg);color:var(--gold);}
+  .badge.justa .dot{background:var(--gold);}
+  .badge.cara{background:var(--red-bg);color:var(--red);}
+  .badge.cara .dot{background:var(--red);}
+  .row-actions{display:flex;gap:4px;justify-self:end;}
+  .row-actions i{cursor:pointer;color:var(--text-faint);font-size:14px;}
+  .row-actions i:hover{color:var(--copper-light);}
+  .empty{color:var(--text-faint);font-size:13px;padding:20px 0;text-align:center;}
+
+  /* side panels */
+  .side-stack{display:flex;flex-direction:column;gap:20px;}
+  .note-item{padding:12px 0;border-bottom:0.5px solid var(--border);}
+  .note-item:last-child{border-bottom:none;padding-bottom:0;}
+  .note-item:first-child{padding-top:0;}
+  .note-meta{display:flex;align-items:center;gap:8px;margin-bottom:4px;}
+  .src-tag{
+    font-size:10px;font-weight:500;color:var(--copper-light);background:var(--copper-bg);
+    padding:2px 7px;border-radius:4px;font-family:var(--font-mono);
+  }
+  .note-date{font-size:11px;color:var(--text-faint);}
+  .note-text{font-size:13px;line-height:1.5;margin:0;color:var(--text);}
+
+  .ia-box .ia-result{
+    font-size:13.5px;line-height:1.6;color:var(--text-dim);
+    white-space:pre-wrap;margin-top:12px;min-height:20px;
+  }
+  .ia-box .ia-hint{font-size:12px;color:var(--text-faint);margin-top:10px;}
+  .primary-btn{
+    background:var(--copper);color:#191113;border:none;font-weight:500;
+    font-size:13.5px;padding:9px 16px;border-radius:var(--radius);cursor:pointer;
+    display:flex;align-items:center;gap:8px;transition:background .15s;
+  }
+  .primary-btn:hover{background:var(--copper-light);}
+  .primary-btn:disabled{opacity:0.5;cursor:default;}
+
+  /* dividend strip */
+  .div-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;}
+  .div-card{
+    background:var(--panel-raised);border-radius:var(--radius);padding:12px 14px;
+    border:0.5px solid var(--border);
+  }
+  .div-card .tk{font-family:var(--font-mono);font-size:13px;font-weight:500;margin:0 0 4px;}
+  .div-card .info{font-size:11.5px;color:var(--text-faint);margin:0;}
+  .div-card .amt{font-family:var(--font-mono);font-size:13px;color:var(--copper-light);margin-top:6px;}
+
+  footer.foot{
+    text-align:center;color:var(--text-faint);font-size:12px;padding:32px 0 0;
+    font-family:var(--font-mono);
+  }
+
+  /* ---------- Modal ---------- */
+  .modal-veil{
+    display:none;position:fixed;inset:0;background:rgba(10,12,13,0.6);
+    align-items:flex-start;justify-content:center;padding:8vh 20px;z-index:50;overflow-y:auto;
+  }
+  .modal-veil.open{display:flex;}
+  .modal{
+    background:var(--panel-raised);border:0.5px solid var(--border-strong);
+    border-radius:14px;padding:26px 28px;width:100%;max-width:440px;
+  }
+  .modal h3{font-family:var(--font-display);font-weight:500;font-size:19px;margin:0 0 18px;}
+  .field{margin-bottom:14px;}
+  .field label{display:block;font-size:12px;color:var(--text-dim);margin-bottom:6px;}
+  .field input,.field textarea{
+    width:100%;background:var(--bg-alt);border:0.5px solid var(--border-strong);
+    color:var(--text);border-radius:8px;padding:9px 11px;font-size:13.5px;
+  }
+  .field input:focus,.field textarea:focus{border-color:var(--copper);}
+  .field small{display:block;color:var(--text-faint);font-size:11px;margin-top:5px;}
+  .field-row{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+  .modal-actions{display:flex;justify-content:flex-end;gap:10px;margin-top:20px;}
+  .check-row{display:flex;align-items:center;gap:8px;margin-bottom:14px;}
+  .check-row input{width:auto;}
+  .check-row label{font-size:13px;color:var(--text-dim);margin:0;}
+  .modal hr{border:none;border-top:0.5px solid var(--border);margin:18px 0;}
+  .danger-link{color:var(--red);font-size:12.5px;background:none;border:none;cursor:pointer;padding:0;}
+
+  /* toast */
+  #toast{
+    position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(20px);
+    background:var(--panel-raised);border:0.5px solid var(--border-strong);color:var(--text);
+    padding:10px 18px;border-radius:var(--radius);font-size:13px;
+    opacity:0;transition:opacity .2s,transform .2s;pointer-events:none;z-index:100;
+  }
+  #toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
+
+  @media (max-width:860px){
+    .main-grid{grid-template-columns:1fr;}
+    .kpi-grid{grid-template-columns:repeat(2,1fr);}
+    .div-grid{grid-template-columns:repeat(2,1fr);}
+    .wl-head span:nth-child(2),.wl-row .wl-px{display:none;}
+    .field-row{grid-template-columns:1fr;}
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <span class="mark">CO<span>BRE</span></span>
+      <span class="tag">bolsa de santiago</span>
+    </div>
+    <div class="top-actions">
+      <span class="updated" id="updated-label"><i class="ti ti-clock"></i>—</span>
+      <button class="icon-btn" id="btn-settings" aria-label="Ajustes"><i class="ti ti-settings"></i></button>
+    </div>
+  </header>
+</div>
+
+<div class="ticker-shell">
+  <div class="ticker-track" id="ticker-track"></div>
+</div>
+
+<div class="wrap">
+
+  <div class="kpi-grid" id="kpi-grid"></div>
+
+  <div class="main-grid">
+    <section class="panel">
+      <div class="section-head">
+        <h2><i class="ti ti-chart-candle"></i>Watchlist</h2>
+        <button class="ghost-btn" id="btn-add-stock"><i class="ti ti-plus"></i>Agregar</button>
+      </div>
+      <div class="wl-head">
+        <span>acción</span><span>precio</span><span>var</span><span>valorización</span><span></span>
+      </div>
+      <div id="wl-body"></div>
+    </section>
+
+    <aside class="side-stack">
+      <div class="panel ia-box">
+        <div class="section-head">
+          <h2><i class="ti ti-sparkles"></i>Análisis con IA</h2>
+        </div>
+        <button class="primary-btn" id="btn-ia"><i class="ti ti-bolt"></i>Analizar con IA</button>
+        <div class="ia-result" id="ia-result"></div>
+        <p class="ia-hint">Usa tu propia clave de Gemini, configurada en Ajustes. Nunca es asesoría financiera formal.</p>
+      </div>
+
+      <div class="panel">
+        <div class="section-head">
+          <h2><i class="ti ti-news"></i>Notas de mercado</h2>
+          <button class="ghost-btn" id="btn-add-note"><i class="ti ti-plus"></i></button>
+        </div>
+        <div id="notes-body"></div>
+      </div>
+    </aside>
+  </div>
+
+  <section class="panel">
+    <div class="section-head">
+      <h2><i class="ti ti-calendar-event"></i>Próximos dividendos</h2>
+      <button class="ghost-btn" id="btn-add-div"><i class="ti ti-plus"></i>Agregar</button>
+    </div>
+    <div class="div-grid" id="div-grid"></div>
+  </section>
+
+  <footer class="foot">cobre — precios y macro vía robot automático · watchlist y ajustes guardados en este navegador · fase 2</footer>
+</div>
+
+<!-- Modal: agregar/editar acción -->
+<div class="modal-veil" id="modal-stock">
+  <div class="modal">
+    <h3 id="stock-modal-title">Agregar acción</h3>
+    <input type="hidden" id="stock-id">
+    <div class="field-row">
+      <div class="field">
+        <label for="stock-ticker">Ticker</label>
+        <input id="stock-ticker" placeholder="COPEC" style="text-transform:uppercase;">
+      </div>
+      <div class="field">
+        <label for="stock-empresa">Empresa</label>
+        <input id="stock-empresa" placeholder="Empresas Copec">
+      </div>
+    </div>
+    <div class="field-row">
+      <div class="field">
+        <label for="stock-precio">Precio actual (CLP)</label>
+        <input id="stock-precio" type="number" step="0.01" placeholder="7180">
+      </div>
+      <div class="field">
+        <label for="stock-anterior">Precio día anterior</label>
+        <input id="stock-anterior" type="number" step="0.01" placeholder="7095">
+      </div>
+    </div>
+    <div class="field">
+      <label for="stock-objetivo">Precio objetivo / valor justo</label>
+      <input id="stock-objetivo" type="number" step="0.01" placeholder="7500">
+      <small>El semáforo compara el precio actual contra este valor: más de 10% bajo = barata, ±10% = justa, más de 10% sobre = cara.</small>
+    </div>
+    <div class="check-row">
+      <input type="checkbox" id="stock-cartera">
+      <label for="stock-cartera">La tengo en cartera</label>
+    </div>
+    <div class="field" id="stock-cantidad-wrap" style="display:none;">
+      <label for="stock-cantidad">Cantidad de acciones</label>
+      <input id="stock-cantidad" type="number" step="1" placeholder="100">
+    </div>
+    <div class="modal-actions">
+      <button class="ghost-btn" onclick="closeModal('modal-stock')">Cancelar</button>
+      <button class="primary-btn" id="btn-save-stock">Guardar</button>
+    </div>
+  </div>
+</div>
+
+<!-- Modal: agregar dividendo -->
+<div class="modal-veil" id="modal-div">
+  <div class="modal">
+    <h3>Agregar dividendo</h3>
+    <input type="hidden" id="div-id">
+    <div class="field">
+      <label for="div-ticker">Ticker</label>
+      <input id="div-ticker" placeholder="COPEC" style="text-transform:uppercase;">
+    </div>
+    <div class="field-row">
+      <div class="field">
+        <label for="div-fecha">Fecha de pago</label>
+        <input id="div-fecha" type="date">
+      </div>
+      <div class="field">
+        <label for="div-monto">Monto por acción (CLP)</label>
+        <input id="div-monto" type="number" step="0.01" placeholder="185">
+      </div>
+    </div>
+    <div class="field">
+      <label for="div-cantidad">Cantidad de acciones (opcional)</label>
+      <input id="div-cantidad" type="number" step="1" placeholder="100">
+    </div>
+    <div class="modal-actions">
+      <button class="ghost-btn" onclick="closeModal('modal-div')">Cancelar</button>
+      <button class="primary-btn" id="btn-save-div">Guardar</button>
+    </div>
+  </div>
+</div>
+
+<!-- Modal: agregar nota -->
+<div class="modal-veil" id="modal-note">
+  <div class="modal">
+    <h3>Agregar nota de mercado</h3>
+    <input type="hidden" id="note-id">
+    <div class="field">
+      <label for="note-fuente">Fuente</label>
+      <input id="note-fuente" placeholder="DF, El Mercurio Inversiones, Bolsa de Santiago...">
+    </div>
+    <div class="field">
+      <label for="note-texto">Titular / resumen</label>
+      <textarea id="note-texto" rows="3" placeholder="Resume la noticia en tus palabras"></textarea>
+    </div>
+    <div class="field">
+      <label for="note-link">Enlace (opcional)</label>
+      <input id="note-link" placeholder="https://...">
+    </div>
+    <div class="modal-actions">
+      <button class="ghost-btn" onclick="closeModal('modal-note')">Cancelar</button>
+      <button class="primary-btn" id="btn-save-note">Guardar</button>
+    </div>
+  </div>
+</div>
+
+<!-- Modal: ajustes -->
+<div class="modal-veil" id="modal-settings">
+  <div class="modal">
+    <h3>Ajustes</h3>
+    <div class="field">
+      <label for="set-apikey">Clave de API de Gemini</label>
+      <input id="set-apikey" type="password" placeholder="AIza...">
+      <small>Se guarda solo en este navegador, nunca se sube a ningún repositorio. Consíguela gratis en aistudio.google.com — sin tarjeta de crédito.</small>
+    </div>
+    <div class="field">
+      <label for="set-model">Modelo</label>
+      <input id="set-model" placeholder="gemini-flash-latest">
+      <small>Si este modelo deja de estar disponible gratis, revisa aistudio.google.com/apikey para ver el nombre del modelo gratuito vigente y cámbialo aquí.</small>
+    </div>
+    <hr>
+    <div class="field-row">
+      <button class="ghost-btn" id="btn-export"><i class="ti ti-download"></i> Exportar respaldo</button>
+      <button class="ghost-btn" id="btn-import-trigger"><i class="ti ti-upload"></i> Importar respaldo</button>
+    </div>
+    <input type="file" id="import-file" accept="application/json" style="display:none;">
+    <hr>
+    <button class="danger-link" id="btn-reset">Borrar todos los datos de este navegador</button>
+    <div class="modal-actions">
+      <button class="primary-btn" onclick="closeModal('modal-settings')">Listo</button>
+    </div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<script>
+/* ========== almacenamiento ========== */
+const KEYS = {
+  watchlist:'cobre_watchlist',
+  dividends:'cobre_dividends',
+  notes:'cobre_notes',
+  macro:'cobre_macro',
+  settings:'cobre_settings',
+  updated:'cobre_updated'
+};
+
+function load(key, fallback){
+  try{
+    const raw = localStorage.getItem(key);
+    return raw ? JSON.parse(raw) : fallback;
+  }catch(e){ return fallback; }
+}
+function save(key, val){
+  localStorage.setItem(key, JSON.stringify(val));
+  localStorage.setItem(KEYS.updated, new Date().toISOString());
+  renderUpdated();
+}
+function uid(){ return Math.random().toString(36).slice(2,9); }
+
+function seedIfEmpty(){
+  if(localStorage.getItem(KEYS.watchlist) === null){
+    save(KEYS.watchlist, [
+      {id:uid(), ticker:'COPEC', empresa:'Empresas Copec', precio:7180, anterior:7095, objetivo:7500, enCartera:true, cantidad:120},
+      {id:uid(), ticker:'SQM-B', empresa:'SQM', precio:41900, anterior:42150, objetivo:40000, enCartera:false, cantidad:0},
+      {id:uid(), ticker:'FALABELLA', empresa:'Falabella', precio:2340, anterior:2276, objetivo:2100, enCartera:true, cantidad:300},
+      {id:uid(), ticker:'BSANTANDER', empresa:'Banco Santander Chile', precio:41.2, anterior:41.0, objetivo:46, enCartera:false, cantidad:0}
+    ]);
+  }
+  if(localStorage.getItem(KEYS.dividends) === null){
+    const d = new Date(); const iso = (days)=>{ const x=new Date(d); x.setDate(x.getDate()+days); return x.toISOString().slice(0,10); };
+    save(KEYS.dividends, [
+      {id:uid(), ticker:'COPEC', fecha:iso(6), monto:185, cantidad:120},
+      {id:uid(), ticker:'BSANTANDER', fecha:iso(11), monto:2.1, cantidad:0},
+      {id:uid(), ticker:'CCU', fecha:iso(19), monto:410, cantidad:0}
+    ]);
+  }
+  if(localStorage.getItem(KEYS.notes) === null){
+    save(KEYS.notes, [
+      {id:uid(), fuente:'DF', texto:'Cobre sube tras datos de inventarios en China.', fecha:'hoy', link:''},
+      {id:uid(), fuente:'El Mercurio Inversiones', texto:'Retail chileno reporta resultados sobre lo esperado.', fecha:'hoy', link:''},
+      {id:uid(), fuente:'Bolsa de Santiago', texto:'IPSA cierra la jornada con volumen sobre el promedio.', fecha:'ayer', link:''}
+    ]);
+  }
+  if(localStorage.getItem(KEYS.macro) === null){
+    save(KEYS.macro, {ipsa:7412, ipsaChg:0.8, dolar:968, dolarChg:-0.3, uf:39012});
+  }
+  if(localStorage.getItem(KEYS.settings) === null){
+    save(KEYS.settings, {apiKey:'', model:'gemini-flash-latest'});
+  }
+}
+
+/* ========== semáforo ========== */
+function semaforo(stock){
+  if(!stock.objetivo || stock.objetivo <= 0) return {label:'sin objetivo', cls:'flat'};
+  const ratio = stock.precio / stock.objetivo;
+  if(ratio <= 0.9) return {label:'barata', cls:'barata'};
+  if(ratio >= 1.1) return {label:'cara', cls:'cara'};
+  return {label:'justa', cls:'justa'};
+}
+function pctChange(precio, anterior){
+  if(!anterior) return null;
+  return ((precio - anterior) / anterior) * 100;
+}
+function fmtCLP(n){
+  return '$' + Number(n).toLocaleString('es-CL', {maximumFractionDigits: n % 1 === 0 ? 0 : 1});
+}
+function fmtPct(n){
+  const sign = n > 0 ? '+' : '';
+  return sign + n.toFixed(1) + '%';
+}
+
+/* ========== render ========== */
+function renderUpdated(){
+  const iso = localStorage.getItem(KEYS.updated);
+  const el = document.getElementById('updated-label');
+  if(!iso){ el.innerHTML = '<i class="ti ti-clock"></i>sin datos aún'; return; }
+  const d = new Date(iso);
+  const hh = String(d.getHours()).padStart(2,'0');
+  const mm = String(d.getMinutes()).padStart(2,'0');
+  el.innerHTML = '<i class="ti ti-clock"></i>actualizado ' + hh + ':' + mm;
+}
+
+function renderTicker(){
+  const wl = load(KEYS.watchlist, []);
+  const track = document.getElementById('ticker-track');
+  if(wl.length === 0){ track.innerHTML = '<div class="ticker-item"><span class="tk">agrega acciones a tu watchlist</span></div>'; return; }
+  const build = () => wl.map(s => {
+    const chg = pctChange(s.precio, s.anterior);
+    const chgCls = chg === null ? 'flat' : (chg > 0 ? 'up' : chg < 0 ? 'down' : 'flat');
+    const chgTxt = chg === null ? '—' : fmtPct(chg);
+    return `<div class="ticker-item"><span class="tk">${s.ticker}</span><span class="px">${fmtCLP(s.precio)}</span><span class="chg ${chgCls}">${chgTxt}</span></div>`;
+  }).join('');
+  track.innerHTML = build() + build(); // duplicado para el loop continuo
+}
+
+function renderKpis(){
+  const macro = load(KEYS.macro, {});
+  const wl = load(KEYS.watchlist, []);
+  const portfolioValue = wl.filter(s=>s.enCartera).reduce((sum,s)=> sum + (s.precio * (s.cantidad||0)), 0);
+  const grid = document.getElementById('kpi-grid');
+  grid.innerHTML = `
+    <div class="kpi">
+      <p class="lbl">IPSA</p>
+      <input class="val" id="kpi-ipsa" value="${macro.ipsa ?? ''}">
+      <p class="sub ${macro.ipsaChg>0?'up':macro.ipsaChg<0?'down':'flat'}" id="kpi-ipsa-chg-lbl">${macro.ipsaChg!=null?fmtPct(macro.ipsaChg):'—'}</p>
+    </div>
+    <div class="kpi">
+      <p class="lbl">Dólar (CLP)</p>
+      <input class="val" id="kpi-dolar" value="${macro.dolar ?? ''}">
+      <p class="sub ${macro.dolarChg>0?'up':macro.dolarChg<0?'down':'flat'}">${macro.dolarChg!=null?fmtPct(macro.dolarChg):'—'}</p>
+    </div>
+    <div class="kpi">
+      <p class="lbl">UF</p>
+      <input class="val" id="kpi-uf" value="${macro.uf ?? ''}">
+      <p class="sub flat">hoy</p>
+    </div>
+    <div class="kpi">
+      <p class="lbl">Mi portafolio</p>
+      <p class="val" style="cursor:default;">${fmtCLP(portfolioValue)}</p>
+      <p class="sub flat">${wl.filter(s=>s.enCartera).length} posiciones</p>
+    </div>
+  `;
+  ['kpi-ipsa','kpi-dolar','kpi-uf'].forEach(id=>{
+    document.getElementById(id).addEventListener('change', (e)=>{
+      const m = load(KEYS.macro, {});
+      if(id==='kpi-ipsa') m.ipsa = Number(e.target.value);
+      if(id==='kpi-dolar') m.dolar = Number(e.target.value);
+      if(id==='kpi-uf') m.uf = Number(e.target.value);
+      save(KEYS.macro, m);
+    });
+  });
+}
+
+function renderWatchlist(){
+  const wl = load(KEYS.watchlist, []);
+  const body = document.getElementById('wl-body');
+  if(wl.length === 0){ body.innerHTML = '<div class="empty">Sin acciones todavía. Agrega la primera con el botón de arriba.</div>'; return; }
+  body.innerHTML = wl.map(s=>{
+    const sem = semaforo(s);
+    const chg = pctChange(s.precio, s.anterior);
+    const chgCls = chg === null ? 'flat' : (chg > 0 ? 'up' : chg < 0 ? 'down' : 'flat');
+    const chgTxt = chg === null ? '—' : fmtPct(chg);
+    return `
+    <div class="wl-row">
+      <div class="wl-tk"><b>${s.ticker}</b><small>${s.empresa || ''}</small></div>
+      <div class="wl-px">${fmtCLP(s.precio)}</div>
+      <div class="wl-chg ${chgCls}">${chgTxt}</div>
+      <div class="badge ${sem.cls}"><span class="dot"></span>${sem.label}</div>
+      <div class="row-actions">
+        <i class="ti ti-edit" onclick="editStock('${s.id}')" title="Editar"></i>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function renderNotes(){
+  const notes = load(KEYS.notes, []);
+  const body = document.getElementById('notes-body');
+  if(notes.length === 0){ body.innerHTML = '<div class="empty">Sin notas todavía.</div>'; return; }
+  body.innerHTML = notes.slice().reverse().map(n=>`
+    <div class="note-item">
+      <div class="note-meta"><span class="src-tag">${n.fuente}</span><span class="note-date">${n.fecha}</span></div>
+      <p class="note-text">${n.link ? `<a href="${n.link}" target="_blank" rel="noopener">${n.texto}</a>` : n.texto}</p>
+    </div>
+  `).join('');
+}
+
+function renderDividends(){
+  const divs = load(KEYS.dividends, []).slice().sort((a,b)=> new Date(a.fecha) - new Date(b.fecha));
+  const grid = document.getElementById('div-grid');
+  if(divs.length === 0){ grid.innerHTML = '<div class="empty">Sin dividendos programados.</div>'; return; }
+  grid.innerHTML = divs.map(d=>{
+    const total = d.cantidad ? d.monto * d.cantidad : null;
+    const fecha = new Date(d.fecha + 'T00:00:00');
+    const fechaFmt = fecha.toLocaleDateString('es-CL', {day:'2-digit', month:'short'});
+    return `
+    <div class="div-card">
+      <p class="tk">${d.ticker}</p>
+      <p class="info">${fechaFmt} · ${fmtCLP(d.monto)}/acción</p>
+      ${total ? `<p class="amt">${fmtCLP(total)} total</p>` : ''}
+    </div>`;
+  }).join('');
+}
+
+function renderAll(){
+  renderUpdated();
+  renderTicker();
+  renderKpis();
+  renderWatchlist();
+  renderNotes();
+  renderDividends();
+}
+
+/* ========== modales ========== */
+function openModal(id){ document.getElementById(id).classList.add('open'); }
+function closeModal(id){ document.getElementById(id).classList.remove('open'); }
+
+function openAddStock(){
+  document.getElementById('stock-modal-title').textContent = 'Agregar acción';
+  document.getElementById('stock-id').value = '';
+  ['stock-ticker','stock-empresa','stock-precio','stock-anterior','stock-objetivo','stock-cantidad'].forEach(id=> document.getElementById(id).value='');
+  document.getElementById('stock-cartera').checked = false;
+  document.getElementById('stock-cantidad-wrap').style.display = 'none';
+  openModal('modal-stock');
+}
+function editStock(id){
+  const wl = load(KEYS.watchlist, []);
+  const s = wl.find(x=>x.id===id);
+  if(!s) return;
+  document.getElementById('stock-modal-title').textContent = 'Editar acción';
+  document.getElementById('stock-id').value = s.id;
+  document.getElementById('stock-ticker').value = s.ticker;
+  document.getElementById('stock-empresa').value = s.empresa || '';
+  document.getElementById('stock-precio').value = s.precio;
+  document.getElementById('stock-anterior').value = s.anterior || '';
+  document.getElementById('stock-objetivo').value = s.objetivo || '';
+  document.getElementById('stock-cartera').checked = !!s.enCartera;
+  document.getElementById('stock-cantidad').value = s.cantidad || '';
+  document.getElementById('stock-cantidad-wrap').style.display = s.enCartera ? 'block' : 'none';
+  openModal('modal-stock');
+}
+document.getElementById('stock-cartera').addEventListener('change', (e)=>{
+  document.getElementById('stock-cantidad-wrap').style.display = e.target.checked ? 'block' : 'none';
+});
+document.getElementById('btn-add-stock').addEventListener('click', openAddStock);
+document.getElementById('btn-save-stock').addEventListener('click', ()=>{
+  const id = document.getElementById('stock-id').value || uid();
+  const ticker = document.getElementById('stock-ticker').value.trim().toUpperCase();
+  if(!ticker){ toast('Ingresa un ticker'); return; }
+  const stock = {
+    id,
+    ticker,
+    empresa: document.getElementById('stock-empresa').value.trim(),
+    precio: Number(document.getElementById('stock-precio').value) || 0,
+    anterior: Number(document.getElementById('stock-anterior').value) || 0,
+    objetivo: Number(document.getElementById('stock-objetivo').value) || 0,
+    enCartera: document.getElementById('stock-cartera').checked,
+    cantidad: Number(document.getElementById('stock-cantidad').value) || 0
+  };
+  let wl = load(KEYS.watchlist, []);
+  const idx = wl.findIndex(x=>x.id===id);
+  if(idx >= 0) wl[idx] = stock; else wl.push(stock);
+  save(KEYS.watchlist, wl);
+  closeModal('modal-stock');
+  renderAll();
+  toast('Acción guardada');
+});
+
+document.getElementById('btn-add-div').addEventListener('click', ()=>{
+  ['div-id','div-ticker','div-fecha','div-monto','div-cantidad'].forEach(id=> document.getElementById(id).value='');
+  openModal('modal-div');
+});
+document.getElementById('btn-save-div').addEventListener('click', ()=>{
+  const ticker = document.getElementById('div-ticker').value.trim().toUpperCase();
+  const fecha = document.getElementById('div-fecha').value;
+  if(!ticker || !fecha){ toast('Ingresa ticker y fecha'); return; }
+  const id = document.getElementById('div-id').value || uid();
+  const entry = {
+    id, ticker, fecha,
+    monto: Number(document.getElementById('div-monto').value) || 0,
+    cantidad: Number(document.getElementById('div-cantidad').value) || 0
+  };
+  let divs = load(KEYS.dividends, []);
+  const idx = divs.findIndex(x=>x.id===id);
+  if(idx >= 0) divs[idx] = entry; else divs.push(entry);
+  save(KEYS.dividends, divs);
+  closeModal('modal-div');
+  renderAll();
+  toast('Dividendo guardado');
+});
+
+document.getElementById('btn-add-note').addEventListener('click', ()=>{
+  ['note-id','note-fuente','note-texto','note-link'].forEach(id=> document.getElementById(id).value='');
+  openModal('modal-note');
+});
+document.getElementById('btn-save-note').addEventListener('click', ()=>{
+  const texto = document.getElementById('note-texto').value.trim();
+  if(!texto){ toast('Escribe un resumen'); return; }
+  const id = document.getElementById('note-id').value || uid();
+  const entry = {
+    id,
+    fuente: document.getElementById('note-fuente').value.trim() || 'General',
+    texto,
+    link: document.getElementById('note-link').value.trim(),
+    fecha: 'hoy'
+  };
+  let notes = load(KEYS.notes, []);
+  const idx = notes.findIndex(x=>x.id===id);
+  if(idx >= 0) notes[idx] = entry; else notes.push(entry);
+  save(KEYS.notes, notes);
+  closeModal('modal-note');
+  renderAll();
+  toast('Nota guardada');
+});
+
+/* ========== ajustes ========== */
+document.getElementById('btn-settings').addEventListener('click', ()=>{
+  const s = load(KEYS.settings, {apiKey:'', model:'gemini-flash-latest'});
+  document.getElementById('set-apikey').value = s.apiKey || '';
+  document.getElementById('set-model').value = s.model || 'gemini-flash-latest';
+  openModal('modal-settings');
+});
+['set-apikey','set-model'].forEach(id=>{
+  document.getElementById(id).addEventListener('change', ()=>{
+    save(KEYS.settings, {
+      apiKey: document.getElementById('set-apikey').value.trim(),
+      model: document.getElementById('set-model').value.trim() || 'gemini-flash-latest'
+    });
+  });
+});
+
+document.getElementById('btn-export').addEventListener('click', ()=>{
+  const backup = {
+    watchlist: load(KEYS.watchlist, []),
+    dividends: load(KEYS.dividends, []),
+    notes: load(KEYS.notes, []),
+    macro: load(KEYS.macro, {}),
+    exportedAt: new Date().toISOString()
+  };
+  const blob = new Blob([JSON.stringify(backup, null, 2)], {type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'cobre-respaldo-' + new Date().toISOString().slice(0,10) + '.json';
+  a.click();
+  toast('Respaldo descargado');
+});
+document.getElementById('btn-import-trigger').addEventListener('click', ()=> document.getElementById('import-file').click());
+document.getElementById('import-file').addEventListener('change', (e)=>{
+  const file = e.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = (ev)=>{
+    try{
+      const data = JSON.parse(ev.target.result);
+      if(data.watchlist) save(KEYS.watchlist, data.watchlist);
+      if(data.dividends) save(KEYS.dividends, data.dividends);
+      if(data.notes) save(KEYS.notes, data.notes);
+      if(data.macro) save(KEYS.macro, data.macro);
+      renderAll();
+      toast('Respaldo importado');
+    }catch(err){
+      toast('El archivo no es un respaldo válido');
+    }
+  };
+  reader.readAsText(file);
+});
+document.getElementById('btn-reset').addEventListener('click', ()=>{
+  if(!confirm('Esto borra todos los datos guardados en este navegador. ¿Continuar?')) return;
+  Object.values(KEYS).forEach(k=> localStorage.removeItem(k));
+  seedIfEmpty();
+  renderAll();
+  closeModal('modal-settings');
+  toast('Datos borrados y restablecidos');
+});
+
+/* ========== análisis con IA (Gemini) ========== */
+document.getElementById('btn-ia').addEventListener('click', async ()=>{
+  const settings = load(KEYS.settings, {});
+  if(!settings.apiKey){
+    toast('Agrega tu clave de Gemini en Ajustes primero');
+    document.getElementById('btn-settings').click();
+    return;
+  }
+  const btn = document.getElementById('btn-ia');
+  const resultEl = document.getElementById('ia-result');
+  btn.disabled = true;
+  btn.innerHTML = '<i class="ti ti-loader-2"></i>Analizando...';
+  resultEl.textContent = '';
+
+  const wl = load(KEYS.watchlist, []);
+  const macro = load(KEYS.macro, {});
+  const notes = load(KEYS.notes, []).slice(-4);
+
+  const resumenAcciones = wl.map(s=>{
+    const sem = semaforo(s);
+    return `${s.ticker} (${s.empresa}): precio ${s.precio}, objetivo ${s.objetivo || 'sin definir'}, estado ${sem.label}${s.enCartera ? ', en cartera x'+s.cantidad : ''}`;
+  }).join('\n');
+  const resumenNotas = notes.map(n=> `- [${n.fuente}] ${n.texto}`).join('\n');
+
+  const prompt = `Eres un asistente de análisis para un inversionista chileno enfocado en dividendos que invierte en la Bolsa de Santiago.
+
+Watchlist actual:
+${resumenAcciones || 'vacía'}
+
+Contexto macro: IPSA ${macro.ipsa}, dólar ${macro.dolar} CLP, UF ${macro.uf}.
+
+Notas de mercado recientes:
+${resumenNotas || 'sin notas recientes'}
+
+Escribe un resumen breve en español (máximo 150 palabras), tono profesional y cercano, que:
+1. Destaque qué acciones están en mejor punto de entrada según su semáforo de valorización.
+2. Mencione brevemente cualquier riesgo o contexto macro relevante.
+3. Sugiera un próximo paso concreto.
+Aclara al final, en una frase corta, que esto es apoyo informativo y no asesoría financiera formal.`;
+
+  try{
+    const model = settings.model || 'gemini-flash-latest';
+    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+      method:'POST',
+      headers:{
+        'Content-Type':'application/json',
+        'x-goog-api-key': settings.apiKey
+      },
+      body: JSON.stringify({ contents:[{ role:'user', parts:[{ text: prompt }] }] })
+    });
+    if(!res.ok){
+      const errData = await res.json().catch(()=>({}));
+      throw new Error(errData?.error?.message || `Error ${res.status}`);
+    }
+    const data = await res.json();
+    const texto = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+    resultEl.textContent = texto || 'No se recibió respuesta del modelo.';
+  }catch(err){
+    resultEl.textContent = 'No se pudo completar el análisis: ' + err.message + '. Revisa tu clave y el nombre del modelo en Ajustes.';
+  }finally{
+    btn.disabled = false;
+    btn.innerHTML = '<i class="ti ti-bolt"></i>Analizar con IA';
+  }
+});
+
+/* ========== sincronización con el robot de GitHub Actions ========== */
+async function sincronizarConRobot(){
+  try{
+    const res = await fetch('./data/mercado.json', {cache:'no-store'});
+    if(!res.ok) return false;
+    const remoto = await res.json();
+
+    if(remoto.macro){
+      const macro = load(KEYS.macro, {});
+      Object.assign(macro, remoto.macro);
+      localStorage.setItem(KEYS.macro, JSON.stringify(macro));
+    }
+
+    if(remoto.acciones){
+      let wl = load(KEYS.watchlist, []);
+      wl = wl.map(s=>{
+        const datos = remoto.acciones[s.ticker];
+        if(datos && datos.precio != null){
+          return {...s, precio: datos.precio, anterior: datos.anterior ?? s.anterior};
+        }
+        return s;
+      });
+      localStorage.setItem(KEYS.watchlist, JSON.stringify(wl));
+    }
+
+    if(remoto.actualizado){
+      localStorage.setItem(KEYS.updated, remoto.actualizado);
+    }
+    return true;
+  }catch(e){
+    // Sin datos del robot todavía (primera vez, o abriendo el archivo localmente sin servidor).
+    console.warn('Sin datos del robot por ahora:', e.message);
+    return false;
+  }
+}
+
+/* ========== toast ========== */
+let toastTimer;
+function toast(msg){
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(()=> el.classList.remove('show'), 2600);
+}
+
+/* ========== cerrar modal al click en el velo ========== */
+document.querySelectorAll('.modal-veil').forEach(veil=>{
+  veil.addEventListener('click', (e)=>{ if(e.target === veil) veil.classList.remove('open'); });
+});
+
+/* ========== init ========== */
+seedIfEmpty();
+renderAll();
+sincronizarConRobot().then((huboDatos)=>{ if(huboDatos) renderAll(); });
+</script>
+</body>
+</html>
