@@ -155,7 +155,8 @@
   .wl-row{padding:12px 0;border-bottom:0.5px solid var(--border);}
   .wl-row:last-child{border-bottom:none;}
   .wl-tk{display:flex;flex-direction:column;}
-  .wl-tk b{font-family:var(--font-mono);font-size:13.5px;font-weight:500;}
+  .wl-tk b{font-family:var(--font-mono);font-size:13.5px;font-weight:500;cursor:pointer;}
+  .wl-tk b:hover{color:var(--copper-light);text-decoration:underline;}
   .wl-tk small{color:var(--text-faint);font-size:11.5px;}
   .wl-px,.wl-chg{font-family:var(--font-mono);font-size:13px;text-align:right;}
   .wl-chg.up{color:var(--green);}
@@ -179,6 +180,11 @@
   .row-actions i:hover{color:var(--copper-light);}
   .row-actions i.danger:hover{color:var(--red);}
   .empty{color:var(--text-faint);font-size:13px;padding:20px 0;text-align:center;}
+  .mini-input{
+    background:var(--bg-alt);border:0.5px solid rgba(237,234,226,0.22);color:var(--text);
+    border-radius:8px;padding:7px 10px;font-size:12.5px;
+  }
+  .mini-input:focus{border-color:var(--copper);}
 
   /* side panels */
   .side-stack{display:flex;flex-direction:column;gap:20px;}
@@ -304,6 +310,22 @@
           <button class="ghost-btn" id="btn-add-stock"><i class="ti ti-plus"></i>Agregar</button>
         </div>
       </div>
+      <div style="display:flex;gap:8px;margin:0 0 14px;flex-wrap:wrap;">
+        <input type="text" id="wl-search" class="mini-input" placeholder="Buscar ticker o empresa..." style="flex:1;min-width:150px;">
+        <select id="wl-filter" class="mini-input">
+          <option value="todas">Todas</option>
+          <option value="cartera">En cartera</option>
+          <option value="barata">Baratas</option>
+          <option value="justa">Justas</option>
+          <option value="cara">Caras</option>
+          <option value="flat">Sin objetivo</option>
+        </select>
+        <select id="wl-sort" class="mini-input">
+          <option value="semaforo">Orden: semáforo</option>
+          <option value="descuento">Orden: % vs objetivo</option>
+          <option value="ticker">Orden: ticker</option>
+        </select>
+      </div>
       <div class="wl-head">
         <span>acción</span><span>precio</span><span>var</span><span>valorización</span><span></span>
       </div>
@@ -369,6 +391,10 @@
     <div class="field">
       <label for="stock-objetivo">Precio objetivo / valor justo</label>
       <input id="stock-objetivo" type="number" step="0.01" placeholder="7500">
+      <div id="stock-rango52-box" style="display:none;margin-top:8px;align-items:center;gap:8px;flex-wrap:wrap;">
+        <span id="stock-rango52-txt" style="font-size:11.5px;color:var(--text-dim);"></span>
+        <button type="button" id="btn-usar-promedio52" class="ghost-btn" style="padding:3px 9px;font-size:11px;">Usar promedio</button>
+      </div>
       <small>El semáforo compara el precio actual contra este valor: más de 10% bajo = barata, ±10% = justa, más de 10% sobre = cara.</small>
     </div>
     <div class="check-row">
@@ -436,6 +462,19 @@
     <div class="modal-actions">
       <button class="ghost-btn" onclick="closeModal('modal-note')">Cancelar</button>
       <button class="primary-btn" id="btn-save-note">Guardar</button>
+    </div>
+  </div>
+</div>
+
+<!-- Modal: gráfico de historial -->
+<div class="modal-veil" id="modal-chart">
+  <div class="modal" style="max-width:520px;">
+    <h3 id="chart-title">Gráfico</h3>
+    <div id="chart-container" style="min-height:200px;display:flex;align-items:center;justify-content:center;text-align:center;">
+      <span style="color:var(--text-faint);font-size:13px;">Cargando...</span>
+    </div>
+    <div class="modal-actions">
+      <button class="ghost-btn" onclick="closeModal('modal-chart')">Cerrar</button>
     </div>
   </div>
 </div>
@@ -609,9 +648,34 @@ function renderKpis(){
 }
 
 function renderWatchlist(){
-  const wl = load(KEYS.watchlist, []);
+  const wlAll = load(KEYS.watchlist, []);
   const body = document.getElementById('wl-body');
-  if(wl.length === 0){ body.innerHTML = '<div class="empty">Sin acciones todavía. Agrega la primera con el botón de arriba.</div>'; return; }
+  if(wlAll.length === 0){ body.innerHTML = '<div class="empty">Sin acciones todavía. Agrega la primera con el botón de arriba.</div>'; return; }
+
+  const busqueda = (document.getElementById('wl-search').value || '').trim().toLowerCase();
+  const filtro = document.getElementById('wl-filter').value;
+  const orden = document.getElementById('wl-sort').value;
+
+  let wl = wlAll.filter(s=>{
+    if(busqueda && !(s.ticker.toLowerCase().includes(busqueda) || (s.empresa||'').toLowerCase().includes(busqueda))) return false;
+    if(filtro === 'cartera') return !!s.enCartera;
+    if(filtro !== 'todas') return semaforo(s).cls === filtro;
+    return true;
+  });
+
+  const ordenSemaforo = {barata:0, justa:1, cara:2, flat:3};
+  wl = wl.slice().sort((a,b)=>{
+    if(orden === 'ticker') return a.ticker.localeCompare(b.ticker);
+    if(orden === 'descuento'){
+      const da = a.objetivo ? (a.precio - a.objetivo)/a.objetivo : 999;
+      const db = b.objetivo ? (b.precio - b.objetivo)/b.objetivo : 999;
+      return da - db;
+    }
+    return ordenSemaforo[semaforo(a).cls] - ordenSemaforo[semaforo(b).cls];
+  });
+
+  if(wl.length === 0){ body.innerHTML = '<div class="empty">Sin resultados para ese filtro.</div>'; return; }
+
   body.innerHTML = wl.map(s=>{
     const sem = semaforo(s);
     const chg = pctChange(s.precio, s.anterior);
@@ -619,7 +683,7 @@ function renderWatchlist(){
     const chgTxt = chg === null ? '—' : fmtPct(chg);
     return `
     <div class="wl-row">
-      <div class="wl-tk"><b>${s.ticker}</b><small>${s.empresa || ''}</small></div>
+      <div class="wl-tk"><b onclick="abrirGrafico('${s.ticker}')" title="Ver gráfico">${s.ticker}</b><small>${s.empresa || ''}</small></div>
       <div class="wl-px">${fmtCLP(s.precio)}</div>
       <div class="wl-chg ${chgCls}">${chgTxt}</div>
       <div class="badge ${sem.cls}"><span class="dot"></span>${sem.label}</div>
@@ -630,6 +694,8 @@ function renderWatchlist(){
     </div>`;
   }).join('');
 }
+['wl-search'].forEach(id=> document.getElementById(id).addEventListener('input', renderWatchlist));
+['wl-filter','wl-sort'].forEach(id=> document.getElementById(id).addEventListener('change', renderWatchlist));
 
 function renderNotes(){
   const notes = load(KEYS.notes, []);
@@ -688,6 +754,7 @@ function openAddStock(){
   ['stock-ticker','stock-empresa','stock-precio','stock-anterior','stock-objetivo','stock-cantidad'].forEach(id=> document.getElementById(id).value='');
   document.getElementById('stock-cartera').checked = false;
   document.getElementById('stock-cantidad-wrap').style.display = 'none';
+  document.getElementById('stock-rango52-box').style.display = 'none';
   openModal('modal-stock');
 }
 function editStock(id){
@@ -704,6 +771,15 @@ function editStock(id){
   document.getElementById('stock-cartera').checked = !!s.enCartera;
   document.getElementById('stock-cantidad').value = s.cantidad || '';
   document.getElementById('stock-cantidad-wrap').style.display = s.enCartera ? 'block' : 'none';
+  const box = document.getElementById('stock-rango52-box');
+  if(s.alto52 && s.bajo52){
+    const promedio = (s.alto52 + s.bajo52) / 2;
+    document.getElementById('stock-rango52-txt').textContent = `Rango 52 sem: ${fmtCLP(s.bajo52)} – ${fmtCLP(s.alto52)} · promedio ${fmtCLP(promedio)}`;
+    document.getElementById('btn-usar-promedio52').onclick = ()=>{ document.getElementById('stock-objetivo').value = promedio.toFixed(2); };
+    box.style.display = 'flex';
+  } else {
+    box.style.display = 'none';
+  }
   openModal('modal-stock');
 }
 document.getElementById('stock-cartera').addEventListener('change', (e)=>{
@@ -969,7 +1045,7 @@ async function sincronizarConRobot(){
       wl = wl.map(s=>{
         const datos = remoto.acciones[s.ticker];
         if(datos && datos.precio != null){
-          return {...s, precio: datos.precio, anterior: datos.anterior ?? s.anterior};
+          return {...s, precio: datos.precio, anterior: datos.anterior ?? s.anterior, alto52: datos.alto52 ?? s.alto52, bajo52: datos.bajo52 ?? s.bajo52};
         }
         return s;
       });
@@ -1022,6 +1098,56 @@ document.getElementById('btn-load-ipsa').addEventListener('click', ()=>{
   renderAll();
   toast(agregadas > 0 ? `${agregadas} acciones agregadas. Corre el robot para traer sus precios.` : 'Ya tenías cargadas todas las del IPSA');
 });
+
+/* ========== gráfico de historial ========== */
+let historialCache = null;
+async function abrirGrafico(ticker){
+  document.getElementById('chart-title').textContent = ticker;
+  const container = document.getElementById('chart-container');
+  container.innerHTML = '<span style="color:var(--text-faint);font-size:13px;">Cargando...</span>';
+  openModal('modal-chart');
+  try{
+    if(!historialCache){
+      const res = await fetch('./data/historial.json', {cache:'no-store'});
+      if(!res.ok) throw new Error('no disponible');
+      historialCache = await res.json();
+    }
+    const serie = historialCache[ticker];
+    if(!serie || Object.keys(serie).length < 2){
+      container.innerHTML = '<span style="color:var(--text-faint);font-size:13px;">Todavía no hay suficiente historial para esta acción. El robot guarda un dato por día, así que esto se va a ir llenando solo.</span>';
+      return;
+    }
+    container.innerHTML = dibujarGrafico(serie);
+  }catch(e){
+    container.innerHTML = '<span style="color:var(--text-faint);font-size:13px;">No se pudo cargar el historial todavía.</span>';
+  }
+}
+
+function dibujarGrafico(serie){
+  const fechas = Object.keys(serie).sort();
+  const precios = fechas.map(f=>serie[f]);
+  const w = 460, h = 180, pad = 34;
+  const min = Math.min(...precios), max = Math.max(...precios);
+  const rango = (max - min) || 1;
+  const puntos = precios.map((p,i)=>{
+    const x = pad + (i/(precios.length-1)) * (w - pad*2);
+    const y = h - pad + 6 - ((p - min)/rango) * (h - pad*2);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  const ultimoPrecio = precios[precios.length-1];
+  const primerFecha = new Date(fechas[0]+'T00:00:00').toLocaleDateString('es-CL',{day:'2-digit',month:'short'});
+  const ultimaFecha = new Date(fechas[fechas.length-1]+'T00:00:00').toLocaleDateString('es-CL',{day:'2-digit',month:'short'});
+  return `
+    <svg viewBox="0 0 ${w} ${h}" style="width:100%;height:auto;">
+      <polyline points="${puntos}" fill="none" stroke="var(--copper)" stroke-width="2"/>
+      <text x="${pad}" y="16" font-size="10" fill="var(--text-faint)" font-family="monospace">máx ${fmtCLP(max)}</text>
+      <text x="${w-pad}" y="${h-pad+18}" font-size="10" fill="var(--text-faint)" font-family="monospace" text-anchor="end">mín ${fmtCLP(min)}</text>
+      <text x="${pad}" y="${h-8}" font-size="10" fill="var(--text-faint)" font-family="monospace">${primerFecha}</text>
+      <text x="${w-pad}" y="${h-8}" font-size="10" fill="var(--text-faint)" font-family="monospace" text-anchor="end">${ultimaFecha}</text>
+    </svg>
+    <p style="text-align:center;font-family:var(--font-mono);font-size:13px;color:var(--text);margin-top:8px;">Último: ${fmtCLP(ultimoPrecio)} · ${fechas.length} días registrados</p>
+  `;
+}
 
 /* ========== toast ========== */
 let toastTimer;

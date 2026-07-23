@@ -70,7 +70,7 @@ def obtener_mindicador():
 
 
 def obtener_precio_yahoo(ticker_yahoo):
-    """Consulta precio actual y cierre anterior de un ticker vía el endpoint de gráficos de Yahoo Finance."""
+    """Consulta precio actual, cierre anterior y rango de 52 semanas de un ticker."""
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker_yahoo}"
     try:
         r = requests.get(url, headers=HEADERS_YAHOO, params={"interval": "1d", "range": "5d"}, timeout=15)
@@ -79,10 +79,36 @@ def obtener_precio_yahoo(ticker_yahoo):
         meta = result["meta"]
         precio = meta.get("regularMarketPrice")
         anterior = meta.get("previousClose") or meta.get("chartPreviousClose")
-        return precio, anterior
+        alto52 = meta.get("fiftyTwoWeekHigh")
+        bajo52 = meta.get("fiftyTwoWeekLow")
+        return precio, anterior, alto52, bajo52
     except Exception as e:
         print(f"Aviso: no se pudo obtener {ticker_yahoo} -> {e}")
-        return None, None
+        return None, None, None, None
+
+
+def actualizar_historial(acciones):
+    """Guarda un punto de precio por día por acción, para poder graficar la evolución."""
+    ruta_historial = os.path.join(os.path.dirname(__file__), "..", "data", "historial.json")
+    try:
+        with open(ruta_historial, encoding="utf-8") as f:
+            historial = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        historial = {}
+
+    hoy = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    for ticker, datos in acciones.items():
+        if datos.get("precio") is None:
+            continue
+        historial.setdefault(ticker, {})
+        historial[ticker][hoy] = datos["precio"]  # si corre varias veces el mismo día, sobreescribe (no duplica)
+        fechas = sorted(historial[ticker].keys())
+        if len(fechas) > 180:  # conservamos ~6 meses, para que el archivo no crezca indefinidamente
+            for f_vieja in fechas[:-180]:
+                del historial[ticker][f_vieja]
+
+    with open(ruta_historial, "w", encoding="utf-8") as f:
+        json.dump(historial, f, ensure_ascii=False, indent=2)
 
 
 def main():
@@ -91,7 +117,7 @@ def main():
 
     macro = obtener_mindicador()
 
-    ipsa_precio, ipsa_anterior = obtener_precio_yahoo("^IPSA")
+    ipsa_precio, ipsa_anterior, _, _ = obtener_precio_yahoo("^IPSA")
     if ipsa_precio is not None:
         macro["ipsa"] = round(ipsa_precio, 2)
         if ipsa_anterior:
@@ -101,12 +127,16 @@ def main():
 
     acciones = {}
     for app_ticker, yahoo_ticker in tickers.items():
-        precio, anterior = obtener_precio_yahoo(yahoo_ticker)
+        precio, anterior, alto52, bajo52 = obtener_precio_yahoo(yahoo_ticker)
         if precio is not None:
             acciones[app_ticker] = {
                 "precio": round(precio, 2),
                 "anterior": round(anterior, 2) if anterior is not None else None,
+                "alto52": round(alto52, 2) if alto52 is not None else None,
+                "bajo52": round(bajo52, 2) if bajo52 is not None else None,
             }
+
+    actualizar_historial(acciones)
 
     salida = {
         "actualizado": datetime.now(timezone.utc).isoformat(),
