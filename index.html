@@ -133,11 +133,11 @@
   }
   .section-head h2 i{font-size:16px;color:var(--copper-light);}
   .ghost-btn{
-    background:transparent;border:0.5px solid var(--border-strong);color:var(--text-dim);
+    background:var(--panel-raised);border:0.5px solid rgba(237,234,226,0.22);color:var(--text);
     font-size:13px;padding:6px 12px;border-radius:var(--radius);cursor:pointer;
-    display:flex;align-items:center;gap:6px;transition:border-color .15s,color .15s;
+    display:flex;align-items:center;gap:6px;transition:border-color .15s,color .15s,background .15s;
   }
-  .ghost-btn:hover{border-color:var(--copper);color:var(--copper-light);}
+  .ghost-btn:hover{border-color:var(--copper);color:var(--copper-light);background:var(--copper-bg);}
 
   /* ---------- Main grid ---------- */
   .main-grid{display:grid;grid-template-columns:1.5fr 1fr;gap:20px;margin-bottom:32px;align-items:start;}
@@ -148,7 +148,7 @@
 
   /* watchlist rows */
   .wl-head,.wl-row{
-    display:grid;grid-template-columns:1.6fr 0.9fr 0.9fr 1.1fr 32px;gap:10px;align-items:center;
+    display:grid;grid-template-columns:1.6fr 0.9fr 0.9fr 1.1fr 52px;gap:10px;align-items:center;
   }
   .wl-head{padding-bottom:8px;border-bottom:0.5px solid var(--border);margin-bottom:2px;}
   .wl-head span{font-size:11px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.05em;}
@@ -174,9 +174,10 @@
   .badge.cara .dot{background:var(--red);}
   .badge.flat{background:rgba(237,234,226,0.07);color:var(--text-faint);}
   .badge.flat .dot{background:var(--text-faint);}
-  .row-actions{display:flex;gap:4px;justify-self:end;}
-  .row-actions i{cursor:pointer;color:var(--text-faint);font-size:14px;}
+  .row-actions{display:flex;gap:10px;justify-self:end;}
+  .row-actions i{cursor:pointer;color:var(--text-dim);font-size:15px;}
   .row-actions i:hover{color:var(--copper-light);}
+  .row-actions i.danger:hover{color:var(--red);}
   .empty{color:var(--text-faint);font-size:13px;padding:20px 0;text-align:center;}
 
   /* side panels */
@@ -286,6 +287,12 @@
 
 <div class="wrap">
 
+  <p style="font-size:12px;color:var(--text-faint);text-align:center;margin:14px 0 20px;font-family:var(--font-mono);">
+    <i class="ti ti-clock" style="font-size:12px;"></i>
+    el robot actualiza precios, macro y noticias ~09:00, 13:00 y 16:30 hora Chile, lunes a viernes
+    <span style="opacity:0.7;">(±1h en horario de verano)</span>
+  </p>
+
   <div class="kpi-grid" id="kpi-grid"></div>
 
   <div class="main-grid">
@@ -310,7 +317,7 @@
         </div>
         <button class="primary-btn" id="btn-ia"><i class="ti ti-bolt"></i>Analizar con IA</button>
         <div class="ia-result" id="ia-result"></div>
-        <p class="ia-hint">Usa tu propia clave de Gemini, configurada en Ajustes. Nunca es asesoría financiera formal.</p>
+        <p class="ia-hint">Analiza tu watchlist completa (precios y semáforo), el contexto macro y hasta 2 notas por fuente de tus notas de mercado más recientes. Usa tu propia clave de Gemini, configurada en Ajustes. Nunca es asesoría financiera formal.</p>
       </div>
 
       <div class="panel">
@@ -618,6 +625,7 @@ function renderWatchlist(){
       <div class="badge ${sem.cls}"><span class="dot"></span>${sem.label}</div>
       <div class="row-actions">
         <i class="ti ti-edit" onclick="editStock('${s.id}')" title="Editar"></i>
+        <i class="ti ti-trash danger" onclick="eliminarAccion('${s.id}')" title="Eliminar"></i>
       </div>
     </div>`;
   }).join('');
@@ -629,7 +637,10 @@ function renderNotes(){
   if(notes.length === 0){ body.innerHTML = '<div class="empty">Sin notas todavía.</div>'; return; }
   body.innerHTML = notes.slice().reverse().map(n=>`
     <div class="note-item">
-      <div class="note-meta"><span class="src-tag">${n.fuente}</span><span class="note-date">${n.fecha}</span></div>
+      <div class="note-meta">
+        <span class="src-tag">${n.fuente}</span><span class="note-date">${n.fecha}</span>
+        <i class="ti ti-trash danger" style="margin-left:auto;cursor:pointer;color:var(--text-dim);font-size:13px;" onclick="eliminarNota('${n.id}')" title="Eliminar"></i>
+      </div>
       <p class="note-text">${n.link ? `<a href="${n.link}" target="_blank" rel="noopener">${n.texto}</a>` : n.texto}</p>
     </div>
   `).join('');
@@ -645,7 +656,13 @@ function renderDividends(){
     const fechaFmt = fecha.toLocaleDateString('es-CL', {day:'2-digit', month:'short'});
     return `
     <div class="div-card">
-      <p class="tk">${d.ticker}</p>
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+        <p class="tk">${d.ticker}</p>
+        <div class="row-actions">
+          <i class="ti ti-edit" onclick="editDividendo('${d.id}')" title="Editar"></i>
+          <i class="ti ti-trash danger" onclick="eliminarDividendo('${d.id}')" title="Eliminar"></i>
+        </div>
+      </div>
       <p class="info">${fechaFmt} · ${fmtCLP(d.monto)}/acción</p>
       ${total ? `<p class="amt">${fmtCLP(total)} total</p>` : ''}
     </div>`;
@@ -715,11 +732,40 @@ document.getElementById('btn-save-stock').addEventListener('click', ()=>{
   renderAll();
   toast('Acción guardada');
 });
+function eliminarAccion(id){
+  const wl = load(KEYS.watchlist, []);
+  const s = wl.find(x=>x.id===id);
+  if(!s) return;
+  if(!confirm(`¿Eliminar ${s.ticker} de la watchlist?`)) return;
+  save(KEYS.watchlist, wl.filter(x=>x.id!==id));
+  renderAll();
+  toast('Acción eliminada');
+}
 
 document.getElementById('btn-add-div').addEventListener('click', ()=>{
   ['div-id','div-ticker','div-fecha','div-monto','div-cantidad'].forEach(id=> document.getElementById(id).value='');
   openModal('modal-div');
 });
+function editDividendo(id){
+  const divs = load(KEYS.dividends, []);
+  const d = divs.find(x=>x.id===id);
+  if(!d) return;
+  document.getElementById('div-id').value = d.id;
+  document.getElementById('div-ticker').value = d.ticker;
+  document.getElementById('div-fecha').value = d.fecha;
+  document.getElementById('div-monto').value = d.monto;
+  document.getElementById('div-cantidad').value = d.cantidad || '';
+  openModal('modal-div');
+}
+function eliminarDividendo(id){
+  const divs = load(KEYS.dividends, []);
+  const d = divs.find(x=>x.id===id);
+  if(!d) return;
+  if(!confirm(`¿Eliminar el dividendo de ${d.ticker}?`)) return;
+  save(KEYS.dividends, divs.filter(x=>x.id!==id));
+  renderAll();
+  toast('Dividendo eliminado');
+}
 document.getElementById('btn-save-div').addEventListener('click', ()=>{
   const ticker = document.getElementById('div-ticker').value.trim().toUpperCase();
   const fecha = document.getElementById('div-fecha').value;
@@ -762,6 +808,13 @@ document.getElementById('btn-save-note').addEventListener('click', ()=>{
   renderAll();
   toast('Nota guardada');
 });
+function eliminarNota(id){
+  const notes = load(KEYS.notes, []);
+  if(!confirm('¿Eliminar esta nota?')) return;
+  save(KEYS.notes, notes.filter(x=>x.id!==id));
+  renderAll();
+  toast('Nota eliminada');
+}
 
 /* ========== ajustes ========== */
 document.getElementById('btn-settings').addEventListener('click', ()=>{
@@ -824,6 +877,16 @@ document.getElementById('btn-reset').addEventListener('click', ()=>{
 });
 
 /* ========== análisis con IA (Gemini) ========== */
+function muestraDeNotas(notes, porFuente=2, maximo=8){
+  const vistos = {};
+  const salida = [];
+  for(let i=notes.length-1; i>=0 && salida.length<maximo; i--){
+    const n = notes[i];
+    vistos[n.fuente] = (vistos[n.fuente]||0) + 1;
+    if(vistos[n.fuente] <= porFuente) salida.push(n);
+  }
+  return salida;
+}
 document.getElementById('btn-ia').addEventListener('click', async ()=>{
   const settings = load(KEYS.settings, {});
   if(!settings.apiKey){
@@ -839,7 +902,7 @@ document.getElementById('btn-ia').addEventListener('click', async ()=>{
 
   const wl = load(KEYS.watchlist, []);
   const macro = load(KEYS.macro, {});
-  const notes = load(KEYS.notes, []).slice(-4);
+  const notes = muestraDeNotas(load(KEYS.notes, []));
 
   const resumenAcciones = wl.map(s=>{
     const sem = semaforo(s);
