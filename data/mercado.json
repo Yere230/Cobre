@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-07-24T04:22:44.679167+00:00",
+  "actualizado": "2026-07-24T05:07:00.400080+00:00",
   "macro": {
-    "dolar": 936.4,
+    "dolar": 946.2,
     "uf": 40844.79,
     "utm": 71649,
-    "cobre": 6.3,
+    "cobre": 6.27,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
@@ -302,6 +302,42 @@
       "anterior": 1926.1,
       "alto52": 2278.8,
       "bajo52": 1289.3
+    },
+    "BICE": {
+      "precio": 401.29,
+      "anterior": 375.12,
+      "alto52": 450.0,
+      "bajo52": 265.0
+    },
+    "HABITAT": {
+      "precio": 1198.3,
+      "anterior": 1266.1,
+      "alto52": 1600.0,
+      "bajo52": 1060.0
+    },
+    "CFMITNIPSA": {
+      "precio": 5053.8,
+      "anterior": 5057.2,
+      "alto52": 5588.4,
+      "bajo52": 3876.4
+    },
+    "CFINRENTAS": {
+      "precio": 2167.05,
+      "anterior": 2178.36,
+      "alto52": 2340.0,
+      "bajo52": 1563.14
+    },
+    "CFIBTGRCA": {
+      "precio": 24894.97,
+      "anterior": 25331.39,
+      "alto52": 28000.0,
+      "bajo52": 19800.0
+    },
+    "CFIBTGRRA": {
+      "precio": 8889.95,
+      "anterior": 8889.95,
+      "alto52": 12472.8,
+      "bajo52": 7300.0
     }
   },
   "noticias": [
