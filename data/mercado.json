@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-24T21:33:49.030794+00:00",
+  "actualizado": "2026-07-25T14:29:46.094460+00:00",
   "macro": {
     "dolar": 946.2,
     "uf": 40844.79,
@@ -85,7 +85,7 @@
       "precio": 3659.1,
       "anterior": 3643.0,
       "alto52": 5250.0,
-      "bajo52": 3030.0
+      "bajo52": 3055.0
     },
     "CMPC": {
       "precio": 1025.0,
@@ -253,7 +253,7 @@
       "precio": 1614.2,
       "anterior": 1632.3,
       "alto52": 1875.0,
-      "bajo52": 1239.0
+      "bajo52": 1239.6
     },
     "SONDA": {
       "precio": 325.0,
@@ -399,6 +399,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Experto: Arancel que EE.UU. impuso a Chile \"es negativo, pero no catastrófico\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/experto-arancel-que-ee-uu-impuso-a-chile-es-negativo-pero-no/2026-07-25/085828.html",
+      "fecha": "Sat, 25 Jul 2026",
+      "fechaISO": "2026-07-25T12:58:28+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Productores de pisco acusan \"falta de respeto\" del ministro de Agricultura",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/productores-de-pisco-acusan-falta-de-respeto-del-ministro-de-agricultura/2026-07-24/185418.html",
+      "fecha": "Fri, 24 Jul 2026",
+      "fechaISO": "2026-07-24T22:54:18+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Festival Ladera Sur 2026 abre convocatoria para emprendedores verdes",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/festival-ladera-sur-2026-abre-convocatoria-para-emprendedores-verdes/2026-07-24/164941.html",
       "fecha": "Fri, 24 Jul 2026",
@@ -412,18 +426,11 @@
       "fechaISO": "2026-07-24T19:48:31+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Aranceles de EE.UU: Quiroz reconoce que rumbo económico de Trump es \"distinto\" al de Chile",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/aranceles-de-ee-uu-quiroz-reconoce-que-rumbo-economico-de-trump-es/2026-07-24/145359.html",
-      "fecha": "Fri, 24 Jul 2026",
-      "fechaISO": "2026-07-24T18:53:59+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Megarreforma: Gobierno confirmó veto para mantener el cobro de intereses sobre intereses",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/megarreforma-gobierno-confirmo-veto-para-mantener-el-cobro-de-intereses/2026-07-23/193946.html",
-      "fecha": "Thu, 23 Jul 2026",
-      "fechaISO": "2026-07-23T23:39:46+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Caso Zapatero: Dimiten el presidente y el CEO de Plus Ultra investigados por el rescate a la aerolínea en 2021",
+      "link": "http://www.df.cl/empresas/industria/caso-zapatero-dimiten-el-presidente-y-el-ceo-plus-ultra-investigados-por",
+      "fecha": "Sat, 25 Jul 2026",
+      "fechaISO": "2026-07-25T08:03:00+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -445,13 +452,6 @@
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v6e9k",
       "fecha": "Fri, 24 Jul 2026",
       "fechaISO": "2026-07-24T20:24:20+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Caso Sartor: Fiscalía pide ampliar delitos para formalización y añade lavado de activos y fraude por omisión de OPA",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/caso-sartor-fiscalia-pide-ampliar-delitos-para-formalizacion-y-anade",
-      "fecha": "Fri, 24 Jul 2026",
-      "fechaISO": "2026-07-24T19:32:49+00:00"
     }
   ]
 }
