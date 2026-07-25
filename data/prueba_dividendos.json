@@ -1,0 +1,96 @@
+[
+  {
+    "ticker": "COPEC.SN",
+    "encontrado": true,
+    "dividendos": [
+      {
+        "fecha": "2026-05-08",
+        "monto": 112.29532
+      },
+      {
+        "fecha": "2025-12-15",
+        "monto": 69.23685
+      },
+      {
+        "fecha": "2025-05-05",
+        "monto": 160.75279
+      },
+      {
+        "fecha": "2024-12-09",
+        "monto": 128.98921
+      }
+    ]
+  },
+  {
+    "ticker": "BSANTANDER.SN",
+    "encontrado": true,
+    "dividendos": [
+      {
+        "fecha": "2026-04-30",
+        "monto": 3.353346
+      },
+      {
+        "fecha": "2025-04-24",
+        "monto": 3.185716
+      }
+    ]
+  },
+  {
+    "ticker": "CHILE.SN",
+    "encontrado": true,
+    "dividendos": [
+      {
+        "fecha": "2026-03-20",
+        "monto": 9.99757
+      },
+      {
+        "fecha": "2025-03-21",
+        "monto": 9.853574
+      }
+    ]
+  },
+  {
+    "ticker": "CCU.SN",
+    "encontrado": true,
+    "dividendos": [
+      {
+        "fecha": "2026-04-20",
+        "monto": 74.52679
+      },
+      {
+        "fecha": "2025-11-24",
+        "monto": 84.0
+      },
+      {
+        "fecha": "2025-04-25",
+        "monto": 100.2847
+      },
+      {
+        "fecha": "2024-11-25",
+        "monto": 117.5
+      }
+    ]
+  },
+  {
+    "ticker": "ENELCHILE.SN",
+    "encontrado": true,
+    "dividendos": [
+      {
+        "fecha": "2026-05-15",
+        "monto": 2.810887
+      },
+      {
+        "fecha": "2026-01-19",
+        "monto": 0.7236673
+      },
+      {
+        "fecha": "2025-05-19",
+        "monto": 3.338094
+      },
+      {
+        "fecha": "2025-01-20",
+        "monto": 0.90671
+      }
+    ]
+  }
+]
