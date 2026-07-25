@@ -125,6 +125,38 @@ def actualizar_historial(acciones):
         json.dump(historial, f, ensure_ascii=False, indent=2)
 
 
+def obtener_dividendos(ticker_yahoo, rango="5y"):
+    """Historial de dividendos pagados (no fechas futuras: Yahoo no entrega dividendos programados)."""
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker_yahoo}"
+    try:
+        r = requests.get(url, headers=HEADERS_YAHOO, params={"interval": "1d", "range": rango, "events": "div"}, timeout=15)
+        r.raise_for_status()
+        result = r.json()["chart"]["result"][0]
+        dividendos = result.get("events", {}).get("dividends", {})
+        lista = []
+        for _, info in dividendos.items():
+            fecha = datetime.fromtimestamp(info["date"], tz=timezone.utc).strftime("%Y-%m-%d")
+            lista.append({"fecha": fecha, "monto": round(info["amount"], 4)})
+        lista.sort(key=lambda x: x["fecha"], reverse=True)
+        return lista
+    except Exception as e:
+        print(f"Aviso: no se pudo obtener dividendos de {ticker_yahoo} -> {e}")
+        return []
+
+
+def actualizar_dividendos(tickers):
+    """Guarda el historial de dividendos de cada acción en su propio archivo."""
+    ruta_dividendos = os.path.join(os.path.dirname(__file__), "..", "data", "dividendos.json")
+    dividendos_por_ticker = {}
+    for app_ticker, yahoo_ticker in tickers.items():
+        lista = obtener_dividendos(yahoo_ticker)
+        if lista:
+            dividendos_por_ticker[app_ticker] = lista
+    with open(ruta_dividendos, "w", encoding="utf-8") as f:
+        json.dump(dividendos_por_ticker, f, ensure_ascii=False, indent=2)
+    print(f"Dividendos: {len(dividendos_por_ticker)} de {len(tickers)} tickers tuvieron historial.")
+
+
 def main():
     with open(RUTA_TICKERS, encoding="utf-8") as f:
         tickers = json.load(f)
@@ -151,6 +183,7 @@ def main():
             }
 
     actualizar_historial(acciones)
+    actualizar_dividendos(tickers)
 
     salida = {
         "actualizado": datetime.now(timezone.utc).isoformat(),

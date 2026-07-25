@@ -1219,6 +1219,26 @@ document.getElementById('btn-load-ampliado').addEventListener('click', ()=> carg
 
 /* ========== gráfico de historial ========== */
 let historialCache = null;
+let dividendosCache = null;
+
+async function cargarDividendos(){
+  if(dividendosCache) return dividendosCache;
+  try{
+    const res = await fetch('./data/dividendos.json', {cache:'no-store'});
+    dividendosCache = res.ok ? await res.json() : {};
+  }catch(e){
+    dividendosCache = {};
+  }
+  return dividendosCache;
+}
+
+function yieldTrailing12m(listaDividendos, precioActual){
+  if(!listaDividendos || !listaDividendos.length || !precioActual) return null;
+  const haceUnAnio = Date.now() - 365*86400000;
+  const suma = listaDividendos.filter(d => new Date(d.fecha).getTime() >= haceUnAnio).reduce((s,d)=> s + d.monto, 0);
+  return suma > 0 ? (suma / precioActual) * 100 : null;
+}
+
 async function abrirGrafico(ticker){
   document.getElementById('chart-title').textContent = ticker;
   const container = document.getElementById('chart-container');
@@ -1231,11 +1251,26 @@ async function abrirGrafico(ticker){
       historialCache = await res.json();
     }
     const serie = historialCache[ticker];
+    let html = '';
     if(!serie || Object.keys(serie).length < 2){
-      container.innerHTML = '<span style="color:var(--text-faint);font-size:13px;">Todavía no hay suficiente historial para esta acción. El robot guarda un dato por día, así que esto se va a ir llenando solo.</span>';
-      return;
+      html = '<span style="color:var(--text-faint);font-size:13px;">Todavía no hay suficiente historial de precio para esta acción. El robot guarda un dato por día, así que esto se va a ir llenando solo.</span>';
+    } else {
+      html = dibujarGrafico(serie);
     }
-    container.innerHTML = dibujarGrafico(serie);
+
+    const dividendos = await cargarDividendos();
+    const divsTicker = dividendos[ticker];
+    if(divsTicker && divsTicker.length){
+      const stock = load(KEYS.watchlist, []).find(s=>s.ticker===ticker);
+      const yieldPct = stock ? yieldTrailing12m(divsTicker, stock.precio) : null;
+      html += `<hr style="border:none;border-top:0.5px solid var(--border);margin:16px 0;">`;
+      html += `<p style="font-size:13px;font-weight:500;margin:0 0 10px;color:var(--text);">Dividendos históricos${yieldPct!=null ? ` · yield 12m ${yieldPct.toFixed(1)}%` : ''}</p>`;
+      html += `<div style="display:flex;flex-direction:column;gap:6px;max-height:150px;overflow-y:auto;">`;
+      html += divsTicker.slice(0,12).map(d=>`<div style="display:flex;justify-content:space-between;font-family:var(--font-mono);font-size:12px;color:var(--text-dim);padding:2px 0;"><span>${d.fecha}</span><span>${fmtCLP(d.monto)}</span></div>`).join('');
+      html += `</div>`;
+      html += `<p style="font-size:11px;color:var(--text-faint);margin-top:10px;">Pagos pasados, no un calendario de próximos pagos — Yahoo Finance no entrega fechas futuras.</p>`;
+    }
+    container.innerHTML = html;
   }catch(e){
     container.innerHTML = '<span style="color:var(--text-faint);font-size:13px;">No se pudo cargar el historial todavía.</span>';
   }
