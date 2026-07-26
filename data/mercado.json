@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-25T14:29:46.094460+00:00",
+  "actualizado": "2026-07-26T05:17:12.523320+00:00",
   "macro": {
     "dolar": 946.2,
     "uf": 40844.79,
@@ -399,6 +399,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "PS: Arancel estadounidense \"es un grave fracaso de la política exterior del Gobierno\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/ps-arancel-estadounidense-es-un-grave-fracaso-de-la-politica-exterior/2026-07-25/140946.html",
+      "fecha": "Sat, 25 Jul 2026",
+      "fechaISO": "2026-07-25T18:09:46+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Chile se convirtió en el primer país latinoamericano en tener acuerdo comercial con Filipinas",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/acuerdos-comerciales/chile-se-convirtio-en-el-primer-pais-latinoamericano-en-tener-acuerdo/2026-07-25/124958.html",
+      "fecha": "Sat, 25 Jul 2026",
+      "fechaISO": "2026-07-25T16:49:58+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Experto: Arancel que EE.UU. impuso a Chile \"es negativo, pero no catastrófico\"",
       "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/experto-arancel-que-ee-uu-impuso-a-chile-es-negativo-pero-no/2026-07-25/085828.html",
       "fecha": "Sat, 25 Jul 2026",
@@ -412,18 +426,11 @@
       "fechaISO": "2026-07-24T22:54:18+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Festival Ladera Sur 2026 abre convocatoria para emprendedores verdes",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/festival-ladera-sur-2026-abre-convocatoria-para-emprendedores-verdes/2026-07-24/164941.html",
-      "fecha": "Fri, 24 Jul 2026",
-      "fechaISO": "2026-07-24T20:49:41+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Acreedores aprueban reorganización de metalúrgica de Talcahuano y mantienen 350 empleos",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/acreedores-aprueban-reorganizacion-de-metalurgica-de-talcahuano-y/2026-07-24/154831.html",
-      "fecha": "Fri, 24 Jul 2026",
-      "fechaISO": "2026-07-24T19:48:31+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Barrick completa evacuación de trabajadores desde campamento Barriales y mantiene apoyo logístico tras emergencia climática",
+      "link": "http://www.df.cl/empresas/mineria/barrick-completa-evacuacion-de-trabajadores-desde-campamento-barriales-y",
+      "fecha": "Sat, 25 Jul 2026",
+      "fechaISO": "2026-07-25T20:26:11+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -445,13 +452,6 @@
       "link": "http://www.df.cl/empresas/construccion/concesiones-ya-tiene-lider-kast-designa-a-lorena-herrera-como-directora",
       "fecha": "Fri, 24 Jul 2026",
       "fechaISO": "2026-07-24T20:29:17+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra al alza con un nuevo máximo en nueve meses en medio de la caída del precio del petróleo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v6e9k",
-      "fecha": "Fri, 24 Jul 2026",
-      "fechaISO": "2026-07-24T20:24:20+00:00"
     }
   ]
 }
