@@ -506,8 +506,10 @@
 <div class="modal-veil" id="modal-chart">
   <div class="modal" style="max-width:520px;">
     <h3 id="chart-title">Gráfico</h3>
-    <div id="chart-container" style="min-height:200px;display:flex;align-items:center;justify-content:center;text-align:center;">
-      <span style="color:var(--text-faint);font-size:13px;">Cargando...</span>
+    <div id="chart-container" style="min-height:200px;">
+      <div style="display:flex;align-items:center;justify-content:center;min-height:200px;">
+        <span style="color:var(--text-faint);font-size:13px;">Cargando...</span>
+      </div>
     </div>
     <div class="modal-actions">
       <button class="ghost-btn" onclick="closeModal('modal-chart')">Cerrar</button>
@@ -1260,10 +1262,12 @@ function yieldTrailing12m(listaDividendos, precioActual){
   return suma > 0 ? (suma / precioActual) * 100 : null;
 }
 
+const CENTRADO = (texto) => `<div style="display:flex;align-items:center;justify-content:center;min-height:200px;text-align:center;"><span style="color:var(--text-faint);font-size:13px;">${texto}</span></div>`;
+
 async function abrirGrafico(ticker){
   document.getElementById('chart-title').textContent = ticker;
   const container = document.getElementById('chart-container');
-  container.innerHTML = '<span style="color:var(--text-faint);font-size:13px;">Cargando...</span>';
+  container.innerHTML = CENTRADO('Cargando...');
   openModal('modal-chart');
   try{
     if(!historialCache){
@@ -1274,7 +1278,7 @@ async function abrirGrafico(ticker){
     const serie = historialCache[ticker];
     let html = '';
     if(!serie || Object.keys(serie).length < 2){
-      html = '<span style="color:var(--text-faint);font-size:13px;">Todavía no hay suficiente historial de precio para esta acción. El robot guarda un dato por día, así que esto se va a ir llenando solo.</span>';
+      html = '<p style="color:var(--text-faint);font-size:13px;text-align:center;margin:20px 0;">Todavía no hay suficiente historial de precio para esta acción. El robot guarda un dato por día, así que esto se va a ir llenando solo.</p>';
     } else {
       html = dibujarGrafico(serie);
     }
@@ -1286,14 +1290,14 @@ async function abrirGrafico(ticker){
       const yieldPct = stock ? yieldTrailing12m(divsTicker, stock.precio) : null;
       html += `<hr style="border:none;border-top:0.5px solid var(--border);margin:16px 0;">`;
       html += `<p style="font-size:13px;font-weight:500;margin:0 0 10px;color:var(--text);">Dividendos históricos${yieldPct!=null ? ` · yield 12m ${yieldPct.toFixed(1)}%` : ''}</p>`;
-      html += `<div style="display:flex;flex-direction:column;gap:6px;max-height:150px;overflow-y:auto;">`;
+      html += `<div style="display:flex;flex-direction:column;gap:6px;max-height:180px;overflow-y:auto;width:100%;">`;
       html += divsTicker.slice(0,12).map(d=>`<div style="display:flex;justify-content:space-between;font-family:var(--font-mono);font-size:12px;color:var(--text-dim);padding:2px 0;"><span>${d.fecha}</span><span>${fmtCLP(d.monto)}</span></div>`).join('');
       html += `</div>`;
       html += `<p style="font-size:11px;color:var(--text-faint);margin-top:10px;">Pagos pasados, no un calendario de próximos pagos — Yahoo Finance no entrega fechas futuras.</p>`;
     }
     container.innerHTML = html;
   }catch(e){
-    container.innerHTML = '<span style="color:var(--text-faint);font-size:13px;">No se pudo cargar el historial todavía.</span>';
+    container.innerHTML = CENTRADO('No se pudo cargar el historial todavía.');
   }
 }
 
