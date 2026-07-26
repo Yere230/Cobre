@@ -351,7 +351,7 @@
         </div>
         <button class="primary-btn" id="btn-ia"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;flex-shrink:0;"><path d="M13 3 4 14h6l-1 7 9-11h-6l1-7z"/></svg>Analizar con IA</button>
         <div class="ia-result" id="ia-result"></div>
-        <p class="ia-hint">Analiza tu watchlist completa (precios y semáforo), el contexto macro y hasta 2 notas por fuente de tus notas de mercado más recientes. Usa tu propia clave de Gemini, configurada en Ajustes. Nunca es asesoría financiera formal.</p>
+        <p class="ia-hint">Enfocado en tu perfil de dividendos: prioriza yield, consistencia de pago (últimos 5 años) y semáforo de valorización, además del contexto macro y tus notas de mercado recientes. Usa tu propia clave de Gemini, configurada en Ajustes. Nunca es asesoría financiera formal.</p>
       </div>
 
       <div class="panel">
@@ -1092,14 +1092,34 @@ document.getElementById('btn-ia').addEventListener('click', async ()=>{
   const wl = load(KEYS.watchlist, []);
   const macro = load(KEYS.macro, {});
   const notes = muestraDeNotas(load(KEYS.notes, []));
+  const dividendos = await cargarDividendos();
+
+  function consistenciaDividendo(ticker){
+    const lista = dividendos[ticker];
+    if(!lista || !lista.length) return null;
+    const anioActual = new Date().getFullYear();
+    const aniosConPago = new Set(lista.map(d => new Date(d.fecha).getFullYear()));
+    let anios = 0;
+    for(let a = anioActual - 1; a >= anioActual - 5; a--){
+      if(aniosConPago.has(a)) anios++;
+    }
+    return anios;
+  }
 
   const resumenAcciones = wl.map(s=>{
     const sem = semaforo(s);
-    return `${s.ticker} (${s.empresa}): precio ${s.precio}, objetivo ${s.objetivo || 'sin definir'}, estado ${sem.label}${s.enCartera ? ', en cartera x'+s.cantidad : ''}`;
+    const yieldPct = yieldTrailing12m(dividendos[s.ticker], s.precio);
+    const anios = consistenciaDividendo(s.ticker);
+    const partesDiv = [];
+    partesDiv.push(yieldPct != null ? `yield 12m ${yieldPct.toFixed(1)}%` : 'yield 12m n/d');
+    partesDiv.push(anios != null ? `pagó dividendos en ${anios}/5 últimos años` : 'sin historial de dividendos');
+    return `${s.ticker} (${s.empresa}): precio ${s.precio}, objetivo ${s.objetivo || 'sin definir'}, estado ${sem.label}, ${partesDiv.join(', ')}${s.enCartera ? ', en cartera x'+s.cantidad : ''}`;
   }).join('\n');
   const resumenNotas = notes.map(n=> `- [${n.fuente}] ${n.texto}`).join('\n');
 
-  const prompt = `Eres un asistente de análisis para un inversionista chileno enfocado en dividendos que invierte en la Bolsa de Santiago.
+  const prompt = `Eres un asistente de análisis para un inversionista chileno cuyo perfil es específicamente dividendos: busca ingresos recurrentes y empresas sólidas, no especulación de corto plazo.
+
+Para cada acción de la watchlist tienes: precio, objetivo, semáforo de valorización, yield de dividendo de los últimos 12 meses, y en cuántos de los últimos 5 años pagó al menos un dividendo (este último es tu único indicador de "solidez" — consistencia de pago observada, NO un ratio financiero formal. No inventes datos de deuda, utilidades u otros indicadores que no están aquí).
 
 Watchlist actual:
 ${resumenAcciones || 'vacía'}
@@ -1109,11 +1129,12 @@ Contexto macro: IPSA ${macro.ipsa}, dólar ${macro.dolar} CLP, UF ${macro.uf}.
 Notas de mercado recientes:
 ${resumenNotas || 'sin notas recientes'}
 
-Escribe un resumen breve en español (máximo 150 palabras), tono profesional y cercano, que:
-1. Destaque qué acciones están en mejor punto de entrada según su semáforo de valorización.
-2. Mencione brevemente cualquier riesgo o contexto macro relevante.
-3. Sugiera un próximo paso concreto.
-Aclara al final, en una frase corta, que esto es apoyo informativo y no asesoría financiera formal.`;
+Escribe un resumen en español (máximo 180 palabras), tono profesional y cercano, que:
+1. Priorice las acciones con mejor combinación de: semáforo favorable (barata o justa) + yield atractivo + alta consistencia de pago (4-5 de 5 años) — esas son las más sólidas para este perfil.
+2. Señale si alguna acción con buen semáforo tiene consistencia de pago baja (posible alerta a revisar, no un descarte automático).
+3. Mencione brevemente el contexto macro si es relevante.
+4. Sugiera un próximo paso concreto.
+Aclara al final, en una frase corta, que esto es apoyo informativo basado en datos históricos y no asesoría financiera formal.`;
 
   try{
     const model = settings.model || 'gemini-flash-latest';
