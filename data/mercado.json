@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-27T18:26:32.768021+00:00",
+  "actualizado": "2026-07-27T21:34:08.869710+00:00",
   "macro": {
     "dolar": 946.1,
     "uf": 40844.79,
@@ -16,40 +16,40 @@
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 194.8,
+      "precio": 193.26,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 132.31
     },
     "BCI": {
-      "precio": 65480.0,
+      "precio": 64200.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 37167.0
     },
     "ITAUCL": {
-      "precio": 21532.0,
+      "precio": 21379.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 12562.0
     },
     "BSANTANDER": {
-      "precio": 81.14,
+      "precio": 80.77,
       "anterior": 77.0,
       "alto52": 81.47,
       "bajo52": 52.0
     },
     "CAP": {
-      "precio": 5936.2,
+      "precio": 6060.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4502.0
     },
     "CENCOSUD": {
-      "precio": 1937.1,
+      "precio": 1915.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
-      "bajo52": 1937.1
+      "bajo52": 1915.0
     },
     "CENCOMALLS": {
       "precio": 2300.0,
@@ -58,79 +58,79 @@
       "bajo52": 1808.0
     },
     "COLBUN": {
-      "precio": 134.82,
+      "precio": 134.5,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5559.0,
+      "precio": 5603.9,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.14,
+      "precio": 48.5,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4625.1,
+      "precio": 4620.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3500.1
     },
     "ENTEL": {
-      "precio": 3651.9,
+      "precio": 3652.3,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3055.0
     },
     "CMPC": {
-      "precio": 1035.9,
+      "precio": 1039.5,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6249.4,
+      "precio": 6249.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 85.82,
+      "precio": 85.89,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.5,
+      "precio": 81.41,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 61.51
     },
     "ECL": {
-      "precio": 1865.9,
+      "precio": 1865.0,
       "anterior": 1807.0,
       "alto52": 1886.6,
       "bajo52": 1158.5
     },
     "FALABELLA": {
-      "precio": 6152.0,
+      "precio": 6155.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 4601.5
     },
     "IAM": {
-      "precio": 915.02,
+      "precio": 916.39,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 806.98
     },
     "ILC": {
-      "precio": 21499.0,
+      "precio": 21417.0,
       "anterior": 21450.0,
       "alto52": 23725.0,
       "bajo52": 10025.0
@@ -142,55 +142,55 @@
       "bajo52": 19.95
     },
     "PARAUCO": {
-      "precio": 3896.7,
+      "precio": 3895.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 1932.0
     },
     "MALLPLAZA": {
-      "precio": 3729.9,
+      "precio": 3689.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2001.9
     },
     "QUINENCO": {
-      "precio": 4282.7,
+      "precio": 4290.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 386.88,
+      "precio": 385.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1200.0,
+      "precio": 1250.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 691.25
     },
     "SMU": {
-      "precio": 127.0,
+      "precio": 126.0,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 65037.0,
+      "precio": 64650.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 34560.0
     },
     "CONCHATORO": {
-      "precio": 829.69,
+      "precio": 839.98,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7478.1,
+      "precio": 7500.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7000.0
@@ -214,19 +214,19 @@
       "bajo52": 18370.0
     },
     "FORUS": {
-      "precio": 1934.0,
+      "precio": 1895.0,
       "anterior": 1983.4,
       "alto52": 2510.0,
-      "bajo52": 1934.0
+      "bajo52": 1895.0
     },
     "HITES": {
-      "precio": 129.23,
+      "precio": 129.04,
       "anterior": 132.09,
       "alto52": 146.09,
       "bajo52": 93.0
     },
     "INGEVEC": {
-      "precio": 195.06,
+      "precio": 195.81,
       "anterior": 200.99,
       "alto52": 227.0,
       "bajo52": 92.57
@@ -256,31 +256,31 @@
       "bajo52": 1239.6
     },
     "SONDA": {
-      "precio": 329.0,
+      "precio": 328.0,
       "anterior": 309.99,
       "alto52": 383.7,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1550.1,
+      "precio": 1555.0,
       "anterior": 1570.0,
       "alto52": 1745.0,
       "bajo52": 1150.0
     },
     "CRISTALES": {
-      "precio": 2050.0,
+      "precio": 2020.0,
       "anterior": 2050.0,
       "alto52": 2800.0,
-      "bajo52": 2050.0
+      "bajo52": 2020.0
     },
     "WATTS": {
-      "precio": 705.0,
+      "precio": 704.9,
       "anterior": 730.0,
       "alto52": 820.0,
       "bajo52": 650.4
     },
     "TRICOT": {
-      "precio": 582.0,
+      "precio": 581.78,
       "anterior": 581.84,
       "alto52": 688.8,
       "bajo52": 513.1
@@ -298,25 +298,25 @@
       "bajo52": 197.09
     },
     "INVERCAP": {
-      "precio": 1884.6,
+      "precio": 1875.3,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1289.3
     },
     "BICE": {
-      "precio": 401.09,
+      "precio": 401.27,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 265.0
     },
     "HABITAT": {
-      "precio": 1235.0,
+      "precio": 1220.9,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1060.0
     },
     "CFMITNIPSA": {
-      "precio": 5091.0,
+      "precio": 5090.7,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 3876.4
@@ -328,13 +328,13 @@
       "bajo52": 1563.14
     },
     "CFIBTGRCA": {
-      "precio": 24050.0,
+      "precio": 24071.56,
       "anterior": 25331.39,
       "alto52": 28000.0,
       "bajo52": 19800.0
     },
     "CFIBTGRRA": {
-      "precio": 8890.0,
+      "precio": 8889.95,
       "anterior": 8889.95,
       "alto52": 12472.8,
       "bajo52": 7300.0
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Gobierno y gremios exportadores coordinan negociación con EE.UU. ante aranceles del 12,5%",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/gobierno-y-gremios-exportadores-coordinan-negociacion-con-ee-uu-ante/2026-07-27/145836.html",
+      "fecha": "Mon, 27 Jul 2026",
+      "fechaISO": "2026-07-27T18:58:36+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Gobierno explica que nuevo arancel de Trump era casi inevitable, pero logró moderarlo",
       "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/gobierno-explica-que-nuevo-arancel-de-trump-era-casi-inevitable-pero/2026-07-27/082309.html",
       "fecha": "Mon, 27 Jul 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-07-25T18:09:46+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Chile se convirtió en el primer país latinoamericano en tener acuerdo comercial con Filipinas",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/acuerdos-comerciales/chile-se-convirtio-en-el-primer-pais-latinoamericano-en-tener-acuerdo/2026-07-25/124958.html",
-      "fecha": "Sat, 25 Jul 2026",
-      "fechaISO": "2026-07-25T16:49:58+00:00"
-    },
-    {
       "fuente": "Diario Financiero",
-      "texto": "Gobierno deja sin efecto licitación del Puerto Exterior de San Antonio y reformulará ejecución de las obras",
-      "link": "http://www.df.cl/empresas/industria/gobierno-deja-sin-efecto-licitacion-del-puerto-exterior-de-san-antonio-y",
+      "texto": "Gobierno envía a EEUU listado de productos que busca dejar exento de mayor arancel y exportadores cuantifican impacto",
+      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/canciller-y-subrei-delinean-proximos-para-la-negociacion-que-viene-en-el",
       "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T17:46:38+00:00"
+      "fechaISO": "2026-07-27T21:28:23+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cae a niveles de $ 940 tras alivio de tensión geopolítica y en semana clave por decisión de la Fed",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-edrks",
+      "texto": "Biministro Alvarado defiende fondos a municipios en proyecto de reactivación: \"No hay ninguna compensación desigual\"",
+      "link": "http://www.df.cl/economia-y-politica/politica/al-gobierno-siempre-le-ha-interesado-biministro-alvarado-se-refiere-a",
       "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T17:32:47+00:00"
+      "fechaISO": "2026-07-27T21:26:53+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA sube a niveles de 11.000 puntos con fuerte impulso de Latam tras pausa de hostilidades en Medio Oriente",
+      "texto": "IPSA cierra con leve alza más cerca de 11.000 puntos con impulso de Latam tras pausa de hostilidades en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-heawk",
       "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T17:29:52+00:00"
+      "fechaISO": "2026-07-27T20:31:42+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Por un deterioro del “balance de riesgos externos”: GPM recomienda mantener la tasa en 4,5%",
-      "link": "http://www.df.cl/economia-y-politica/macro/por-un-deterioro-del-balance-de-riesgos-externos-gpm-recomienda-mantener",
+      "texto": "Dólar cierra a la baja cerca de $ 940 tras alivio de tensión geopolítica y ante una semana clave por decisión de la Fed",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-edrks",
       "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T17:00:43+00:00"
+      "fechaISO": "2026-07-27T20:10:57+00:00"
     }
   ]
 }
