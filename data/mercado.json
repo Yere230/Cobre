@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-27T15:34:43.908287+00:00",
+  "actualizado": "2026-07-27T18:26:32.768021+00:00",
   "macro": {
     "dolar": 946.1,
     "uf": 40844.79,
@@ -10,163 +10,163 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 341.49,
+      "precio": 340.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 194.6,
+      "precio": 194.8,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 132.31
     },
     "BCI": {
-      "precio": 65567.0,
+      "precio": 65480.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 37167.0
     },
     "ITAUCL": {
-      "precio": 21551.0,
+      "precio": 21532.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 12562.0
     },
     "BSANTANDER": {
-      "precio": 81.0,
+      "precio": 81.14,
       "anterior": 77.0,
       "alto52": 81.47,
       "bajo52": 52.0
     },
     "CAP": {
-      "precio": 5900.0,
+      "precio": 5936.2,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4502.0
     },
     "CENCOSUD": {
-      "precio": 1955.0,
+      "precio": 1937.1,
       "anterior": 1995.0,
       "alto52": 3238.0,
-      "bajo52": 1951.1
+      "bajo52": 1937.1
     },
     "CENCOMALLS": {
-      "precio": 2311.0,
+      "precio": 2300.0,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1808.0
     },
     "COLBUN": {
-      "precio": 137.5,
+      "precio": 134.82,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5554.9,
+      "precio": 5559.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 49.0,
+      "precio": 48.14,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4686.9,
+      "precio": 4625.1,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3500.1
     },
     "ENTEL": {
-      "precio": 3701.6,
+      "precio": 3651.9,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3055.0
     },
     "CMPC": {
-      "precio": 1030.0,
+      "precio": 1035.9,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6356.2,
+      "precio": 6249.4,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 85.51,
+      "precio": 85.82,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.0,
+      "precio": 81.5,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 61.51
     },
     "ECL": {
-      "precio": 1862.4,
+      "precio": 1865.9,
       "anterior": 1807.0,
-      "alto52": 1880.0,
+      "alto52": 1886.6,
       "bajo52": 1158.5
     },
     "FALABELLA": {
-      "precio": 6085.4,
+      "precio": 6152.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 4601.5
     },
     "IAM": {
-      "precio": 915.0,
+      "precio": 915.02,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 806.98
     },
     "ILC": {
-      "precio": 21486.0,
+      "precio": 21499.0,
       "anterior": 21450.0,
       "alto52": 23725.0,
       "bajo52": 10025.0
     },
     "LTM": {
-      "precio": 24.41,
+      "precio": 24.6,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 19.95
     },
     "PARAUCO": {
-      "precio": 3886.9,
+      "precio": 3896.7,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 1932.0
     },
     "MALLPLAZA": {
-      "precio": 3746.9,
+      "precio": 3729.9,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2001.9
     },
     "QUINENCO": {
-      "precio": 4078.0,
+      "precio": 4282.7,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 382.05,
+      "precio": 386.88,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1235.0,
+      "precio": 1200.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 691.25
@@ -178,19 +178,19 @@
       "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 64500.0,
+      "precio": 65037.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 34560.0
     },
     "CONCHATORO": {
-      "precio": 831.93,
+      "precio": 829.69,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7515.5,
+      "precio": 7478.1,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7000.0
@@ -220,7 +220,7 @@
       "bajo52": 1934.0
     },
     "HITES": {
-      "precio": 131.0,
+      "precio": 129.23,
       "anterior": 132.09,
       "alto52": 146.09,
       "bajo52": 93.0
@@ -256,7 +256,7 @@
       "bajo52": 1239.6
     },
     "SONDA": {
-      "precio": 325.0,
+      "precio": 329.0,
       "anterior": 309.99,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -298,37 +298,37 @@
       "bajo52": 197.09
     },
     "INVERCAP": {
-      "precio": 1885.6,
+      "precio": 1884.6,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1289.3
     },
     "BICE": {
-      "precio": 408.99,
+      "precio": 401.09,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 265.0
     },
     "HABITAT": {
-      "precio": 1265.0,
+      "precio": 1235.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1060.0
     },
     "CFMITNIPSA": {
-      "precio": 5090.1,
+      "precio": 5091.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 3876.4
     },
     "CFINRENTAS": {
-      "precio": 2225.0,
+      "precio": 2236.1,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1563.14
     },
     "CFIBTGRCA": {
-      "precio": 23394.0,
+      "precio": 24050.0,
       "anterior": 25331.39,
       "alto52": 28000.0,
       "bajo52": 19800.0
@@ -427,31 +427,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cae a niveles de $ 940 tras alivio de tensiones en Medio Oriente y en semana clave por decisión de la Fed",
+      "texto": "Gobierno deja sin efecto licitación del Puerto Exterior de San Antonio y reformulará ejecución de las obras",
+      "link": "http://www.df.cl/empresas/industria/gobierno-deja-sin-efecto-licitacion-del-puerto-exterior-de-san-antonio-y",
+      "fecha": "Mon, 27 Jul 2026",
+      "fechaISO": "2026-07-27T17:46:38+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Dólar cae a niveles de $ 940 tras alivio de tensión geopolítica y en semana clave por decisión de la Fed",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-edrks",
       "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T15:25:40+00:00"
+      "fechaISO": "2026-07-27T17:32:47+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA abre al alza y recupera los 11.000 puntos con fuerte impulso de Latam tras pausa de hostilidades en Medio Oriente",
+      "texto": "IPSA sube a niveles de 11.000 puntos con fuerte impulso de Latam tras pausa de hostilidades en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-heawk",
       "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T14:02:11+00:00"
+      "fechaISO": "2026-07-27T17:29:52+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Principales gremios eléctricos unen fuerzas para representar la visión de la industria y buscan reeditar encuentro de la energía",
-      "link": "http://www.df.cl/empresas/energia/principales-gremios-electricos-unen-fuerzas-para-representar-la-vision-de",
+      "texto": "Por un deterioro del “balance de riesgos externos”: GPM recomienda mantener la tasa en 4,5%",
+      "link": "http://www.df.cl/economia-y-politica/macro/por-un-deterioro-del-balance-de-riesgos-externos-gpm-recomienda-mantener",
       "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T14:02:04+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Con ayuda de la IA, Minvu procesa observaciones para definir ajustes y lanzar reforma con la que busca impulsar la industria inmobiliaria",
-      "link": "http://www.df.cl/empresas/construccion/con-ayuda-de-la-ia-minvu-procesa-observaciones-para-definir-ajustes-y",
-      "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T11:44:22+00:00"
+      "fechaISO": "2026-07-27T17:00:43+00:00"
     }
   ]
 }
