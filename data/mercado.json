@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-28T18:19:07.434385+00:00",
+  "actualizado": "2026-07-28T21:35:57.254625+00:00",
   "macro": {
     "dolar": 941.9,
     "uf": 40844.79,
@@ -10,31 +10,31 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 342.76,
+      "precio": 340.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 191.1,
+      "precio": 189.1,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 133.0
     },
     "BCI": {
-      "precio": 64447.0,
+      "precio": 64500.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 37175.0
     },
     "ITAUCL": {
-      "precio": 21200.0,
+      "precio": 21100.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 12562.0
     },
     "BSANTANDER": {
-      "precio": 79.5,
+      "precio": 79.12,
       "anterior": 77.0,
       "alto52": 81.78,
       "bajo52": 52.0
@@ -46,55 +46,55 @@
       "bajo52": 4502.0
     },
     "CENCOSUD": {
-      "precio": 1895.9,
+      "precio": 1900.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1882.0
     },
     "CENCOMALLS": {
-      "precio": 2275.0,
+      "precio": 2249.9,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1808.0
     },
     "COLBUN": {
-      "precio": 135.49,
+      "precio": 134.8,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5450.0,
+      "precio": 5585.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.86,
+      "precio": 48.2,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4618.0,
+      "precio": 4710.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3540.0
     },
     "ENTEL": {
-      "precio": 3601.0,
+      "precio": 3620.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3055.0
     },
     "CMPC": {
-      "precio": 1038.5,
+      "precio": 1035.0,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6312.3,
+      "precio": 6300.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
@@ -106,79 +106,79 @@
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.24,
+      "precio": 81.6,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 61.51
     },
     "ECL": {
-      "precio": 1840.9,
+      "precio": 1830.0,
       "anterior": 1807.0,
       "alto52": 1879.9,
       "bajo52": 1158.5
     },
     "FALABELLA": {
-      "precio": 6190.9,
+      "precio": 6101.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 4601.5
     },
     "IAM": {
-      "precio": 910.0,
+      "precio": 925.43,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 810.0
     },
     "ILC": {
-      "precio": 21169.0,
+      "precio": 21250.0,
       "anterior": 21450.0,
       "alto52": 23725.0,
       "bajo52": 10025.0
     },
     "LTM": {
-      "precio": 24.75,
+      "precio": 25.0,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3940.3,
+      "precio": 3989.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 1932.0
     },
     "MALLPLAZA": {
-      "precio": 3696.9,
+      "precio": 3681.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2001.9
     },
     "QUINENCO": {
-      "precio": 4320.0,
+      "precio": 4297.3,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 382.72,
+      "precio": 383.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1250.0,
+      "precio": 1230.2,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 691.25
     },
     "SMU": {
-      "precio": 125.9,
+      "precio": 126.0,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 124.77
     },
     "SQM-B": {
-      "precio": 62092.0,
+      "precio": 62500.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 34560.0
@@ -208,16 +208,16 @@
       "bajo52": 51.02
     },
     "ENAEX": {
-      "precio": 24950.0,
+      "precio": 24947.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
       "bajo52": 18370.0
     },
     "FORUS": {
-      "precio": 1895.0,
+      "precio": 1879.9,
       "anterior": 1983.4,
       "alto52": 2510.0,
-      "bajo52": 1895.0
+      "bajo52": 1880.0
     },
     "HITES": {
       "precio": 129.04,
@@ -244,7 +244,7 @@
       "bajo52": 529.98
     },
     "SOCOVESA": {
-      "precio": 136.0,
+      "precio": 136.06,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 67.02
@@ -262,7 +262,7 @@
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1555.0,
+      "precio": 1560.0,
       "anterior": 1570.0,
       "alto52": 1745.0,
       "bajo52": 1150.0
@@ -280,7 +280,7 @@
       "bajo52": 650.4
     },
     "TRICOT": {
-      "precio": 582.0,
+      "precio": 581.78,
       "anterior": 581.84,
       "alto52": 688.8,
       "bajo52": 513.1
@@ -304,19 +304,19 @@
       "bajo52": 1289.3
     },
     "BICE": {
-      "precio": 400.0,
+      "precio": 399.0,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 265.0
     },
     "HABITAT": {
-      "precio": 1221.0,
+      "precio": 1221.3,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1060.0
     },
     "CFMITNIPSA": {
-      "precio": 5025.4,
+      "precio": 5010.4,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 3877.4
@@ -328,7 +328,7 @@
       "bajo52": 1563.14
     },
     "CFIBTGRCA": {
-      "precio": 24100.0,
+      "precio": 23948.65,
       "anterior": 25330.0,
       "alto52": 28000.0,
       "bajo52": 19800.0
@@ -399,6 +399,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Advierten inminente alza en precio de hortalizas, leche y carne tras estragos del temporal en el sur",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/advierten-inminente-alza-en-precio-de-hortalizas-leche-y-carne-tras/2026-07-28/160735.html",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T20:07:35+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Ministro Mas proyecta \"meses de malas noticias\" en empleo por el invierno",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/ministro-mas-proyecta-meses-de-malas-noticias-en-empleo-por-el-invierno/2026-07-28/144854.html",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T18:48:54+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Gobierno decretó emergencia agrícola en tres regiones tras devastador temporal",
       "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/gobierno-decreto-emergencia-agricola-en-tres-regiones-tras-devastador/2026-07-28/132357.html",
       "fecha": "Tue, 28 Jul 2026",
@@ -412,46 +426,32 @@
       "fechaISO": "2026-07-28T12:17:54+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Gobierno y gremios exportadores coordinan negociación con EE.UU. ante aranceles del 12,5%",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/gobierno-y-gremios-exportadores-coordinan-negociacion-con-ee-uu-ante/2026-07-27/145836.html",
-      "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T18:58:36+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Gobierno explica que nuevo arancel de Trump era casi inevitable, pero logró moderarlo",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/gobierno-explica-que-nuevo-arancel-de-trump-era-casi-inevitable-pero/2026-07-27/082309.html",
-      "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T12:23:09+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "¿Quién es Arturo Fermandois? El elegido por La Moneda para defender la invariabilidad y la indemnización por RCA ante el Tribunal Constitucional",
+      "link": "http://www.df.cl/economia-y-politica/politica/quien-es-arturo-fermandois-el-elegido-por-la-moneda-para-defender-la",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T20:44:16+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Resultados de Engie superan expectativas mientras invierte con fuerza en parques eólicos y sistemas de almacenamiento",
-      "link": "http://www.df.cl/empresas/energia/resultados-de-engie-superan-expectativas-mientras-invierte-con-fuerza-en",
+      "texto": "Nissan lanza el nuevo Versa en Chile: primera presentación bajo la representación de Astara",
+      "link": "http://www.df.cl/empresas/industria/nissan-presenta-un-renovado-versa-en-el-primer-lanzamiento-desde-que-astara",
       "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T18:13:17+00:00"
+      "fechaISO": "2026-07-28T21:31:26+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Kast alista maletas para China: en noviembre realizará visita oficial para reunirse con Xi Jinping y participar en Apec",
-      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/kast-alista-maletas-para-china-en-noviembre-realizara-visita-oficial-para",
+      "texto": "Bolsa chilena cierra en rojo y el IPSA pierde los 10.900 puntos justo antes de la decisión del Banco Central",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ycew8",
       "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T17:26:48+00:00"
+      "fechaISO": "2026-07-28T20:59:06+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Biministro Mas anticipa \"meses de malas noticias\" en empleo y recibe propuestas reactivadoras de gremios empresariales",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/biministro-mas-anticipa-meses-de-malas-noticias-en-empleo-y-recibe",
+      "texto": "Dólar repite una fuerte caída y cierra próximo a $ 930 por la distensión del conflicto en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ch6ny",
       "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T17:30:30+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Caso Factop: Jalaff busca juicio abreviado y asegura que \"prefiero tener paz en vez de la razón\"",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/caso-factop-jalaff-busca-juicio-abreviado-y-asegura-que-prefiero-tener",
-      "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T18:00:13+00:00"
+      "fechaISO": "2026-07-28T20:10:45+00:00"
     }
   ]
 }
