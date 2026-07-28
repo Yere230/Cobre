@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-28T15:09:27.830382+00:00",
+  "actualizado": "2026-07-28T18:19:07.434385+00:00",
   "macro": {
     "dolar": 941.9,
     "uf": 40844.79,
@@ -10,157 +10,157 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 342.86,
+      "precio": 342.76,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 190.2,
+      "precio": 191.1,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 133.0
     },
     "BCI": {
-      "precio": 63700.0,
+      "precio": 64447.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 37175.0
     },
     "ITAUCL": {
-      "precio": 21345.0,
+      "precio": 21200.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 12562.0
     },
     "BSANTANDER": {
-      "precio": 79.85,
+      "precio": 79.5,
       "anterior": 77.0,
       "alto52": 81.78,
       "bajo52": 52.0
     },
     "CAP": {
-      "precio": 6094.5,
+      "precio": 6000.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4502.0
     },
     "CENCOSUD": {
-      "precio": 1882.0,
+      "precio": 1895.9,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1882.0
     },
     "CENCOMALLS": {
-      "precio": 2250.0,
+      "precio": 2275.0,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1808.0
     },
     "COLBUN": {
-      "precio": 135.0,
+      "precio": 135.49,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5586.6,
+      "precio": 5450.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.7,
+      "precio": 47.86,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4620.0,
+      "precio": 4618.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3540.0
     },
     "ENTEL": {
-      "precio": 3620.0,
+      "precio": 3601.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3055.0
     },
     "CMPC": {
-      "precio": 1031.5,
+      "precio": 1038.5,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6308.9,
+      "precio": 6312.3,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 85.93,
+      "precio": 85.8,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 80.93,
+      "precio": 81.24,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 61.51
     },
     "ECL": {
-      "precio": 1852.0,
+      "precio": 1840.9,
       "anterior": 1807.0,
       "alto52": 1879.9,
       "bajo52": 1158.5
     },
     "FALABELLA": {
-      "precio": 6134.7,
+      "precio": 6190.9,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 4601.5
     },
     "IAM": {
-      "precio": 918.73,
+      "precio": 910.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 810.0
     },
     "ILC": {
-      "precio": 21300.0,
+      "precio": 21169.0,
       "anterior": 21450.0,
       "alto52": 23725.0,
       "bajo52": 10025.0
     },
     "LTM": {
-      "precio": 24.34,
+      "precio": 24.75,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3898.0,
+      "precio": 3940.3,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 1932.0
     },
     "MALLPLAZA": {
-      "precio": 3692.5,
+      "precio": 3696.9,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2001.9
     },
     "QUINENCO": {
-      "precio": 4290.0,
+      "precio": 4320.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 381.41,
+      "precio": 382.72,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
@@ -172,19 +172,19 @@
       "bajo52": 691.25
     },
     "SMU": {
-      "precio": 126.0,
+      "precio": 125.9,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 125.13
+      "bajo52": 124.77
     },
     "SQM-B": {
-      "precio": 62800.0,
+      "precio": 62092.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 34560.0
     },
     "CONCHATORO": {
-      "precio": 840.0,
+      "precio": 835.0,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
@@ -208,7 +208,7 @@
       "bajo52": 51.02
     },
     "ENAEX": {
-      "precio": 24957.0,
+      "precio": 24950.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
       "bajo52": 18370.0
@@ -244,13 +244,13 @@
       "bajo52": 529.98
     },
     "SOCOVESA": {
-      "precio": 138.0,
+      "precio": 136.0,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 67.02
     },
     "SK": {
-      "precio": 1623.9,
+      "precio": 1658.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1254.0
@@ -274,7 +274,7 @@
       "bajo52": 2020.0
     },
     "WATTS": {
-      "precio": 704.9,
+      "precio": 689.0,
       "anterior": 730.0,
       "alto52": 820.0,
       "bajo52": 650.4
@@ -298,37 +298,37 @@
       "bajo52": 197.09
     },
     "INVERCAP": {
-      "precio": 1872.2,
+      "precio": 1872.0,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1289.3
     },
     "BICE": {
-      "precio": 403.94,
+      "precio": 400.0,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 265.0
     },
     "HABITAT": {
-      "precio": 1220.0,
+      "precio": 1221.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1060.0
     },
     "CFMITNIPSA": {
-      "precio": 5052.1,
+      "precio": 5025.4,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 3877.4
     },
     "CFINRENTAS": {
-      "precio": 2237.0,
+      "precio": 2236.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1563.14
     },
     "CFIBTGRCA": {
-      "precio": 23886.0,
+      "precio": 24100.0,
       "anterior": 25330.0,
       "alto52": 28000.0,
       "bajo52": 19800.0
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Gobierno decretó emergencia agrícola en tres regiones tras devastador temporal",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/gobierno-decreto-emergencia-agricola-en-tres-regiones-tras-devastador/2026-07-28/132357.html",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T17:23:57+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Sociedad Nacional de Agricultura: El Niño se está portando muy mal y va a causar mucho daño",
       "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/sociedad-nacional-de-agricultura-el-nino-se-esta-portando-muy-mal-y-va/2026-07-28/081754.html",
       "fecha": "Tue, 28 Jul 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-07-27T12:23:09+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Delfino rechazó actitud \"si no les gusta, quédense sin niuno\" de Jorge Quiroz",
-      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/delfino-rechazo-actitud-si-no-les-gusta-quedense-sin-niuno-de-jorge/2026-07-27/085057.html",
-      "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T12:50:57+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Resultados de Engie superan expectativas mientras invierte con fuerza en parques eólicos y sistemas de almacenamiento",
+      "link": "http://www.df.cl/empresas/energia/resultados-de-engie-superan-expectativas-mientras-invierte-con-fuerza-en",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T18:13:17+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Juzgado sobresee a Sergio Jadue tras casi una década de investigación y despeja su eventual regreso a Chile",
-      "link": "http://www.df.cl/economia-y-politica/pais/juzgado-sobresee-a-sergio-jadue-tras-casi-una-decada-de-investigacion-y",
+      "texto": "Kast alista maletas para China: en noviembre realizará visita oficial para reunirse con Xi Jinping y participar en Apec",
+      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/kast-alista-maletas-para-china-en-noviembre-realizara-visita-oficial-para",
       "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T15:09:09+00:00"
+      "fechaISO": "2026-07-28T17:26:48+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cae bajo los $ 940 mientras petróleo sigue a la baja por distensión del conflicto en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ch6ny",
+      "texto": "Biministro Mas anticipa \"meses de malas noticias\" en empleo y recibe propuestas reactivadoras de gremios empresariales",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/biministro-mas-anticipa-meses-de-malas-noticias-en-empleo-y-recibe",
       "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T15:08:00+00:00"
+      "fechaISO": "2026-07-28T17:30:30+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA abre en rojo y pierde los 10.900 puntos mientras bolsas globales enfrentan presiones de venta en semana clave",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ycew8",
+      "texto": "Caso Factop: Jalaff busca juicio abreviado y asegura que \"prefiero tener paz en vez de la razón\"",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/caso-factop-jalaff-busca-juicio-abreviado-y-asegura-que-prefiero-tener",
       "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T14:06:34+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Hasta enero: Costanera Norte cerrará por seis meses las pistas laterales del puente Lo Saldes por obras de reemplazo",
-      "link": "http://www.df.cl/empresas/construccion/hasta-enero-costanera-norte-cerrara-por-seis-meses-las-pistas-laterales",
-      "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T14:02:41+00:00"
+      "fechaISO": "2026-07-28T18:00:13+00:00"
     }
   ]
 }
