@@ -1,76 +1,76 @@
 {
-  "actualizado": "2026-07-27T21:34:08.869710+00:00",
+  "actualizado": "2026-07-28T15:09:27.830382+00:00",
   "macro": {
-    "dolar": 946.1,
+    "dolar": 941.9,
     "uf": 40844.79,
     "utm": 71649,
-    "cobre": 6.17,
+    "cobre": 6.19,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 340.0,
+      "precio": 342.86,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 193.26,
+      "precio": 190.2,
       "anterior": 188.5,
       "alto52": 200.68,
-      "bajo52": 132.31
+      "bajo52": 133.0
     },
     "BCI": {
-      "precio": 64200.0,
+      "precio": 63700.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
-      "bajo52": 37167.0
+      "bajo52": 37175.0
     },
     "ITAUCL": {
-      "precio": 21379.0,
+      "precio": 21345.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 12562.0
     },
     "BSANTANDER": {
-      "precio": 80.77,
+      "precio": 79.85,
       "anterior": 77.0,
-      "alto52": 81.47,
+      "alto52": 81.78,
       "bajo52": 52.0
     },
     "CAP": {
-      "precio": 6060.0,
+      "precio": 6094.5,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4502.0
     },
     "CENCOSUD": {
-      "precio": 1915.0,
+      "precio": 1882.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
-      "bajo52": 1915.0
+      "bajo52": 1882.0
     },
     "CENCOMALLS": {
-      "precio": 2300.0,
+      "precio": 2250.0,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1808.0
     },
     "COLBUN": {
-      "precio": 134.5,
+      "precio": 135.0,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5603.9,
+      "precio": 5586.6,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.5,
+      "precio": 48.7,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
@@ -79,76 +79,76 @@
       "precio": 4620.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
-      "bajo52": 3500.1
+      "bajo52": 3540.0
     },
     "ENTEL": {
-      "precio": 3652.3,
+      "precio": 3620.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3055.0
     },
     "CMPC": {
-      "precio": 1039.5,
+      "precio": 1031.5,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6249.0,
+      "precio": 6308.9,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 85.89,
+      "precio": 85.93,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.41,
+      "precio": 80.93,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 61.51
     },
     "ECL": {
-      "precio": 1865.0,
+      "precio": 1852.0,
       "anterior": 1807.0,
-      "alto52": 1886.6,
+      "alto52": 1879.9,
       "bajo52": 1158.5
     },
     "FALABELLA": {
-      "precio": 6155.0,
+      "precio": 6134.7,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 4601.5
     },
     "IAM": {
-      "precio": 916.39,
+      "precio": 918.73,
       "anterior": 921.89,
       "alto52": 1150.0,
-      "bajo52": 806.98
+      "bajo52": 810.0
     },
     "ILC": {
-      "precio": 21417.0,
+      "precio": 21300.0,
       "anterior": 21450.0,
       "alto52": 23725.0,
       "bajo52": 10025.0
     },
     "LTM": {
-      "precio": 24.6,
+      "precio": 24.34,
       "anterior": 24.69,
       "alto52": 30.0,
-      "bajo52": 19.95
+      "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3895.0,
+      "precio": 3898.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 1932.0
     },
     "MALLPLAZA": {
-      "precio": 3689.0,
+      "precio": 3692.5,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2001.9
@@ -160,7 +160,7 @@
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 385.0,
+      "precio": 381.41,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
@@ -178,13 +178,13 @@
       "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 64650.0,
+      "precio": 62800.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 34560.0
     },
     "CONCHATORO": {
-      "precio": 839.98,
+      "precio": 840.0,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
@@ -199,7 +199,7 @@
       "precio": 26.04,
       "anterior": 26.29,
       "alto52": 34.0,
-      "bajo52": 18.4
+      "bajo52": 19.0
     },
     "CAMANCHACA": {
       "precio": 72.0,
@@ -226,7 +226,7 @@
       "bajo52": 93.0
     },
     "INGEVEC": {
-      "precio": 195.81,
+      "precio": 194.98,
       "anterior": 200.99,
       "alto52": 227.0,
       "bajo52": 92.57
@@ -250,10 +250,10 @@
       "bajo52": 67.02
     },
     "SK": {
-      "precio": 1614.2,
+      "precio": 1623.9,
       "anterior": 1632.3,
       "alto52": 1875.0,
-      "bajo52": 1239.6
+      "bajo52": 1254.0
     },
     "SONDA": {
       "precio": 328.0,
@@ -280,7 +280,7 @@
       "bajo52": 650.4
     },
     "TRICOT": {
-      "precio": 581.78,
+      "precio": 582.0,
       "anterior": 581.84,
       "alto52": 688.8,
       "bajo52": 513.1
@@ -298,38 +298,38 @@
       "bajo52": 197.09
     },
     "INVERCAP": {
-      "precio": 1875.3,
+      "precio": 1872.2,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1289.3
     },
     "BICE": {
-      "precio": 401.27,
+      "precio": 403.94,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 265.0
     },
     "HABITAT": {
-      "precio": 1220.9,
+      "precio": 1220.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1060.0
     },
     "CFMITNIPSA": {
-      "precio": 5090.7,
+      "precio": 5052.1,
       "anterior": 5035.4,
       "alto52": 5588.4,
-      "bajo52": 3876.4
+      "bajo52": 3877.4
     },
     "CFINRENTAS": {
-      "precio": 2236.1,
+      "precio": 2237.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1563.14
     },
     "CFIBTGRCA": {
-      "precio": 24071.56,
-      "anterior": 25331.39,
+      "precio": 23886.0,
+      "anterior": 25330.0,
       "alto52": 28000.0,
       "bajo52": 19800.0
     },
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Sociedad Nacional de Agricultura: El Niño se está portando muy mal y va a causar mucho daño",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/sociedad-nacional-de-agricultura-el-nino-se-esta-portando-muy-mal-y-va/2026-07-28/081754.html",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T12:17:54+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Gobierno y gremios exportadores coordinan negociación con EE.UU. ante aranceles del 12,5%",
       "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/gobierno-y-gremios-exportadores-coordinan-negociacion-con-ee-uu-ante/2026-07-27/145836.html",
       "fecha": "Mon, 27 Jul 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-07-27T12:50:57+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "PS: Arancel estadounidense \"es un grave fracaso de la política exterior del Gobierno\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/ps-arancel-estadounidense-es-un-grave-fracaso-de-la-politica-exterior/2026-07-25/140946.html",
-      "fecha": "Sat, 25 Jul 2026",
-      "fechaISO": "2026-07-25T18:09:46+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Juzgado sobresee a Sergio Jadue tras casi una década de investigación y despeja su eventual regreso a Chile",
+      "link": "http://www.df.cl/economia-y-politica/pais/juzgado-sobresee-a-sergio-jadue-tras-casi-una-decada-de-investigacion-y",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T15:09:09+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Gobierno envía a EEUU listado de productos que busca dejar exento de mayor arancel y exportadores cuantifican impacto",
-      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/canciller-y-subrei-delinean-proximos-para-la-negociacion-que-viene-en-el",
-      "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T21:28:23+00:00"
+      "texto": "Dólar cae bajo los $ 940 mientras petróleo sigue a la baja por distensión del conflicto en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ch6ny",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T15:08:00+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Biministro Alvarado defiende fondos a municipios en proyecto de reactivación: \"No hay ninguna compensación desigual\"",
-      "link": "http://www.df.cl/economia-y-politica/politica/al-gobierno-siempre-le-ha-interesado-biministro-alvarado-se-refiere-a",
-      "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T21:26:53+00:00"
+      "texto": "IPSA abre en rojo y pierde los 10.900 puntos mientras bolsas globales enfrentan presiones de venta en semana clave",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ycew8",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T14:06:34+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra con leve alza más cerca de 11.000 puntos con impulso de Latam tras pausa de hostilidades en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-heawk",
-      "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T20:31:42+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra a la baja cerca de $ 940 tras alivio de tensión geopolítica y ante una semana clave por decisión de la Fed",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-edrks",
-      "fecha": "Mon, 27 Jul 2026",
-      "fechaISO": "2026-07-27T20:10:57+00:00"
+      "texto": "Hasta enero: Costanera Norte cerrará por seis meses las pistas laterales del puente Lo Saldes por obras de reemplazo",
+      "link": "http://www.df.cl/empresas/construccion/hasta-enero-costanera-norte-cerrara-por-seis-meses-las-pistas-laterales",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T14:02:41+00:00"
     }
   ]
 }
