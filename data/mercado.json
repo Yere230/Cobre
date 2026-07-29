@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-29T18:10:39.241207+00:00",
+  "actualizado": "2026-07-29T21:24:45.476588+00:00",
   "macro": {
     "dolar": 936.2,
     "uf": 40844.79,
@@ -10,151 +10,151 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 340.0,
+      "precio": 339.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 190.72,
+      "precio": 191.0,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 133.01
     },
     "BCI": {
-      "precio": 65292.0,
+      "precio": 64990.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 37175.0
     },
     "ITAUCL": {
-      "precio": 21287.0,
+      "precio": 20899.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 12600.0
     },
     "BSANTANDER": {
-      "precio": 80.5,
+      "precio": 80.24,
       "anterior": 77.0,
       "alto52": 80.85,
       "bajo52": 55.63
     },
     "CAP": {
-      "precio": 5999.0,
+      "precio": 6000.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4529.2
     },
     "CENCOSUD": {
-      "precio": 1928.8,
+      "precio": 1919.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1900.0
     },
     "CENCOMALLS": {
-      "precio": 2272.0,
+      "precio": 2271.0,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1849.9
     },
     "COLBUN": {
-      "precio": 134.6,
+      "precio": 135.34,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5521.5,
+      "precio": 5450.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.4,
+      "precio": 48.49,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4662.7,
+      "precio": 4710.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3616.0,
+      "precio": 3615.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3056.5
     },
     "CMPC": {
-      "precio": 1061.6,
+      "precio": 1035.1,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6396.6,
+      "precio": 6190.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 86.47,
+      "precio": 86.69,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 80.96,
+      "precio": 81.5,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 61.7
     },
     "ECL": {
-      "precio": 1861.8,
+      "precio": 1865.0,
       "anterior": 1807.0,
       "alto52": 1879.9,
       "bajo52": 1171.1
     },
     "FALABELLA": {
-      "precio": 6144.2,
+      "precio": 6216.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 4666.0
     },
     "IAM": {
-      "precio": 928.25,
+      "precio": 949.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 812.87
     },
     "ILC": {
-      "precio": 21360.0,
+      "precio": 21320.0,
       "anterior": 21450.0,
       "alto52": 23725.0,
       "bajo52": 10182.0
     },
     "LTM": {
-      "precio": 24.75,
+      "precio": 24.4,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3973.8,
+      "precio": 3960.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 1957.1
     },
     "MALLPLAZA": {
-      "precio": 3751.8,
+      "precio": 3700.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2031.0
     },
     "QUINENCO": {
-      "precio": 4270.0,
+      "precio": 4400.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
@@ -166,25 +166,25 @@
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1230.0,
+      "precio": 1221.1,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 691.25
     },
     "SMU": {
-      "precio": 126.1,
+      "precio": 126.89,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 63417.0,
+      "precio": 63799.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 34560.0
     },
     "CONCHATORO": {
-      "precio": 839.97,
+      "precio": 830.0,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
@@ -202,7 +202,7 @@
       "bajo52": 19.0
     },
     "CAMANCHACA": {
-      "precio": 72.0,
+      "precio": 69.0,
       "anterior": 76.49,
       "alto52": 96.88,
       "bajo52": 51.32
@@ -244,7 +244,7 @@
       "bajo52": 529.98
     },
     "SOCOVESA": {
-      "precio": 134.81,
+      "precio": 138.0,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 67.02
@@ -256,13 +256,13 @@
       "bajo52": 1254.0
     },
     "SONDA": {
-      "precio": 319.0,
+      "precio": 318.9,
       "anterior": 309.99,
       "alto52": 383.7,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1560.0,
+      "precio": 1609.9,
       "anterior": 1570.0,
       "alto52": 1745.0,
       "bajo52": 1150.0
@@ -274,7 +274,7 @@
       "bajo52": 2020.0
     },
     "WATTS": {
-      "precio": 670.0,
+      "precio": 669.8,
       "anterior": 730.0,
       "alto52": 820.0,
       "bajo52": 650.4
@@ -286,10 +286,10 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 86.1,
+      "precio": 82.73,
       "anterior": 91.34,
       "alto52": 155.0,
-      "bajo52": 83.46
+      "bajo52": 82.73
     },
     "BLUMAR": {
       "precio": 275.05,
@@ -304,19 +304,19 @@
       "bajo52": 1289.3
     },
     "BICE": {
-      "precio": 396.0,
+      "precio": 395.49,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 265.0
     },
     "HABITAT": {
-      "precio": 1220.0,
+      "precio": 1269.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1060.0
     },
     "CFMITNIPSA": {
-      "precio": 5054.7,
+      "precio": 5040.6,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 3900.1
@@ -328,7 +328,7 @@
       "bajo52": 1563.14
     },
     "CFIBTGRCA": {
-      "precio": 23900.0,
+      "precio": 23950.0,
       "anterior": 24894.97,
       "alto52": 28000.0,
       "bajo52": 19800.0
@@ -427,31 +427,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Venta de la empresa, de acciones o activos: las propuestas de firma chilena líder en vino fino a granel para evitar su quiebra",
-      "link": "http://www.df.cl/empresas/actualidad/venta-de-la-empresa-de-acciones-o-activos-las-propuestas-de-firma-chilena",
+      "texto": "Meta proyecta ingresos bajo lo esperado y su acción se desploma 10%",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/meta-proyecta-ingresos-bajo-lo-esperado-y-su-accion-cae-6-2",
       "fecha": "Wed, 29 Jul 2026",
-      "fechaISO": "2026-07-29T17:50:48+00:00"
+      "fechaISO": "2026-07-29T21:24:05+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Fundación Nuestros Hijos construirá centro para tratar cáncer infantojuvenil en la comuna de San Miguel",
-      "link": "http://www.df.cl/empresas/salud/fundacion-nuestros-hijos-construira-centro-para-tratar-cancer",
+      "texto": "Ya no se llamará Movistar Arena: Santander confirma que se quedó con los derechos del nombre del recinto en el Parque O´Higgins",
+      "link": "http://www.df.cl/empresas/industria/ya-no-se-llamara-movistar-arena-santander-confirma-que-se-quedo-con-los",
       "fecha": "Wed, 29 Jul 2026",
-      "fechaISO": "2026-07-29T17:22:58+00:00"
+      "fechaISO": "2026-07-29T21:07:19+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Caso Factop: Álvaro Jalaff cumplirá cinco años de libertad vigilada tras procedimiento abreviado",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/caso-factop-alvaro-jalaff-cumplira-cinco-anos-de-libertad-vigilada-tras",
+      "texto": "Bolsa de Santiago cierra al alza una jornada marcada por la decisión de la Fed de no subir las tasas de interés",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-6gnum",
       "fecha": "Wed, 29 Jul 2026",
-      "fechaISO": "2026-07-29T17:13:14+00:00"
+      "fechaISO": "2026-07-29T20:39:59+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El petróleo vuelve a los US$ 90 tras amenazas de Trump de nuevos ataques a Irán",
-      "link": "http://www.df.cl/mercados/commodities/el-petroleo-frena-su-caida-y-vuelve-a-subir-en-medio-de-una-nueva-escalada",
+      "texto": "Dólar deja atrás su alza inicial de la sesión y cierra plano luego que la Fed mantuviera las tasas de interés",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ydm4a",
       "fecha": "Wed, 29 Jul 2026",
-      "fechaISO": "2026-07-29T16:24:14+00:00"
+      "fechaISO": "2026-07-29T20:11:39+00:00"
     }
   ]
 }
