@@ -1,10 +1,6 @@
 {
-  "actualizado": "2026-07-28T21:35:57.254625+00:00",
+  "actualizado": "2026-07-29T15:02:42.179863+00:00",
   "macro": {
-    "dolar": 941.9,
-    "uf": 40844.79,
-    "utm": 71649,
-    "cobre": 6.19,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
@@ -16,145 +12,145 @@
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 189.1,
+      "precio": 190.0,
       "anterior": 188.5,
       "alto52": 200.68,
-      "bajo52": 133.0
+      "bajo52": 133.01
     },
     "BCI": {
-      "precio": 64500.0,
+      "precio": 65000.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 37175.0
     },
     "ITAUCL": {
-      "precio": 21100.0,
+      "precio": 21111.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
-      "bajo52": 12562.0
+      "bajo52": 12600.0
     },
     "BSANTANDER": {
-      "precio": 79.12,
+      "precio": 79.69,
       "anterior": 77.0,
-      "alto52": 81.78,
-      "bajo52": 52.0
+      "alto52": 80.68,
+      "bajo52": 55.63
     },
     "CAP": {
-      "precio": 6000.0,
+      "precio": 5969.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
-      "bajo52": 4502.0
+      "bajo52": 4529.2
     },
     "CENCOSUD": {
-      "precio": 1900.0,
+      "precio": 1935.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
-      "bajo52": 1882.0
+      "bajo52": 1900.0
     },
     "CENCOMALLS": {
-      "precio": 2249.9,
+      "precio": 2234.0,
       "anterior": 2210.0,
       "alto52": 2799.9,
-      "bajo52": 1808.0
+      "bajo52": 1849.9
     },
     "COLBUN": {
-      "precio": 134.8,
+      "precio": 135.89,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5585.0,
+      "precio": 5523.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.2,
+      "precio": 47.94,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4710.0,
+      "precio": 4665.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
-      "bajo52": 3540.0
+      "bajo52": 3541.0
     },
     "ENTEL": {
       "precio": 3620.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
-      "bajo52": 3055.0
+      "bajo52": 3056.5
     },
     "CMPC": {
-      "precio": 1035.0,
+      "precio": 1036.9,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6300.0,
+      "precio": 6350.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 85.8,
+      "precio": 85.19,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.6,
+      "precio": 80.81,
       "anterior": 81.01,
       "alto52": 84.0,
-      "bajo52": 61.51
+      "bajo52": 61.7
     },
     "ECL": {
-      "precio": 1830.0,
+      "precio": 1850.0,
       "anterior": 1807.0,
       "alto52": 1879.9,
-      "bajo52": 1158.5
+      "bajo52": 1171.1
     },
     "FALABELLA": {
-      "precio": 6101.0,
+      "precio": 6199.8,
       "anterior": 5835.0,
       "alto52": 6948.5,
-      "bajo52": 4601.5
+      "bajo52": 4666.0
     },
     "IAM": {
-      "precio": 925.43,
+      "precio": 916.01,
       "anterior": 921.89,
       "alto52": 1150.0,
-      "bajo52": 810.0
+      "bajo52": 812.87
     },
     "ILC": {
-      "precio": 21250.0,
+      "precio": 21103.0,
       "anterior": 21450.0,
       "alto52": 23725.0,
-      "bajo52": 10025.0
+      "bajo52": 10182.0
     },
     "LTM": {
-      "precio": 25.0,
+      "precio": 24.52,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3989.0,
+      "precio": 3978.9,
       "anterior": 4039.9,
       "alto52": 4596.3,
-      "bajo52": 1932.0
+      "bajo52": 1957.1
     },
     "MALLPLAZA": {
-      "precio": 3681.0,
+      "precio": 3681.2,
       "anterior": 3950.0,
       "alto52": 4700.0,
-      "bajo52": 2001.9
+      "bajo52": 2031.0
     },
     "QUINENCO": {
-      "precio": 4297.3,
+      "precio": 4256.5,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
@@ -166,19 +162,19 @@
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1230.2,
+      "precio": 1230.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 691.25
     },
     "SMU": {
-      "precio": 126.0,
+      "precio": 127.2,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 124.77
+      "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 62500.0,
+      "precio": 63034.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 34560.0
@@ -205,16 +201,16 @@
       "precio": 72.0,
       "anterior": 76.49,
       "alto52": 96.88,
-      "bajo52": 51.02
+      "bajo52": 51.32
     },
     "ENAEX": {
-      "precio": 24947.0,
+      "precio": 24800.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
       "bajo52": 18370.0
     },
     "FORUS": {
-      "precio": 1879.9,
+      "precio": 1880.0,
       "anterior": 1983.4,
       "alto52": 2510.0,
       "bajo52": 1880.0
@@ -232,7 +228,7 @@
       "bajo52": 92.57
     },
     "MASISA": {
-      "precio": 8.73,
+      "precio": 8.76,
       "anterior": 8.68,
       "alto52": 20.04,
       "bajo52": 8.51
@@ -244,7 +240,7 @@
       "bajo52": 529.98
     },
     "SOCOVESA": {
-      "precio": 136.06,
+      "precio": 138.0,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 67.02
@@ -280,7 +276,7 @@
       "bajo52": 650.4
     },
     "TRICOT": {
-      "precio": 581.78,
+      "precio": 582.0,
       "anterior": 581.84,
       "alto52": 688.8,
       "bajo52": 513.1
@@ -298,28 +294,28 @@
       "bajo52": 197.09
     },
     "INVERCAP": {
-      "precio": 1872.0,
+      "precio": 1869.1,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1289.3
     },
     "BICE": {
-      "precio": 399.0,
+      "precio": 395.0,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 265.0
     },
     "HABITAT": {
-      "precio": 1221.3,
+      "precio": 1222.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1060.0
     },
     "CFMITNIPSA": {
-      "precio": 5010.4,
+      "precio": 5035.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
-      "bajo52": 3877.4
+      "bajo52": 3900.1
     },
     "CFINRENTAS": {
       "precio": 2236.0,
@@ -328,8 +324,8 @@
       "bajo52": 1563.14
     },
     "CFIBTGRCA": {
-      "precio": 23948.65,
-      "anterior": 25330.0,
+      "precio": 23900.0,
+      "anterior": 24894.97,
       "alto52": 28000.0,
       "bajo52": 19800.0
     },
@@ -399,8 +395,15 @@
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Advierten inminente alza en precio de hortalizas, leche y carne tras estragos del temporal en el sur",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/advierten-inminente-alza-en-precio-de-hortalizas-leche-y-carne-tras/2026-07-28/160735.html",
+      "texto": "Banco Central mantuvo tasa de interés en 4,5% ante volatilidad internacional e inflación al alza",
+      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-mantuvo-tasa-de-interes-en-4-5-ante-volatilidad/2026-07-28/181540.html",
+      "fecha": "Tue, 28 Jul 2026",
+      "fechaISO": "2026-07-28T22:15:40+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Advierten inminente alza en precio de hortalizas, leche y carne por estragos del temporal en el sur",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/advierten-inminente-alza-en-precio-de-hortalizas-leche-y-carne-por/2026-07-28/160735.html",
       "fecha": "Tue, 28 Jul 2026",
       "fechaISO": "2026-07-28T20:07:35+00:00"
     },
@@ -419,39 +422,32 @@
       "fechaISO": "2026-07-28T17:23:57+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Sociedad Nacional de Agricultura: El Niño se está portando muy mal y va a causar mucho daño",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/sociedad-nacional-de-agricultura-el-nino-se-esta-portando-muy-mal-y-va/2026-07-28/081754.html",
-      "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T12:17:54+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Dólar salta hacia los $ 940 por repunte de tensiones en Medio Oriente previo a incierta decisión de política monetaria en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ydm4a",
+      "fecha": "Wed, 29 Jul 2026",
+      "fechaISO": "2026-07-29T14:56:10+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "¿Quién es Arturo Fermandois? El elegido por La Moneda para defender la invariabilidad y la indemnización por RCA ante el Tribunal Constitucional",
-      "link": "http://www.df.cl/economia-y-politica/politica/quien-es-arturo-fermandois-el-elegido-por-la-moneda-para-defender-la",
-      "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T20:44:16+00:00"
+      "texto": "Daños por temporales: MOP financiará las primeras obras de reconstrucción y Hacienda analiza fórmula para el largo plazo",
+      "link": "http://www.df.cl/empresas/construccion/danos-por-temporales-mop-financiara-las-primeras-obras-de-reconstruccion-y",
+      "fecha": "Wed, 29 Jul 2026",
+      "fechaISO": "2026-07-29T14:56:12+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Nissan lanza el nuevo Versa en Chile: primera presentación bajo la representación de Astara",
-      "link": "http://www.df.cl/empresas/industria/nissan-presenta-un-renovado-versa-en-el-primer-lanzamiento-desde-que-astara",
-      "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T21:31:26+00:00"
+      "texto": "Kast apuesta por profundizar el modelo de concesiones: “El Estado solo no tiene las capacidades ni los recursos”",
+      "link": "http://www.df.cl/empresas/construccion/kast-apuesta-por-profundizar-el-modelo-de-concesiones-el-estado-solo-no",
+      "fecha": "Wed, 29 Jul 2026",
+      "fechaISO": "2026-07-29T15:02:04+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena cierra en rojo y el IPSA pierde los 10.900 puntos justo antes de la decisión del Banco Central",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ycew8",
-      "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T20:59:06+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar repite una fuerte caída y cierra próximo a $ 930 por la distensión del conflicto en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ch6ny",
-      "fecha": "Tue, 28 Jul 2026",
-      "fechaISO": "2026-07-28T20:10:45+00:00"
+      "texto": "IPSA abre a la baja arrastrado por Latam en medio del repunte del petróleo y dudas sobre el anuncio de la Fed",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-6gnum",
+      "fecha": "Wed, 29 Jul 2026",
+      "fechaISO": "2026-07-29T14:06:34+00:00"
     }
   ]
 }
