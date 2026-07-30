@@ -790,7 +790,11 @@ function limpiarNotasViejas(){
 
 function renderNotes(){
   limpiarNotasViejas();
-  const notesAll = load(KEYS.notes, []).slice().reverse();
+  const notesAll = load(KEYS.notes, []).slice().sort((a,b)=>{
+    const fechaA = a.fechaISO ? new Date(a.fechaISO).getTime() : 0;
+    const fechaB = b.fechaISO ? new Date(b.fechaISO).getTime() : 0;
+    return fechaB - fechaA; // más reciente primero
+  });
   const body = document.getElementById('notes-body');
   const pagesEl = document.getElementById('notes-pages');
   if(notesAll.length === 0){ body.innerHTML = '<div class="empty">Sin notas todavía.</div>'; pagesEl.innerHTML=''; return; }
