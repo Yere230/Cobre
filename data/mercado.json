@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-30T14:59:33.156025+00:00",
+  "actualizado": "2026-07-30T18:20:37.687550+00:00",
   "macro": {
     "dolar": 935.6,
     "uf": 40844.79,
@@ -10,193 +10,193 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 341.0,
+      "precio": 340.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 194.3,
+      "precio": 193.51,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 133.01
     },
     "BCI": {
-      "precio": 65792.0,
+      "precio": 65200.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 37600.0
     },
     "ITAUCL": {
-      "precio": 21197.0,
+      "precio": 21041.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 12664.0
     },
     "BSANTANDER": {
-      "precio": 81.49,
+      "precio": 80.47,
       "anterior": 77.0,
-      "alto52": 81.57,
+      "alto52": 81.79,
       "bajo52": 55.63
     },
     "CAP": {
-      "precio": 5921.0,
+      "precio": 5966.5,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4529.2
     },
     "CENCOSUD": {
-      "precio": 1939.0,
+      "precio": 1942.6,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1920.0
     },
     "CENCOMALLS": {
-      "precio": 2271.0,
+      "precio": 2284.7,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1875.0
     },
     "COLBUN": {
-      "precio": 135.29,
+      "precio": 136.09,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5368.7,
+      "precio": 5358.6,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.49,
+      "precio": 48.0,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4699.9,
+      "precio": 4665.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3627.9,
+      "precio": 3625.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3135.1
     },
     "CMPC": {
-      "precio": 1037.2,
+      "precio": 1034.6,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6280.0,
+      "precio": 6349.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 87.17,
+      "precio": 87.79,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.99,
+      "precio": 82.55,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 62.11
     },
     "ECL": {
-      "precio": 1866.0,
+      "precio": 1859.9,
       "anterior": 1807.0,
       "alto52": 1879.9,
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6220.0,
+      "precio": 6154.7,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 4700.0
     },
     "IAM": {
-      "precio": 939.5,
+      "precio": 931.85,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 812.87
     },
     "ILC": {
-      "precio": 21350.0,
+      "precio": 21380.0,
       "anterior": 21450.0,
       "alto52": 23725.0,
       "bajo52": 10244.0
     },
     "LTM": {
-      "precio": 24.66,
+      "precio": 24.64,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3981.7,
+      "precio": 3935.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 1959.4
     },
     "MALLPLAZA": {
-      "precio": 3718.9,
+      "precio": 3678.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2040.0
     },
     "QUINENCO": {
-      "precio": 4358.0,
+      "precio": 4317.2,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 381.5,
+      "precio": 379.68,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1221.1,
+      "precio": 1240.3,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 691.25
     },
     "SMU": {
-      "precio": 126.4,
+      "precio": 127.0,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 62997.0,
+      "precio": 63068.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 34560.0
     },
     "CONCHATORO": {
-      "precio": 830.0,
+      "precio": 838.49,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7507.0,
+      "precio": 7488.3,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7000.0
     },
     "ALMENDRAL": {
-      "precio": 26.04,
+      "precio": 25.99,
       "anterior": 26.29,
       "alto52": 34.0,
       "bajo52": 19.4
@@ -232,7 +232,7 @@
       "bajo52": 92.57
     },
     "MASISA": {
-      "precio": 8.58,
+      "precio": 8.56,
       "anterior": 8.68,
       "alto52": 20.04,
       "bajo52": 8.51
@@ -256,7 +256,7 @@
       "bajo52": 1254.0
     },
     "SONDA": {
-      "precio": 315.0,
+      "precio": 310.0,
       "anterior": 309.99,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -286,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 81.0,
+      "precio": 83.35,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 81.0
@@ -298,7 +298,7 @@
       "bajo52": 197.09
     },
     "INVERCAP": {
-      "precio": 1855.2,
+      "precio": 1835.8,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1289.3
@@ -310,25 +310,25 @@
       "bajo52": 265.0
     },
     "HABITAT": {
-      "precio": 1277.0,
+      "precio": 1284.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1060.0
     },
     "CFMITNIPSA": {
-      "precio": 5103.0,
+      "precio": 5071.3,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 3901.9
     },
     "CFINRENTAS": {
-      "precio": 2200.0,
+      "precio": 2180.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1563.14
     },
     "CFIBTGRCA": {
-      "precio": 23950.0,
+      "precio": 24100.0,
       "anterior": 24894.97,
       "alto52": 28000.0,
       "bajo52": 19800.0
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Qué significa realmente el \"aporte de capital privado\" que evalúa el Gobierno para Codelco",
+      "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/que-significa-realmente-el-aporte-de-capital-privado-que-evalua-el/2026-07-30/114941.html",
+      "fecha": "Thu, 30 Jul 2026",
+      "fechaISO": "2026-07-30T15:49:41+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Parlamentarios y alcaldes del Norte Chico exigen al Gobierno \"garantías de recursos frescos para la reconstrucción\"",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/parlamentarios-y-alcaldes-del-norte-chico-exigen-al-gobierno-garantias/2026-07-30/080308.html",
       "fecha": "Thu, 30 Jul 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-07-29T17:14:09+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Horas extra y aranceles de EE.UU: la advertencia de Krauss sobre la reforma laboral",
-      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/horas-extra-y-aranceles-de-ee-uu-la-advertencia-de-krauss-sobre-la/2026-07-29/121445.html",
-      "fecha": "Wed, 29 Jul 2026",
-      "fechaISO": "2026-07-29T16:14:45+00:00"
-    },
-    {
       "fuente": "Diario Financiero",
-      "texto": "Dólar se hunde $ 10 en el día después de la Fed y tras datos económicos más débiles de lo esperado en EEUU",
+      "texto": "Dólar baja con fuerza en el día después de la Fed y tras datos económicos más débiles de lo esperado en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-j58gy",
       "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T14:46:16+00:00"
+      "fechaISO": "2026-07-30T17:30:21+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Caso Sartor: comienza formalización de 11 socios, exdirectivos y exejecutivos de la AGF y su filial ECapital",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/caso-sartor-comienza-formalizacion-de-11-socios-exdirectivos-y",
+      "texto": "Caso Sartor: Fiscalía persigue lavado de activos contra Clark por arista Azul Azul",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/caso-sartor-fiscalia-persigue-lavado-de-activos-contra-clark-por-arista",
       "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T14:26:41+00:00"
+      "fechaISO": "2026-07-30T17:27:06+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Anglo American duplica ganancias operacionales de su negocio de cobre en Chile y eleva 5% la producción al primer semestre",
-      "link": "http://www.df.cl/empresas/mineria/anglo-american-duplica-ganancias-operacionales-de-su-negocio-de-cobre-en",
+      "texto": "Tribunal Constitucional otorga tres días a la oposición para corregir “cuestiones formales” en requerimientos por proyecto de reactivación",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/tribunal-constitucional-otorga-tres-dias-a-la-oposicion-para-corregir",
       "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T14:42:45+00:00"
+      "fechaISO": "2026-07-30T17:37:06+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Abogado de Toesca por caso Sartor: “Bastó un 'OK' por correo electrónico, para que millones de dólares se transfirieran a sociedades de los controladores”",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/abogado-de-toesca-por-caso-sartor-basto-un-ok-por-correo-electronico",
+      "texto": "ENAP duplica sus utilidades semestrales y gana US$ 578 millones impulsada por alza de ingresos",
+      "link": "http://www.df.cl/empresas/energia/enap-mas-que-duplica-sus-utilidades-semestrales-y-gana-us-578-millones",
       "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T14:27:09+00:00"
+      "fechaISO": "2026-07-30T17:08:07+00:00"
     }
   ]
 }
