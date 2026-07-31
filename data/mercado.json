@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T18:23:21.267469+00:00",
+  "actualizado": "2026-07-31T21:33:51.832285+00:00",
   "macro": {
     "dolar": 924.8,
     "uf": 40844.79,
@@ -10,25 +10,25 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 339.73,
+      "precio": 339.5,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 194.15,
+      "precio": 193.71,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 133.01
     },
     "BCI": {
-      "precio": 66715.0,
+      "precio": 66900.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 37600.0
     },
     "ITAUCL": {
-      "precio": 21274.0,
+      "precio": 21000.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 12672.0
@@ -40,169 +40,169 @@
       "bajo52": 55.63
     },
     "CAP": {
-      "precio": 5976.8,
+      "precio": 5929.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4559.0
     },
     "CENCOSUD": {
-      "precio": 1950.0,
+      "precio": 1954.9,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1929.0
     },
     "CENCOMALLS": {
-      "precio": 2271.1,
+      "precio": 2335.0,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1879.5
     },
     "COLBUN": {
-      "precio": 138.61,
+      "precio": 138.99,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5343.2,
+      "precio": 5385.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.37,
+      "precio": 48.0,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4675.2,
+      "precio": 4630.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3650.1,
+      "precio": 3630.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3135.1
     },
     "CMPC": {
-      "precio": 1040.0,
+      "precio": 1055.0,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6260.9,
+      "precio": 6350.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 87.01,
+      "precio": 87.99,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.28,
+      "precio": 81.99,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 62.3
     },
     "ECL": {
-      "precio": 1830.0,
+      "precio": 1842.0,
       "anterior": 1807.0,
       "alto52": 1879.9,
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6212.0,
+      "precio": 6216.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 4802.0
     },
     "IAM": {
-      "precio": 932.01,
+      "precio": 942.18,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 815.0
     },
     "ILC": {
-      "precio": 21872.0,
+      "precio": 21700.0,
       "anterior": 21450.0,
       "alto52": 23725.0,
       "bajo52": 10700.0
     },
     "LTM": {
-      "precio": 24.63,
+      "precio": 24.74,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3952.9,
+      "precio": 3943.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 1979.4
     },
     "MALLPLAZA": {
-      "precio": 3720.0,
+      "precio": 3769.9,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2054.8
     },
     "QUINENCO": {
-      "precio": 4450.0,
+      "precio": 4460.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 380.41,
+      "precio": 382.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1240.0,
+      "precio": 1220.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 691.25
     },
     "SMU": {
-      "precio": 126.94,
+      "precio": 127.45,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 62209.0,
+      "precio": 62700.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 34560.0
     },
     "CONCHATORO": {
-      "precio": 841.61,
+      "precio": 844.0,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7506.0,
+      "precio": 7504.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7000.0
     },
     "ALMENDRAL": {
-      "precio": 25.99,
+      "precio": 25.51,
       "anterior": 26.29,
       "alto52": 34.0,
       "bajo52": 19.68
     },
     "CAMANCHACA": {
-      "precio": 68.75,
+      "precio": 67.5,
       "anterior": 76.49,
       "alto52": 96.88,
       "bajo52": 51.34
@@ -232,7 +232,7 @@
       "bajo52": 92.57
     },
     "MASISA": {
-      "precio": 8.56,
+      "precio": 8.55,
       "anterior": 8.68,
       "alto52": 20.04,
       "bajo52": 8.51
@@ -256,7 +256,7 @@
       "bajo52": 1275.8
     },
     "SONDA": {
-      "precio": 310.0,
+      "precio": 309.34,
       "anterior": 309.99,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -280,7 +280,7 @@
       "bajo52": 650.4
     },
     "TRICOT": {
-      "precio": 582.0,
+      "precio": 581.78,
       "anterior": 581.84,
       "alto52": 688.8,
       "bajo52": 513.1
@@ -298,31 +298,31 @@
       "bajo52": 197.09
     },
     "INVERCAP": {
-      "precio": 1835.8,
+      "precio": 1827.6,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1289.3
     },
     "BICE": {
-      "precio": 403.0,
+      "precio": 401.0,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 265.0
     },
     "HABITAT": {
-      "precio": 1355.0,
+      "precio": 1349.4,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1060.0
     },
     "CFMITNIPSA": {
-      "precio": 5064.1,
+      "precio": 5064.2,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 3917.3
     },
     "CFINRENTAS": {
-      "precio": 2165.0,
+      "precio": 2205.31,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1563.14
@@ -427,31 +427,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Las cifras sectoriales le dan la razón a Quiroz: la economía chilena habría crecido en junio tras cinco meses a la baja",
-      "link": "http://www.df.cl/economia-y-politica/macro/las-cifras-sectoriales-le-dan-la-razon-a-quiroz-la-economia-chilena-habria",
-      "fecha": "Fri, 31 Jul 2026",
-      "fechaISO": "2026-07-31T17:59:07+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA pierde los 11.000 puntos mientras inversionistas siguen resultados, política monetaria y tensión geopolítica",
+      "texto": "IPSA cierre con leve caída pero retiene los 11.000 puntos mientras inversionistas siguen resultados, tasas de interés y conflicto geopolítico",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-dbhvk",
       "fecha": "Fri, 31 Jul 2026",
-      "fechaISO": "2026-07-31T17:42:51+00:00"
+      "fechaISO": "2026-07-31T20:55:37+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "¿El peso chileno dejará atrás el castigo de julio? Fue la tercera moneda que más subió en el mundo tras la mantención de tasas de la Fed",
-      "link": "http://www.df.cl/mercados/divisas/el-peso-chileno-dejara-atras-el-castigo-de-julio-fue-la-tercera-moneda",
+      "texto": "Todo el empleo creado en el último año es informal: las alertas que levantan los especialistas en medio de un desempleo que no afloja",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/todo-el-empleo-creado-en-el-ultimo-ano-es-informal-las-alertas-que",
       "fecha": "Fri, 31 Jul 2026",
-      "fechaISO": "2026-07-31T18:18:42+00:00"
+      "fechaISO": "2026-07-31T20:23:24+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Primer round de resultados IPSA deja positivas sorpresas operacionales y bancos aportan fuertes ganancias al segundo trimestre",
-      "link": "http://www.df.cl/empresas/resultados-de-empresas/primer-round-de-resultados-ipsa-deja-positivas-sorpresas-operacionales-y",
+      "texto": "Dólar cierra al alza este viernes sobre $ 930 pero registra una baja de doble dígito en semana marcada por reunión de la Fed",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmawb",
       "fecha": "Fri, 31 Jul 2026",
-      "fechaISO": "2026-07-31T18:06:12+00:00"
+      "fechaISO": "2026-07-31T20:10:58+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "“No es un privilegio ni una concesión”: grupo de PYME manifiestan preocupación por excepciones en Ley de pago a 30 días",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/no-es-un-privilegio-ni-una-concesion-grupo-de-pyme-manifiestan",
+      "fecha": "Fri, 31 Jul 2026",
+      "fechaISO": "2026-07-31T20:07:56+00:00"
     }
   ]
 }
