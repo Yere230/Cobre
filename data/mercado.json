@@ -1,115 +1,115 @@
 {
-  "actualizado": "2026-07-30T21:39:06.304463+00:00",
+  "actualizado": "2026-07-31T15:12:07.794065+00:00",
   "macro": {
-    "dolar": 935.6,
+    "dolar": 924.8,
     "uf": 40844.79,
     "utm": 71649,
-    "cobre": 6.22,
+    "cobre": 6.17,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 337.5,
+      "precio": 337.84,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 196.8,
+      "precio": 193.18,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 133.01
     },
     "BCI": {
-      "precio": 66000.0,
+      "precio": 65839.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 37600.0
     },
     "ITAUCL": {
-      "precio": 21050.0,
+      "precio": 21001.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
-      "bajo52": 12664.0
+      "bajo52": 12672.0
     },
     "BSANTANDER": {
-      "precio": 80.7,
+      "precio": 80.0,
       "anterior": 77.0,
-      "alto52": 81.79,
+      "alto52": 81.3,
       "bajo52": 55.63
     },
     "CAP": {
       "precio": 5975.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
-      "bajo52": 4529.2
+      "bajo52": 4559.0
     },
     "CENCOSUD": {
       "precio": 1945.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
-      "bajo52": 1912.0
+      "bajo52": 1940.0
     },
     "CENCOMALLS": {
-      "precio": 2300.0,
+      "precio": 2304.9,
       "anterior": 2210.0,
       "alto52": 2799.9,
-      "bajo52": 1875.0
+      "bajo52": 1879.5
     },
     "COLBUN": {
-      "precio": 136.32,
+      "precio": 137.0,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5385.4,
+      "precio": 5384.8,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.7,
+      "precio": 47.9,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4670.0,
+      "precio": 4665.8,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3689.0,
+      "precio": 3648.5,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3135.1
     },
     "CMPC": {
-      "precio": 1030.0,
+      "precio": 1042.2,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6300.0,
+      "precio": 6274.9,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 87.65,
+      "precio": 87.1,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.9,
+      "precio": 81.96,
       "anterior": 81.01,
       "alto52": 84.0,
-      "bajo52": 62.11
+      "bajo52": 62.3
     },
     "ECL": {
       "precio": 1855.0,
@@ -118,43 +118,43 @@
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6220.0,
+      "precio": 6202.6,
       "anterior": 5835.0,
       "alto52": 6948.5,
-      "bajo52": 4700.0
+      "bajo52": 4802.0
     },
     "IAM": {
-      "precio": 932.96,
+      "precio": 930.0,
       "anterior": 921.89,
       "alto52": 1150.0,
-      "bajo52": 812.87
+      "bajo52": 815.0
     },
     "ILC": {
-      "precio": 21550.0,
+      "precio": 21700.0,
       "anterior": 21450.0,
       "alto52": 23725.0,
-      "bajo52": 10244.0
+      "bajo52": 10700.0
     },
     "LTM": {
-      "precio": 24.9,
+      "precio": 24.74,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3997.9,
+      "precio": 3940.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
-      "bajo52": 1959.4
+      "bajo52": 1979.4
     },
     "MALLPLAZA": {
-      "precio": 3690.0,
+      "precio": 3662.7,
       "anterior": 3950.0,
       "alto52": 4700.0,
-      "bajo52": 2040.0
+      "bajo52": 2054.8
     },
     "QUINENCO": {
-      "precio": 4450.0,
+      "precio": 4400.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
@@ -172,34 +172,34 @@
       "bajo52": 691.25
     },
     "SMU": {
-      "precio": 127.0,
+      "precio": 126.98,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 63290.0,
+      "precio": 62550.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 34560.0
     },
     "CONCHATORO": {
-      "precio": 830.82,
+      "precio": 826.5,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7497.9,
+      "precio": 7488.3,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7000.0
     },
     "ALMENDRAL": {
-      "precio": 25.51,
+      "precio": 25.99,
       "anterior": 26.29,
       "alto52": 34.0,
-      "bajo52": 19.4
+      "bajo52": 19.68
     },
     "CAMANCHACA": {
       "precio": 68.75,
@@ -211,7 +211,7 @@
       "precio": 24960.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
-      "bajo52": 18370.0
+      "bajo52": 18768.0
     },
     "FORUS": {
       "precio": 1887.8,
@@ -232,7 +232,7 @@
       "bajo52": 92.57
     },
     "MASISA": {
-      "precio": 8.55,
+      "precio": 8.56,
       "anterior": 8.68,
       "alto52": 20.04,
       "bajo52": 8.51
@@ -241,7 +241,7 @@
       "precio": 857.21,
       "anterior": 870.18,
       "alto52": 903.0,
-      "bajo52": 542.74
+      "bajo52": 548.21
     },
     "SOCOVESA": {
       "precio": 137.91,
@@ -253,16 +253,16 @@
       "precio": 1658.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
-      "bajo52": 1254.0
+      "bajo52": 1275.8
     },
     "SONDA": {
-      "precio": 309.34,
+      "precio": 310.0,
       "anterior": 309.99,
       "alto52": 383.7,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1576.5,
+      "precio": 1581.0,
       "anterior": 1570.0,
       "alto52": 1745.0,
       "bajo52": 1150.0
@@ -280,16 +280,16 @@
       "bajo52": 650.4
     },
     "TRICOT": {
-      "precio": 581.78,
+      "precio": 582.0,
       "anterior": 581.84,
       "alto52": 688.8,
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 81.38,
+      "precio": 82.37,
       "anterior": 91.34,
       "alto52": 155.0,
-      "bajo52": 81.0
+      "bajo52": 82.37
     },
     "BLUMAR": {
       "precio": 275.05,
@@ -310,26 +310,26 @@
       "bajo52": 265.0
     },
     "HABITAT": {
-      "precio": 1298.2,
+      "precio": 1300.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1060.0
     },
     "CFMITNIPSA": {
-      "precio": 5084.4,
+      "precio": 5063.2,
       "anterior": 5035.4,
       "alto52": 5588.4,
-      "bajo52": 3901.9
+      "bajo52": 3917.3
     },
     "CFINRENTAS": {
-      "precio": 2181.0,
+      "precio": 2180.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1563.14
     },
     "CFIBTGRCA": {
       "precio": 24100.0,
-      "anterior": 24894.97,
+      "anterior": 24566.0,
       "alto52": 28000.0,
       "bajo52": 19800.0
     },
@@ -371,6 +371,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Presentan recurso contra plan de expansión del puerto de San Antonio",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/presentan-recurso-contra-plan-de-expansion-del-puerto-de-san-antonio/2026-07-31/105937.html",
+      "fecha": "Fri, 31 Jul 2026",
+      "fechaISO": "2026-07-31T14:59:37+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Acreedores aprueban reorganización de metalúrgica de Talcahuano y mantienen 350 empleos",
       "link": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/acreedores-aprueban-reorganizacion-de-metalurgica-de-talcahuano-y/2026-07-24/154831.html",
       "fecha": "Fri, 24 Jul 2026",
@@ -391,11 +398,25 @@
       "fechaISO": "2026-07-14T15:45:19+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Economista: grandes mineras y energéticas no miran mucho la megarreforma; invertirán sí o sí",
-      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/economista-grandes-mineras-y-energeticas-no-miran-mucho-la/2026-07-09/194048.html",
-      "fecha": "Thu, 09 Jul 2026",
-      "fechaISO": "2026-07-09T23:40:48+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Presentan recurso contra plan de expansión del puerto de San Antonio",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/presentan-recurso-contra-plan-de-expansion-del-puerto-de-san-antonio/2026-07-31/105937.html",
+      "fecha": "Fri, 31 Jul 2026",
+      "fechaISO": "2026-07-31T14:59:37+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Producción industrial y actividad del comercio subieron durante junio",
+      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/produccion-industrial-y-actividad-del-comercio-subieron-durante-junio/2026-07-31/100104.html",
+      "fecha": "Fri, 31 Jul 2026",
+      "fechaISO": "2026-07-31T14:01:04+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Cesantía subió hasta 9,4% entre abril y junio",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/cesantia-subio-hasta-9-4-entre-abril-y-junio/2026-07-31/090356.html",
+      "fecha": "Fri, 31 Jul 2026",
+      "fechaISO": "2026-07-31T13:03:56+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -405,53 +426,32 @@
       "fechaISO": "2026-07-30T19:16:14+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "\"No estamos en esa idea\": Fontaine descartó privatización de Codelco",
-      "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/no-estamos-en-esa-idea-fontaine-descarto-privatizacion-de-codelco/2026-07-30/150814.html",
-      "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T19:08:14+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Qué significa realmente el \"aporte de capital privado\" que evalúa el Gobierno para Codelco",
-      "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/que-significa-realmente-el-aporte-de-capital-privado-que-evalua-el/2026-07-30/114941.html",
-      "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T15:49:41+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Parlamentarios y alcaldes del Norte Chico exigen al Gobierno \"garantías de recursos frescos para la reconstrucción\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/parlamentarios-y-alcaldes-del-norte-chico-exigen-al-gobierno-garantias/2026-07-30/080308.html",
-      "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T12:03:08+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Dólar sube levemente en medio de un repunte global de la divisa tras dos sesiones de fuertes caídas",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmawb",
+      "fecha": "Fri, 31 Jul 2026",
+      "fechaISO": "2026-07-31T15:09:06+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra al alza sobre los 11.000 puntos a medida que la reunión de la Fed siguió repercutiendo en los mercados globales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-74x45",
-      "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T20:50:04+00:00"
+      "texto": "Segunda jornada de formalización de cargos en caso Sartor: Michael Clark afirma que \"estoy involucrado un poco de rebote\"",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/segunda-jornada-de-formalizacion-de-cargos-de-caso-sartor-michael-clark",
+      "fecha": "Fri, 31 Jul 2026",
+      "fechaISO": "2026-07-31T15:12:06+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "CMF destaca cierre de brechas de género en el acceso a productos financieros",
-      "link": "http://www.df.cl/mercados/banca-fintech/cmf-destaca-cierre-de-brechas-de-genero-en-el-acceso-a-productos",
-      "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T20:29:23+00:00"
+      "texto": "Grupo Angelini elevará su participación en Red Megacentro a casi un 34%",
+      "link": "http://www.df.cl/empresas/construccion/grupo-angelini-elevara-su-participacion-en-red-megacentro-a-casi-un-34",
+      "fecha": "Fri, 31 Jul 2026",
+      "fechaISO": "2026-07-31T14:49:59+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Vinos chilenos y productos K-Beauty: los regalos que se intercambiaron los mandatarios de Chile y Corea del Sur",
-      "link": "http://www.df.cl/economia-y-politica/politica/vino-chileno-v-s-k-beauty-los-regalos-que-se-intercambiaron-los",
-      "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T20:30:36+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra con fuerte caída en el día después de la Fed y tras datos económicos más débiles de lo esperado en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-j58gy",
-      "fecha": "Thu, 30 Jul 2026",
-      "fechaISO": "2026-07-30T21:01:15+00:00"
+      "texto": "IPSA pierde los 11.000 puntos en apertura mientras inversionistas siguen resultados, política monetaria y tensión geopolítica",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-dbhvk",
+      "fecha": "Fri, 31 Jul 2026",
+      "fechaISO": "2026-07-31T14:16:59+00:00"
     }
   ]
 }
