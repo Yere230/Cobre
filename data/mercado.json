@@ -1,10 +1,6 @@
 {
-  "actualizado": "2026-08-07T21:05:46.312872+00:00",
+  "actualizado": "2026-08-10T14:10:02.068275+00:00",
   "macro": {
-    "dolar": 913.9,
-    "uf": 40844.79,
-    "utm": 71649,
-    "cobre": 6.45,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
@@ -16,27 +12,27 @@
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 188.65,
+      "precio": 189.9,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 136.91
     },
     "BCI": {
-      "precio": 67001.0,
+      "precio": 67799.0,
       "anterior": 62502.0,
-      "alto52": 67993.0,
+      "alto52": 67799.0,
       "bajo52": 38100.0
     },
     "ITAUCL": {
-      "precio": 22130.0,
+      "precio": 22299.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
-      "bajo52": 13001.0
+      "bajo52": 13200.0
     },
     "BSANTANDER": {
-      "precio": 80.16,
+      "precio": 80.93,
       "anterior": 77.0,
-      "alto52": 82.79,
+      "alto52": 80.94,
       "bajo52": 56.5
     },
     "CAP": {
@@ -46,7 +42,7 @@
       "bajo52": 4600.0
     },
     "CENCOSUD": {
-      "precio": 2050.0,
+      "precio": 2069.4,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
@@ -55,7 +51,7 @@
       "precio": 2459.6,
       "anterior": 2210.0,
       "alto52": 2799.9,
-      "bajo52": 1910.8
+      "bajo52": 1926.0
     },
     "COLBUN": {
       "precio": 145.0,
@@ -64,7 +60,7 @@
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5510.0,
+      "precio": 5480.7,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
@@ -76,25 +72,25 @@
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4848.0,
+      "precio": 4987.0,
       "anterior": 4699.9,
-      "alto52": 4873.4,
+      "alto52": 4987.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3955.0,
+      "precio": 3960.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3135.1
     },
     "CMPC": {
-      "precio": 1030.0,
+      "precio": 1041.0,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6115.0,
+      "precio": 6126.1,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
@@ -106,19 +102,19 @@
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.8,
+      "precio": 83.0,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 63.22
     },
     "ECL": {
-      "precio": 1950.0,
+      "precio": 1980.0,
       "anterior": 1807.0,
-      "alto52": 1966.4,
+      "alto52": 1980.0,
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6469.7,
+      "precio": 6500.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 4802.0
@@ -127,40 +123,40 @@
       "precio": 960.0,
       "anterior": 921.89,
       "alto52": 1150.0,
-      "bajo52": 825.0
+      "bajo52": 830.9
     },
     "ILC": {
-      "precio": 23998.0,
+      "precio": 23386.0,
       "anterior": 21450.0,
-      "alto52": 23998.0,
+      "alto52": 23725.0,
       "bajo52": 11250.0
     },
     "LTM": {
-      "precio": 25.8,
+      "precio": 25.68,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 4050.0,
+      "precio": 4000.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
-      "bajo52": 2041.9
+      "bajo52": 2070.0
     },
     "MALLPLAZA": {
       "precio": 4072.7,
       "anterior": 3950.0,
       "alto52": 4700.0,
-      "bajo52": 2123.0
+      "bajo52": 2160.0
     },
     "QUINENCO": {
-      "precio": 4500.0,
+      "precio": 4488.7,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 398.8,
+      "precio": 399.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
@@ -178,19 +174,19 @@
       "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 65789.0,
+      "precio": 66545.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
-      "bajo52": 38500.0
+      "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 860.0,
+      "precio": 869.02,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7361.6,
+      "precio": 7324.2,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7191.0
@@ -205,13 +201,13 @@
       "precio": 68.77,
       "anterior": 76.49,
       "alto52": 96.88,
-      "bajo52": 51.55
+      "bajo52": 51.56
     },
     "ENAEX": {
-      "precio": 25008.0,
+      "precio": 25050.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
-      "bajo52": 19073.0
+      "bajo52": 19111.0
     },
     "FORUS": {
       "precio": 1908.2,
@@ -235,25 +231,25 @@
       "precio": 8.08,
       "anterior": 8.68,
       "alto52": 20.04,
-      "bajo52": 7.94
+      "bajo52": 8.08
     },
     "PAZ": {
       "precio": 900.0,
       "anterior": 870.18,
       "alto52": 903.0,
-      "bajo52": 574.31
+      "bajo52": 575.0
     },
     "SOCOVESA": {
       "precio": 153.0,
       "anterior": 141.0,
       "alto52": 185.29,
-      "bajo52": 76.24
+      "bajo52": 78.02
     },
     "SK": {
       "precio": 1655.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
-      "bajo52": 1291.0
+      "bajo52": 1291.7
     },
     "SONDA": {
       "precio": 305.0,
@@ -286,10 +282,10 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 93.0,
+      "precio": 90.74,
       "anterior": 91.34,
       "alto52": 155.0,
-      "bajo52": 88.0
+      "bajo52": 88.04
     },
     "BLUMAR": {
       "precio": 271.0,
@@ -298,28 +294,28 @@
       "bajo52": 198.06
     },
     "INVERCAP": {
-      "precio": 1772.2,
+      "precio": 1730.6,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1289.3
+      "bajo52": 1289.7
     },
     "BICE": {
-      "precio": 405.0,
+      "precio": 408.51,
       "anterior": 375.23,
       "alto52": 450.0,
-      "bajo52": 267.5
+      "bajo52": 269.5
     },
     "HABITAT": {
-      "precio": 1389.0,
+      "precio": 1387.8,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1061.0
     },
     "CFMITNIPSA": {
-      "precio": 5218.0,
+      "precio": 5201.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
-      "bajo52": 4038.0
+      "bajo52": 4100.0
     },
     "CFINRENTAS": {
       "precio": 2200.0,
@@ -329,7 +325,7 @@
     },
     "CFIBTGRCA": {
       "precio": 23700.0,
-      "anterior": 24250.0,
+      "anterior": 24500.0,
       "alto52": 28000.0,
       "bajo52": 19800.0
     },
@@ -399,59 +395,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Comenzó pago de compensaciones de Farmacias Ahumadas por colusión de medicamentos",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/sernac/comenzo-pago-de-compensaciones-de-farmacias-ahumadas-por-colusion-de/2026-08-07/162628.html",
-      "fecha": "Fri, 07 Aug 2026",
-      "fechaISO": "2026-08-07T20:26:28+00:00"
+      "texto": "Congreso prepara debate sobre Presupuesto 2027 tras aprobar megarreforma",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/congreso-prepara-debate-sobre-presupuesto-2027-tras-aprobar-megarreforma/2026-08-09/161136.html",
+      "fecha": "Sun, 09 Aug 2026",
+      "fechaISO": "2026-08-09T20:11:36+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Día del Niño: Comercio se prepara con más ventas y panoramas familiares",
-      "link": "https://www.cooperativa.cl/noticias/pais/infancia/dia-del-nino-comercio-se-prepara-con-mas-ventas-y-panoramas-familiares/2026-08-07/143344.html",
-      "fecha": "Fri, 07 Aug 2026",
-      "fechaISO": "2026-08-07T18:33:44+00:00"
+      "texto": "Quiroz: Demostramos que en Chile se pueden hacer cambios estructurales por el bien del país",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/quiroz-demostramos-que-en-chile-se-pueden-hacer-cambios-estructurales/2026-08-09/133348.html",
+      "fecha": "Sun, 09 Aug 2026",
+      "fechaISO": "2026-08-09T17:33:48+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Jorge Correa Sutil y la invariabilidad tributaria: Estamos defendiendo la alternancia en el poder",
-      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/jorge-correa-sutil-y-la-invariabilidad-tributaria-estamos-defendiendo/2026-08-07/112319.html",
-      "fecha": "Fri, 07 Aug 2026",
-      "fechaISO": "2026-08-07T15:23:19+00:00"
+      "texto": "Ante aranceles de EE.UU, autoridades e industria salmonera rechazan el trabajo forzoso",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-los-lagos/ante-aranceles-de-ee-uu-autoridades-e-industria-salmonera-rechazan-el/2026-08-08/175352.html",
+      "fecha": "Sat, 08 Aug 2026",
+      "fechaISO": "2026-08-08T21:53:52+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Último récord fue hace dos días: Precio del cobre marca nuevo máximo histórico",
-      "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/cobre/ultimo-record-fue-hace-dos-dias-precio-del-cobre-marca-nuevo-maximo/2026-08-06/103324.html",
-      "fecha": "Thu, 06 Aug 2026",
-      "fechaISO": "2026-08-06T14:33:24+00:00"
+      "texto": "Megarreforma: Oposición tiene esperanza en que el TC valide sus argumentos \"sólidos y robustos\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/megarreforma-oposicion-tiene-esperanza-en-que-el-tc-valide-sus/2026-08-08/135231.html",
+      "fecha": "Sat, 08 Aug 2026",
+      "fechaISO": "2026-08-08T17:52:31+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA se toma un respiro este viernes, pero cierra la mejor semana entre las bolsas de Latinoamérica tras aprobación de reforma del gobierno",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-8pwwm",
-      "fecha": "Fri, 07 Aug 2026",
-      "fechaISO": "2026-08-07T20:36:33+00:00"
+      "texto": "Claves del Congreso: vetos al proyecto misceláneo y subsidio a la rebaja del crédito hipotecario avanzan rápidamente",
+      "link": "http://www.df.cl/economia-y-politica/congreso/claves-del-congreso-vetos-al-proyecto-miscelaneo-y-subsidio-a-la-rebaja",
+      "fecha": "Mon, 10 Aug 2026",
+      "fechaISO": "2026-08-10T14:00:57+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El historiador Juan Luis Ossa asume como nuevo director del CEP",
-      "link": "http://www.df.cl/economia-y-politica/pais/el-historiador-juan-luis-ossa-asume-como-nuevo-director-del-cep",
-      "fecha": "Fri, 07 Aug 2026",
-      "fechaISO": "2026-08-07T20:11:10+00:00"
+      "texto": "Bolsa chilena retoma las ganancias y el IPSA bordea 11.300 puntos en primeros negocios de la semana",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-orhvy",
+      "fecha": "Mon, 10 Aug 2026",
+      "fechaISO": "2026-08-10T14:02:48+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra con leve caída y completa baja semanal de casi $ 20 tras sorpresiva contracción del empleo estadounidense",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-dla5u",
-      "fecha": "Fri, 07 Aug 2026",
-      "fechaISO": "2026-08-07T20:15:29+00:00"
+      "texto": "Kast nombra al abogado Sebastián Vallebona como nuevo subsecretario de Hacienda",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/kast-nombra-al-abogado-sebastian-vallebona-como-nuevo-subsecretario-de",
+      "fecha": "Mon, 10 Aug 2026",
+      "fechaISO": "2026-08-10T14:09:02+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Se modera el IPC, pero el mercado ve a un Banco Central que mantendrá la cautela y la tasa en reunión de septiembre",
-      "link": "http://www.df.cl/economia-y-politica/macro/ipc-de-julio-da-razones-a-banco-central-para-mantener-la-cautela-y-no",
-      "fecha": "Fri, 07 Aug 2026",
-      "fechaISO": "2026-08-07T19:51:05+00:00"
+      "texto": "Dólar abre al alza en línea con el precio del petróleo frente a una tensa calma en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-87obg",
+      "fecha": "Mon, 10 Aug 2026",
+      "fechaISO": "2026-08-10T14:06:40+00:00"
     }
   ]
 }
