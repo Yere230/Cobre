@@ -1,198 +1,202 @@
 {
-  "actualizado": "2026-08-10T14:10:02.068275+00:00",
+  "actualizado": "2026-08-10T17:53:56.523437+00:00",
   "macro": {
+    "dolar": 911.8,
+    "uf": 40846.11,
+    "utm": 71649,
+    "cobre": 6.45,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 340.0,
+      "precio": 340.93,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 189.9,
+      "precio": 189.88,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 136.91
     },
     "BCI": {
-      "precio": 67799.0,
+      "precio": 67650.0,
       "anterior": 62502.0,
-      "alto52": 67799.0,
+      "alto52": 67851.0,
       "bajo52": 38100.0
     },
     "ITAUCL": {
-      "precio": 22299.0,
+      "precio": 22377.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 13200.0
     },
     "BSANTANDER": {
-      "precio": 80.93,
+      "precio": 81.0,
       "anterior": 77.0,
-      "alto52": 80.94,
+      "alto52": 81.5,
       "bajo52": 56.5
     },
     "CAP": {
-      "precio": 5745.1,
+      "precio": 5509.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4600.0
     },
     "CENCOSUD": {
-      "precio": 2069.4,
+      "precio": 2032.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2459.6,
+      "precio": 2482.3,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1926.0
     },
     "COLBUN": {
-      "precio": 145.0,
+      "precio": 144.52,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5480.7,
+      "precio": 5538.3,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.5,
+      "precio": 47.49,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4987.0,
+      "precio": 4817.8,
       "anterior": 4699.9,
       "alto52": 4987.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3960.0,
+      "precio": 3894.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3135.1
     },
     "CMPC": {
-      "precio": 1041.0,
+      "precio": 1043.0,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6126.1,
+      "precio": 6197.2,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 87.4,
+      "precio": 87.63,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 83.0,
+      "precio": 81.75,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 63.22
     },
     "ECL": {
-      "precio": 1980.0,
+      "precio": 1937.1,
       "anterior": 1807.0,
       "alto52": 1980.0,
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6500.0,
+      "precio": 6441.1,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 4802.0
     },
     "IAM": {
-      "precio": 960.0,
+      "precio": 954.25,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 830.9
     },
     "ILC": {
-      "precio": 23386.0,
+      "precio": 23779.0,
       "anterior": 21450.0,
-      "alto52": 23725.0,
+      "alto52": 24012.0,
       "bajo52": 11250.0
     },
     "LTM": {
-      "precio": 25.68,
+      "precio": 25.01,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 4000.0,
+      "precio": 4043.8,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2070.0
     },
     "MALLPLAZA": {
-      "precio": 4072.7,
+      "precio": 4084.3,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2160.0
     },
     "QUINENCO": {
-      "precio": 4488.7,
+      "precio": 4494.5,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 399.0,
+      "precio": 404.94,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1340.0,
+      "precio": 1350.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 760.0
     },
     "SMU": {
-      "precio": 128.9,
+      "precio": 127.97,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 66545.0,
+      "precio": 66961.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 869.02,
+      "precio": 860.01,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7324.2,
+      "precio": 7316.4,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7191.0
     },
     "ALMENDRAL": {
-      "precio": 25.26,
+      "precio": 25.72,
       "anterior": 26.29,
       "alto52": 34.0,
       "bajo52": 19.7
@@ -228,19 +232,19 @@
       "bajo52": 93.0
     },
     "MASISA": {
-      "precio": 8.08,
+      "precio": 8.0,
       "anterior": 8.68,
       "alto52": 20.04,
-      "bajo52": 8.08
+      "bajo52": 8.0
     },
     "PAZ": {
-      "precio": 900.0,
+      "precio": 920.0,
       "anterior": 870.18,
-      "alto52": 903.0,
+      "alto52": 920.0,
       "bajo52": 575.0
     },
     "SOCOVESA": {
-      "precio": 153.0,
+      "precio": 160.0,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 78.02
@@ -252,15 +256,15 @@
       "bajo52": 1291.7
     },
     "SONDA": {
-      "precio": 305.0,
+      "precio": 305.99,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1675.0,
+      "precio": 1678.0,
       "anterior": 1570.0,
-      "alto52": 1745.0,
+      "alto52": 1750.0,
       "bajo52": 1150.0
     },
     "CRISTALES": {
@@ -270,7 +274,7 @@
       "bajo52": 2020.0
     },
     "WATTS": {
-      "precio": 669.5,
+      "precio": 671.55,
       "anterior": 730.0,
       "alto52": 820.0,
       "bajo52": 650.4
@@ -282,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 90.74,
+      "precio": 93.1,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 88.04
@@ -294,25 +298,25 @@
       "bajo52": 198.06
     },
     "INVERCAP": {
-      "precio": 1730.6,
+      "precio": 1728.4,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1289.7
     },
     "BICE": {
-      "precio": 408.51,
+      "precio": 408.0,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 269.5
     },
     "HABITAT": {
-      "precio": 1387.8,
+      "precio": 1385.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1061.0
     },
     "CFMITNIPSA": {
-      "precio": 5201.0,
+      "precio": 5223.1,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4100.0
@@ -423,31 +427,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Claves del Congreso: vetos al proyecto misceláneo y subsidio a la rebaja del crédito hipotecario avanzan rápidamente",
-      "link": "http://www.df.cl/economia-y-politica/congreso/claves-del-congreso-vetos-al-proyecto-miscelaneo-y-subsidio-a-la-rebaja",
-      "fecha": "Mon, 10 Aug 2026",
-      "fechaISO": "2026-08-10T14:00:57+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena retoma las ganancias y el IPSA bordea 11.300 puntos en primeros negocios de la semana",
+      "texto": "Bolsa chilena intenta retomar avances pese a que mercados globales resienten la incertidumbre en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-orhvy",
       "fecha": "Mon, 10 Aug 2026",
-      "fechaISO": "2026-08-10T14:02:48+00:00"
+      "fechaISO": "2026-08-10T17:38:45+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Kast nombra al abogado Sebastián Vallebona como nuevo subsecretario de Hacienda",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/kast-nombra-al-abogado-sebastian-vallebona-como-nuevo-subsecretario-de",
+      "texto": "Comisión de Hacienda del Senado aprueba por unanimidad proyecto que extiende el subsidio al crédito hipotecario",
+      "link": "http://www.df.cl/economia-y-politica/congreso/comision-de-hacienda-del-senado-aprueba-por-unanimidad-proyecto-que",
       "fecha": "Mon, 10 Aug 2026",
-      "fechaISO": "2026-08-10T14:09:02+00:00"
+      "fechaISO": "2026-08-10T17:32:50+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar abre al alza en línea con el precio del petróleo frente a una tensa calma en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-87obg",
+      "texto": "Cancelación de concesiones de grupo Azvi en Chile levanta alertas en firmas españolas Sacyr y OLHA",
+      "link": "http://www.df.cl/empresas/construccion/cancelacion-de-concesiones-de-grupo-azvi-en-chile-levanta-alertas-en-firmas",
       "fecha": "Mon, 10 Aug 2026",
-      "fechaISO": "2026-08-10T14:06:40+00:00"
+      "fechaISO": "2026-08-10T17:09:41+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "“Nos permite seguir trabajando como equipo”: Quiroz celebra la llegada de Sebastián Vallebona a la Subsecretaría de Hacienda",
+      "link": "http://www.df.cl/economia-y-politica/macro/nos-permite-seguir-trabajando-como-equipo-quiroz-celebra-la-llegada-de",
+      "fecha": "Mon, 10 Aug 2026",
+      "fechaISO": "2026-08-10T16:35:13+00:00"
     }
   ]
 }
