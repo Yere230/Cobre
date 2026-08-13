@@ -1,64 +1,64 @@
 {
-  "actualizado": "2026-08-12T21:09:51.079082+00:00",
+  "actualizado": "2026-08-13T14:12:37.810442+00:00",
   "macro": {
-    "dolar": 914.4,
-    "uf": 40848.74,
+    "dolar": 912,
+    "uf": 40850.06,
     "utm": 71649,
-    "cobre": 6.5,
+    "cobre": 6.51,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 330.5,
+      "precio": 331.1,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 183.0,
+      "precio": 183.02,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 136.91
     },
     "BCI": {
-      "precio": 67000.0,
+      "precio": 66640.0,
       "anterior": 62502.0,
-      "alto52": 69999.0,
+      "alto52": 66985.0,
       "bajo52": 38100.0
     },
     "ITAUCL": {
-      "precio": 22104.0,
+      "precio": 22000.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
-      "bajo52": 13219.0
+      "bajo52": 13365.0
     },
     "BSANTANDER": {
-      "precio": 77.5,
+      "precio": 78.06,
       "anterior": 77.0,
-      "alto52": 81.69,
+      "alto52": 80.68,
       "bajo52": 56.5
     },
     "CAP": {
-      "precio": 5400.0,
+      "precio": 5450.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4699.3
     },
     "CENCOSUD": {
-      "precio": 1949.0,
+      "precio": 1948.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
-      "bajo52": 1922.9
+      "bajo52": 1940.0
     },
     "CENCOMALLS": {
-      "precio": 2412.0,
+      "precio": 2436.2,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1926.0
     },
     "COLBUN": {
-      "precio": 142.0,
+      "precio": 145.0,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
@@ -78,7 +78,7 @@
     "ANDINA-B": {
       "precio": 4710.8,
       "anterior": 4699.9,
-      "alto52": 4820.0,
+      "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
@@ -88,13 +88,13 @@
       "bajo52": 3135.1
     },
     "CMPC": {
-      "precio": 1000.0,
+      "precio": 1005.1,
       "anterior": 1070.0,
       "alto52": 1599.0,
-      "bajo52": 1000.0
+      "bajo52": 1005.0
     },
     "COPEC": {
-      "precio": 5950.1,
+      "precio": 5988.6,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
@@ -106,25 +106,25 @@
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 79.8,
+      "precio": 79.68,
       "anterior": 81.01,
       "alto52": 84.0,
-      "bajo52": 63.6
+      "bajo52": 65.01
     },
     "ECL": {
       "precio": 1900.0,
       "anterior": 1807.0,
-      "alto52": 1978.8,
+      "alto52": 1900.0,
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6380.0,
+      "precio": 6350.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
-      "bajo52": 5215.0
+      "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 945.0,
+      "precio": 931.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 830.9
@@ -132,11 +132,11 @@
     "ILC": {
       "precio": 23800.0,
       "anterior": 21450.0,
-      "alto52": 24500.0,
+      "alto52": 23800.0,
       "bajo52": 11250.0
     },
     "LTM": {
-      "precio": 24.01,
+      "precio": 24.24,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
@@ -148,13 +148,13 @@
       "bajo52": 2092.4
     },
     "MALLPLAZA": {
-      "precio": 3989.0,
+      "precio": 3987.9,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2160.1
     },
     "QUINENCO": {
-      "precio": 4500.0,
+      "precio": 4475.3,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
@@ -169,16 +169,16 @@
       "precio": 1329.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
-      "bajo52": 780.0
+      "bajo52": 783.0
     },
     "SMU": {
-      "precio": 127.3,
+      "precio": 127.01,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 125.1
+      "bajo52": 125.13
     },
     "SQM-B": {
-      "precio": 65491.0,
+      "precio": 65100.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
@@ -193,7 +193,7 @@
       "precio": 7300.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
-      "bajo52": 7297.5
+      "bajo52": 7300.0
     },
     "ALMENDRAL": {
       "precio": 25.57,
@@ -211,7 +211,7 @@
       "precio": 24428.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
-      "bajo52": 19116.0
+      "bajo52": 19349.0
     },
     "FORUS": {
       "precio": 1850.0,
@@ -223,31 +223,31 @@
       "precio": 129.04,
       "anterior": 132.09,
       "alto52": 146.09,
-      "bajo52": 99.0
+      "bajo52": 100.96
     },
     "INGEVEC": {
       "precio": 196.1,
       "anterior": 200.99,
       "alto52": 227.0,
-      "bajo52": 93.0
+      "bajo52": 94.94
     },
     "MASISA": {
-      "precio": 7.88,
+      "precio": 7.96,
       "anterior": 8.68,
       "alto52": 20.04,
-      "bajo52": 7.88
+      "bajo52": 7.9
     },
     "PAZ": {
-      "precio": 940.0,
+      "precio": 940.2,
       "anterior": 870.18,
-      "alto52": 940.0,
-      "bajo52": 596.5
+      "alto52": 940.2,
+      "bajo52": 613.72
     },
     "SOCOVESA": {
-      "precio": 154.0,
+      "precio": 158.0,
       "anterior": 141.0,
       "alto52": 185.29,
-      "bajo52": 80.05
+      "bajo52": 81.0
     },
     "SK": {
       "precio": 1640.0,
@@ -298,7 +298,7 @@
       "bajo52": 198.06
     },
     "INVERCAP": {
-      "precio": 1653.0,
+      "precio": 1645.0,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1311.5
@@ -307,31 +307,31 @@
       "precio": 402.5,
       "anterior": 375.23,
       "alto52": 450.0,
-      "bajo52": 269.99
+      "bajo52": 274.0
     },
     "HABITAT": {
-      "precio": 1358.0,
+      "precio": 1365.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1061.0
     },
     "CFMITNIPSA": {
-      "precio": 5081.0,
+      "precio": 5087.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
-      "bajo52": 4120.0
+      "bajo52": 4160.0
     },
     "CFINRENTAS": {
       "precio": 2160.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
-      "bajo52": 1609.0
+      "bajo52": 1611.69
     },
     "CFIBTGRCA": {
       "precio": 23400.0,
-      "anterior": 24000.0,
+      "anterior": 23500.0,
       "alto52": 28000.0,
-      "bajo52": 19810.0
+      "bajo52": 20000.0
     },
     "CFIBTGRRA": {
       "precio": 7800.0,
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Senado aprobó los vetos del Gobierno y megarreforma salió del Congreso",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/senado-aprobo-los-vetos-del-gobierno-y-megarreforma-salio-del-congreso/2026-08-12/222013.html",
+      "fecha": "Wed, 12 Aug 2026",
+      "fechaISO": "2026-08-13T02:20:13+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Fundador de Emprendedor Chile: En este país se falta el respeto al fracaso",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/fundador-de-emprendedor-chile-en-este-pais-se-falta-el-respeto-al-fracaso/2026-08-12/163735.html",
       "fecha": "Wed, 12 Aug 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-08-12T16:50:26+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Embajador chino pidió que Chile \"resista\" injerencias que limitan el comercio internacional",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/china/embajador-chino-pidio-que-chile-resista-injerencias-que-limitan-el/2026-08-12/122852.html",
-      "fecha": "Wed, 12 Aug 2026",
-      "fechaISO": "2026-08-12T16:28:52+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Hermanas Cúneo recaudan más de US$ 170 millones con la venta del 1% de las acciones de Falabella",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/hermanas-cuneo-recaudan-mas-de-170-millones-con-la-venta-del-1-de-las",
+      "fecha": "Thu, 13 Aug 2026",
+      "fechaISO": "2026-08-13T13:50:31+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Licitación de Ruta 57 recibió cuatro ofertas, pero concurso queda marcado por polémica con gigante chino",
-      "link": "http://www.df.cl/empresas/construccion/licitacion-de-ruta-57-recibio-cuatro-ofertas-pero-concurso-queda-marcado",
-      "fecha": "Wed, 12 Aug 2026",
-      "fechaISO": "2026-08-12T20:47:05+00:00"
+      "texto": "Utilidades de Antofagasta plc suben 72% en el primer semestre, pero el grupo recorta su meta de producción de cobre para 2026",
+      "link": "http://www.df.cl/empresas/mineria/utilidades-de-antofagasta-plc-suben-72-en-el-primer-semestre-pero-el",
+      "fecha": "Thu, 13 Aug 2026",
+      "fechaISO": "2026-08-13T13:16:40+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Gobierno entrega un primer balance del \"modo empleo\" a un mes de su lanzamiento",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/gobierno-entrega-un-primer-balance-del-modo-empleo-a-un-mes-de-su",
-      "fecha": "Wed, 12 Aug 2026",
-      "fechaISO": "2026-08-12T20:42:41+00:00"
+      "texto": "Dólar abre con leve baja tras la nula variación de los precios al productor de julio en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-gcwrw",
+      "fecha": "Thu, 13 Aug 2026",
+      "fechaISO": "2026-08-13T12:53:36+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA se va de nuevo a rojo y cierra bajo los 11.000 puntos mientras disminuyen las expectativas de acuerdo en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-h7a3j",
-      "fecha": "Wed, 12 Aug 2026",
-      "fechaISO": "2026-08-12T20:21:18+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar no logra perder los $ 910 y cierra plano mientras la nueva \"doctrina ofensiva\" de Irán inquieta a los mercados globales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mrdhp",
-      "fecha": "Wed, 12 Aug 2026",
-      "fechaISO": "2026-08-12T20:20:46+00:00"
+      "texto": "Cencosud levantará nuevo mall en terrenos de la Hacienda El Peñón en Puente Alto con inversión de US$ 30 millones",
+      "link": "http://www.df.cl/empresas/construccion/cencosud-levantara-nuevo-mall-en-terrenos-de-la-hacienda-el-penon-en-puente",
+      "fecha": "Thu, 13 Aug 2026",
+      "fechaISO": "2026-08-13T12:34:44+00:00"
     }
   ]
 }
