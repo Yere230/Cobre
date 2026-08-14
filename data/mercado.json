@@ -1,30 +1,30 @@
 {
-  "actualizado": "2026-08-13T21:10:07.413252+00:00",
+  "actualizado": "2026-08-14T14:06:39.047626+00:00",
   "macro": {
-    "dolar": 912,
-    "uf": 40850.06,
+    "dolar": 913.2,
+    "uf": 40851.38,
     "utm": 71649,
-    "cobre": 6.51,
+    "cobre": 6.48,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 333.0,
+      "precio": 337.1,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 186.0,
+      "precio": 186.98,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 136.91
     },
     "BCI": {
-      "precio": 66450.0,
+      "precio": 68299.0,
       "anterior": 62502.0,
-      "alto52": 67180.0,
+      "alto52": 68444.0,
       "bajo52": 38100.0
     },
     "ITAUCL": {
@@ -34,7 +34,7 @@
       "bajo52": 13365.0
     },
     "BSANTANDER": {
-      "precio": 78.76,
+      "precio": 79.89,
       "anterior": 77.0,
       "alto52": 80.68,
       "bajo52": 56.5
@@ -43,16 +43,16 @@
       "precio": 5395.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
-      "bajo52": 4699.3
+      "bajo52": 4749.0
     },
     "CENCOSUD": {
-      "precio": 1949.3,
+      "precio": 1960.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
-      "bajo52": 1900.0
+      "bajo52": 1959.9
     },
     "CENCOMALLS": {
-      "precio": 2430.0,
+      "precio": 2419.9,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1926.0
@@ -64,61 +64,61 @@
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5378.0,
+      "precio": 5394.6,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.0,
+      "precio": 48.25,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4680.0,
+      "precio": 4679.9,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3798.8,
+      "precio": 3798.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3135.1
     },
     "CMPC": {
-      "precio": 1015.0,
+      "precio": 1028.8,
       "anterior": 1070.0,
       "alto52": 1599.0,
-      "bajo52": 988.0
+      "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 5880.0,
+      "precio": 6000.1,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 86.5,
+      "precio": 87.38,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 80.85,
+      "precio": 80.04,
       "anterior": 81.01,
       "alto52": 84.0,
-      "bajo52": 65.01
+      "bajo52": 65.33
     },
     "ECL": {
-      "precio": 1865.0,
+      "precio": 1864.7,
       "anterior": 1807.0,
-      "alto52": 1914.5,
+      "alto52": 1879.9,
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6245.0,
+      "precio": 6243.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
@@ -136,25 +136,25 @@
       "bajo52": 11250.0
     },
     "LTM": {
-      "precio": 24.07,
+      "precio": 24.22,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3954.0,
+      "precio": 4000.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2092.4
     },
     "MALLPLAZA": {
-      "precio": 3927.9,
+      "precio": 3958.6,
       "anterior": 3950.0,
       "alto52": 4700.0,
-      "bajo52": 2160.1
+      "bajo52": 2220.0
     },
     "QUINENCO": {
-      "precio": 4480.0,
+      "precio": 4473.3,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
@@ -166,19 +166,19 @@
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1300.0,
+      "precio": 1320.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
-      "bajo52": 783.0
+      "bajo52": 799.0
     },
     "SMU": {
-      "precio": 126.0,
+      "precio": 125.0,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 123.01
+      "bajo52": 124.75
     },
     "SQM-B": {
-      "precio": 66010.0,
+      "precio": 66633.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
@@ -190,10 +190,10 @@
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7290.0,
+      "precio": 7282.6,
       "anterior": 7450.3,
       "alto52": 9000.0,
-      "bajo52": 7290.0
+      "bajo52": 7282.6
     },
     "ALMENDRAL": {
       "precio": 25.46,
@@ -229,18 +229,18 @@
       "precio": 196.1,
       "anterior": 200.99,
       "alto52": 227.0,
-      "bajo52": 94.94
+      "bajo52": 96.53
     },
     "MASISA": {
       "precio": 7.96,
       "anterior": 8.68,
       "alto52": 20.04,
-      "bajo52": 7.9
+      "bajo52": 7.96
     },
     "PAZ": {
-      "precio": 957.18,
+      "precio": 945.0,
       "anterior": 870.18,
-      "alto52": 957.18,
+      "alto52": 945.0,
       "bajo52": 613.72
     },
     "SOCOVESA": {
@@ -289,7 +289,7 @@
       "precio": 95.73,
       "anterior": 91.34,
       "alto52": 155.0,
-      "bajo52": 90.75
+      "bajo52": 91.0
     },
     "BLUMAR": {
       "precio": 274.0,
@@ -301,19 +301,19 @@
       "precio": 1645.0,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1311.5
+      "bajo52": 1324.1
     },
     "BICE": {
       "precio": 403.12,
       "anterior": 375.23,
       "alto52": 450.0,
-      "bajo52": 274.0
+      "bajo52": 280.22
     },
     "HABITAT": {
       "precio": 1340.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
-      "bajo52": 1061.0
+      "bajo52": 1070.0
     },
     "CFMITNIPSA": {
       "precio": 5091.8,
@@ -325,13 +325,13 @@
       "precio": 2170.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
-      "bajo52": 1611.69
+      "bajo52": 1615.0
     },
     "CFIBTGRCA": {
       "precio": 23350.0,
-      "anterior": 23500.0,
+      "anterior": 23783.88,
       "alto52": 28000.0,
-      "bajo52": 20000.0
+      "bajo52": 20101.1
     },
     "CFIBTGRRA": {
       "precio": 7800.0,
@@ -371,6 +371,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "TC declaró inconstitucionales varios elementos de la megarreforma",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/tc-declaro-inconstitucionales-varios-elementos-de-la-megarreforma/2026-08-13/222819.html",
+      "fecha": "Thu, 13 Aug 2026",
+      "fechaISO": "2026-08-14T02:28:19+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "CPC e Inacap lanzan \"Cruzada por el Empleo\": La meta es lograr 20 mil trabajos",
       "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cpc-e-inacap-lanzan-cruzada-por-el-empleo-la-meta-es-lograr-20-mil/2026-08-12/125026.html",
       "fecha": "Wed, 12 Aug 2026",
@@ -391,11 +398,11 @@
       "fechaISO": "2026-08-07T20:26:28+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Presentan recurso contra plan de expansión del puerto de San Antonio",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/presentan-recurso-contra-plan-de-expansion-del-puerto-de-san-antonio/2026-07-31/105937.html",
-      "fecha": "Fri, 31 Jul 2026",
-      "fechaISO": "2026-07-31T14:59:37+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "TC declaró inconstitucionales varios elementos de la megarreforma",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/tc-declaro-inconstitucionales-varios-elementos-de-la-megarreforma/2026-08-13/222819.html",
+      "fecha": "Thu, 13 Aug 2026",
+      "fechaISO": "2026-08-14T02:28:19+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-08-12T20:37:35+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Comisión de Hacienda del Senado rechazó dos de los tres vetos presidenciales a la megarreforma",
-      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/comision-de-hacienda-del-senado-rechazo-dos-de-los-tres-vetos/2026-08-12/140815.html",
-      "fecha": "Wed, 12 Aug 2026",
-      "fechaISO": "2026-08-12T18:08:15+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Bolsa de Santiago abre al alza con fuerte respaldo de Copec tras buenos resultados del conglomerado",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ykkap",
+      "fecha": "Fri, 14 Aug 2026",
+      "fechaISO": "2026-08-14T13:49:17+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "CEO de Falabella sincera pronóstico para segundo semestre: “El entorno de ventas en Chile seguirá siendo mixto”",
-      "link": "http://www.df.cl/empresas/retail/ceo-de-falabella-sincera-pronostico-para-segundo-semestre-el-entorno-de",
-      "fecha": "Thu, 13 Aug 2026",
-      "fechaISO": "2026-08-13T20:57:42+00:00"
+      "texto": "Dólar abre a la baja tras sorpresiva contracción de 0,6% en las ventas minoristas estadounidenses",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h58w5",
+      "fecha": "Fri, 14 Aug 2026",
+      "fechaISO": "2026-08-14T12:58:20+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El visto bueno que faltaba: autoridad peruana autoriza adquisición de SKY Airlines de parte de Grupo Abra",
-      "link": "http://www.df.cl/empresas/industria/el-visto-bueno-que-faltaba-autoridad-peruana-autoriza-adquisicion-de-sky",
-      "fecha": "Thu, 13 Aug 2026",
-      "fechaISO": "2026-08-13T21:04:00+00:00"
+      "texto": "Sueca Legora busca duplicar su valorización y acortar distancia con Harvey en carrera por IA legal",
+      "link": "http://www.df.cl/empresas/entre-codigos/sueca-legora-busca-duplicar-su-valorizacion-y-acortar-distancia-con-harvey",
+      "fecha": "Fri, 14 Aug 2026",
+      "fechaISO": "2026-08-14T01:18:23+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Grupo Patio vende terreno en Vitacura por US$ 17,5 millones para reducir su deuda",
-      "link": "http://www.df.cl/empresas/retail/grupo-patio-vende-terreno-en-vitacura-por-us-17-5-millones-para-reducir-su",
+      "texto": "Se reducen inventarios del comercio y la minería y suben los de manufactura",
+      "link": "http://www.df.cl/economia-y-politica/pais/se-reducen-inventarios-del-comercio-y-la-mineria-y-suben-los-de-manufactura",
       "fecha": "Thu, 13 Aug 2026",
-      "fechaISO": "2026-08-13T21:01:38+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA cierra al alza en 11.000 puntos una sesión volátil tras precios al productor más suaves de lo previsto en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-uhnjj",
-      "fecha": "Thu, 13 Aug 2026",
-      "fechaISO": "2026-08-13T20:24:10+00:00"
+      "fechaISO": "2026-08-13T23:57:40+00:00"
     }
   ]
 }
