@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14T17:56:18.164434+00:00",
+  "actualizado": "2026-08-14T20:52:15.491867+00:00",
   "macro": {
     "dolar": 913.2,
     "uf": 40851.38,
@@ -10,55 +10,55 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 334.5,
+      "precio": 335.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 185.55,
+      "precio": 185.81,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 136.91
     },
     "BCI": {
-      "precio": 66356.0,
+      "precio": 65543.0,
       "anterior": 62502.0,
       "alto52": 68444.0,
       "bajo52": 38100.0
     },
     "ITAUCL": {
-      "precio": 21841.0,
+      "precio": 21900.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 13365.0
     },
     "BSANTANDER": {
-      "precio": 78.57,
+      "precio": 78.51,
       "anterior": 77.0,
       "alto52": 80.68,
       "bajo52": 56.5
     },
     "CAP": {
-      "precio": 5330.7,
+      "precio": 5390.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4749.0
     },
     "CENCOSUD": {
-      "precio": 1965.0,
+      "precio": 1930.1,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1929.0
     },
     "CENCOMALLS": {
-      "precio": 2398.0,
+      "precio": 2430.0,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1926.0
     },
     "COLBUN": {
-      "precio": 139.3,
+      "precio": 140.0,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
@@ -70,127 +70,127 @@
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.2,
+      "precio": 48.5,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4601.1,
+      "precio": 4690.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3783.7,
+      "precio": 3780.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3135.1
     },
     "CMPC": {
-      "precio": 1028.0,
+      "precio": 1015.1,
       "anterior": 1070.0,
       "alto52": 1599.0,
-      "bajo52": 1014.9
+      "bajo52": 1014.1
     },
     "COPEC": {
-      "precio": 6038.1,
+      "precio": 6090.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 86.52,
+      "precio": 87.5,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.6,
+      "precio": 82.3,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 65.33
     },
     "ECL": {
-      "precio": 1838.0,
+      "precio": 1850.0,
       "anterior": 1807.0,
       "alto52": 1879.9,
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6205.4,
+      "precio": 6180.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 923.0,
+      "precio": 980.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 830.9
     },
     "ILC": {
-      "precio": 23774.0,
+      "precio": 24401.0,
       "anterior": 21450.0,
-      "alto52": 24038.0,
+      "alto52": 24401.0,
       "bajo52": 11250.0
     },
     "LTM": {
-      "precio": 23.95,
+      "precio": 23.85,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3970.2,
+      "precio": 3965.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2092.4
     },
     "MALLPLAZA": {
-      "precio": 3953.8,
+      "precio": 3970.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2220.0
     },
     "QUINENCO": {
-      "precio": 4495.0,
+      "precio": 4500.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 399.01,
+      "precio": 400.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1276.3,
+      "precio": 1298.9,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 799.0
     },
     "SMU": {
-      "precio": 124.2,
+      "precio": 124.02,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 124.03
+      "bajo52": 124.02
     },
     "SQM-B": {
-      "precio": 67841.0,
+      "precio": 67990.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 850.0,
+      "precio": 855.0,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7377.3,
+      "precio": 7392.2,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7282.6
@@ -202,7 +202,7 @@
       "bajo52": 19.7
     },
     "CAMANCHACA": {
-      "precio": 67.77,
+      "precio": 69.5,
       "anterior": 76.49,
       "alto52": 96.88,
       "bajo52": 51.56
@@ -238,13 +238,13 @@
       "bajo52": 8.0
     },
     "PAZ": {
-      "precio": 945.0,
+      "precio": 960.0,
       "anterior": 870.18,
-      "alto52": 945.0,
+      "alto52": 960.0,
       "bajo52": 613.72
     },
     "SOCOVESA": {
-      "precio": 158.0,
+      "precio": 158.8,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 81.0
@@ -256,7 +256,7 @@
       "bajo52": 1292.0
     },
     "SONDA": {
-      "precio": 295.0,
+      "precio": 299.0,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -274,7 +274,7 @@
       "bajo52": 2020.0
     },
     "WATTS": {
-      "precio": 670.53,
+      "precio": 670.0,
       "anterior": 730.0,
       "alto52": 820.0,
       "bajo52": 650.4
@@ -286,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 95.73,
+      "precio": 95.0,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.0
@@ -310,13 +310,13 @@
       "bajo52": 280.22
     },
     "HABITAT": {
-      "precio": 1325.1,
+      "precio": 1327.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1070.0
     },
     "CFMITNIPSA": {
-      "precio": 5111.0,
+      "precio": 5094.6,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4160.0
@@ -328,7 +328,7 @@
       "bajo52": 1615.0
     },
     "CFIBTGRCA": {
-      "precio": 23350.0,
+      "precio": 23200.0,
       "anterior": 23783.88,
       "alto52": 28000.0,
       "bajo52": 20101.1
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Megarreforma: Gobierno y oposición se adjudican triunfo tras fallo del TC",
+      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/megarreforma-gobierno-y-oposicion-se-adjudican-triunfo-tras-fallo-del-tc/2026-08-14/142412.html",
+      "fecha": "Fri, 14 Aug 2026",
+      "fechaISO": "2026-08-14T18:24:12+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Industria automotriz alemana registra su mayor destrucción de empleo en dos décadas",
       "link": "https://www.cooperativa.cl/noticias/mundo/alemania/industria-automotriz-alemana-registra-su-mayor-destruccion-de-empleo-en/2026-08-14/112228.html",
       "fecha": "Fri, 14 Aug 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-08-14T02:28:19+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Alejandro Micco: Estamos en una situación que se parece cada día más a la Guerra Fría",
-      "link": "https://www.cooperativa.cl/noticias/economia/alejandro-micco-estamos-en-una-situacion-que-se-parece-cada-dia-mas-a/2026-08-13/112107.html",
-      "fecha": "Thu, 13 Aug 2026",
-      "fechaISO": "2026-08-13T15:21:07+00:00"
-    },
-    {
       "fuente": "Diario Financiero",
-      "texto": "Oposición valora resolución del TC en materia ambiental y que se haya “acotado” la invariabilidad",
-      "link": "http://www.df.cl/economia-y-politica/congreso/oposicion-valora-resolucion-del-tc-en-materia-ambiental-y-que-se-haya",
-      "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T16:57:59+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA gana terreno sobre los 11.000 puntos con fuerte respaldo de Copec tras buenos resultados del conglomerado",
+      "texto": "IPSA gana algo de terreno sobre los 11.000 puntos al cierre con fuerte respaldo de Copec tras buenos resultados del conglomerado",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ykkap",
       "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T16:40:38+00:00"
+      "fechaISO": "2026-08-14T20:51:31+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "CEO de Empresas Copec valora ley de reconstrucción, pero advierte que hay otros elementos que incorporar a la agenda",
-      "link": "http://www.df.cl/empresas/energia/ceo-de-empresas-copec-valora-ley-de-reconstruccion-pero-advierte-que-hay",
-      "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T16:46:43+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cotiza levemente en baja al mediodía tras sorpresiva contracción de las ventas minoristas estadounidenses",
+      "texto": "Dólar revierte caída y cierra plano sobre $ 915 con mercados sacudidos por el auge de las tasas largas en el mundo",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h58w5",
       "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T16:14:24+00:00"
+      "fechaISO": "2026-08-14T20:17:20+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Codelco reordena su primera línea: nombra cinco vicepresidentes y cambia la conducción de cuatro divisiones",
+      "link": "http://www.df.cl/empresas/mineria/codelco-reordena-su-primera-linea-nombra-cinco-vicepresidentes-y-cambia-la",
+      "fecha": "Fri, 14 Aug 2026",
+      "fechaISO": "2026-08-14T19:50:44+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Las acciones que se verían favorecidas por los flujos provenientes de la repatriación de capitales",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/las-acciones-que-se-verian-favorecidas-por-los-flujos-provenientes-de-la",
+      "fecha": "Fri, 14 Aug 2026",
+      "fechaISO": "2026-08-14T20:25:13+00:00"
     }
   ]
 }
