@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-17T17:31:34.350266+00:00",
+  "actualizado": "2026-08-17T20:49:47.224630+00:00",
   "macro": {
     "dolar": 913.1,
     "uf": 40855.33,
@@ -10,129 +10,129 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 337.0,
+      "precio": 336.5,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 186.99,
+      "precio": 188.5,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 136.91
     },
     "BCI": {
-      "precio": 66501.0,
+      "precio": 66400.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 38100.0
     },
     "ITAUCL": {
-      "precio": 21870.0,
+      "precio": 21880.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 13365.0
     },
     "BSANTANDER": {
-      "precio": 79.14,
+      "precio": 79.49,
       "anterior": 77.0,
       "alto52": 80.68,
       "bajo52": 56.5
     },
     "CAP": {
-      "precio": 5313.3,
+      "precio": 5370.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4749.0
     },
     "CENCOSUD": {
-      "precio": 1940.0,
+      "precio": 1944.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1920.1
     },
     "CENCOMALLS": {
-      "precio": 2464.8,
+      "precio": 2462.9,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1926.0
     },
     "COLBUN": {
-      "precio": 139.31,
+      "precio": 140.0,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5316.5,
+      "precio": 5388.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.76,
+      "precio": 48.7,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4684.0,
+      "precio": 4705.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3777.5,
+      "precio": 3770.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3135.1
     },
     "CMPC": {
-      "precio": 1036.8,
+      "precio": 1038.0,
       "anterior": 1070.0,
       "alto52": 1599.0,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6182.6,
+      "precio": 6121.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 87.19,
+      "precio": 87.3,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.0,
+      "precio": 83.0,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 65.33
     },
     "ECL": {
-      "precio": 1845.3,
+      "precio": 1877.7,
       "anterior": 1807.0,
       "alto52": 1879.9,
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6276.7,
+      "precio": 6250.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 950.01,
+      "precio": 950.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 830.9
     },
     "ILC": {
-      "precio": 24300.0,
+      "precio": 24665.0,
       "anterior": 21450.0,
-      "alto52": 24401.0,
+      "alto52": 24665.0,
       "bajo52": 11250.0
     },
     "LTM": {
@@ -142,49 +142,49 @@
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 4044.4,
+      "precio": 4069.9,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2092.4
     },
     "MALLPLAZA": {
-      "precio": 4002.3,
+      "precio": 4000.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2220.0
     },
     "QUINENCO": {
-      "precio": 4530.7,
+      "precio": 4500.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 403.39,
+      "precio": 405.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1263.1,
+      "precio": 1298.2,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 799.0
     },
     "SMU": {
-      "precio": 122.47,
+      "precio": 122.0,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 121.61
     },
     "SQM-B": {
-      "precio": 68180.0,
+      "precio": 68800.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 859.0,
+      "precio": 865.0,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
@@ -220,31 +220,31 @@
       "bajo52": 1850.0
     },
     "HITES": {
-      "precio": 127.16,
+      "precio": 127.06,
       "anterior": 132.09,
       "alto52": 146.09,
       "bajo52": 100.96
     },
     "INGEVEC": {
-      "precio": 202.98,
+      "precio": 206.8,
       "anterior": 200.99,
       "alto52": 227.0,
       "bajo52": 96.53
     },
     "MASISA": {
-      "precio": 8.06,
+      "precio": 8.0,
       "anterior": 8.68,
       "alto52": 20.04,
-      "bajo52": 8.06
+      "bajo52": 8.0
     },
     "PAZ": {
-      "precio": 984.1,
+      "precio": 984.0,
       "anterior": 870.18,
-      "alto52": 984.1,
+      "alto52": 984.5,
       "bajo52": 613.72
     },
     "SOCOVESA": {
-      "precio": 159.0,
+      "precio": 161.5,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 81.0
@@ -298,37 +298,37 @@
       "bajo52": 198.06
     },
     "INVERCAP": {
-      "precio": 1630.3,
+      "precio": 1620.0,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1324.1
     },
     "BICE": {
-      "precio": 406.16,
+      "precio": 402.95,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 280.22
     },
     "HABITAT": {
-      "precio": 1354.0,
+      "precio": 1350.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1070.0
     },
     "CFMITNIPSA": {
-      "precio": 5120.5,
+      "precio": 5140.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4160.0
     },
     "CFINRENTAS": {
-      "precio": 2170.0,
+      "precio": 2169.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1615.0
     },
     "CFIBTGRCA": {
-      "precio": 23000.0,
+      "precio": 23200.0,
       "anterior": 23550.0,
       "alto52": 28000.0,
       "bajo52": 20101.1
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Presidente Kast presentó a la Comisión Asesora para la Modernización del Empleo Público",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/presidente-kast-presento-a-la-comision-asesora-para-la-modernizacion-del/2026-08-17/134201.html",
+      "fecha": "Mon, 17 Aug 2026",
+      "fechaISO": "2026-08-17T17:42:01+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Deuda pública: CFA ve \"alta probabilidad\" de superar \"nivel prudente\" hacia el fin del Gobierno",
       "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/deuda-publica-cfa-ve-alta-probabilidad-de-superar-nivel-prudente/2026-08-17/121301.html",
       "fecha": "Mon, 17 Aug 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-08-16T00:32:50+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "La Araucanía: Más de 3.700 agricultores reportan graves daños tras sistema frontal",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/la-araucania-mas-de-3-700-agricultores-reportan-graves-danos-tras/2026-08-15/004550.html",
-      "fecha": "Sat, 15 Aug 2026",
-      "fechaISO": "2026-08-15T04:45:50+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "A un año de la inauguración del Claro Arena: Cruzados hace balance positivo y proyecta cerrar el año con crecimiento de 50% en sus ingresos",
+      "link": "http://www.df.cl/empresas/industria/a-un-ano-de-la-inauguracion-del-claro-arena-cruzados-hace-balance-positivo",
+      "fecha": "Mon, 17 Aug 2026",
+      "fechaISO": "2026-08-17T20:48:58+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA supera los 11.100 puntos y Falabella busca recuperarse tras semana de ventas de grandes accionistas",
+      "texto": "IPSA cierra al alza sobre 11.100 puntos por expectativas internas y resiste el malestar causado por el conflicto geopolítico",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-fjxuk",
       "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T17:26:51+00:00"
+      "fechaISO": "2026-08-17T20:46:15+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cae levemente en medio de ventas globales por expectativas de una Fed menos inclinada a subir las tasas",
+      "texto": "Enel inicia construcción de proyecto de almacenamiento BESS al interior de central solar por US$ 80 millones",
+      "link": "http://www.df.cl/empresas/energia/enel-inicia-construccion-de-proyecto-de-almacenamiento-bess-al-interior-de",
+      "fecha": "Mon, 17 Aug 2026",
+      "fechaISO": "2026-08-17T20:14:10+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Dólar nuevamente intenta caer sin éxito y cierra plano luego de que Trump dijera no estar interesado en extender tregua con Irán",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-loh9m",
       "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T17:15:47+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Industria de AFP incrementa su fuerza de venta pese a caída de la dotación laboral",
-      "link": "http://www.df.cl/mercados/pensiones/industria-de-afp-incrementa-su-fuerza-de-venta-pese-a-caida-de-la-dotacion",
-      "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T16:53:05+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Gobierno define los integrantes de la comisión que revisará el Estatuto Administrativo de los funcionarios públicos",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/gobierno-define-los-integrantes-de-la-comision-que-revisara-el-estatuto",
-      "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T17:00:45+00:00"
+      "fechaISO": "2026-08-17T20:19:34+00:00"
     }
   ]
 }
