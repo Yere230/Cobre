@@ -1,10 +1,6 @@
 {
-  "actualizado": "2026-08-14T20:52:15.491867+00:00",
+  "actualizado": "2026-08-17T13:30:43.180676+00:00",
   "macro": {
-    "dolar": 913.2,
-    "uf": 40851.38,
-    "utm": 71649,
-    "cobre": 6.48,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
@@ -329,7 +325,7 @@
     },
     "CFIBTGRCA": {
       "precio": 23200.0,
-      "anterior": 23783.88,
+      "anterior": 23550.0,
       "alto52": 28000.0,
       "bajo52": 20101.1
     },
@@ -371,6 +367,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "\"Ley Descansa en Paz\": Lanzan proyecto que busca frenar cobros e intereses tras muerte de una persona",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/ley-descansa-en-paz-lanzan-proyecto-que-busca-frenar-cobros-e/2026-08-15/203250.html",
+      "fecha": "Sat, 15 Aug 2026",
+      "fechaISO": "2026-08-16T00:32:50+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "TC declaró inconstitucionales varios elementos de la megarreforma",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/tc-declaro-inconstitucionales-varios-elementos-de-la-megarreforma/2026-08-13/222819.html",
       "fecha": "Thu, 13 Aug 2026",
@@ -391,67 +394,60 @@
       "fechaISO": "2026-08-10T20:54:54+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Comenzó pago de compensaciones de Farmacias Ahumadas por colusión de medicamentos",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/sernac/comenzo-pago-de-compensaciones-de-farmacias-ahumadas-por-colusion-de/2026-08-07/162628.html",
-      "fecha": "Fri, 07 Aug 2026",
-      "fechaISO": "2026-08-07T20:26:28+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Fontaine afirma que los costos de Codelco \"son 50% más altos que las grandes mineras del mundo\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/fontaine-afirma-que-los-costos-de-codelco-son-50-mas-altos-que-las/2026-08-16/182012.html",
+      "fecha": "Sun, 16 Aug 2026",
+      "fechaISO": "2026-08-16T22:20:12+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Megarreforma: Gobierno y oposición se adjudican triunfo tras fallo del TC",
-      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/megarreforma-gobierno-y-oposicion-se-adjudican-triunfo-tras-fallo-del-tc/2026-08-14/142412.html",
-      "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T18:24:12+00:00"
+      "texto": "\"Ley Descansa en Paz\": Lanzan proyecto que busca frenar cobros e intereses tras muerte de una persona",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/ley-descansa-en-paz-lanzan-proyecto-que-busca-frenar-cobros-e/2026-08-15/203250.html",
+      "fecha": "Sat, 15 Aug 2026",
+      "fechaISO": "2026-08-16T00:32:50+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Industria automotriz alemana registra su mayor destrucción de empleo en dos décadas",
-      "link": "https://www.cooperativa.cl/noticias/mundo/alemania/industria-automotriz-alemana-registra-su-mayor-destruccion-de-empleo-en/2026-08-14/112228.html",
-      "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T15:22:28+00:00"
+      "texto": "La Araucanía: Más de 3.700 agricultores reportan graves daños tras sistema frontal",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/la-araucania-mas-de-3-700-agricultores-reportan-graves-danos-tras/2026-08-15/004550.html",
+      "fecha": "Sat, 15 Aug 2026",
+      "fechaISO": "2026-08-15T04:45:50+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Eyzaguirre consideró \"apropiado, desde la lógica económica\", el epílogo de la megarreforma",
-      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/eyzaguirre-considero-apropiado-desde-la-logica-economica-el-epilogo/2026-08-14/103828.html",
+      "texto": "Fallo del TC: Ministros del área económica expresaron satisfacción moderada",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/fallo-del-tc-ministros-del-area-economica-expresaron-satisfaccion/2026-08-14/192448.html",
       "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T14:38:28+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "TC declaró inconstitucionales varios elementos de la megarreforma",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/tc-declaro-inconstitucionales-varios-elementos-de-la-megarreforma/2026-08-13/222819.html",
-      "fecha": "Thu, 13 Aug 2026",
-      "fechaISO": "2026-08-14T02:28:19+00:00"
+      "fechaISO": "2026-08-14T23:24:48+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA gana algo de terreno sobre los 11.000 puntos al cierre con fuerte respaldo de Copec tras buenos resultados del conglomerado",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ykkap",
-      "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T20:51:31+00:00"
+      "texto": "Dólar abre a la baja en medio de ventas globales por expectativas de una Fed menos inclinada a subir las tasas",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-loh9m",
+      "fecha": "Mon, 17 Aug 2026",
+      "fechaISO": "2026-08-17T13:22:18+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar revierte caída y cierra plano sobre $ 915 con mercados sacudidos por el auge de las tasas largas en el mundo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h58w5",
-      "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T20:17:20+00:00"
+      "texto": "Mallplaza sorprende y revive millonario proyecto de centro comercial en Concón",
+      "link": "http://www.df.cl/empresas/construccion/mallplaza-sorprende-y-revive-millonario-proyecto-de-centro-comercial-en",
+      "fecha": "Mon, 17 Aug 2026",
+      "fechaISO": "2026-08-17T13:11:08+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Codelco reordena su primera línea: nombra cinco vicepresidentes y cambia la conducción de cuatro divisiones",
-      "link": "http://www.df.cl/empresas/mineria/codelco-reordena-su-primera-linea-nombra-cinco-vicepresidentes-y-cambia-la",
-      "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T19:50:44+00:00"
+      "texto": "Cómo el factor de un PDG molesto por el portazo al feriado el 17 de septiembre puede afectar la agenda del gobierno en la Cámara",
+      "link": "http://www.df.cl/economia-y-politica/congreso/como-el-factor-de-un-pdg-molesto-por-el-portazo-al-feriado-el-17-de",
+      "fecha": "Mon, 17 Aug 2026",
+      "fechaISO": "2026-08-17T12:32:30+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Las acciones que se verían favorecidas por los flujos provenientes de la repatriación de capitales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/las-acciones-que-se-verian-favorecidas-por-los-flujos-provenientes-de-la",
-      "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T20:25:13+00:00"
+      "texto": "Hernán Uribe, presidente de Ripley Corp, afirma que la empresa “está cosechando el cambio estructural que hizo hace bastante tiempo”",
+      "link": "http://www.df.cl/empresas/retail/hernan-uribe-presidente-de-ripley-corp-ripley-esta-cosechando-el-cambio",
+      "fecha": "Mon, 17 Aug 2026",
+      "fechaISO": "2026-08-17T10:49:28+00:00"
     }
   ]
 }
