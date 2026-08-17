@@ -1,195 +1,199 @@
 {
-  "actualizado": "2026-08-17T13:30:43.180676+00:00",
+  "actualizado": "2026-08-17T17:31:34.350266+00:00",
   "macro": {
+    "dolar": 913.1,
+    "uf": 40855.33,
+    "utm": 71649,
+    "cobre": 6.53,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 335.0,
+      "precio": 337.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 185.81,
+      "precio": 186.99,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 136.91
     },
     "BCI": {
-      "precio": 65543.0,
+      "precio": 66501.0,
       "anterior": 62502.0,
-      "alto52": 68444.0,
+      "alto52": 66985.0,
       "bajo52": 38100.0
     },
     "ITAUCL": {
-      "precio": 21900.0,
+      "precio": 21870.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 13365.0
     },
     "BSANTANDER": {
-      "precio": 78.51,
+      "precio": 79.14,
       "anterior": 77.0,
       "alto52": 80.68,
       "bajo52": 56.5
     },
     "CAP": {
-      "precio": 5390.0,
+      "precio": 5313.3,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4749.0
     },
     "CENCOSUD": {
-      "precio": 1930.1,
+      "precio": 1940.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
-      "bajo52": 1929.0
+      "bajo52": 1920.1
     },
     "CENCOMALLS": {
-      "precio": 2430.0,
+      "precio": 2464.8,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1926.0
     },
     "COLBUN": {
-      "precio": 140.0,
+      "precio": 139.31,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5400.0,
+      "precio": 5316.5,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.5,
+      "precio": 48.76,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4690.0,
+      "precio": 4684.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3780.0,
+      "precio": 3777.5,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3135.1
     },
     "CMPC": {
-      "precio": 1015.1,
+      "precio": 1036.8,
       "anterior": 1070.0,
       "alto52": 1599.0,
-      "bajo52": 1014.1
+      "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6090.0,
+      "precio": 6182.6,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 87.5,
+      "precio": 87.19,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.3,
+      "precio": 82.0,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 65.33
     },
     "ECL": {
-      "precio": 1850.0,
+      "precio": 1845.3,
       "anterior": 1807.0,
       "alto52": 1879.9,
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6180.0,
+      "precio": 6276.7,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 980.0,
+      "precio": 950.01,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 830.9
     },
     "ILC": {
-      "precio": 24401.0,
+      "precio": 24300.0,
       "anterior": 21450.0,
       "alto52": 24401.0,
       "bajo52": 11250.0
     },
     "LTM": {
-      "precio": 23.85,
+      "precio": 23.96,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3965.0,
+      "precio": 4044.4,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2092.4
     },
     "MALLPLAZA": {
-      "precio": 3970.0,
+      "precio": 4002.3,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2220.0
     },
     "QUINENCO": {
-      "precio": 4500.0,
+      "precio": 4530.7,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 400.0,
+      "precio": 403.39,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1298.9,
+      "precio": 1263.1,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 799.0
     },
     "SMU": {
-      "precio": 124.02,
+      "precio": 122.47,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 124.02
+      "bajo52": 121.61
     },
     "SQM-B": {
-      "precio": 67990.0,
+      "precio": 68180.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 855.0,
+      "precio": 859.0,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7392.2,
+      "precio": 7320.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
-      "bajo52": 7282.6
+      "bajo52": 7320.0
     },
     "ALMENDRAL": {
       "precio": 24.8,
@@ -222,7 +226,7 @@
       "bajo52": 100.96
     },
     "INGEVEC": {
-      "precio": 199.07,
+      "precio": 202.98,
       "anterior": 200.99,
       "alto52": 227.0,
       "bajo52": 96.53
@@ -231,16 +235,16 @@
       "precio": 8.06,
       "anterior": 8.68,
       "alto52": 20.04,
-      "bajo52": 8.0
+      "bajo52": 8.06
     },
     "PAZ": {
-      "precio": 960.0,
+      "precio": 984.1,
       "anterior": 870.18,
-      "alto52": 960.0,
+      "alto52": 984.1,
       "bajo52": 613.72
     },
     "SOCOVESA": {
-      "precio": 158.8,
+      "precio": 159.0,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 81.0
@@ -252,7 +256,7 @@
       "bajo52": 1292.0
     },
     "SONDA": {
-      "precio": 299.0,
+      "precio": 300.0,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -264,10 +268,10 @@
       "bajo52": 1150.0
     },
     "CRISTALES": {
-      "precio": 2020.0,
+      "precio": 2050.0,
       "anterior": 2050.0,
       "alto52": 2800.0,
-      "bajo52": 2020.0
+      "bajo52": 2050.0
     },
     "WATTS": {
       "precio": 670.0,
@@ -282,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 95.0,
+      "precio": 97.3,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.0
@@ -300,31 +304,31 @@
       "bajo52": 1324.1
     },
     "BICE": {
-      "precio": 405.0,
+      "precio": 406.16,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 280.22
     },
     "HABITAT": {
-      "precio": 1327.0,
+      "precio": 1354.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1070.0
     },
     "CFMITNIPSA": {
-      "precio": 5094.6,
+      "precio": 5120.5,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4160.0
     },
     "CFINRENTAS": {
-      "precio": 2168.7,
+      "precio": 2170.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1615.0
     },
     "CFIBTGRCA": {
-      "precio": 23200.0,
+      "precio": 23000.0,
       "anterior": 23550.0,
       "alto52": 28000.0,
       "bajo52": 20101.1
@@ -395,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Deuda pública: CFA ve \"alta probabilidad\" de superar \"nivel prudente\" hacia el fin del Gobierno",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/deuda-publica-cfa-ve-alta-probabilidad-de-superar-nivel-prudente/2026-08-17/121301.html",
+      "fecha": "Mon, 17 Aug 2026",
+      "fechaISO": "2026-08-17T16:13:01+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Fontaine afirma que los costos de Codelco \"son 50% más altos que las grandes mineras del mundo\"",
       "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/fontaine-afirma-que-los-costos-de-codelco-son-50-mas-altos-que-las/2026-08-16/182012.html",
       "fecha": "Sun, 16 Aug 2026",
@@ -415,39 +426,32 @@
       "fechaISO": "2026-08-15T04:45:50+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Fallo del TC: Ministros del área económica expresaron satisfacción moderada",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/fallo-del-tc-ministros-del-area-economica-expresaron-satisfaccion/2026-08-14/192448.html",
-      "fecha": "Fri, 14 Aug 2026",
-      "fechaISO": "2026-08-14T23:24:48+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "IPSA supera los 11.100 puntos y Falabella busca recuperarse tras semana de ventas de grandes accionistas",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-fjxuk",
+      "fecha": "Mon, 17 Aug 2026",
+      "fechaISO": "2026-08-17T17:26:51+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar abre a la baja en medio de ventas globales por expectativas de una Fed menos inclinada a subir las tasas",
+      "texto": "Dólar cae levemente en medio de ventas globales por expectativas de una Fed menos inclinada a subir las tasas",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-loh9m",
       "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T13:22:18+00:00"
+      "fechaISO": "2026-08-17T17:15:47+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Mallplaza sorprende y revive millonario proyecto de centro comercial en Concón",
-      "link": "http://www.df.cl/empresas/construccion/mallplaza-sorprende-y-revive-millonario-proyecto-de-centro-comercial-en",
+      "texto": "Industria de AFP incrementa su fuerza de venta pese a caída de la dotación laboral",
+      "link": "http://www.df.cl/mercados/pensiones/industria-de-afp-incrementa-su-fuerza-de-venta-pese-a-caida-de-la-dotacion",
       "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T13:11:08+00:00"
+      "fechaISO": "2026-08-17T16:53:05+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Cómo el factor de un PDG molesto por el portazo al feriado el 17 de septiembre puede afectar la agenda del gobierno en la Cámara",
-      "link": "http://www.df.cl/economia-y-politica/congreso/como-el-factor-de-un-pdg-molesto-por-el-portazo-al-feriado-el-17-de",
+      "texto": "Gobierno define los integrantes de la comisión que revisará el Estatuto Administrativo de los funcionarios públicos",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/gobierno-define-los-integrantes-de-la-comision-que-revisara-el-estatuto",
       "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T12:32:30+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Hernán Uribe, presidente de Ripley Corp, afirma que la empresa “está cosechando el cambio estructural que hizo hace bastante tiempo”",
-      "link": "http://www.df.cl/empresas/retail/hernan-uribe-presidente-de-ripley-corp-ripley-esta-cosechando-el-cambio",
-      "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T10:49:28+00:00"
+      "fechaISO": "2026-08-17T17:00:45+00:00"
     }
   ]
 }
