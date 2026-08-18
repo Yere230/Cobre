@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-08-17T20:49:47.224630+00:00",
+  "actualizado": "2026-08-18T13:33:57.747880+00:00",
   "macro": {
-    "dolar": 913.1,
-    "uf": 40855.33,
+    "dolar": 914.2,
+    "uf": 40856.64,
     "utm": 71649,
-    "cobre": 6.53,
+    "cobre": 6.61,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
@@ -109,7 +109,7 @@
       "precio": 83.0,
       "anterior": 81.01,
       "alto52": 84.0,
-      "bajo52": 65.33
+      "bajo52": 65.51
     },
     "ECL": {
       "precio": 1877.7,
@@ -169,7 +169,7 @@
       "precio": 1298.2,
       "anterior": 1249.0,
       "alto52": 1499.9,
-      "bajo52": 799.0
+      "bajo52": 800.0
     },
     "SMU": {
       "precio": 122.0,
@@ -184,13 +184,13 @@
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 865.0,
+      "precio": 860.79,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7320.0,
+      "precio": 7325.5,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7320.0
@@ -214,7 +214,7 @@
       "bajo52": 19349.0
     },
     "FORUS": {
-      "precio": 1850.0,
+      "precio": 1844.8,
       "anterior": 1983.4,
       "alto52": 2510.0,
       "bajo52": 1850.0
@@ -223,13 +223,13 @@
       "precio": 127.06,
       "anterior": 132.09,
       "alto52": 146.09,
-      "bajo52": 100.96
+      "bajo52": 101.46
     },
     "INGEVEC": {
-      "precio": 206.8,
+      "precio": 205.6,
       "anterior": 200.99,
       "alto52": 227.0,
-      "bajo52": 96.53
+      "bajo52": 97.9
     },
     "MASISA": {
       "precio": 8.0,
@@ -244,7 +244,7 @@
       "bajo52": 613.72
     },
     "SOCOVESA": {
-      "precio": 161.5,
+      "precio": 160.33,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 81.0
@@ -301,41 +301,41 @@
       "precio": 1620.0,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1324.1
+      "bajo52": 1330.1
     },
     "BICE": {
-      "precio": 402.95,
+      "precio": 402.77,
       "anterior": 375.23,
       "alto52": 450.0,
-      "bajo52": 280.22
+      "bajo52": 281.0
     },
     "HABITAT": {
-      "precio": 1350.0,
+      "precio": 1345.9,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1070.0
     },
     "CFMITNIPSA": {
-      "precio": 5140.0,
+      "precio": 5131.5,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4160.0
     },
     "CFINRENTAS": {
-      "precio": 2169.0,
+      "precio": 2169.91,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1615.0
     },
     "CFIBTGRCA": {
-      "precio": 23200.0,
-      "anterior": 23550.0,
+      "precio": 23200.14,
+      "anterior": 23450.0,
       "alto52": 28000.0,
-      "bajo52": 20101.1
+      "bajo52": 20390.0
     },
     "CFIBTGRRA": {
       "precio": 7800.0,
-      "anterior": 8000.0,
+      "anterior": 7800.0,
       "alto52": 12472.8,
       "bajo52": 7300.0
     }
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Fonda de Ñuñoa abrió convocatoria gratuita para emprendedores locales",
+      "link": "https://www.cooperativa.cl/noticias/pais/festivos/fiestas-patrias/fonda-de-nunoa-abrio-convocatoria-gratuita-para-emprendedores-locales/2026-08-17/164416.html",
+      "fecha": "Mon, 17 Aug 2026",
+      "fechaISO": "2026-08-17T20:44:16+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Presidente Kast presentó a la Comisión Asesora para la Modernización del Empleo Público",
       "link": "https://www.cooperativa.cl/noticias/pais/gobierno/presidente-kast-presento-a-la-comision-asesora-para-la-modernizacion-del/2026-08-17/134201.html",
       "fecha": "Mon, 17 Aug 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-08-16T22:20:12+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "\"Ley Descansa en Paz\": Lanzan proyecto que busca frenar cobros e intereses tras muerte de una persona",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/ley-descansa-en-paz-lanzan-proyecto-que-busca-frenar-cobros-e/2026-08-15/203250.html",
-      "fecha": "Sat, 15 Aug 2026",
-      "fechaISO": "2026-08-16T00:32:50+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Se desacelera el déficit en cuenta corriente en Chile, pero la deuda externa sigue anotando récord",
+      "link": "http://www.df.cl/economia-y-politica/macro/se-desacelera-el-deficit-en-cuenta-corriente-en-chile-pero-la-deuda",
+      "fecha": "Tue, 18 Aug 2026",
+      "fechaISO": "2026-08-18T13:20:36+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "A un año de la inauguración del Claro Arena: Cruzados hace balance positivo y proyecta cerrar el año con crecimiento de 50% en sus ingresos",
-      "link": "http://www.df.cl/empresas/industria/a-un-ano-de-la-inauguracion-del-claro-arena-cruzados-hace-balance-positivo",
-      "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T20:48:58+00:00"
+      "texto": "Venta global de bonos lleva al Treasury a 30 años a máximo de 19 años y al bund alemán a su nivel más alto en 15 años",
+      "link": "http://www.df.cl/mercados/renta-fija/venta-global-de-bonos-lleva-al-treasury-a-30-anos-a-maximo-de-19-anos-y-al",
+      "fecha": "Tue, 18 Aug 2026",
+      "fechaISO": "2026-08-18T12:58:41+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra al alza sobre 11.100 puntos por expectativas internas y resiste el malestar causado por el conflicto geopolítico",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-fjxuk",
-      "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T20:46:15+00:00"
+      "texto": "Dólar abre con leve alza tras sorpresiva contracción del PIB en Chile y nuevos máximos de las tasas largas en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bnyn9",
+      "fecha": "Tue, 18 Aug 2026",
+      "fechaISO": "2026-08-18T13:09:18+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Enel inicia construcción de proyecto de almacenamiento BESS al interior de central solar por US$ 80 millones",
-      "link": "http://www.df.cl/empresas/energia/enel-inicia-construccion-de-proyecto-de-almacenamiento-bess-al-interior-de",
-      "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T20:14:10+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar nuevamente intenta caer sin éxito y cierra plano luego de que Trump dijera no estar interesado en extender tregua con Irán",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-loh9m",
-      "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T20:19:34+00:00"
+      "texto": "El PIB del segundo trimestre sorprende con una caída de 0,2% anual y registra un primer semestre del año en rojo",
+      "link": "http://www.df.cl/economia-y-politica/macro/el-pib-del-segundo-trimestre-sorprende-con-una-caida-de-0-2-anual-y",
+      "fecha": "Tue, 18 Aug 2026",
+      "fechaISO": "2026-08-18T13:31:20+00:00"
     }
   ]
 }
