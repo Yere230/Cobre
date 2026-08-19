@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-08-18T20:45:25.364995+00:00",
+  "actualizado": "2026-08-19T13:35:16.532103+00:00",
   "macro": {
-    "dolar": 914.2,
-    "uf": 40856.64,
+    "dolar": 922.1,
+    "uf": 40857.96,
     "utm": 71649,
-    "cobre": 6.61,
+    "cobre": 6.62,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
@@ -109,7 +109,7 @@
       "precio": 82.5,
       "anterior": 81.01,
       "alto52": 86.3,
-      "bajo52": 65.51
+      "bajo52": 65.7
     },
     "ECL": {
       "precio": 1825.0,
@@ -127,7 +127,7 @@
       "precio": 925.0,
       "anterior": 921.89,
       "alto52": 1150.0,
-      "bajo52": 830.9
+      "bajo52": 841.5
     },
     "ILC": {
       "precio": 24349.0,
@@ -214,7 +214,7 @@
       "bajo52": 19349.0
     },
     "FORUS": {
-      "precio": 1850.0,
+      "precio": 1844.8,
       "anterior": 1983.4,
       "alto52": 2510.0,
       "bajo52": 1850.0
@@ -286,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 97.55,
+      "precio": 96.57,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.0
@@ -304,34 +304,34 @@
       "bajo52": 1330.1
     },
     "BICE": {
-      "precio": 402.36,
+      "precio": 401.46,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 281.0
     },
     "HABITAT": {
-      "precio": 1370.0,
+      "precio": 1360.3,
       "anterior": 1267.0,
       "alto52": 1600.0,
-      "bajo52": 1070.0
+      "bajo52": 1077.0
     },
     "CFMITNIPSA": {
-      "precio": 5163.0,
+      "precio": 5137.9,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4160.0
     },
     "CFINRENTAS": {
-      "precio": 2150.0,
+      "precio": 2161.83,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1615.0
     },
     "CFIBTGRCA": {
       "precio": 23284.0,
-      "anterior": 23450.0,
+      "anterior": 23400.0,
       "alto52": 28000.0,
-      "bajo52": 20390.0
+      "bajo52": 20400.0
     },
     "CFIBTGRRA": {
       "precio": 7800.0,
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "\"Tequila con dulce de leche\": La inédita marca que promociona helados con alcohol en Chile",
+      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/tequila-con-dulce-de-leche-la-inedita-marca-que-promociona-helados/2026-08-18/171726.html",
+      "fecha": "Tue, 18 Aug 2026",
+      "fechaISO": "2026-08-18T21:17:26+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "PIB cayó 0,2% en el segundo trimestre y Chile llegó a un escenario de recesión técnica",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/pib-cayo-0-2-en-el-segundo-trimestre-y-chile-llego-a-un-escenario-de/2026-08-18/095551.html",
       "fecha": "Tue, 18 Aug 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-08-17T17:42:01+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Deuda pública: CFA ve \"alta probabilidad\" de superar \"nivel prudente\" hacia el fin del Gobierno",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/deuda-publica-cfa-ve-alta-probabilidad-de-superar-nivel-prudente/2026-08-17/121301.html",
-      "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T16:13:01+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Parte la negociación colectiva más importante del año en Minera Escondida y el sindicato pide una \"repartición justa de las riquezas con los trabajadores\"",
+      "link": "http://www.df.cl/empresas/mineria/parte-la-negociacion-colectiva-mas-importante-del-ano-en-minera-escondida-y",
+      "fecha": "Wed, 19 Aug 2026",
+      "fechaISO": "2026-08-19T13:33:38+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "“Es un dato del pasado”: ministro Quiroz pone la mirada en lo que “números positivos que vienen”",
-      "link": "http://www.df.cl/economia-y-politica/macro/es-un-dato-del-pasado-ministro-quiroz-pone-la-mirada-en-lo-que-numeros",
-      "fecha": "Tue, 18 Aug 2026",
-      "fechaISO": "2026-08-18T20:45:12+00:00"
+      "texto": "Dólar abre a la baja mientras tasas largas de EEUU caen fuerte desde sus máximos tras anuncio del Departamento del Tesoro",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-rhryp",
+      "fecha": "Wed, 19 Aug 2026",
+      "fechaISO": "2026-08-19T13:00:56+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Rodrigo Vergara tras las sucesivas caídas del PIB: “Tuvimos una recesión técnica durante la primera parte de este año (...) pero todo indica que ya salimos”",
-      "link": "http://www.df.cl/economia-y-politica/pais/rodrigo-vergara-expresidente-del-banco-central-estuvimos-en-recesion-el",
-      "fecha": "Tue, 18 Aug 2026",
-      "fechaISO": "2026-08-18T20:32:44+00:00"
+      "texto": "Las utilidades de SQM se disparan más de 600% en el segundo trimestre y superan las estimaciones ante mayores ventas y precios del litio",
+      "link": "http://www.df.cl/empresas/mineria/las-utilidades-de-sqm-se-disparan-y-superan-las-estimaciones-ante-mayores",
+      "fecha": "Wed, 19 Aug 2026",
+      "fechaISO": "2026-08-19T12:07:24+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA resiste turbulencia global y cierra al alza cerca de 11.200 puntos ya que agentes prevén mejores lecturas del PIB hacia adelante",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-cdvxr",
-      "fecha": "Tue, 18 Aug 2026",
-      "fechaISO": "2026-08-18T20:40:33+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Rusia levanta restricciones a cinco plantas pesqueras chilenas y viabiliza exportaciones del sector",
-      "link": "http://www.df.cl/empresas/industria/rusia-levanta-restricciones-a-cinco-plantas-pesqueras-chilenas-y-viabiliza",
-      "fecha": "Tue, 18 Aug 2026",
-      "fechaISO": "2026-08-18T20:44:13+00:00"
+      "texto": "Quiroz acelera plan de venta de activos prescindibles del Estado para inyectar recursos a los fondos soberanos",
+      "link": "http://www.df.cl/economia-y-politica/macro/quiroz-acelera-plan-de-venta-de-activos-prescindibles-del-estado-para",
+      "fecha": "Wed, 19 Aug 2026",
+      "fechaISO": "2026-08-19T10:24:32+00:00"
     }
   ]
 }
