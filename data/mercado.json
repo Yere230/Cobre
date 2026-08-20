@@ -1,10 +1,6 @@
 {
-  "actualizado": "2026-08-19T20:50:55.659892+00:00",
+  "actualizado": "2026-08-20T13:36:53.337156+00:00",
   "macro": {
-    "dolar": 922.1,
-    "uf": 40857.96,
-    "utm": 71649,
-    "cobre": 6.62,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
@@ -40,7 +36,7 @@
       "bajo52": 56.5
     },
     "CAP": {
-      "precio": 5300.0,
+      "precio": 5293.6,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4749.0
@@ -85,7 +81,7 @@
       "precio": 3730.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
-      "bajo52": 3135.1
+      "bajo52": 3147.8
     },
     "CMPC": {
       "precio": 1020.0,
@@ -133,7 +129,7 @@
       "precio": 24450.0,
       "anterior": 21450.0,
       "alto52": 24837.0,
-      "bajo52": 11250.0
+      "bajo52": 11690.0
     },
     "LTM": {
       "precio": 23.8,
@@ -205,7 +201,7 @@
       "precio": 69.5,
       "anterior": 76.49,
       "alto52": 96.88,
-      "bajo52": 51.56
+      "bajo52": 51.61
     },
     "ENAEX": {
       "precio": 25008.0,
@@ -223,7 +219,7 @@
       "precio": 127.51,
       "anterior": 132.09,
       "alto52": 146.09,
-      "bajo52": 101.46
+      "bajo52": 104.0
     },
     "INGEVEC": {
       "precio": 214.99,
@@ -244,7 +240,7 @@
       "bajo52": 613.72
     },
     "SOCOVESA": {
-      "precio": 158.05,
+      "precio": 158.45,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 81.0
@@ -256,7 +252,7 @@
       "bajo52": 1292.0
     },
     "SONDA": {
-      "precio": 295.99,
+      "precio": 295.23,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -286,10 +282,10 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 97.55,
+      "precio": 96.57,
       "anterior": 91.34,
       "alto52": 155.0,
-      "bajo52": 91.0
+      "bajo52": 91.22
     },
     "BLUMAR": {
       "precio": 274.0,
@@ -301,7 +297,7 @@
       "precio": 1584.6,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1330.1
+      "bajo52": 1331.1
     },
     "BICE": {
       "precio": 402.32,
@@ -310,26 +306,26 @@
       "bajo52": 281.0
     },
     "HABITAT": {
-      "precio": 1394.7,
+      "precio": 1391.6,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1077.0
     },
     "CFMITNIPSA": {
-      "precio": 5222.7,
+      "precio": 5222.2,
       "anterior": 5035.4,
       "alto52": 5588.4,
-      "bajo52": 4160.0
+      "bajo52": 4162.17
     },
     "CFINRENTAS": {
       "precio": 2170.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
-      "bajo52": 1615.0
+      "bajo52": 1651.9
     },
     "CFIBTGRCA": {
       "precio": 23284.0,
-      "anterior": 23400.0,
+      "anterior": 23350.0,
       "alto52": 28000.0,
       "bajo52": 20400.0
     },
@@ -399,6 +395,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "ProChile seleccionó a 43 empresas para dar el salto al extranjero, y la mitad es de regiones",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/prochile-selecciono-a-43-empresas-para-dar-el-salto-al-extranjero-y-la/2026-08-19/164330.html",
+      "fecha": "Wed, 19 Aug 2026",
+      "fechaISO": "2026-08-19T20:43:30+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Caso Alto Santorini: Oficialismo defiende a Quiroz y oposición exige transparencia",
       "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/caso-alto-santorini-oficialismo-defiende-a-quiroz-y-oposicion-exige/2026-08-19/114338.html",
       "fecha": "Wed, 19 Aug 2026",
@@ -419,39 +422,32 @@
       "fechaISO": "2026-08-18T13:55:51+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Fonda de Ñuñoa abrió convocatoria gratuita para emprendedores locales",
-      "link": "https://www.cooperativa.cl/noticias/pais/festivos/fiestas-patrias/fonda-de-nunoa-abrio-convocatoria-gratuita-para-emprendedores-locales/2026-08-17/164416.html",
-      "fecha": "Mon, 17 Aug 2026",
-      "fechaISO": "2026-08-17T20:44:16+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Dólar abre al alza sobre $ 925 en medio de nuevo avance del petróleo luego de que Trump anuncia una \"guerra económica sin precedentes\" contra Irán",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-x54mi",
+      "fecha": "Thu, 20 Aug 2026",
+      "fechaISO": "2026-08-20T12:56:55+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra sobre los 11.200 puntos una quinta sesión alcista tras resultados de SQM y mejora de perspectivas a nivel local",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ki4ea",
-      "fecha": "Wed, 19 Aug 2026",
-      "fechaISO": "2026-08-19T20:33:35+00:00"
+      "texto": "Pampa Investments entrará al IPSA a partir del 1 de septiembre",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/pampa-investments-la-exoro-blanco-entra-al-ipsa-a-partir-del-1-de",
+      "fecha": "Thu, 20 Aug 2026",
+      "fechaISO": "2026-08-20T12:42:07+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra a la baja cerca de $ 920 mientras la divisa se hunde globalmente tras anuncio del Tesoro que respalda a los bonos largos",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-rhryp",
-      "fecha": "Wed, 19 Aug 2026",
-      "fechaISO": "2026-08-19T20:08:38+00:00"
+      "texto": "Empresas Copec aclara apoyo en capital a Arauco y sincera valor de Puerto Coronel",
+      "link": "http://www.df.cl/empresas/energia/empresas-copec-aclara-apoyo-en-capital-a-arauco-y-sincera-valor-de-puerto",
+      "fecha": "Thu, 20 Aug 2026",
+      "fechaISO": "2026-08-20T10:40:43+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Notarios: recursos solicitados por el Servicio Civil para nombramientos pendientes se discutirán en el Presupuesto 2027",
-      "link": "http://www.df.cl/economia-y-politica/politica/notarios-recursos-solicitados-por-el-servicio-civil-para-nombramientos",
-      "fecha": "Wed, 19 Aug 2026",
-      "fechaISO": "2026-08-19T19:17:51+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Cambios en Megacentro: Claudio Chamorro dejará la gerencia general tras haber liderado reordenamiento de la compañía",
-      "link": "http://www.df.cl/empresas/industria/cambios-en-megacentro-claudio-chamorro-dejara-la-gerencia-general-tras",
-      "fecha": "Wed, 19 Aug 2026",
-      "fechaISO": "2026-08-19T18:49:12+00:00"
+      "texto": "Informe de Contraloría por incumplimientos de WOM apunta al exsubsecretario de Telecomunicaciones Claudio Araya",
+      "link": "http://www.df.cl/empresas/telecom-tecnologia/informe-de-contraloria-apunta-a-exsubtel-claudio-araya",
+      "fecha": "Thu, 20 Aug 2026",
+      "fechaISO": "2026-08-20T09:34:41+00:00"
     }
   ]
 }
