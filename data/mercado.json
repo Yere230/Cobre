@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T13:36:19.339173+00:00",
+  "actualizado": "2026-08-21T17:33:52.286864+00:00",
   "macro": {
     "dolar": 923.2,
     "uf": 40860.6,
@@ -10,190 +10,190 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 331.3,
+      "precio": 330.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 189.0,
+      "precio": 193.75,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 136.91
     },
     "BCI": {
-      "precio": 67500.0,
+      "precio": 67061.0,
       "anterior": 62502.0,
-      "alto52": 68997.0,
+      "alto52": 68749.0,
       "bajo52": 38100.0
     },
     "ITAUCL": {
-      "precio": 22290.0,
+      "precio": 22118.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 13401.0
     },
     "BSANTANDER": {
-      "precio": 79.5,
+      "precio": 80.38,
       "anterior": 77.0,
-      "alto52": 81.75,
+      "alto52": 80.95,
       "bajo52": 56.5
     },
     "CAP": {
-      "precio": 5309.2,
+      "precio": 5371.2,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 4749.0
     },
     "CENCOSUD": {
-      "precio": 2062.9,
+      "precio": 2059.9,
       "anterior": 1995.0,
       "alto52": 3238.0,
-      "bajo52": 1971.1
+      "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2419.7,
+      "precio": 2431.2,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1926.0
     },
     "COLBUN": {
-      "precio": 143.0,
+      "precio": 145.75,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5550.0,
+      "precio": 5633.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 49.2,
+      "precio": 49.7,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4700.0,
+      "precio": 4699.9,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3850.0,
+      "precio": 3825.7,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3190.0
     },
     "CMPC": {
-      "precio": 1008.1,
+      "precio": 1019.9,
       "anterior": 1070.0,
       "alto52": 1599.0,
-      "bajo52": 1000.0
+      "bajo52": 1014.6
     },
     "COPEC": {
-      "precio": 6350.0,
+      "precio": 6489.9,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 87.76,
+      "precio": 87.0,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 80.49,
+      "precio": 80.6,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 65.8
     },
     "ECL": {
-      "precio": 1905.0,
+      "precio": 1934.3,
       "anterior": 1807.0,
-      "alto52": 1905.0,
+      "alto52": 1935.3,
       "bajo52": 1172.5
     },
     "FALABELLA": {
-      "precio": 6245.0,
+      "precio": 6260.3,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 927.25,
+      "precio": 925.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 841.5
     },
     "ILC": {
-      "precio": 24201.0,
+      "precio": 24640.0,
       "anterior": 21450.0,
-      "alto52": 24598.0,
+      "alto52": 24640.0,
       "bajo52": 11922.0
     },
     "LTM": {
-      "precio": 23.35,
+      "precio": 23.58,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 4010.2,
+      "precio": 4015.7,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2092.4
     },
     "MALLPLAZA": {
-      "precio": 4000.0,
+      "precio": 4030.8,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2220.0
     },
     "QUINENCO": {
-      "precio": 4521.7,
+      "precio": 4498.4,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 409.0,
+      "precio": 412.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1255.6,
+      "precio": 1265.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 800.0
     },
     "SMU": {
-      "precio": 124.45,
+      "precio": 124.5,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 122.42
+      "bajo52": 124.2
     },
     "SQM-B": {
-      "precio": 72100.0,
+      "precio": 75467.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 870.0,
+      "precio": 889.98,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7423.7,
+      "precio": 7472.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
-      "bajo52": 7319.0
+      "bajo52": 7363.2
     },
     "ALMENDRAL": {
       "precio": 25.17,
@@ -220,13 +220,13 @@
       "bajo52": 1837.1
     },
     "HITES": {
-      "precio": 127.51,
+      "precio": 129.0,
       "anterior": 132.09,
       "alto52": 146.09,
       "bajo52": 104.0
     },
     "INGEVEC": {
-      "precio": 217.0,
+      "precio": 216.16,
       "anterior": 200.99,
       "alto52": 227.0,
       "bajo52": 98.1
@@ -244,13 +244,13 @@
       "bajo52": 613.72
     },
     "SOCOVESA": {
-      "precio": 158.7,
+      "precio": 158.05,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 82.0
     },
     "SK": {
-      "precio": 1638.0,
+      "precio": 1637.1,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1292.0
@@ -262,7 +262,7 @@
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1705.6,
+      "precio": 1730.0,
       "anterior": 1570.0,
       "alto52": 1745.0,
       "bajo52": 1150.0
@@ -286,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 96.0,
+      "precio": 94.62,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -298,31 +298,31 @@
       "bajo52": 198.06
     },
     "INVERCAP": {
-      "precio": 1566.0,
+      "precio": 1567.0,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1335.9
     },
     "BICE": {
-      "precio": 399.9,
+      "precio": 401.0,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 281.25
     },
     "HABITAT": {
-      "precio": 1369.4,
+      "precio": 1372.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1077.0
     },
     "CFMITNIPSA": {
-      "precio": 5207.0,
+      "precio": 5258.8,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2149.81,
+      "precio": 2145.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1651.9
@@ -427,10 +427,17 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar abre a la baja mientras los precios del cobre suben con fuerza tras compromiso de estímulo económico en China",
+      "texto": "Dólar profundiza caída bajo $ 920 mientras los precios del cobre suben con fuerza tras compromiso de estímulos en China",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-i7sc5",
       "fecha": "Fri, 21 Aug 2026",
-      "fechaISO": "2026-08-21T12:46:23+00:00"
+      "fechaISO": "2026-08-21T16:41:04+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "IPSA abre con fuerte alza y se acerca a 11.400 puntos mientras SQM se dispara más de 6% ante el repunte de los precios del litio",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-kiofs",
+      "fecha": "Fri, 21 Aug 2026",
+      "fechaISO": "2026-08-21T14:48:09+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -445,13 +452,6 @@
       "link": "http://www.df.cl/economia-y-politica/pais/estudio-de-techo-revela-que-tras-el-desalojo-de-campamentos-la-mayoria-de",
       "fecha": "Fri, 21 Aug 2026",
       "fechaISO": "2026-08-21T13:19:37+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Los comentarios que envió Fintual a la Super de Pensiones por el nuevo régimen de inversión de las AFP",
-      "link": "http://www.df.cl/mercados/pensiones/los-comentarios-que-envio-fintual-a-la-super-de-pensiones-por-el-nuevo",
-      "fecha": "Fri, 21 Aug 2026",
-      "fechaISO": "2026-08-21T10:30:10+00:00"
     }
   ]
 }
