@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-08-24T20:55:05.298834+00:00",
+  "actualizado": "2026-08-25T13:39:31.595718+00:00",
   "macro": {
-    "dolar": 918.2,
-    "uf": 40864.55,
+    "dolar": 914.6,
+    "uf": 40865.87,
     "utm": 71649,
-    "cobre": 6.4,
+    "cobre": 6.48,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
@@ -43,7 +43,7 @@
       "precio": 5450.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
-      "bajo52": 4900.0
+      "bajo52": 4931.0
     },
     "CENCOSUD": {
       "precio": 2128.0,
@@ -85,12 +85,12 @@
       "precio": 3939.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
-      "bajo52": 3207.0
+      "bajo52": 3220.1
     },
     "CMPC": {
       "precio": 1028.0,
       "anterior": 1070.0,
-      "alto52": 1598.0,
+      "alto52": 1563.0,
       "bajo52": 1015.0
     },
     "COPEC": {
@@ -133,7 +133,7 @@
       "precio": 24999.0,
       "anterior": 21450.0,
       "alto52": 25500.0,
-      "bajo52": 12150.0
+      "bajo52": 12180.0
     },
     "LTM": {
       "precio": 24.31,
@@ -169,7 +169,7 @@
       "precio": 1250.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
-      "bajo52": 830.0
+      "bajo52": 832.11
     },
     "SMU": {
       "precio": 127.7,
@@ -211,7 +211,7 @@
       "precio": 25000.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
-      "bajo52": 19820.0
+      "bajo52": 19916.0
     },
     "FORUS": {
       "precio": 1837.1,
@@ -229,7 +229,7 @@
       "precio": 220.0,
       "anterior": 200.99,
       "alto52": 227.0,
-      "bajo52": 98.57
+      "bajo52": 101.0
     },
     "MASISA": {
       "precio": 7.95,
@@ -247,7 +247,7 @@
       "precio": 159.99,
       "anterior": 141.0,
       "alto52": 185.29,
-      "bajo52": 82.0
+      "bajo52": 82.5
     },
     "SK": {
       "precio": 1654.0,
@@ -301,13 +301,13 @@
       "precio": 1573.5,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1341.7
+      "bajo52": 1365.0
     },
     "BICE": {
       "precio": 397.05,
       "anterior": 375.23,
       "alto52": 450.0,
-      "bajo52": 281.52
+      "bajo52": 282.03
     },
     "HABITAT": {
       "precio": 1398.0,
@@ -329,7 +329,7 @@
     },
     "CFIBTGRCA": {
       "precio": 22499.0,
-      "anterior": 23200.14,
+      "anterior": 23284.0,
       "alto52": 28000.0,
       "bajo52": 20400.0
     },
@@ -399,59 +399,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Tres millones para emprender: lanzan fondo concursable para desempleados",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/tres-millones-para-emprender-lanzan-fondo-concursable-para-desempleados/2026-08-25/092810.html",
+      "fecha": "Tue, 25 Aug 2026",
+      "fechaISO": "2026-08-25T13:28:10+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Exsubsecretaria: Es importante para Chile mantenerse no alineado con EE.UU. ni China",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/exsubsecretaria-es-importante-para-chile-mantenerse-no-alineado-con/2026-08-24/195952.html",
+      "fecha": "Mon, 24 Aug 2026",
+      "fechaISO": "2026-08-24T23:59:52+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Aranceles: Chile y EE.UU. acordaron continuar con las negociaciones en las próximas semanas",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/aranceles-chile-y-ee-uu-acordaron-continuar-con-las-negociaciones-en/2026-08-24/171916.html",
+      "fecha": "Mon, 24 Aug 2026",
+      "fechaISO": "2026-08-24T21:19:16+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Delegación de EE.UU. negocia en Chile eliminación o rebaja del arancel de 12,5%",
-      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/delegacion-de-ee-uu-negocia-en-chile-eliminacion-o-rebaja-del-arancel/2026-08-24/132725.html",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/delegacion-de-ee-uu-negocia-en-chile-eliminacion-o-rebaja-del-arancel/2026-08-24/132725.html",
       "fecha": "Mon, 24 Aug 2026",
       "fechaISO": "2026-08-24T17:27:25+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Economista: EE.UU. quiere un diálogo \"más amplio\" de aranceles con Chile al enviar a su número dos",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/economista-ee-uu-quiere-un-dialogo-mas-amplio-de-aranceles-con-chile/2026-08-23/140153.html",
-      "fecha": "Sun, 23 Aug 2026",
-      "fechaISO": "2026-08-23T18:01:53+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Bomberos no pagará peajes en las carreteras al llegar a un acuerdo con concesionarias",
-      "link": "https://www.cooperativa.cl/noticias/pais/organismos/bomberos/bomberos-no-pagara-peajes-en-las-carreteras-al-llegar-a-un-acuerdo-con/2026-08-22/174550.html",
-      "fecha": "Sat, 22 Aug 2026",
-      "fechaISO": "2026-08-22T21:45:50+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "\"Fraguando Lab\": La alianza de Melón y ChileGlobal Ventures que impulsa la innovación en la construcción",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/fraguando-lab-la-alianza-de-melon-y-chileglobal-ventures-que-impulsa/2026-08-21/165534.html",
-      "fecha": "Fri, 21 Aug 2026",
-      "fechaISO": "2026-08-21T20:55:34+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "IPSA frena su rally en niveles de 11.500 puntos mientras Wall Street resurge ante la caída de los precios del petróleo",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-lkvia",
+      "fecha": "Tue, 25 Aug 2026",
+      "fechaISO": "2026-08-25T13:37:03+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El dólar en Argentina cruza la marca histórica de 1.500 pesos, pero analistas consideran que ajuste es \"saludable\"",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/el-dolar-cruza-la-marca-historica-de-1-500-pesos-en-argentina-pero",
-      "fecha": "Mon, 24 Aug 2026",
-      "fechaISO": "2026-08-24T20:54:00+00:00"
+      "texto": "El Brent baja de US$ 90 y toca mínimo de una semana ante menor temor a una ofensiva militar de EEUU contra Irán",
+      "link": "http://www.df.cl/mercados/commodities/el-brent-baja-de-us-90-el-barril-y-toca-minimo-de-una-semana-mientras-los",
+      "fecha": "Tue, 25 Aug 2026",
+      "fechaISO": "2026-08-25T12:58:33+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra sobre los 11.500 puntos y se acerca a nuevos máximos históricos tras subir como pocas bolsas en el mundo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-vaaxh",
-      "fecha": "Mon, 24 Aug 2026",
-      "fechaISO": "2026-08-24T20:32:12+00:00"
+      "texto": "Dólar abre con leve caída mientras EEUU cambia las armas por su nueva ofensiva económica contra Irán",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kcsrn",
+      "fecha": "Tue, 25 Aug 2026",
+      "fechaISO": "2026-08-25T13:05:43+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra con leve caída mientras agentes monitorean el plan de EEUU para aislar a la economía iraní",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ki6py",
-      "fecha": "Mon, 24 Aug 2026",
-      "fechaISO": "2026-08-24T20:11:39+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Volvió a pasar: el Servicio Civil declara desierto un nuevo concurso para notario porque los postulantes no pasaron la prueba de habilidades",
-      "link": "http://www.df.cl/economia-y-politica/pais/volvio-a-pasar-el-servicio-civil-declara-desierto-un-nuevo-concurso-para",
-      "fecha": "Mon, 24 Aug 2026",
-      "fechaISO": "2026-08-24T19:08:31+00:00"
+      "texto": "Iván Cheuquelaf, socio de ICC Abogados: “Se instrumentaliza el derecho de consulta (indígena) para oponerse con otros fines”",
+      "link": "http://www.df.cl/economia-y-politica/pais/ivan-cheuquelaf-socio-de-icc-abogados-se-instrumentaliza-el-derecho-de",
+      "fecha": "Tue, 25 Aug 2026",
+      "fechaISO": "2026-08-25T01:06:34+00:00"
     }
   ]
 }
