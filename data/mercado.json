@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T20:53:22.888511+00:00",
+  "actualizado": "2026-08-26T13:43:48.991969+00:00",
   "macro": {
     "ipsa": 10887.72,
     "ipsaChg": -0.55
@@ -15,13 +15,13 @@
       "precio": 194.01,
       "anterior": 188.5,
       "alto52": 200.68,
-      "bajo52": 136.91
+      "bajo52": 137.06
     },
     "BCI": {
       "precio": 67500.0,
       "anterior": 62502.0,
       "alto52": 68490.0,
-      "bajo52": 38525.0
+      "bajo52": 38880.0
     },
     "ITAUCL": {
       "precio": 22200.0,
@@ -33,13 +33,13 @@
       "precio": 82.2,
       "anterior": 77.0,
       "alto52": 83.0,
-      "bajo52": 56.5
+      "bajo52": 57.16
     },
     "CAP": {
       "precio": 5556.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
-      "bajo52": 4931.0
+      "bajo52": 4953.0
     },
     "CENCOSUD": {
       "precio": 2115.0,
@@ -86,7 +86,7 @@
     "CMPC": {
       "precio": 1036.0,
       "anterior": 1070.0,
-      "alto52": 1563.0,
+      "alto52": 1560.1,
       "bajo52": 1015.0
     },
     "COPEC": {
@@ -105,13 +105,13 @@
       "precio": 82.0,
       "anterior": 81.01,
       "alto52": 84.0,
-      "bajo52": 66.52
+      "bajo52": 67.02
     },
     "ECL": {
       "precio": 1931.0,
       "anterior": 1807.0,
       "alto52": 1959.9,
-      "bajo52": 1172.5
+      "bajo52": 1181.0
     },
     "FALABELLA": {
       "precio": 6400.0,
@@ -129,7 +129,7 @@
       "precio": 24900.0,
       "anterior": 21450.0,
       "alto52": 25300.0,
-      "bajo52": 12180.0
+      "bajo52": 12350.0
     },
     "LTM": {
       "precio": 24.99,
@@ -141,13 +141,13 @@
       "precio": 3920.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
-      "bajo52": 2115.6
+      "bajo52": 2158.8
     },
     "MALLPLAZA": {
       "precio": 4062.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
-      "bajo52": 2225.1
+      "bajo52": 2239.3
     },
     "QUINENCO": {
       "precio": 4460.0,
@@ -165,7 +165,7 @@
       "precio": 1259.9,
       "anterior": 1249.0,
       "alto52": 1499.9,
-      "bajo52": 832.11
+      "bajo52": 845.0
     },
     "SMU": {
       "precio": 126.5,
@@ -201,13 +201,13 @@
       "precio": 66.98,
       "anterior": 76.49,
       "alto52": 96.88,
-      "bajo52": 51.61
+      "bajo52": 52.25
     },
     "ENAEX": {
       "precio": 25000.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
-      "bajo52": 19916.0
+      "bajo52": 19925.0
     },
     "FORUS": {
       "precio": 1837.1,
@@ -225,7 +225,7 @@
       "precio": 220.0,
       "anterior": 200.99,
       "alto52": 227.0,
-      "bajo52": 101.0
+      "bajo52": 102.48
     },
     "MASISA": {
       "precio": 7.87,
@@ -240,10 +240,10 @@
       "bajo52": 620.0
     },
     "SOCOVESA": {
-      "precio": 160.0,
+      "precio": 160.41,
       "anterior": 141.0,
       "alto52": 185.29,
-      "bajo52": 82.5
+      "bajo52": 84.4
     },
     "SK": {
       "precio": 1654.1,
@@ -258,7 +258,7 @@
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1700.0,
+      "precio": 1699.8,
       "anterior": 1570.0,
       "alto52": 1776.4,
       "bajo52": 1150.0
@@ -294,37 +294,37 @@
       "bajo52": 198.06
     },
     "INVERCAP": {
-      "precio": 1558.0,
+      "precio": 1557.0,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1365.0
+      "bajo52": 1370.0
     },
     "BICE": {
-      "precio": 400.51,
+      "precio": 400.41,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 282.03
     },
     "HABITAT": {
-      "precio": 1369.0,
+      "precio": 1374.2,
       "anterior": 1267.0,
       "alto52": 1600.0,
-      "bajo52": 1077.0
+      "bajo52": 1105.0
     },
     "CFMITNIPSA": {
-      "precio": 5310.0,
+      "precio": 5315.7,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2129.0,
+      "precio": 2120.43,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1651.9
     },
     "CFIBTGRCA": {
-      "precio": 22606.0,
+      "precio": 22607.43,
       "anterior": 23284.0,
       "alto52": 28000.0,
       "bajo52": 20400.0
@@ -423,31 +423,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Minera Puntilla: Codelco y Pucobre constituyen sociedad para Tovaku y comprometen otros US$ 20 millones",
-      "link": "http://www.df.cl/empresas/mineria/codelco-y-pucobre-constituyen-sociedad-para-tovaku-y-comprometen-otros-us",
-      "fecha": "Tue, 25 Aug 2026",
-      "fechaISO": "2026-08-25T20:33:01+00:00"
+      "texto": "Empresas Gasco reconoce deterioro en valorización de activos de filial por más de US$ 18 millones",
+      "link": "http://www.df.cl/empresas/energia/empresas-gasco-reconoce-deterioro-en-valorizacion-de-activos-de-filial-por",
+      "fecha": "Wed, 26 Aug 2026",
+      "fechaISO": "2026-08-26T13:13:14+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena cierra a la baja y el IPSA pierde los 11.500 puntos arrastrado por una fuerte caída de SQM",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-lkvia",
-      "fecha": "Tue, 25 Aug 2026",
-      "fechaISO": "2026-08-25T20:42:47+00:00"
+      "texto": "Dólar abre plano mientras la divisa recibe un ligero soporte a nivel global tras datos de inflación estadounidenses",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mxwgx",
+      "fecha": "Wed, 26 Aug 2026",
+      "fechaISO": "2026-08-26T12:54:07+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Agustín Romero (REP): “El aumento del presupuesto para 2027 tendría que ser cero o muy cercano a cero”",
-      "link": "http://www.df.cl/economia-y-politica/congreso/agustin-romero-rep-el-aumento-del-presupuesto-para-2027-tendria-que-ser",
-      "fecha": "Tue, 25 Aug 2026",
-      "fechaISO": "2026-08-25T20:28:11+00:00"
+      "texto": "Caso Sartor: defensas apelan a prisión preventiva de Larraín, Clark y Yáñez y cuestionan fallo del tribunal",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/caso-sartor-defensas-apelan-a-prision-preventiva-de-larrain-clark-y-yanez",
+      "fecha": "Wed, 26 Aug 2026",
+      "fechaISO": "2026-08-26T00:24:05+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar revierte caída inicial y cierra levemente al alza previo a importantes datos de inflación de EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kcsrn",
-      "fecha": "Tue, 25 Aug 2026",
-      "fechaISO": "2026-08-25T20:16:11+00:00"
+      "texto": "Clapes UC: riesgo del fondo E casi se triplicó entre 2010-2025 y advierte por fondos generacionales",
+      "link": "http://www.df.cl/mercados/pensiones/clapes-uc-riesgo-del-fondo-e-casi-se-triplico-entre-2010-2025-y-advierte",
+      "fecha": "Wed, 26 Aug 2026",
+      "fechaISO": "2026-08-26T12:53:16+00:00"
     }
   ]
 }
