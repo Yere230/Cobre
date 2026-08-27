@@ -1,58 +1,58 @@
 {
-  "actualizado": "2026-08-26T23:48:52.672254+00:00",
+  "actualizado": "2026-08-27T22:40:06.760790+00:00",
   "macro": {
-    "dolar": 911.4,
-    "uf": 40867.18,
+    "dolar": 918.4,
+    "uf": 40868.5,
     "utm": 71649,
-    "cobre": 6.51,
+    "cobre": 6.58,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 331.0,
+      "precio": 329.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 191.05,
+      "precio": 193.0,
       "anterior": 188.5,
       "alto52": 200.68,
-      "bajo52": 137.06
+      "bajo52": 137.51
     },
     "BCI": {
-      "precio": 67510.0,
+      "precio": 67520.0,
       "anterior": 62502.0,
-      "alto52": 67678.0,
-      "bajo52": 38880.0
+      "alto52": 68330.0,
+      "bajo52": 38990.0
     },
     "ITAUCL": {
-      "precio": 22596.0,
+      "precio": 22775.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
-      "bajo52": 13450.0
+      "bajo52": 13699.0
     },
     "BSANTANDER": {
-      "precio": 81.0,
+      "precio": 80.85,
       "anterior": 77.0,
-      "alto52": 83.16,
-      "bajo52": 57.16
+      "alto52": 82.06,
+      "bajo52": 57.3
     },
     "CAP": {
-      "precio": 5641.7,
+      "precio": 5770.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
-      "bajo52": 4953.0
+      "bajo52": 5000.0
     },
     "CENCOSUD": {
-      "precio": 2087.0,
+      "precio": 2079.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2468.9,
+      "precio": 2492.8,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1926.0
@@ -64,154 +64,154 @@
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5774.0,
+      "precio": 5730.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 49.75,
+      "precio": 50.0,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4560.0,
+      "precio": 4600.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3900.0,
+      "precio": 3870.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3220.1
     },
     "CMPC": {
-      "precio": 1040.0,
+      "precio": 1080.0,
       "anterior": 1070.0,
       "alto52": 1560.1,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6575.0,
+      "precio": 6925.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 88.5,
+      "precio": 89.0,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.79,
+      "precio": 81.1,
       "anterior": 81.01,
       "alto52": 84.0,
-      "bajo52": 67.02
+      "bajo52": 67.45
     },
     "ECL": {
-      "precio": 1970.0,
+      "precio": 1975.0,
       "anterior": 1807.0,
-      "alto52": 1975.0,
-      "bajo52": 1181.0
+      "alto52": 1983.0,
+      "bajo52": 1182.0
     },
     "FALABELLA": {
-      "precio": 6365.0,
+      "precio": 6394.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 918.95,
+      "precio": 910.97,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 841.5
     },
     "ILC": {
-      "precio": 25301.0,
+      "precio": 25598.0,
       "anterior": 21450.0,
-      "alto52": 25500.0,
-      "bajo52": 12350.0
+      "alto52": 25598.0,
+      "bajo52": 12525.0
     },
     "LTM": {
-      "precio": 24.36,
+      "precio": 23.75,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3921.0,
+      "precio": 3999.6,
       "anterior": 4039.9,
       "alto52": 4596.3,
-      "bajo52": 2158.8
+      "bajo52": 2162.0
     },
     "MALLPLAZA": {
-      "precio": 3950.0,
+      "precio": 4099.8,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2239.3
     },
     "QUINENCO": {
-      "precio": 4490.0,
+      "precio": 4550.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 416.9,
+      "precio": 420.24,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1270.0,
+      "precio": 1275.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 845.0
     },
     "SMU": {
-      "precio": 127.67,
+      "precio": 125.5,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 122.78
+      "bajo52": 124.01
     },
     "SQM-B": {
-      "precio": 72015.0,
+      "precio": 74050.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 909.58,
+      "precio": 910.0,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7449.4,
+      "precio": 7609.3,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7363.2
     },
     "ALMENDRAL": {
-      "precio": 25.6,
+      "precio": 25.9,
       "anterior": 26.29,
       "alto52": 34.0,
       "bajo52": 20.05
     },
     "CAMANCHACA": {
-      "precio": 66.98,
+      "precio": 68.0,
       "anterior": 76.49,
       "alto52": 96.88,
-      "bajo52": 52.25
+      "bajo52": 53.0
     },
     "ENAEX": {
       "precio": 25000.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
-      "bajo52": 19925.0
+      "bajo52": 19990.0
     },
     "FORUS": {
       "precio": 1837.1,
@@ -220,7 +220,7 @@
       "bajo52": 1837.1
     },
     "HITES": {
-      "precio": 131.9,
+      "precio": 132.0,
       "anterior": 132.09,
       "alto52": 146.09,
       "bajo52": 105.13
@@ -229,7 +229,7 @@
       "precio": 220.0,
       "anterior": 200.99,
       "alto52": 227.0,
-      "bajo52": 102.48
+      "bajo52": 106.5
     },
     "MASISA": {
       "precio": 7.8,
@@ -238,31 +238,31 @@
       "bajo52": 7.8
     },
     "PAZ": {
-      "precio": 1014.0,
+      "precio": 1021.0,
       "anterior": 870.18,
-      "alto52": 1024.6,
+      "alto52": 1021.0,
       "bajo52": 620.0
     },
     "SOCOVESA": {
-      "precio": 160.54,
+      "precio": 163.0,
       "anterior": 141.0,
       "alto52": 185.29,
-      "bajo52": 84.4
+      "bajo52": 86.98
     },
     "SK": {
-      "precio": 1660.0,
+      "precio": 1655.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1292.0
     },
     "SONDA": {
-      "precio": 300.69,
+      "precio": 300.0,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1699.8,
+      "precio": 1700.7,
       "anterior": 1570.0,
       "alto52": 1745.0,
       "bajo52": 1150.0
@@ -280,13 +280,13 @@
       "bajo52": 650.4
     },
     "TRICOT": {
-      "precio": 569.33,
+      "precio": 581.33,
       "anterior": 581.84,
       "alto52": 688.8,
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 96.57,
+      "precio": 96.91,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -298,38 +298,38 @@
       "bajo52": 198.06
     },
     "INVERCAP": {
-      "precio": 1570.9,
+      "precio": 1610.6,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1370.0
+      "bajo52": 1390.0
     },
     "BICE": {
-      "precio": 396.11,
+      "precio": 405.1,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 282.03
     },
     "HABITAT": {
-      "precio": 1394.0,
+      "precio": 1388.9,
       "anterior": 1267.0,
       "alto52": 1600.0,
-      "bajo52": 1105.0
+      "bajo52": 1107.0
     },
     "CFMITNIPSA": {
-      "precio": 5255.6,
+      "precio": 5297.3,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2119.62,
+      "precio": 2144.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
-      "bajo52": 1651.9
+      "bajo52": 1655.38
     },
     "CFIBTGRCA": {
-      "precio": 22591.63,
-      "anterior": 23284.0,
+      "precio": 22700.0,
+      "anterior": 22610.0,
       "alto52": 28000.0,
       "bajo52": 20400.0
     },
@@ -371,48 +371,27 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
-      "texto": "Expresidente del CPLT criticó eventual postergación de un año para la Ley de Protección de Datos",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/expresidente-del-cplt-critico-eventual-postergacion-de-un-ano-para-la/2026-08-26/131049.html",
-      "fecha": "Wed, 26 Aug 2026",
-      "fechaISO": "2026-08-26T17:10:49+00:00"
+      "texto": "\"Michi Bip\": La nueva tarjeta de Metro que se agotó en horas y tendrá segunda edición",
+      "link": "https://www.cooperativa.cl/noticias/pais/transportes/metro/michi-bip-la-nueva-tarjeta-de-metro-que-se-agoto-en-horas-y-tendra/2026-08-27/180440.html",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T22:04:40+00:00"
     },
     {
       "fuente": "Cooperativa · Empresas",
-      "texto": "Bomberos no pagará peajes en las carreteras al llegar a un acuerdo con concesionarias",
-      "link": "https://www.cooperativa.cl/noticias/pais/organismos/bomberos/bomberos-no-pagara-peajes-en-las-carreteras-al-llegar-a-un-acuerdo-con/2026-08-22/174550.html",
-      "fecha": "Sat, 22 Aug 2026",
-      "fechaISO": "2026-08-22T21:45:50+00:00"
+      "texto": "Optiroute: La startup que revoluciona la logística y el transporte nacional mediante IA",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/optiroute-la-startup-que-revoluciona-la-logistica-y-el-transporte/2026-08-27/165502.html",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T20:55:02+00:00"
     },
     {
       "fuente": "Cooperativa · Empresas",
-      "texto": "\"Fraguando Lab\": La alianza de Melón y ChileGlobal Ventures que impulsa la innovación en la construcción",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/fraguando-lab-la-alianza-de-melon-y-chileglobal-ventures-que-impulsa/2026-08-21/165534.html",
-      "fecha": "Fri, 21 Aug 2026",
-      "fechaISO": "2026-08-21T20:55:34+00:00"
+      "texto": "\"Es un poco pesimista\": Académica discrepó de la profecía \"turbulenta\" de Bill Gates sobre la IA",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/es-un-poco-pesimista-academica-discrepo-de-la-profecia-turbulenta/2026-08-27/121408.html",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T16:14:08+00:00"
     },
     {
       "fuente": "Cooperativa · Empresas",
-      "texto": "Cardenal Chomali instó al empresariado a avanzar en mejores salarios y equidad laboral",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cardenal-chomali-insto-al-empresariado-a-avanzar-en-mejores-salarios-y/2026-08-21/143213.html",
-      "fecha": "Fri, 21 Aug 2026",
-      "fechaISO": "2026-08-21T18:32:13+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Tras anuncio de cambios del Banco Central: ¿Cuánto usan los chilenos las monedas?",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tras-anuncio-de-cambios-del-banco-central-cuanto-usan-los-chilenos-las/2026-08-26/175142.html",
-      "fecha": "Wed, 26 Aug 2026",
-      "fechaISO": "2026-08-26T21:51:42+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "CChC propone crear cuenta enfocada en ahorro del pie para la primera vivienda",
-      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/cchc-propone-crear-cuenta-enfocada-en-ahorro-del-pie-para-la-primera/2026-08-26/151047.html",
-      "fecha": "Wed, 26 Aug 2026",
-      "fechaISO": "2026-08-26T19:10:47+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
       "texto": "Expresidente del CPLT criticó eventual postergación de un año para la Ley de Protección de Datos",
       "link": "https://www.cooperativa.cl/noticias/pais/consumidores/expresidente-del-cplt-critico-eventual-postergacion-de-un-ano-para-la/2026-08-26/131049.html",
       "fecha": "Wed, 26 Aug 2026",
@@ -420,38 +399,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Banco Central presentó nuevas monedas de $10 y $50: Tienen un peso más ligero",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-presento-nuevas-monedas-de-10-y-50-tienen-un-peso-mas/2026-08-26/123142.html",
-      "fecha": "Wed, 26 Aug 2026",
-      "fechaISO": "2026-08-26T16:31:42+00:00"
+      "texto": "\"Michi Bip\": La nueva tarjeta de Metro que se agotó en horas y tendrá segunda edición",
+      "link": "https://www.cooperativa.cl/noticias/pais/transportes/metro/michi-bip-la-nueva-tarjeta-de-metro-que-se-agoto-en-horas-y-tendra/2026-08-27/180440.html",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T22:04:40+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Optiroute: La startup que revoluciona la logística y el transporte nacional mediante IA",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/optiroute-la-startup-que-revoluciona-la-logistica-y-el-transporte/2026-08-27/165502.html",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T20:55:02+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Kast se jactó de haber \"sorprendido\" con capitalización de Codelco, \"incluso a manifestantes\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-se-jacto-de-haber-sorprendido-con-capitalizacion-de-codelco/2026-08-27/143313.html",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T18:33:13+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "\"Es un poco pesimista\": Académica discrepó de la profecía \"turbulenta\" de Bill Gates sobre la IA",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/es-un-poco-pesimista-academica-discrepo-de-la-profecia-turbulenta/2026-08-27/121408.html",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T16:14:08+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Empresas Gasco reporta pérdidas al primer semestre en medio de mayor inversión por proyecto térmico",
-      "link": "http://www.df.cl/empresas/energia/empresas-gasco-reporta-perdidas-al-primer-semestre-en-medio-de-mayor",
-      "fecha": "Wed, 26 Aug 2026",
-      "fechaISO": "2026-08-26T23:23:15+00:00"
+      "texto": "Un exCEO de SKY, un ejecutivo petrolero y un exvicepresidente de WOM arriban a la primera línea gerencial de ENAP",
+      "link": "http://www.df.cl/empresas/energia/enap-incorpora-ejecutivos-para-fortalecer-su-equipo-de-primera-linea-en",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T22:16:28+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Molymet eleva 50% su utilidad al primer semestre y supera los US$ 1.500 millones en ventas",
-      "link": "http://www.df.cl/empresas/mineria/molymet-eleva-50-su-utilidad-al-primer-semestre-y-supera-los-us-1-500",
-      "fecha": "Wed, 26 Aug 2026",
-      "fechaISO": "2026-08-26T23:29:57+00:00"
+      "texto": "Mineras ponen fin a la repetición de exámenes y cursos para entrar a una faena: pactan un nuevo \"pasaporte\" para trabajadores",
+      "link": "http://www.df.cl/empresas/mineria/mineras-ponen-fin-a-la-repeticion-de-examenes-y-cursos-para-entrar-a-una",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T22:17:05+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "CMF inscribe las acciones de Bci Group y la nueva matriz avanza hacia en su reorganización societaria",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/cmf-inscribe-las-acciones-de-bci-group-y-la-nueva-matriz-avanza-hacia-su",
-      "fecha": "Wed, 26 Aug 2026",
-      "fechaISO": "2026-08-26T23:02:57+00:00"
+      "texto": "IPSA resurge gracias al sector commodities y Wall Street cierra al alza luego de que Nvidia proyectara un crecimiento de 70% en sus ventas anuales",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-yfxkk",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T20:31:25+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Acción de Nvidia se recupera y sube más de 4% tras reportar ganancias por sobre lo esperado e ingresos que se duplicaron en el trimestre",
-      "link": "http://www.df.cl/empresas/multinacionales/accion-de-nvidia-cae-casi-2-pese-a-reportar-ganancias-por-sobre-lo",
-      "fecha": "Wed, 26 Aug 2026",
-      "fechaISO": "2026-08-26T22:01:05+00:00"
+      "texto": "Pivotes plantea contratos laborales por hora con piso salarial más alto y resguardos para evitar abusos",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/pivotes-plantea-contratos-laborales-por-hora-con-piso-salarial-mas-alto-y",
+      "fecha": "Thu, 27 Aug 2026",
+      "fechaISO": "2026-08-27T20:16:25+00:00"
     }
   ]
 }
