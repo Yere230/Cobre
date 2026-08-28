@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-27T22:40:06.760790+00:00",
+  "actualizado": "2026-08-28T01:23:47.578754+00:00",
   "macro": {
     "dolar": 918.4,
     "uf": 40868.5,
@@ -371,13 +371,6 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
-      "texto": "\"Michi Bip\": La nueva tarjeta de Metro que se agotó en horas y tendrá segunda edición",
-      "link": "https://www.cooperativa.cl/noticias/pais/transportes/metro/michi-bip-la-nueva-tarjeta-de-metro-que-se-agoto-en-horas-y-tendra/2026-08-27/180440.html",
-      "fecha": "Thu, 27 Aug 2026",
-      "fechaISO": "2026-08-27T22:04:40+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Empresas",
       "texto": "Optiroute: La startup que revoluciona la logística y el transporte nacional mediante IA",
       "link": "https://www.cooperativa.cl/noticias/economia/empresas/optiroute-la-startup-que-revoluciona-la-logistica-y-el-transporte/2026-08-27/165502.html",
       "fecha": "Thu, 27 Aug 2026",
@@ -398,11 +391,11 @@
       "fechaISO": "2026-08-26T17:10:49+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "\"Michi Bip\": La nueva tarjeta de Metro que se agotó en horas y tendrá segunda edición",
-      "link": "https://www.cooperativa.cl/noticias/pais/transportes/metro/michi-bip-la-nueva-tarjeta-de-metro-que-se-agoto-en-horas-y-tendra/2026-08-27/180440.html",
-      "fecha": "Thu, 27 Aug 2026",
-      "fechaISO": "2026-08-27T22:04:40+00:00"
+      "fuente": "Cooperativa · Empresas",
+      "texto": "Bomberos no pagará peajes en las carreteras al llegar a un acuerdo con concesionarias",
+      "link": "https://www.cooperativa.cl/noticias/pais/organismos/bomberos/bomberos-no-pagara-peajes-en-las-carreteras-al-llegar-a-un-acuerdo-con/2026-08-22/174550.html",
+      "fecha": "Sat, 22 Aug 2026",
+      "fechaISO": "2026-08-22T21:45:50+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -426,32 +419,39 @@
       "fechaISO": "2026-08-27T16:14:08+00:00"
     },
     {
-      "fuente": "Diario Financiero",
-      "texto": "Un exCEO de SKY, un ejecutivo petrolero y un exvicepresidente de WOM arriban a la primera línea gerencial de ENAP",
-      "link": "http://www.df.cl/empresas/energia/enap-incorpora-ejecutivos-para-fortalecer-su-equipo-de-primera-linea-en",
+      "fuente": "Cooperativa · Economía",
+      "texto": "Presupuesto 2027: Economistas piden priorizar la inversión pública",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-economistas-piden-priorizar-la-inversion-publica/2026-08-27/113125.html",
       "fecha": "Thu, 27 Aug 2026",
-      "fechaISO": "2026-08-27T22:16:28+00:00"
+      "fechaISO": "2026-08-27T15:31:25+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Mineras ponen fin a la repetición de exámenes y cursos para entrar a una faena: pactan un nuevo \"pasaporte\" para trabajadores",
-      "link": "http://www.df.cl/empresas/mineria/mineras-ponen-fin-a-la-repeticion-de-examenes-y-cursos-para-entrar-a-una",
-      "fecha": "Thu, 27 Aug 2026",
-      "fechaISO": "2026-08-27T22:17:05+00:00"
+      "texto": "Disputa por deslinde en exclusivo sector de La Dehesa: Grupo Hiller se enfrenta con Enaco y propietarios de viviendas",
+      "link": "http://www.df.cl/empresas/construccion/disputa-por-deslinde-en-exclusivo-sector-de-la-dehesa-grupo-hiller-se",
+      "fecha": "Fri, 28 Aug 2026",
+      "fechaISO": "2026-08-28T01:01:32+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA resurge gracias al sector commodities y Wall Street cierra al alza luego de que Nvidia proyectara un crecimiento de 70% en sus ventas anuales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-yfxkk",
-      "fecha": "Thu, 27 Aug 2026",
-      "fechaISO": "2026-08-27T20:31:25+00:00"
+      "texto": "BICE Vida tras fusión: lidera negocio de activos y busca aprovechar mayor escala en inversiones",
+      "link": "http://www.df.cl/mercados/seguros/bice-vida-tras-fusion-lidera-negocio-de-activos-y-busca-aprovechar-mayor-0",
+      "fecha": "Fri, 28 Aug 2026",
+      "fechaISO": "2026-08-28T00:24:47+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Pivotes plantea contratos laborales por hora con piso salarial más alto y resguardos para evitar abusos",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/pivotes-plantea-contratos-laborales-por-hora-con-piso-salarial-mas-alto-y",
+      "texto": "La activa expansión de clínica RedSalud Vitacura: terapia de punta contra el cáncer y nueva hospitalización psiquiátrica",
+      "link": "http://www.df.cl/empresas/salud/la-activa-expansion-de-red-salud-vitacura-terapias-de-punta-contra-el",
+      "fecha": "Fri, 28 Aug 2026",
+      "fechaISO": "2026-08-28T00:14:04+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Banco de Chile y la LALIGA firman alianza para experiencias y beneficios vinculados al fútbol español",
+      "link": "http://www.df.cl/mercados/banca-fintech/banco-de-chile-y-la-laliga-firman-alianza-para-experiencias-y-beneficios",
       "fecha": "Thu, 27 Aug 2026",
-      "fechaISO": "2026-08-27T20:16:25+00:00"
+      "fechaISO": "2026-08-27T23:17:52+00:00"
     }
   ]
 }
