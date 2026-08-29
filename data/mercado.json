@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T22:45:31.199498+00:00",
+  "actualizado": "2026-08-29T00:54:42.515210+00:00",
   "macro": {
     "dolar": 925.2,
     "uf": 40869.82,
@@ -427,6 +427,13 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Ley Karin: solo el 35% de las denuncias registradas corresponde a materias de la norma y DT prepara estrategia preventiva en empresas",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/ley-karin-solo-el-35-de-las-denuncias-registradas-corresponde-a-materias",
+      "fecha": "Fri, 28 Aug 2026",
+      "fechaISO": "2026-08-28T23:25:44+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Sigue la grúa: Jorge Gómez recluta a otro ejecutivo desde Collahuasi para asumir en la plana mayor de Codelco",
       "link": "http://www.df.cl/empresas/mineria/codelco-suma-a-su-cuarto-ejecutivo-con-paso-previo-por-collahuasi-bajo-la",
       "fecha": "Fri, 28 Aug 2026",
@@ -445,13 +452,6 @@
       "link": "http://www.df.cl/empresas/industria/exacreedores-de-enjoy-sellan-venta-de-gran-hotel-pucon-por-us-16-millones",
       "fecha": "Fri, 28 Aug 2026",
       "fechaISO": "2026-08-28T21:27:40+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "CSAV sigue acumulando pérdidas por Ormuz pero pronostica mejor cierre para 2026",
-      "link": "http://www.df.cl/empresas/industria/csav-sigue-acumulando-perdidas-por-ormuz-pero-pronostica-mejor-cierre-para",
-      "fecha": "Fri, 28 Aug 2026",
-      "fechaISO": "2026-08-28T21:34:50+00:00"
     }
   ]
 }
