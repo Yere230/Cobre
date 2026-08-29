@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T00:54:42.515210+00:00",
+  "actualizado": "2026-08-29T02:51:39.029004+00:00",
   "macro": {
     "dolar": 925.2,
     "uf": 40869.82,
@@ -19,7 +19,7 @@
       "precio": 194.8,
       "anterior": 188.5,
       "alto52": 200.68,
-      "bajo52": 137.98
+      "bajo52": 138.0
     },
     "BCI": {
       "precio": 67200.0,
@@ -37,7 +37,7 @@
       "precio": 82.0,
       "anterior": 77.0,
       "alto52": 82.0,
-      "bajo52": 57.3
+      "bajo52": 57.7
     },
     "CAP": {
       "precio": 5601.0,
@@ -55,7 +55,7 @@
       "precio": 2495.0,
       "anterior": 2210.0,
       "alto52": 2799.9,
-      "bajo52": 1926.0
+      "bajo52": 1944.1
     },
     "COLBUN": {
       "precio": 145.0,
@@ -115,7 +115,7 @@
       "precio": 1950.0,
       "anterior": 1807.0,
       "alto52": 1994.6,
-      "bajo52": 1187.0
+      "bajo52": 1200.2
     },
     "FALABELLA": {
       "precio": 6370.0,
@@ -127,7 +127,7 @@
       "precio": 910.34,
       "anterior": 921.89,
       "alto52": 1150.0,
-      "bajo52": 841.5
+      "bajo52": 845.0
     },
     "ILC": {
       "precio": 25500.0,
@@ -145,13 +145,13 @@
       "precio": 4032.1,
       "anterior": 4039.9,
       "alto52": 4596.3,
-      "bajo52": 2174.4
+      "bajo52": 2202.8
     },
     "MALLPLAZA": {
       "precio": 4085.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
-      "bajo52": 2260.0
+      "bajo52": 2283.9
     },
     "QUINENCO": {
       "precio": 4529.9,
@@ -169,7 +169,7 @@
       "precio": 1265.1,
       "anterior": 1249.0,
       "alto52": 1499.9,
-      "bajo52": 881.0
+      "bajo52": 890.0
     },
     "SMU": {
       "precio": 125.74,
@@ -199,7 +199,7 @@
       "precio": 25.9,
       "anterior": 26.29,
       "alto52": 34.0,
-      "bajo52": 20.55
+      "bajo52": 21.0
     },
     "CAMANCHACA": {
       "precio": 68.78,
@@ -211,7 +211,7 @@
       "precio": 25000.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
-      "bajo52": 19990.0
+      "bajo52": 19992.0
     },
     "FORUS": {
       "precio": 1837.1,
@@ -229,7 +229,7 @@
       "precio": 222.26,
       "anterior": 200.99,
       "alto52": 227.0,
-      "bajo52": 109.42
+      "bajo52": 110.68
     },
     "MASISA": {
       "precio": 8.1,
@@ -301,7 +301,7 @@
       "precio": 1608.5,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1417.2
+      "bajo52": 1446.0
     },
     "BICE": {
       "precio": 401.42,
@@ -325,13 +325,13 @@
       "precio": 2140.85,
       "anterior": 2183.56,
       "alto52": 2340.0,
-      "bajo52": 1655.38
+      "bajo52": 1659.0
     },
     "CFIBTGRCA": {
       "precio": 22699.88,
       "anterior": 22610.0,
       "alto52": 28000.0,
-      "bajo52": 20523.0
+      "bajo52": 21301.0
     },
     "CFIBTGRRA": {
       "precio": 7100.0,
