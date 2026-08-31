@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-08-29T02:51:39.029004+00:00",
+  "actualizado": "2026-08-31T19:16:50.527797+00:00",
   "macro": {
-    "dolar": 925.2,
-    "uf": 40869.82,
+    "dolar": 929.2,
+    "uf": 40873.77,
     "utm": 71649,
     "cobre": 6.56,
     "ipsa": 10887.72,
@@ -10,187 +10,187 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 327.7,
+      "precio": 321.16,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 194.8,
+      "precio": 192.0,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 138.0
     },
     "BCI": {
-      "precio": 67200.0,
+      "precio": 66547.0,
       "anterior": 62502.0,
-      "alto52": 68590.0,
+      "alto52": 68093.0,
       "bajo52": 38990.0
     },
     "ITAUCL": {
-      "precio": 22750.0,
+      "precio": 22308.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 13700.0
     },
     "BSANTANDER": {
-      "precio": 82.0,
+      "precio": 81.08,
       "anterior": 77.0,
-      "alto52": 82.0,
+      "alto52": 83.0,
       "bajo52": 57.7
     },
     "CAP": {
-      "precio": 5601.0,
+      "precio": 5630.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2078.0,
+      "precio": 2015.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2495.0,
+      "precio": 2455.2,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1944.1
     },
     "COLBUN": {
-      "precio": 145.0,
+      "precio": 147.35,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5673.0,
+      "precio": 5480.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 49.0,
+      "precio": 48.32,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4525.0,
+      "precio": 4455.8,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3785.0,
+      "precio": 3897.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3220.1
     },
     "CMPC": {
-      "precio": 1060.0,
+      "precio": 1044.1,
       "anterior": 1070.0,
       "alto52": 1560.1,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6820.0,
+      "precio": 6617.1,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 89.9,
+      "precio": 87.0,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 80.9,
+      "precio": 81.19,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 67.45
     },
     "ECL": {
-      "precio": 1950.0,
+      "precio": 1984.0,
       "anterior": 1807.0,
-      "alto52": 1994.6,
+      "alto52": 1999.9,
       "bajo52": 1200.2
     },
     "FALABELLA": {
-      "precio": 6370.0,
+      "precio": 6240.8,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 910.34,
+      "precio": 905.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 845.0
     },
     "ILC": {
-      "precio": 25500.0,
+      "precio": 25110.0,
       "anterior": 21450.0,
-      "alto52": 25989.0,
+      "alto52": 25990.0,
       "bajo52": 12600.0
     },
     "LTM": {
-      "precio": 23.69,
+      "precio": 23.35,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 4032.1,
+      "precio": 3949.2,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2202.8
     },
     "MALLPLAZA": {
-      "precio": 4085.0,
+      "precio": 4002.1,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2283.9
     },
     "QUINENCO": {
-      "precio": 4529.9,
+      "precio": 4500.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 428.0,
+      "precio": 426.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1265.1,
+      "precio": 1227.6,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 125.74,
+      "precio": 123.57,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 124.35
+      "bajo52": 122.7
     },
     "SQM-B": {
-      "precio": 73200.0,
+      "precio": 73800.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 916.75,
+      "precio": 904.98,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7637.8,
+      "precio": 7549.6,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7363.2
@@ -202,13 +202,13 @@
       "bajo52": 21.0
     },
     "CAMANCHACA": {
-      "precio": 68.78,
+      "precio": 68.0,
       "anterior": 76.49,
       "alto52": 96.88,
       "bajo52": 53.0
     },
     "ENAEX": {
-      "precio": 25000.0,
+      "precio": 24526.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
       "bajo52": 19992.0
@@ -220,40 +220,40 @@
       "bajo52": 1837.1
     },
     "HITES": {
-      "precio": 132.63,
+      "precio": 133.0,
       "anterior": 132.09,
       "alto52": 146.09,
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 222.26,
+      "precio": 227.14,
       "anterior": 200.99,
-      "alto52": 227.0,
+      "alto52": 227.14,
       "bajo52": 110.68
     },
     "MASISA": {
       "precio": 8.1,
       "anterior": 8.68,
       "alto52": 20.04,
-      "bajo52": 7.97
+      "bajo52": 8.1
     },
     "PAZ": {
-      "precio": 1018.0,
+      "precio": 1016.6,
       "anterior": 870.18,
-      "alto52": 1018.0,
+      "alto52": 1016.6,
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 162.13,
+      "precio": 164.0,
       "anterior": 141.0,
       "alto52": 185.29,
-      "bajo52": 87.5
+      "bajo52": 90.0
     },
     "SK": {
-      "precio": 1655.0,
+      "precio": 1654.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
-      "bajo52": 1292.0
+      "bajo52": 1309.0
     },
     "SONDA": {
       "precio": 300.0,
@@ -262,7 +262,7 @@
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1700.0,
+      "precio": 1660.0,
       "anterior": 1570.0,
       "alto52": 1745.0,
       "bajo52": 1150.0
@@ -274,19 +274,19 @@
       "bajo52": 2000.0
     },
     "WATTS": {
-      "precio": 675.16,
+      "precio": 684.0,
       "anterior": 730.0,
       "alto52": 820.0,
       "bajo52": 650.4
     },
     "TRICOT": {
-      "precio": 579.87,
+      "precio": 580.0,
       "anterior": 581.84,
       "alto52": 688.8,
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 96.91,
+      "precio": 98.79,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -298,49 +298,56 @@
       "bajo52": 198.06
     },
     "INVERCAP": {
-      "precio": 1608.5,
+      "precio": 1595.2,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1446.0
     },
     "BICE": {
-      "precio": 401.42,
+      "precio": 393.99,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 282.03
     },
     "HABITAT": {
-      "precio": 1386.4,
+      "precio": 1386.5,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1109.0
     },
     "CFMITNIPSA": {
-      "precio": 5307.9,
+      "precio": 5228.8,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2140.85,
+      "precio": 2135.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1659.0
     },
     "CFIBTGRCA": {
-      "precio": 22699.88,
-      "anterior": 22610.0,
+      "precio": 22606.0,
+      "anterior": 22499.0,
       "alto52": 28000.0,
       "bajo52": 21301.0
     },
     "CFIBTGRRA": {
-      "precio": 7100.0,
+      "precio": 7199.0,
       "anterior": 7800.0,
       "alto52": 12472.8,
       "bajo52": 7100.0
     }
   },
   "noticias": [
+    {
+      "fuente": "Cooperativa · Bolsas",
+      "texto": "Shein debutará en la bolsa tras años de espera y un desplome millonario de su valoración",
+      "link": "https://www.cooperativa.cl/noticias/economia/bolsas/shein-debutara-en-la-bolsa-tras-anos-de-espera-y-un-desplome-millonario/2026-08-31/075339.html",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T11:53:39+00:00"
+    },
     {
       "fuente": "Cooperativa · Bolsas",
       "texto": "Elon Musk se convirtió en el primer billonario del mundo tras salida a bolsa de SpaceX",
@@ -363,95 +370,88 @@
       "fechaISO": "2026-06-06T20:47:58+00:00"
     },
     {
-      "fuente": "Cooperativa · Bolsas",
-      "texto": "Las bolsas de Asia caen tras el discurso de Trump y en medio de subidas del petróleo",
-      "link": "https://www.cooperativa.cl/noticias/mundo/iran/las-bolsas-de-asia-caen-tras-el-discurso-de-trump-y-en-medio-de-subidas/2026-04-02/074018.html",
-      "fecha": "Thu, 02 Apr 2026",
-      "fechaISO": "2026-04-02T10:40:18+00:00"
+      "fuente": "Cooperativa · Empresas",
+      "texto": "Un avión de Latam se salió de la pista al aterrizar en Brasil",
+      "link": "https://www.cooperativa.cl/noticias/mundo/brasil/sucesos/un-avion-de-latam-se-salio-de-la-pista-al-aterrizar-en-brasil/2026-08-31/125953.html",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T16:59:53+00:00"
     },
     {
       "fuente": "Cooperativa · Empresas",
-      "texto": "Optiroute: La startup que revoluciona la logística y el transporte nacional mediante IA",
-      "link": "https://www.cooperativa.cl/noticias/economia/empresas/optiroute-la-startup-que-revoluciona-la-logistica-y-el-transporte/2026-08-27/165502.html",
-      "fecha": "Thu, 27 Aug 2026",
-      "fechaISO": "2026-08-27T20:55:02+00:00"
+      "texto": "Shein debutará en la bolsa tras años de espera y un desplome millonario de su valoración",
+      "link": "https://www.cooperativa.cl/noticias/economia/bolsas/shein-debutara-en-la-bolsa-tras-anos-de-espera-y-un-desplome-millonario/2026-08-31/075339.html",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T11:53:39+00:00"
     },
     {
       "fuente": "Cooperativa · Empresas",
-      "texto": "\"Es un poco pesimista\": Académica discrepó de la profecía \"turbulenta\" de Bill Gates sobre la IA",
-      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/es-un-poco-pesimista-academica-discrepo-de-la-profecia-turbulenta/2026-08-27/121408.html",
-      "fecha": "Thu, 27 Aug 2026",
-      "fechaISO": "2026-08-27T16:14:08+00:00"
+      "texto": "Tras fallo TC, Hacienda alista ajustes para estrenar la nueva invariabilidad tributaria en 2027",
+      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/tras-fallo-tc-hacienda-alista-ajustes-para-estrenar-la-nueva/2026-08-30/110323.html",
+      "fecha": "Sun, 30 Aug 2026",
+      "fechaISO": "2026-08-30T15:03:23+00:00"
     },
     {
       "fuente": "Cooperativa · Empresas",
-      "texto": "Expresidente del CPLT criticó eventual postergación de un año para la Ley de Protección de Datos",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/expresidente-del-cplt-critico-eventual-postergacion-de-un-ano-para-la/2026-08-26/131049.html",
-      "fecha": "Wed, 26 Aug 2026",
-      "fechaISO": "2026-08-26T17:10:49+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Bomberos no pagará peajes en las carreteras al llegar a un acuerdo con concesionarias",
-      "link": "https://www.cooperativa.cl/noticias/pais/organismos/bomberos/bomberos-no-pagara-peajes-en-las-carreteras-al-llegar-a-un-acuerdo-con/2026-08-22/174550.html",
-      "fecha": "Sat, 22 Aug 2026",
-      "fechaISO": "2026-08-22T21:45:50+00:00"
+      "texto": "Sindicato ACHS aprobó ir a huelga tras rechazar oferta de la empresa",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/negociaciones-colectivas/sindicato-achs-aprobo-ir-a-huelga-tras-rechazar-oferta-de-la-empresa/2026-08-29/211843.html",
+      "fecha": "Sat, 29 Aug 2026",
+      "fechaISO": "2026-08-30T01:18:43+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "\"Gata Feria\": Seis años transformando las calles de Providencia en vitrinas de manufactura nacional",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/gata-feria-seis-anos-transformando-las-calles-de-providencia-en/2026-08-28/162849.html",
-      "fecha": "Fri, 28 Aug 2026",
-      "fechaISO": "2026-08-28T20:28:49+00:00"
+      "texto": "Expertos prevén un Imacec de julio negativo, marcado por retroceso en minería y manufactura",
+      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/expertos-preven-un-imacec-de-julio-negativo-marcado-por-retroceso-en/2026-08-31/143434.html",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T18:34:34+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Presencial y digital: colecta de Fundación Crecer busca reunir $40 millones",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/presencial-y-digital-colecta-de-fundacion-crecer-busca-reunir-40/2026-08-28/132541.html",
-      "fecha": "Fri, 28 Aug 2026",
-      "fechaISO": "2026-08-28T17:25:41+00:00"
+      "texto": "Un avión de Latam se salió de la pista al aterrizar en Brasil",
+      "link": "https://www.cooperativa.cl/noticias/mundo/brasil/sucesos/un-avion-de-latam-se-salio-de-la-pista-al-aterrizar-en-brasil/2026-08-31/125953.html",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T16:59:53+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Oficialismo apunta al sector construcción como factor clave para reactivar el empleo",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/oficialismo-apunta-al-sector-construccion-como-factor-clave-para/2026-08-28/113058.html",
-      "fecha": "Fri, 28 Aug 2026",
-      "fechaISO": "2026-08-28T15:30:58+00:00"
+      "texto": "Compra y venta de autos usados: ¿Cómo evitar fraudes o engaños?",
+      "link": "https://www.cooperativa.cl/noticias/pais/transportes/automovilistas/compra-y-venta-de-autos-usados-como-evitar-fraudes-o-enganos/2026-08-31/111402.html",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T15:14:02+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Optiroute: La startup que revoluciona la logística y el transporte nacional mediante IA",
-      "link": "https://www.cooperativa.cl/noticias/economia/empresas/optiroute-la-startup-que-revoluciona-la-logistica-y-el-transporte/2026-08-27/165502.html",
-      "fecha": "Thu, 27 Aug 2026",
-      "fechaISO": "2026-08-27T20:55:02+00:00"
+      "texto": "Indonesia reconoció a Chile como país libre de mosca de la fruta",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/indonesia-reconocio-a-chile-como-pais-libre-de-mosca-de-la-fruta/2026-08-31/113322.html",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T15:33:22+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Ley Karin: solo el 35% de las denuncias registradas corresponde a materias de la norma y DT prepara estrategia preventiva en empresas",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/ley-karin-solo-el-35-de-las-denuncias-registradas-corresponde-a-materias",
-      "fecha": "Fri, 28 Aug 2026",
-      "fechaISO": "2026-08-28T23:25:44+00:00"
+      "texto": "Nuevos dueños de Central Ventanas fichan a quien fuera el primer gerente general de Quintero Energía",
+      "link": "http://www.df.cl/empresas/energia/nuevos-duenos-de-central-ventanas-fichan-a-quien-fuera-el-primer-gerente",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T19:12:22+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Sigue la grúa: Jorge Gómez recluta a otro ejecutivo desde Collahuasi para asumir en la plana mayor de Codelco",
-      "link": "http://www.df.cl/empresas/mineria/codelco-suma-a-su-cuarto-ejecutivo-con-paso-previo-por-collahuasi-bajo-la",
-      "fecha": "Fri, 28 Aug 2026",
-      "fechaISO": "2026-08-28T22:26:44+00:00"
+      "texto": "Canadiense Capstone compra proyecto de oro, cobre, hierro y cobalto en US$ 25 millones y consolida su distrito minero en Atacama",
+      "link": "http://www.df.cl/empresas/mineria/canadiense-capstone-compra-proyecto-de-oro-cobre-hierro-y-cobalto-en-us",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T19:10:48+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Operaciones en Perú y negocio bancario hacen crecer ganancias de Ripley al primer semestre",
-      "link": "http://www.df.cl/empresas/retail/ingresos-de-ripley-crecen-5-8-impulsados-por-peru-y-el-negocio-bancario",
-      "fecha": "Fri, 28 Aug 2026",
-      "fechaISO": "2026-08-28T22:00:44+00:00"
+      "texto": "Julio destiñe: mercado se rinde a malas cifras sectoriales y ve probable una nueva baja de la actividad",
+      "link": "http://www.df.cl/economia-y-politica/macro/imacec-volveria-a-ser-negativo-en-julio-y-analistas-preven-una-contraccion",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T18:00:23+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Exacreedores de Enjoy sellan venta de Gran Hotel Pucón por US$ 16 millones",
-      "link": "http://www.df.cl/empresas/industria/exacreedores-de-enjoy-sellan-venta-de-gran-hotel-pucon-por-us-16-millones",
-      "fecha": "Fri, 28 Aug 2026",
-      "fechaISO": "2026-08-28T21:27:40+00:00"
+      "texto": "IPSA cae fuerte a la zona de 11.300 puntos por ventas globales tras el regreso de las hostilidades en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-mrc3b",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T17:50:27+00:00"
     }
   ]
 }
