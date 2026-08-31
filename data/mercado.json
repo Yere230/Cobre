@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T21:50:42.308946+00:00",
+  "actualizado": "2026-08-31T23:57:05.825983+00:00",
   "macro": {
     "dolar": 929.2,
     "uf": 40873.77,
@@ -427,6 +427,20 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Sigdo Koppers da un salto en sus utilidades en el primer semestre y adelanta que \"el grupo continuará fortaleciendo su posición\"",
+      "link": "http://www.df.cl/empresas/construccion/sigdo-koppers-da-un-salto-en-sus-utilidades-en-el-primer-semestre-y",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T23:06:07+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Supera a México y EEUU: ANAC posiciona a Chile como el país con mayor cantidad de marcas de autos en la región",
+      "link": "http://www.df.cl/empresas/industria/supera-a-mexico-y-estados-unidos-anac-posiciona-a-chile-como-el-pais-con",
+      "fecha": "Mon, 31 Aug 2026",
+      "fechaISO": "2026-08-31T23:03:39+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Comisión Mixta de reforma política: visan por unanimidad condena de partidos políticos a sistemas totalitarios",
       "link": "http://www.df.cl/economia-y-politica/congreso/comision-mixta-de-reforma-politica-visan-por-unanimidad-condena-de",
       "fecha": "Mon, 31 Aug 2026",
@@ -438,20 +452,6 @@
       "link": "http://www.df.cl/empresas/empresas-y-startups/angeles-romo-vuelve-a-corfo-como-asesora-en-capital-de-riesgo-nos",
       "fecha": "Mon, 31 Aug 2026",
       "fechaISO": "2026-08-31T21:44:30+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA cierra a la baja cerca de 11.300 puntos y registra más de $ 930 mil millones en flujos tras rebalanceo de índices de MSCI",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-mrc3b",
-      "fecha": "Mon, 31 Aug 2026",
-      "fechaISO": "2026-08-31T21:27:51+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Falta de apoyo obliga al gobierno a rebajar a “simple\" la urgencia de la polémica reforma constitucional de seguridad",
-      "link": "http://www.df.cl/economia-y-politica/congreso/falta-de-apoyo-obliga-al-gobierno-rebajar-a-simple-la-urgencia-de-la",
-      "fecha": "Mon, 31 Aug 2026",
-      "fechaISO": "2026-08-31T20:22:59+00:00"
     }
   ]
 }
