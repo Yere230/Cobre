@@ -1,124 +1,124 @@
 {
-  "actualizado": "2026-08-31T23:57:05.825983+00:00",
+  "actualizado": "2026-09-01T17:01:23.491088+00:00",
   "macro": {
-    "dolar": 929.2,
-    "uf": 40873.77,
-    "utm": 71649,
-    "cobre": 6.56,
+    "dolar": 933.4,
+    "uf": 40875.09,
+    "utm": 71721,
+    "cobre": 6.55,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 320.0,
+      "precio": 320.01,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 192.5,
+      "precio": 194.7,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 138.0
     },
     "BCI": {
-      "precio": 64500.0,
+      "precio": 67445.0,
       "anterior": 62502.0,
-      "alto52": 68093.0,
-      "bajo52": 38990.0
+      "alto52": 67900.0,
+      "bajo52": 39376.0
     },
     "ITAUCL": {
-      "precio": 22100.0,
+      "precio": 22655.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 13700.0
     },
     "BSANTANDER": {
-      "precio": 80.51,
+      "precio": 81.87,
       "anterior": 77.0,
-      "alto52": 83.0,
-      "bajo52": 57.7
+      "alto52": 84.0,
+      "bajo52": 57.8
     },
     "CAP": {
-      "precio": 5550.0,
+      "precio": 5624.5,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 1956.0,
+      "precio": 2025.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
-      "bajo52": 1956.0
+      "bajo52": 1970.0
     },
     "CENCOMALLS": {
-      "precio": 2440.0,
+      "precio": 2479.6,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1944.1
     },
     "COLBUN": {
-      "precio": 147.5,
+      "precio": 145.39,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5431.0,
+      "precio": 5484.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.0,
+      "precio": 48.04,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4530.0,
+      "precio": 4600.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3880.0,
+      "precio": 3843.2,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3220.1
     },
     "CMPC": {
-      "precio": 1005.0,
+      "precio": 1033.4,
       "anterior": 1070.0,
       "alto52": 1560.1,
-      "bajo52": 1005.0
+      "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6620.0,
+      "precio": 6803.9,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 84.5,
+      "precio": 84.97,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 80.0,
+      "precio": 81.19,
       "anterior": 81.01,
       "alto52": 84.0,
-      "bajo52": 67.45
+      "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1960.0,
+      "precio": 1956.4,
       "anterior": 1807.0,
-      "alto52": 1999.9,
-      "bajo52": 1200.2
+      "alto52": 1982.5,
+      "bajo52": 1205.1
     },
     "FALABELLA": {
-      "precio": 6180.0,
+      "precio": 6324.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
@@ -130,85 +130,85 @@
       "bajo52": 845.0
     },
     "ILC": {
-      "precio": 25499.0,
+      "precio": 25099.0,
       "anterior": 21450.0,
-      "alto52": 25990.0,
-      "bajo52": 12600.0
+      "alto52": 25700.0,
+      "bajo52": 12623.0
     },
     "LTM": {
-      "precio": 24.12,
+      "precio": 23.31,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3900.0,
+      "precio": 3952.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
-      "bajo52": 2202.8
+      "bajo52": 2226.0
     },
     "MALLPLAZA": {
-      "precio": 3931.0,
+      "precio": 4036.3,
       "anterior": 3950.0,
       "alto52": 4700.0,
-      "bajo52": 2283.9
+      "bajo52": 2325.1
     },
     "QUINENCO": {
-      "precio": 4500.0,
+      "precio": 4496.9,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 421.0,
+      "precio": 422.17,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1246.0,
+      "precio": 1249.6,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 128.5,
+      "precio": 125.44,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 122.6
+      "bajo52": 124.0
     },
     "SQM-B": {
-      "precio": 76000.0,
+      "precio": 75700.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 910.0,
+      "precio": 900.0,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7001.0,
+      "precio": 7570.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
-      "bajo52": 7001.0
+      "bajo52": 7144.8
     },
     "ALMENDRAL": {
-      "precio": 25.9,
+      "precio": 25.72,
       "anterior": 26.29,
       "alto52": 34.0,
       "bajo52": 21.0
     },
     "CAMANCHACA": {
-      "precio": 68.01,
+      "precio": 68.02,
       "anterior": 76.49,
       "alto52": 96.88,
       "bajo52": 53.0
     },
     "ENAEX": {
-      "precio": 24566.0,
+      "precio": 25000.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
       "bajo52": 19992.0
@@ -226,9 +226,9 @@
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 227.89,
+      "precio": 232.2,
       "anterior": 200.99,
-      "alto52": 229.0,
+      "alto52": 232.2,
       "bajo52": 110.68
     },
     "MASISA": {
@@ -238,9 +238,9 @@
       "bajo52": 8.0
     },
     "PAZ": {
-      "precio": 1016.6,
+      "precio": 1017.0,
       "anterior": 870.18,
-      "alto52": 1016.6,
+      "alto52": 1017.0,
       "bajo52": 636.37
     },
     "SOCOVESA": {
@@ -250,10 +250,10 @@
       "bajo52": 90.0
     },
     "SK": {
-      "precio": 1654.0,
+      "precio": 1658.5,
       "anterior": 1632.3,
       "alto52": 1875.0,
-      "bajo52": 1309.0
+      "bajo52": 1330.0
     },
     "SONDA": {
       "precio": 300.0,
@@ -280,13 +280,13 @@
       "bajo52": 650.4
     },
     "TRICOT": {
-      "precio": 579.87,
+      "precio": 586.0,
       "anterior": 581.84,
       "alto52": 688.8,
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 97.72,
+      "precio": 98.79,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -298,44 +298,44 @@
       "bajo52": 198.06
     },
     "INVERCAP": {
-      "precio": 1597.6,
+      "precio": 1586.2,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1446.0
+      "bajo52": 1449.0
     },
     "BICE": {
-      "precio": 394.46,
+      "precio": 391.0,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 282.03
     },
     "HABITAT": {
-      "precio": 1388.3,
+      "precio": 1386.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1109.0
     },
     "CFMITNIPSA": {
-      "precio": 5235.0,
+      "precio": 5309.7,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2134.96,
+      "precio": 2137.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
-      "bajo52": 1659.0
+      "bajo52": 1665.0
     },
     "CFIBTGRCA": {
-      "precio": 22606.0,
-      "anterior": 22499.0,
+      "precio": 22600.0,
+      "anterior": 22607.43,
       "alto52": 28000.0,
-      "bajo52": 21301.0
+      "bajo52": 21550.0
     },
     "CFIBTGRRA": {
       "precio": 7199.0,
-      "anterior": 7800.0,
+      "anterior": 7500.0,
       "alto52": 12472.8,
       "bajo52": 7100.0
     }
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Imacec cae 1,5% en julio arrastrado por la minería, el peor resultado en tres años",
+      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/imacec-cae-1-5-en-julio-arrastrado-por-la-mineria-el-peor-resultado-en/2026-09-01/084815.html",
+      "fecha": "Tue, 01 Sep 2026",
+      "fechaISO": "2026-09-01T12:48:15+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Expertos prevén un Imacec de julio negativo, marcado por retroceso en minería y manufactura",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/expertos-preven-un-imacec-de-julio-negativo-marcado-por-retroceso-en/2026-08-31/143434.html",
       "fecha": "Mon, 31 Aug 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-08-31T15:14:02+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Indonesia reconoció a Chile como país libre de mosca de la fruta",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/indonesia-reconocio-a-chile-como-pais-libre-de-mosca-de-la-fruta/2026-08-31/113322.html",
-      "fecha": "Mon, 31 Aug 2026",
-      "fechaISO": "2026-08-31T15:33:22+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Bono samurái: Caja Los Andes vuelve a Japón y duplica su apuesta en el mercado de bonos por US$ 62,6 millones",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bono-samurai-caja-los-andes-vuelve-a-japon-y-duplica-su-apuesta-en-el",
+      "fecha": "Tue, 01 Sep 2026",
+      "fechaISO": "2026-09-01T16:56:31+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Sigdo Koppers da un salto en sus utilidades en el primer semestre y adelanta que \"el grupo continuará fortaleciendo su posición\"",
-      "link": "http://www.df.cl/empresas/construccion/sigdo-koppers-da-un-salto-en-sus-utilidades-en-el-primer-semestre-y",
-      "fecha": "Mon, 31 Aug 2026",
-      "fechaISO": "2026-08-31T23:06:07+00:00"
+      "texto": "La salchicha picante que convirtió a Agrosuper en el mayor exportador chileno de cerdo a Japón",
+      "link": "http://www.df.cl/empresas/consumo/la-salchicha-japonesa-picante-que-convirtio-a-agrosuper-en-el-mayor",
+      "fecha": "Tue, 01 Sep 2026",
+      "fechaISO": "2026-09-01T15:47:27+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Supera a México y EEUU: ANAC posiciona a Chile como el país con mayor cantidad de marcas de autos en la región",
-      "link": "http://www.df.cl/empresas/industria/supera-a-mexico-y-estados-unidos-anac-posiciona-a-chile-como-el-pais-con",
-      "fecha": "Mon, 31 Aug 2026",
-      "fechaISO": "2026-08-31T23:03:39+00:00"
+      "texto": "Ganancias de ILC suben más de 44% en el primer semestre tras buenos resultados de sus negocios en seguros, banca y AFP",
+      "link": "http://www.df.cl/mercados/seguros/ganancias-de-ilc-suben-mas-de-44-en-el-primer-semestre-tras-buenos",
+      "fecha": "Tue, 01 Sep 2026",
+      "fechaISO": "2026-09-01T16:53:35+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Comisión Mixta de reforma política: visan por unanimidad condena de partidos políticos a sistemas totalitarios",
-      "link": "http://www.df.cl/economia-y-politica/congreso/comision-mixta-de-reforma-politica-visan-por-unanimidad-condena-de",
-      "fecha": "Mon, 31 Aug 2026",
-      "fechaISO": "2026-08-31T21:34:10+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Ángeles Romo vuelve a Corfo como asesora en capital de riesgo: \"nos encontramos en un momento clave\"",
-      "link": "http://www.df.cl/empresas/empresas-y-startups/angeles-romo-vuelve-a-corfo-como-asesora-en-capital-de-riesgo-nos",
-      "fecha": "Mon, 31 Aug 2026",
-      "fechaISO": "2026-08-31T21:44:30+00:00"
+      "texto": "Santander Chile da inicio al negocio de rentas vitalicias tras adquisición de la cartera de Principal",
+      "link": "http://www.df.cl/mercados/pensiones/santander-chile-da-inicio-al-negocio-de-rentas-vitalicias-tras-adquisicion",
+      "fecha": "Tue, 01 Sep 2026",
+      "fechaISO": "2026-09-01T15:22:12+00:00"
     }
   ]
 }
