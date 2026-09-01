@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T17:01:23.491088+00:00",
+  "actualizado": "2026-09-01T19:48:19.712132+00:00",
   "macro": {
     "dolar": 933.4,
     "uf": 40875.09,
@@ -10,187 +10,187 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 320.01,
+      "precio": 319.9,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 194.7,
+      "precio": 194.76,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 138.0
     },
     "BCI": {
-      "precio": 67445.0,
+      "precio": 67091.0,
       "anterior": 62502.0,
       "alto52": 67900.0,
       "bajo52": 39376.0
     },
     "ITAUCL": {
-      "precio": 22655.0,
+      "precio": 22408.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 13700.0
     },
     "BSANTANDER": {
-      "precio": 81.87,
+      "precio": 81.44,
       "anterior": 77.0,
       "alto52": 84.0,
       "bajo52": 57.8
     },
     "CAP": {
-      "precio": 5624.5,
+      "precio": 5559.3,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2025.0,
+      "precio": 2013.6,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1970.0
     },
     "CENCOMALLS": {
-      "precio": 2479.6,
+      "precio": 2466.1,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1944.1
     },
     "COLBUN": {
-      "precio": 145.39,
+      "precio": 144.5,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5484.0,
+      "precio": 5408.2,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.04,
+      "precio": 48.51,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4600.0,
+      "precio": 4589.2,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3843.2,
+      "precio": 3803.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3220.1
     },
     "CMPC": {
-      "precio": 1033.4,
+      "precio": 1027.9,
       "anterior": 1070.0,
       "alto52": 1560.1,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6803.9,
+      "precio": 6734.9,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 84.97,
+      "precio": 84.55,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.19,
+      "precio": 81.12,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1956.4,
+      "precio": 1949.8,
       "anterior": 1807.0,
       "alto52": 1982.5,
       "bajo52": 1205.1
     },
     "FALABELLA": {
-      "precio": 6324.0,
+      "precio": 6255.2,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 905.0,
+      "precio": 897.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 845.0
     },
     "ILC": {
-      "precio": 25099.0,
+      "precio": 24950.0,
       "anterior": 21450.0,
       "alto52": 25700.0,
       "bajo52": 12623.0
     },
     "LTM": {
-      "precio": 23.31,
+      "precio": 23.24,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3952.0,
+      "precio": 3932.0,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2226.0
     },
     "MALLPLAZA": {
-      "precio": 4036.3,
+      "precio": 4033.5,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2325.1
     },
     "QUINENCO": {
-      "precio": 4496.9,
+      "precio": 4493.3,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 422.17,
+      "precio": 420.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1249.6,
+      "precio": 1244.9,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 125.44,
+      "precio": 124.0,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 124.0
     },
     "SQM-B": {
-      "precio": 75700.0,
+      "precio": 75489.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 900.0,
+      "precio": 898.67,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7570.0,
+      "precio": 7566.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7144.8
@@ -226,7 +226,7 @@
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 232.2,
+      "precio": 230.18,
       "anterior": 200.99,
       "alto52": 232.2,
       "bajo52": 110.68
@@ -244,7 +244,7 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 162.0,
+      "precio": 163.0,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 90.0
@@ -286,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 98.79,
+      "precio": 99.81,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -298,31 +298,31 @@
       "bajo52": 198.06
     },
     "INVERCAP": {
-      "precio": 1586.2,
+      "precio": 1585.2,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1449.0
     },
     "BICE": {
-      "precio": 391.0,
+      "precio": 395.5,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 282.03
     },
     "HABITAT": {
-      "precio": 1386.0,
+      "precio": 1370.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1109.0
     },
     "CFMITNIPSA": {
-      "precio": 5309.7,
+      "precio": 5266.9,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2137.0,
+      "precio": 2144.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1665.0
@@ -399,6 +399,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Sube la PGU y comienza prohibición de pensiones para femicidas",
+      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/sube-la-pgu-y-comienza-prohibicion-de-pensiones-para-femicidas/2026-09-01/133434.html",
+      "fecha": "Tue, 01 Sep 2026",
+      "fechaISO": "2026-09-01T17:34:34+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Quiroz ante negativo Imacec: \"Reafirma la relevancia de las cosas que estamos haciendo\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/quiroz-ante-negativo-imacec-reafirma-la-relevancia-de-las-cosas-que/2026-09-01/131508.html",
+      "fecha": "Tue, 01 Sep 2026",
+      "fechaISO": "2026-09-01T17:15:08+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Imacec cae 1,5% en julio arrastrado por la minería, el peor resultado en tres años",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/imacec-cae-1-5-en-julio-arrastrado-por-la-mineria-el-peor-resultado-en/2026-09-01/084815.html",
       "fecha": "Tue, 01 Sep 2026",
@@ -412,46 +426,32 @@
       "fechaISO": "2026-08-31T18:34:34+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Un avión de Latam se salió de la pista al aterrizar en Brasil",
-      "link": "https://www.cooperativa.cl/noticias/mundo/brasil/sucesos/un-avion-de-latam-se-salio-de-la-pista-al-aterrizar-en-brasil/2026-08-31/125953.html",
-      "fecha": "Mon, 31 Aug 2026",
-      "fechaISO": "2026-08-31T16:59:53+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Compra y venta de autos usados: ¿Cómo evitar fraudes o engaños?",
-      "link": "https://www.cooperativa.cl/noticias/pais/transportes/automovilistas/compra-y-venta-de-autos-usados-como-evitar-fraudes-o-enganos/2026-08-31/111402.html",
-      "fecha": "Mon, 31 Aug 2026",
-      "fechaISO": "2026-08-31T15:14:02+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "CEPD Abogados crea nuevas áreas y se refuerza en M&A: ficha a Matías Zegers y otros cinco exDLA Piper Chile",
+      "link": "http://www.df.cl/empresas/entre-codigos/cepd-abogados-crea-nuevas-areas-y-se-refuerza-en-m-a-ficha-a-matias-zegers",
+      "fecha": "Tue, 01 Sep 2026",
+      "fechaISO": "2026-09-01T19:45:48+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bono samurái: Caja Los Andes vuelve a Japón y duplica su apuesta en el mercado de bonos por US$ 62,6 millones",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bono-samurai-caja-los-andes-vuelve-a-japon-y-duplica-su-apuesta-en-el",
+      "texto": "Albemarle solicita mediación para evitar huelga en sus operaciones de litio en Chile",
+      "link": "http://www.df.cl/empresas/mineria/albemarle-solicita-mediacion-para-evitar-huelga-en-sus-operaciones-de-litio",
       "fecha": "Tue, 01 Sep 2026",
-      "fechaISO": "2026-09-01T16:56:31+00:00"
+      "fechaISO": "2026-09-01T19:44:30+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "La salchicha picante que convirtió a Agrosuper en el mayor exportador chileno de cerdo a Japón",
-      "link": "http://www.df.cl/empresas/consumo/la-salchicha-japonesa-picante-que-convirtio-a-agrosuper-en-el-mayor",
+      "texto": "Clínica MEDS y Universidad Diego Portales sellan alianza que creará Centro Académico de Salud",
+      "link": "http://www.df.cl/empresas/salud/clinica-meds-y-universidad-diego-portales-sellan-alianza-que-creara-centro",
       "fecha": "Tue, 01 Sep 2026",
-      "fechaISO": "2026-09-01T15:47:27+00:00"
+      "fechaISO": "2026-09-01T19:31:53+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Ganancias de ILC suben más de 44% en el primer semestre tras buenos resultados de sus negocios en seguros, banca y AFP",
-      "link": "http://www.df.cl/mercados/seguros/ganancias-de-ilc-suben-mas-de-44-en-el-primer-semestre-tras-buenos",
+      "texto": "Colliers estima que medidas con foco en vivienda del gobierno podrían reducir hasta 35% los dividendos",
+      "link": "http://www.df.cl/mercados/banca-fintech/colliers-estima-que-medidas-con-foco-en-vivienda-del-gobierno-podrian",
       "fecha": "Tue, 01 Sep 2026",
-      "fechaISO": "2026-09-01T16:53:35+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Santander Chile da inicio al negocio de rentas vitalicias tras adquisición de la cartera de Principal",
-      "link": "http://www.df.cl/mercados/pensiones/santander-chile-da-inicio-al-negocio-de-rentas-vitalicias-tras-adquisicion",
-      "fecha": "Tue, 01 Sep 2026",
-      "fechaISO": "2026-09-01T15:22:12+00:00"
+      "fechaISO": "2026-09-01T19:29:11+00:00"
     }
   ]
 }
