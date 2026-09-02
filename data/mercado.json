@@ -1,192 +1,196 @@
 {
-  "actualizado": "2026-09-02T16:53:52.122201+00:00",
+  "actualizado": "2026-09-02T19:40:04.882258+00:00",
   "macro": {
+    "dolar": 936.9,
+    "uf": 40876.41,
+    "utm": 71721,
+    "cobre": 6.55,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 324.92,
+      "precio": 328.7,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 197.2,
+      "precio": 197.82,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 140.0
     },
     "BCI": {
-      "precio": 67652.0,
+      "precio": 67446.0,
       "anterior": 62502.0,
       "alto52": 67998.0,
       "bajo52": 40587.0
     },
     "ITAUCL": {
-      "precio": 22855.0,
+      "precio": 22505.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 13700.0
     },
     "BSANTANDER": {
-      "precio": 82.62,
+      "precio": 83.07,
       "anterior": 77.0,
-      "alto52": 83.18,
+      "alto52": 83.19,
       "bajo52": 58.79
     },
     "CAP": {
-      "precio": 5600.0,
+      "precio": 5608.2,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2043.5,
+      "precio": 2039.4,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2469.6,
+      "precio": 2473.8,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1950.9
     },
     "COLBUN": {
-      "precio": 144.5,
+      "precio": 144.98,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5475.3,
+      "precio": 5527.6,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.48,
+      "precio": 48.62,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4670.0,
+      "precio": 4645.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3899.8,
+      "precio": 3894.8,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3220.1
     },
     "CMPC": {
-      "precio": 1046.4,
+      "precio": 1056.0,
       "anterior": 1070.0,
       "alto52": 1560.1,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6911.1,
+      "precio": 6890.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 86.05,
+      "precio": 84.83,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.31,
+      "precio": 81.11,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1931.0,
+      "precio": 1986.0,
       "anterior": 1807.0,
-      "alto52": 1949.8,
+      "alto52": 1998.0,
       "bajo52": 1225.0
     },
     "FALABELLA": {
-      "precio": 6392.1,
+      "precio": 6410.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 900.01,
+      "precio": 909.98,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 845.0
     },
     "ILC": {
-      "precio": 24975.0,
+      "precio": 24780.0,
       "anterior": 21450.0,
       "alto52": 25125.0,
       "bajo52": 12750.0
     },
     "LTM": {
-      "precio": 24.04,
+      "precio": 24.1,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3961.5,
+      "precio": 3959.9,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2295.9
     },
     "MALLPLAZA": {
-      "precio": 4035.2,
+      "precio": 4000.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2334.5
     },
     "QUINENCO": {
-      "precio": 4509.9,
+      "precio": 4541.1,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 410.89,
+      "precio": 415.6,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1248.4,
+      "precio": 1255.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 123.87,
+      "precio": 123.81,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 123.87
+      "bajo52": 123.35
     },
     "SQM-B": {
-      "precio": 74848.0,
+      "precio": 76216.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 900.0,
+      "precio": 893.03,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7611.3,
+      "precio": 7661.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7363.2
@@ -198,7 +202,7 @@
       "bajo52": 21.0
     },
     "CAMANCHACA": {
-      "precio": 68.02,
+      "precio": 70.09,
       "anterior": 76.49,
       "alto52": 96.88,
       "bajo52": 54.57
@@ -210,10 +214,10 @@
       "bajo52": 19992.0
     },
     "FORUS": {
-      "precio": 1837.0,
+      "precio": 1827.0,
       "anterior": 1983.4,
       "alto52": 2510.0,
-      "bajo52": 1837.0
+      "bajo52": 1827.0
     },
     "HITES": {
       "precio": 133.0,
@@ -222,7 +226,7 @@
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 228.82,
+      "precio": 228.0,
       "anterior": 200.99,
       "alto52": 228.82,
       "bajo52": 110.68
@@ -294,13 +298,13 @@
       "bajo52": 199.03
     },
     "INVERCAP": {
-      "precio": 1585.0,
+      "precio": 1589.7,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1459.0
     },
     "BICE": {
-      "precio": 394.99,
+      "precio": 397.11,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 285.0
@@ -312,7 +316,7 @@
       "bajo52": 1109.0
     },
     "CFMITNIPSA": {
-      "precio": 5310.0,
+      "precio": 5324.2,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
@@ -423,31 +427,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Española Grenergy cierra la venta de la cuarta fase de Oasis de Atacama por US$ 475 millones",
-      "link": "http://www.df.cl/empresas/energia/espanola-grenergy-cierra-la-venta-de-la-cuarta-fase-de-oasis-de-atacama-por",
+      "texto": "Gerente general de Banco de Chile por reforma al mercado de capitales: “Puede ser un impulso muy positivo”",
+      "link": "http://www.df.cl/mercados/banca-fintech/gerente-general-de-banco-de-chile-por-reforma-al-mercado-de-capitales",
       "fecha": "Wed, 02 Sep 2026",
-      "fechaISO": "2026-09-02T16:17:18+00:00"
+      "fechaISO": "2026-09-02T18:28:57+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "A menos de 24 horas del bloqueo, plataformas de apuestas online arman nuevos sitios para operar en Chile",
-      "link": "http://www.df.cl/empresas/industria/a-menos-de-24-horas-del-bloqueo-plataformas-de-apuestas-online-arman",
+      "texto": "La Sala de la Cámara despachó a ley proyecto que crea un bono extraordinario para niños más vulnerables",
+      "link": "http://www.df.cl/economia-y-politica/congreso/la-sala-de-la-camara-despacho-a-ley-proyecto-que-crea-un-bono",
       "fecha": "Wed, 02 Sep 2026",
-      "fechaISO": "2026-09-02T16:51:17+00:00"
+      "fechaISO": "2026-09-02T18:26:30+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Fintech Racional y Pomelo sellan alianza para ofrecer cuentas y tarjetas prepago",
-      "link": "http://www.df.cl/mercados/banca-fintech/fintech-racional-y-pomelo-sellan-alianza-para-ofrecer-cuentas-y-tarjetas",
+      "texto": "Retail acelera recambio de sistemas de refrigeración y firma italiana abre centro de capacitación en Chile",
+      "link": "http://www.df.cl/empresas/industria/retail-acelera-recambio-de-sistemas-de-refrigeracion-y-firma-italiana-abre",
       "fecha": "Wed, 02 Sep 2026",
-      "fechaISO": "2026-09-02T16:10:23+00:00"
+      "fechaISO": "2026-09-02T18:03:57+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Gerente general de AFP Capital, Renzo Vercelli, y régimen de fondos generacionales: \"Los cambios anunciados ayer nos parecen un buen punto de partida\"",
-      "link": "http://www.df.cl/gerente-general-de-afp-capital-renzo-vercelli-y-regimen-de-fondos",
+      "texto": "IPSA sigue desafiando a la incertidumbre y sube a niveles de 11.500 puntos al inicio de la tarde junto con bolsas de la región",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-5yudw",
       "fecha": "Wed, 02 Sep 2026",
-      "fechaISO": "2026-09-02T16:07:21+00:00"
+      "fechaISO": "2026-09-02T17:45:57+00:00"
     }
   ]
 }
