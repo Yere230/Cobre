@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T16:43:39.071383+00:00",
+  "actualizado": "2026-09-03T19:41:45.973006+00:00",
   "macro": {
     "dolar": 936.3,
     "uf": 40877.73,
@@ -10,115 +10,115 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 326.3,
+      "precio": 327.99,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 197.66,
+      "precio": 198.38,
       "anterior": 188.5,
       "alto52": 200.7,
       "bajo52": 140.65
     },
     "BCI": {
-      "precio": 67447.0,
+      "precio": 67764.0,
       "anterior": 62502.0,
       "alto52": 68316.0,
       "bajo52": 41376.0
     },
     "ITAUCL": {
-      "precio": 22738.0,
+      "precio": 23254.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 14222.0
     },
     "BSANTANDER": {
-      "precio": 83.22,
+      "precio": 82.82,
       "anterior": 77.0,
       "alto52": 84.4,
       "bajo52": 59.57
     },
     "CAP": {
-      "precio": 5600.0,
+      "precio": 5658.5,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2010.6,
+      "precio": 2009.7,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2483.5,
+      "precio": 2489.4,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 144.89,
+      "precio": 146.07,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5530.7,
+      "precio": 5583.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 49.27,
+      "precio": 49.07,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4662.3,
+      "precio": 4674.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3813.6,
+      "precio": 3836.8,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3220.1
     },
     "CMPC": {
-      "precio": 1051.6,
+      "precio": 1048.6,
       "anterior": 1070.0,
       "alto52": 1560.1,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6790.3,
+      "precio": 6752.3,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 84.78,
+      "precio": 85.48,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 80.72,
+      "precio": 81.25,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1987.3,
+      "precio": 1980.0,
       "anterior": 1807.0,
-      "alto52": 1990.0,
+      "alto52": 1996.5,
       "bajo52": 1257.1
     },
     "FALABELLA": {
-      "precio": 6407.3,
+      "precio": 6366.8,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
@@ -130,67 +130,67 @@
       "bajo52": 848.0
     },
     "ILC": {
-      "precio": 24270.0,
+      "precio": 24500.0,
       "anterior": 21450.0,
       "alto52": 24502.0,
       "bajo52": 12750.0
     },
     "LTM": {
-      "precio": 24.17,
+      "precio": 24.21,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3938.8,
+      "precio": 3948.4,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3990.0,
+      "precio": 3984.3,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2350.0
     },
     "QUINENCO": {
-      "precio": 4538.8,
+      "precio": 4544.1,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 416.1,
+      "precio": 418.54,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1240.0,
+      "precio": 1242.3,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 122.61,
+      "precio": 122.44,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 122.43
+      "bajo52": 121.9
     },
     "SQM-B": {
-      "precio": 75100.0,
+      "precio": 74725.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 900.0,
+      "precio": 900.01,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7820.0,
+      "precio": 7700.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7363.2
@@ -226,7 +226,7 @@
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 226.8,
+      "precio": 224.84,
       "anterior": 200.99,
       "alto52": 227.0,
       "bajo52": 110.68
@@ -286,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 100.79,
+      "precio": 100.24,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -298,31 +298,31 @@
       "bajo52": 199.03
     },
     "INVERCAP": {
-      "precio": 1589.7,
+      "precio": 1589.3,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1478.9
     },
     "BICE": {
-      "precio": 401.99,
+      "precio": 402.0,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 289.01
     },
     "HABITAT": {
-      "precio": 1400.0,
+      "precio": 1420.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1109.0
     },
     "CFMITNIPSA": {
-      "precio": 5321.0,
+      "precio": 5300.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2112.0,
+      "precio": 2100.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Sitios de apuestas online burlan bloqueo de Subtel con \"páginas espejo\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/corte-suprema/sitios-de-apuestas-online-burlan-bloqueo-de-subtel-con-paginas-espejo/2026-09-03/133241.html",
+      "fecha": "Thu, 03 Sep 2026",
+      "fechaISO": "2026-09-03T17:32:41+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Operadores proyectan alza del IPC en agosto",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/operadores-proyectan-alza-del-ipc-en-agosto/2026-09-03/115507.html",
       "fecha": "Thu, 03 Sep 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-09-03T12:41:42+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Fin de los multifondos: Afiliados serán traspasados automáticamente en abril",
-      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/fin-de-los-multifondos-afiliados-seran-traspasados-automaticamente-en/2026-09-03/084511.html",
+      "fuente": "Diario Financiero",
+      "texto": "Reinaldo Sánchez y su familia preparan la venta de Santiago Wanderers y se abren a recibir ofertas por el club",
+      "link": "http://www.df.cl/empresas/reinaldo-sanchez-y-su-familia-preparan-la-venta-de-santiago-wanderers-y-se",
       "fecha": "Thu, 03 Sep 2026",
-      "fechaISO": "2026-09-03T12:45:11+00:00"
+      "fechaISO": "2026-09-03T19:25:20+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cotiza a la baja mientras la divisa recibe un fuerte golpe a nivel externo por una ola de compras sobre el yen japonés",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-rkmbt",
+      "texto": "Albemarle activa la grúa y contrata a alto ejecutivo de BHP con paso por Chile como CEO de la compañía",
+      "link": "http://www.df.cl/empresas/mineria/albemarle-activa-la-grua-y-contrata-a-alto-ejecutivo-de-bhp-con-paso-por",
       "fecha": "Thu, 03 Sep 2026",
-      "fechaISO": "2026-09-03T16:39:48+00:00"
+      "fechaISO": "2026-09-03T19:19:26+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IVA a la vivienda, repatriación de capitales e invariabilidad tributaria: ¿cuándo entran en vigencia las principales normas de la ley de reconstrucción con su promulgación en septiembre?",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/iva-a-la-vivienda-repatriacion-de-capitales-e-invariabilidad-tributaria",
+      "texto": "MOP pide nuevas obras a AVO II y vuelve a postergar puesta en marcha del tramo Príncipe de Gales-Los Presidentes",
+      "link": "http://www.df.cl/empresas/construccion/mop-extiende-plazo-de-autopista-vespucio-oriente-entre-principe-de-gales-y",
       "fecha": "Thu, 03 Sep 2026",
-      "fechaISO": "2026-09-03T15:55:44+00:00"
+      "fechaISO": "2026-09-03T19:10:45+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "La Araucana recauda US$ 87 millones para refinanciamiento y créditos sociales gracias a su primer bono corporativo en 12 años",
-      "link": "http://www.df.cl/mercados/renta-fija/la-araucana-recauda-us-87-millones-para-refinanciamiento-y-creditos",
+      "texto": "US$ 2.370 millones en carpeta: dónde se ubicarán los data centers de Amazon, Google y Microsoft que Santiago espera hasta 2031",
+      "link": "http://www.df.cl/empresas/telecom-tecnologia/us-2-370-millones-en-carpeta-donde-se-ubicaran-los-proyectos-de-data",
       "fecha": "Thu, 03 Sep 2026",
-      "fechaISO": "2026-09-03T16:13:02+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Exinversionista tras Construmart presenta querella por estafa y apunta a actuación de Gabriel Ruiz-Tagle",
-      "link": "http://www.df.cl/empresas/construccion/exinversionista-tras-construmart-presenta-querella-por-estafa-y-apunta-a",
-      "fecha": "Thu, 03 Sep 2026",
-      "fechaISO": "2026-09-03T16:36:26+00:00"
+      "fechaISO": "2026-09-03T19:07:11+00:00"
     }
   ]
 }
