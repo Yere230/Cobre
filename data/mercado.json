@@ -1,196 +1,196 @@
 {
-  "actualizado": "2026-09-03T22:40:00.472967+00:00",
+  "actualizado": "2026-09-04T16:38:11.831423+00:00",
   "macro": {
-    "dolar": 936.3,
-    "uf": 40877.73,
+    "dolar": 933.5,
+    "uf": 40879.04,
     "utm": 71721,
-    "cobre": 6.53,
+    "cobre": 6.49,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 328.0,
+      "precio": 327.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 198.51,
+      "precio": 198.81,
       "anterior": 188.5,
-      "alto52": 200.7,
+      "alto52": 200.68,
       "bajo52": 140.65
     },
     "BCI": {
-      "precio": 67800.0,
+      "precio": 67525.0,
       "anterior": 62502.0,
-      "alto52": 68316.0,
+      "alto52": 68000.0,
       "bajo52": 41376.0
     },
     "ITAUCL": {
-      "precio": 23500.0,
+      "precio": 23305.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 14222.0
     },
     "BSANTANDER": {
-      "precio": 83.04,
+      "precio": 83.85,
       "anterior": 77.0,
-      "alto52": 84.4,
-      "bajo52": 59.57
+      "alto52": 84.2,
+      "bajo52": 60.54
     },
     "CAP": {
-      "precio": 5674.2,
+      "precio": 5635.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2019.0,
+      "precio": 2027.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2492.4,
+      "precio": 2483.2,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 146.5,
+      "precio": 146.01,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5575.0,
+      "precio": 5530.6,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.67,
+      "precio": 49.11,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4630.0,
+      "precio": 4625.4,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3823.0,
+      "precio": 3812.2,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3220.1
     },
     "CMPC": {
-      "precio": 1042.0,
+      "precio": 1033.8,
       "anterior": 1070.0,
       "alto52": 1560.1,
       "bajo52": 1015.0
     },
     "COPEC": {
-      "precio": 6729.9,
+      "precio": 6749.7,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 85.25,
+      "precio": 84.52,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.7,
+      "precio": 81.45,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1979.0,
+      "precio": 1974.9,
       "anterior": 1807.0,
-      "alto52": 1996.5,
+      "alto52": 1990.3,
       "bajo52": 1257.1
     },
     "FALABELLA": {
-      "precio": 6390.0,
+      "precio": 6338.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 920.06,
+      "precio": 909.0,
       "anterior": 921.89,
       "alto52": 1150.0,
-      "bajo52": 848.0
+      "bajo52": 856.03
     },
     "ILC": {
-      "precio": 24550.0,
+      "precio": 24428.0,
       "anterior": 21450.0,
-      "alto52": 24771.0,
+      "alto52": 24700.0,
       "bajo52": 12750.0
     },
     "LTM": {
-      "precio": 24.2,
+      "precio": 24.51,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3920.1,
+      "precio": 3924.2,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3985.0,
+      "precio": 4009.3,
       "anterior": 3950.0,
       "alto52": 4700.0,
-      "bajo52": 2350.0
+      "bajo52": 2410.3
     },
     "QUINENCO": {
-      "precio": 4500.0,
+      "precio": 4506.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 420.0,
+      "precio": 412.88,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1240.6,
+      "precio": 1235.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 122.02,
+      "precio": 121.12,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 121.9
+      "bajo52": 121.01
     },
     "SQM-B": {
-      "precio": 74300.0,
+      "precio": 72400.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 914.97,
+      "precio": 900.68,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7699.9,
+      "precio": 7699.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7363.2
@@ -202,7 +202,7 @@
       "bajo52": 21.0
     },
     "CAMANCHACA": {
-      "precio": 68.07,
+      "precio": 70.2,
       "anterior": 76.49,
       "alto52": 96.88,
       "bajo52": 54.59
@@ -220,25 +220,25 @@
       "bajo52": 1827.0
     },
     "HITES": {
-      "precio": 133.0,
+      "precio": 131.2,
       "anterior": 132.09,
       "alto52": 146.09,
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 224.84,
+      "precio": 223.0,
       "anterior": 200.99,
       "alto52": 227.0,
       "bajo52": 110.68
     },
     "MASISA": {
-      "precio": 8.02,
+      "precio": 8.0,
       "anterior": 8.68,
       "alto52": 20.04,
-      "bajo52": 8.0
+      "bajo52": 7.8
     },
     "PAZ": {
-      "precio": 1017.4,
+      "precio": 1017.0,
       "anterior": 870.18,
       "alto52": 1017.0,
       "bajo52": 636.37
@@ -247,7 +247,7 @@
       "precio": 162.0,
       "anterior": 141.0,
       "alto52": 185.29,
-      "bajo52": 100.77
+      "bajo52": 101.0
     },
     "SK": {
       "precio": 1657.0,
@@ -286,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 100.35,
+      "precio": 98.12,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -298,44 +298,44 @@
       "bajo52": 199.03
     },
     "INVERCAP": {
-      "precio": 1585.0,
+      "precio": 1581.7,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1478.9
+      "bajo52": 1519.3
     },
     "BICE": {
-      "precio": 402.08,
+      "precio": 405.96,
       "anterior": 375.23,
       "alto52": 450.0,
-      "bajo52": 289.01
+      "bajo52": 293.74
     },
     "HABITAT": {
-      "precio": 1435.0,
+      "precio": 1436.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
-      "bajo52": 1109.0
+      "bajo52": 1114.0
     },
     "CFMITNIPSA": {
-      "precio": 5304.5,
+      "precio": 5288.9,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2101.51,
+      "precio": 2111.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
     },
     "CFIBTGRCA": {
       "precio": 22670.0,
-      "anterior": 22700.0,
+      "anterior": 22699.88,
       "alto52": 28000.0,
       "bajo52": 21780.0
     },
     "CFIBTGRRA": {
       "precio": 7199.0,
-      "anterior": 7300.0,
+      "anterior": 7100.0,
       "alto52": 12472.8,
       "bajo52": 7100.0
     }
@@ -427,31 +427,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Comisión de RREE del Senado se reunió con el Presidente de Bolivia y su ministro de Seguridad",
-      "link": "http://www.df.cl/economia-y-politica/congreso/comision-de-rree-del-senado-se-reunio-con-el-presidente-de-bolivia-y-su",
-      "fecha": "Thu, 03 Sep 2026",
-      "fechaISO": "2026-09-03T22:24:36+00:00"
+      "texto": "Dólar borra alza inicial con apoyo del cobre en sesión marcada por sólido reporte de empleo en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-w4pat",
+      "fecha": "Fri, 04 Sep 2026",
+      "fechaISO": "2026-09-04T16:32:08+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Reforma al mercado de capitales incorporará licitaciones de seguros de desgravamen para créditos de consumo",
-      "link": "http://www.df.cl/mercados/banca-fintech/reforma-al-mercado-de-capitales-incorporara-licitaciones-de-seguros-de",
-      "fecha": "Thu, 03 Sep 2026",
-      "fechaISO": "2026-09-03T21:37:33+00:00"
+      "texto": "Pedro Pablo Vergara, tras reordenamiento de su estudio: “Ya no existe eso de ‘yo quiero al (abogado) estrella’. Hoy día hay un firmamento”",
+      "link": "http://www.df.cl/empresas/entre-codigos/pedro-pablo-vergara-tras-reordenamiento-de-su-estudio-ya-no-existe-eso",
+      "fecha": "Fri, 04 Sep 2026",
+      "fechaISO": "2026-09-04T15:22:37+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Contralora a terreno: el despliegue que alista Dorothy Pérez para los próximos meses",
-      "link": "http://www.df.cl/economia-y-politica/pais/contralora-a-terreno-el-despliegue-que-alista-dorothy-perez-para-los",
-      "fecha": "Thu, 03 Sep 2026",
-      "fechaISO": "2026-09-03T22:27:03+00:00"
+      "texto": "Ley de Delitos Económicos: penalistas analizan su impacto en las empresas a dos años de su entrada en vigencia",
+      "link": "http://www.df.cl/empresas/entre-codigos/ley-de-delitos-economicos-penalistas-analizan-su-impacto-en-las-empresas-a",
+      "fecha": "Fri, 04 Sep 2026",
+      "fechaISO": "2026-09-04T15:01:38+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA pierde sus máximos de siete meses y cierra bajo los 11.500 puntos mientras inversionistas saltan a mercados desarrollados",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-x6jds",
-      "fecha": "Thu, 03 Sep 2026",
-      "fechaISO": "2026-09-03T20:40:47+00:00"
+      "texto": "CDE pide anular parte del juicio oral y la sentencia que absolvió a Patricio Contesse y Pablo Longueira",
+      "link": "http://www.df.cl/empresas/actualidad/cde-pide-anular-parte-del-juicio-oral-y-la-sentencia-que-absolvio-a",
+      "fecha": "Fri, 04 Sep 2026",
+      "fechaISO": "2026-09-04T16:15:11+00:00"
     }
   ]
 }
