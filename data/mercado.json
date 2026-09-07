@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T20:24:26.630317+00:00",
+  "actualizado": "2026-09-07T22:54:12.381085+00:00",
   "macro": {
     "dolar": 934.4,
     "uf": 40883,
@@ -70,7 +70,7 @@
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 49.14,
+      "precio": 49.13,
       "anterior": 46.51,
       "alto52": 55.0,
       "bajo52": 42.0
@@ -82,7 +82,7 @@
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3850.0,
+      "precio": 3847.6,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3220.1
@@ -154,7 +154,7 @@
       "bajo52": 2410.3
     },
     "QUINENCO": {
-      "precio": 4564.0,
+      "precio": 4564.3,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
@@ -172,7 +172,7 @@
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 119.61,
+      "precio": 119.59,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 118.9
@@ -184,7 +184,7 @@
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 925.0,
+      "precio": 924.73,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
@@ -202,7 +202,7 @@
       "bajo52": 21.0
     },
     "CAMANCHACA": {
-      "precio": 75.06,
+      "precio": 72.76,
       "anterior": 76.49,
       "alto52": 96.88,
       "bajo52": 54.61
@@ -244,7 +244,7 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 156.5,
+      "precio": 156.21,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 101.0
@@ -256,7 +256,7 @@
       "bajo52": 1335.0
     },
     "SONDA": {
-      "precio": 320.0,
+      "precio": 316.44,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -304,25 +304,25 @@
       "bajo52": 1563.1
     },
     "BICE": {
-      "precio": 406.0,
+      "precio": 406.99,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 293.74
     },
     "HABITAT": {
-      "precio": 1431.0,
+      "precio": 1434.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1121.0
     },
     "CFMITNIPSA": {
-      "precio": 5286.0,
+      "precio": 5294.6,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2090.0,
+      "precio": 2100.03,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Programa busca conectar startups y municipios para resolver urgencias urbanas en Santiago",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/programa-busca-conectar-startups-y-municipios-para-resolver-urgencias/2026-09-07/163905.html",
+      "fecha": "Mon, 07 Sep 2026",
+      "fechaISO": "2026-09-07T19:39:05+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Gobierno proyecta Presupuesto 2027 con enfoque de \"crecimiento mínimo\"",
       "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/gobierno-proyecta-presupuesto-2027-con-enfoque-de-crecimiento-minimo/2026-09-07/144641.html",
       "fecha": "Mon, 07 Sep 2026",
@@ -419,11 +426,25 @@
       "fechaISO": "2026-09-07T15:19:01+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Kast vincula el \"desánimo\" ciudadano con el alto desempleo",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-vincula-el-desanimo-ciudadano-con-el-alto-desempleo/2026-09-07/102635.html",
+      "fuente": "Diario Financiero",
+      "texto": "Exportaciones de cobre caen por primera vez desde 2023 de la mano de bajas a China",
+      "link": "http://www.df.cl/economia-y-politica/macro/las-exportaciones-chilenas-crecieron-en-agosto-pero-los-envios-de-cobre",
       "fecha": "Mon, 07 Sep 2026",
-      "fechaISO": "2026-09-07T13:26:35+00:00"
+      "fechaISO": "2026-09-07T22:24:04+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Clínica Las Condes reduce pérdidas y asegura que transitan \"desde una etapa de estabilización hacia una de crecimiento rentable\"",
+      "link": "http://www.df.cl/empresas/salud/clinica-las-condes-reduce-perdidas-y-asegura-que-transitan-desde-una-etapa",
+      "fecha": "Mon, 07 Sep 2026",
+      "fechaISO": "2026-09-07T22:20:50+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Walmart realiza primer vuelo experimental para despachar compras con drones en la Región del Biobío",
+      "link": "http://www.df.cl/empresas/industria/walmart-inicia-plan-piloto-de-despacho-de-compras-con-drones-con-primer",
+      "fecha": "Mon, 07 Sep 2026",
+      "fechaISO": "2026-09-07T20:43:51+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -431,27 +452,6 @@
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-bda9u",
       "fecha": "Mon, 07 Sep 2026",
       "fechaISO": "2026-09-07T19:27:51+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra con leve alza pese a que el cobre tocó un récord tras nuevas hostilidades en aguas de Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-gd4mn",
-      "fecha": "Mon, 07 Sep 2026",
-      "fechaISO": "2026-09-07T19:12:59+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "¿Le sale competencia a Von Appen? La SNA postula al exministro Antonio Walker para la presidencia de la CPC",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/le-sale-competencia-a-von-appen-la-sna-postula-al-exministro-antonio",
-      "fecha": "Mon, 07 Sep 2026",
-      "fechaISO": "2026-09-07T18:16:34+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Patricio Rojas: “Quiroz se jugó todo a políticas de mediano plazo y descuidó el corto plazo”",
-      "link": "http://www.df.cl/economia-y-politica/macro/patricio-rojas-quiroz-se-jugo-todo-a-politicas-de-mediano-plazo-y",
-      "fecha": "Mon, 07 Sep 2026",
-      "fechaISO": "2026-09-07T18:16:23+00:00"
     }
   ]
 }
