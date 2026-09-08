@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T19:47:30.517692+00:00",
+  "actualizado": "2026-09-08T22:48:00.120735+00:00",
   "macro": {
     "dolar": 933.8,
     "uf": 40884.32,
@@ -40,7 +40,7 @@
       "bajo52": 60.98
     },
     "CAP": {
-      "precio": 5727.0,
+      "precio": 5746.8,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
@@ -124,7 +124,7 @@
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 910.01,
+      "precio": 912.75,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 870.0
@@ -244,7 +244,7 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 157.01,
+      "precio": 157.21,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 101.0
@@ -256,7 +256,7 @@
       "bajo52": 1335.0
     },
     "SONDA": {
-      "precio": 315.0,
+      "precio": 314.89,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -304,25 +304,25 @@
       "bajo52": 1573.6
     },
     "BICE": {
-      "precio": 408.0,
+      "precio": 407.71,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 293.74
     },
     "HABITAT": {
-      "precio": 1475.0,
+      "precio": 1476.9,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1135.0
     },
     "CFMITNIPSA": {
-      "precio": 5263.8,
+      "precio": 5263.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2060.0,
+      "precio": 2061.51,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
@@ -399,6 +399,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Por incertidumbre macroeconómica: Banco Central mantuvo tasa de interés en 4,5%",
+      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-incertidumbre-macroeconomica-banco-central-mantuvo-tasa-de-interes/2026-09-08/192434.html",
+      "fecha": "Tue, 08 Sep 2026",
+      "fechaISO": "2026-09-08T22:24:34+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Expo Mercado Público 2026 reunirá más de 100 mil proveedores y expertos internacionales",
+      "link": "https://www.cooperativa.cl/noticias/economia/expo-mercado-publico-2026-reunira-mas-de-100-mil-proveedores-y-expertos/2026-09-08/164555.html",
+      "fecha": "Tue, 08 Sep 2026",
+      "fechaISO": "2026-09-08T19:45:55+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "SII defendió cobro a apuestas online y proyectó recaudación inicial de US$100 millones",
       "link": "https://www.cooperativa.cl/noticias/pais/juegos-de-azar/sii-defendio-cobro-a-apuestas-online-y-proyecto-recaudacion-inicial-de/2026-09-08/155153.html",
       "fecha": "Tue, 08 Sep 2026",
@@ -412,46 +426,32 @@
       "fechaISO": "2026-09-08T12:51:56+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Supermercado prueba en Laja despacho de compras con drones",
-      "link": "https://www.cooperativa.cl/noticias/economia/retail/supermercados/supermercado-prueba-en-laja-despacho-de-compras-con-drones/2026-09-08/083202.html",
+      "fuente": "Diario Financiero",
+      "texto": "A preparar el bolsillo: el costo de la canasta dieciochera será mayor que el año pasado",
+      "link": "http://www.df.cl/economia-y-politica/macro/a-preparar-el-bolsillo-el-costo-de-la-canasta-dieciochera-sera-mayor-que",
       "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T11:32:02+00:00"
+      "fechaISO": "2026-09-08T22:07:26+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Inflación al alza: IPC de agosto llegó al 0,6%",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/inflacion/inflacion-al-alza-ipc-de-agosto-llego-al-0-6/2026-09-08/081204.html",
+      "fuente": "Diario Financiero",
+      "texto": "No habrá feriado XL por Fiestas Patrias: oposición acusa “boicot” del gobierno y del Partido Republicano a la iniciativa",
+      "link": "http://www.df.cl/economia-y-politica/congreso/oposicion-acusa-boicot-del-gobierno-y-del-partido-republicano-a-feriado",
       "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T11:12:04+00:00"
+      "fechaISO": "2026-09-08T22:07:43+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Banco Central vuelve a mantener la tasa y advierte que la economía podría mantener su debilidad por más tiempo de lo esperado",
+      "link": "http://www.df.cl/economia-y-politica/macro/banco-central-vuelve-a-mantener-la-tasa-y-apunta-a-una-incertidumbre-mayor",
+      "fecha": "Tue, 08 Sep 2026",
+      "fechaISO": "2026-09-08T21:56:29+00:00"
     },
     {
       "fuente": "Diario Financiero",
       "texto": "Bolsa chilena cierra la baja y mercado se vuelca hacia la UF tras datos de inflación que duplicaron las expectativas en agosto",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ykopd",
       "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T19:44:45+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra con caída de unos $ 10 en sesión marcada por el récord del cobre y una fuerte sorpresa inflacionaria en Chile",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-gyjta",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T19:11:23+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Quiroz pone paños fríos al alto IPC de agosto: \"Esperamos que esto se vaya revirtiendo, porque son factores puntuales principalmente derivados del tema climático”",
-      "link": "http://www.df.cl/economia-y-politica/macro/quiroz-pone-panos-frios-al-alto-ipc-de-agosto-y-espera-se-revierta-el",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T18:40:18+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Apuestas en línea: SII suma 39 plataformas para el pago de IVA mientras Subtel continúa con los bloqueos",
-      "link": "http://www.df.cl/empresas/telecom-tecnologia/apuestas-en-linea-sii-suma-39-plataformas-para-el-pago-de-iva-mientras",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T18:19:08+00:00"
+      "fechaISO": "2026-09-08T21:46:33+00:00"
     }
   ]
 }
