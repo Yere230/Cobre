@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T19:38:49.099542+00:00",
+  "actualizado": "2026-09-09T22:38:59.995041+00:00",
   "macro": {
     "dolar": 926.9,
     "uf": 40885.63,
@@ -10,49 +10,49 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 325.09,
+      "precio": 329.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 195.5,
+      "precio": 196.48,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 140.65
     },
     "BCI": {
-      "precio": 65800.0,
+      "precio": 65100.0,
       "anterior": 62502.0,
       "alto52": 67600.0,
       "bajo52": 41513.0
     },
     "ITAUCL": {
-      "precio": 23478.0,
+      "precio": 23690.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 14222.0
     },
     "BSANTANDER": {
-      "precio": 81.7,
+      "precio": 81.85,
       "anterior": 77.0,
       "alto52": 83.89,
       "bajo52": 60.98
     },
     "CAP": {
-      "precio": 5654.0,
+      "precio": 5655.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2038.8,
+      "precio": 2059.2,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2443.2,
+      "precio": 2459.8,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
@@ -64,145 +64,145 @@
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5530.2,
+      "precio": 5585.5,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 49.6,
+      "precio": 49.55,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4572.0,
+      "precio": 4600.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3872.5,
+      "precio": 3859.2,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3220.1
     },
     "CMPC": {
-      "precio": 1014.5,
+      "precio": 1014.0,
       "anterior": 1070.0,
       "alto52": 1517.3,
       "bajo52": 1012.0
     },
     "COPEC": {
-      "precio": 6767.3,
+      "precio": 6781.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 83.99,
+      "precio": 84.0,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.49,
+      "precio": 82.5,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1955.0,
+      "precio": 1964.0,
       "anterior": 1807.0,
       "alto52": 1970.0,
       "bajo52": 1266.0
     },
     "FALABELLA": {
-      "precio": 6311.1,
+      "precio": 6400.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 912.75,
+      "precio": 917.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 875.0
     },
     "ILC": {
-      "precio": 23900.0,
+      "precio": 24199.0,
       "anterior": 21450.0,
       "alto52": 24499.0,
       "bajo52": 12750.0
     },
     "LTM": {
-      "precio": 24.29,
+      "precio": 24.26,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3852.0,
+      "precio": 3894.9,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3974.7,
+      "precio": 3990.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2410.3
     },
     "QUINENCO": {
-      "precio": 4744.0,
+      "precio": 4791.4,
       "anterior": 4279.0,
-      "alto52": 4771.8,
+      "alto52": 4791.4,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 419.0,
+      "precio": 420.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1258.0,
+      "precio": 1255.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 119.25,
+      "precio": 120.35,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 118.72
     },
     "SQM-B": {
-      "precio": 69900.0,
+      "precio": 70000.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 944.0,
+      "precio": 944.21,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7640.0,
+      "precio": 7638.2,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7363.2
     },
     "ALMENDRAL": {
-      "precio": 24.9,
+      "precio": 24.93,
       "anterior": 26.29,
       "alto52": 34.0,
       "bajo52": 21.0
     },
     "CAMANCHACA": {
-      "precio": 82.0,
+      "precio": 81.97,
       "anterior": 76.49,
       "alto52": 96.88,
       "bajo52": 56.81
@@ -244,7 +244,7 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 163.99,
+      "precio": 163.57,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 101.0
@@ -256,7 +256,7 @@
       "bajo52": 1346.0
     },
     "SONDA": {
-      "precio": 308.0,
+      "precio": 308.76,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -286,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 97.94,
+      "precio": 97.12,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -304,25 +304,25 @@
       "bajo52": 1579.2
     },
     "BICE": {
-      "precio": 420.1,
+      "precio": 420.9,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 293.74
     },
     "HABITAT": {
-      "precio": 1470.0,
+      "precio": 1463.7,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1138.0
     },
     "CFMITNIPSA": {
-      "precio": 5235.0,
+      "precio": 5236.3,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2027.0,
+      "precio": 2027.1,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
@@ -427,31 +427,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena vuelve a caer y el IPSA cierra bajo los 11.400 puntos por ventas globales mientras el Brent supera los US$ 100 el barril",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-yf4sb",
+      "texto": "A un paso: directorio de la banca se inclinaría por Félix de Vicente como candidato para entrar oficialmente a la carrera por la CPC",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/a-un-paso-directorio-de-la-banca-se-inclinaria-por-felix-de-vicente-como",
       "fecha": "Wed, 09 Sep 2026",
-      "fechaISO": "2026-09-09T19:33:56+00:00"
+      "fechaISO": "2026-09-09T22:02:50+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Empresarios valoran reforma al mercado de capitales y destacan las medidas para facilitar acceso a la vivienda",
-      "link": "http://www.df.cl/mercados/mercados-en-accion/empresarios-valoran-reforma-al-mercado-de-capitales-y-destacan-las-medidas",
+      "texto": "CChC celebra el MK4: \"Valoramos que el ahorro vuelva a ocupar un rol central en las políticas públicas habitacionales\"",
+      "link": "http://www.df.cl/empresas/construccion/cchc-celebra-el-mk4-valoramos-que-el-ahorro-vuelva-a-ocupar-un-rol",
       "fecha": "Wed, 09 Sep 2026",
-      "fechaISO": "2026-09-09T19:25:35+00:00"
+      "fechaISO": "2026-09-09T21:28:25+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra al alza cerca de $ 930 mientras el petróleo Brent supera los US$ 100 por la guerra naval en el estrecho de Ormuz",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-um5rm",
+      "texto": "FNE asegura que condiciones de licitaciones para casinos de juego se ajustan a la libre competencia",
+      "link": "http://www.df.cl/empresas/industria/fne-asegura-ante-el-tdlc-que-condiciones-de-licitaciones-para-casinos-de",
       "fecha": "Wed, 09 Sep 2026",
-      "fechaISO": "2026-09-09T19:32:56+00:00"
+      "fechaISO": "2026-09-09T21:23:56+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Reforma al mercado de capitales: Hacienda calcula que agregará casi un punto adicional al nivel de PIB en la próxima década",
-      "link": "http://www.df.cl/economia-y-politica/macro/reforma-al-mercado-de-capitales-hacienda-calcula-que-agregara-casi-un",
+      "texto": "Otra de Cencosud: lanza proyecto de centro comercial vecinal en Algarrobo por US$ 28 millones",
+      "link": "http://www.df.cl/empresas/construccion/otra-de-cencosud-lanza-proyecto-de-centro-comercial-vecinal-en-algarrobo",
       "fecha": "Wed, 09 Sep 2026",
-      "fechaISO": "2026-09-09T19:23:47+00:00"
+      "fechaISO": "2026-09-09T20:30:07+00:00"
     }
   ]
 }
