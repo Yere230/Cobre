@@ -1,124 +1,124 @@
 {
-  "actualizado": "2026-09-08T22:48:00.120735+00:00",
+  "actualizado": "2026-09-09T16:55:28.182684+00:00",
   "macro": {
-    "dolar": 933.8,
-    "uf": 40884.32,
+    "dolar": 926.9,
+    "uf": 40885.63,
     "utm": 71721,
-    "cobre": 6.57,
+    "cobre": 6.62,
     "ipsa": 10887.72,
     "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 328.0,
+      "precio": 325.74,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 197.0,
+      "precio": 195.2,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 140.65
     },
     "BCI": {
-      "precio": 66575.0,
+      "precio": 65699.0,
       "anterior": 62502.0,
-      "alto52": 67499.0,
+      "alto52": 67600.0,
       "bajo52": 41513.0
     },
     "ITAUCL": {
-      "precio": 23400.0,
+      "precio": 23450.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 14222.0
     },
     "BSANTANDER": {
-      "precio": 82.58,
+      "precio": 81.59,
       "anterior": 77.0,
-      "alto52": 83.57,
+      "alto52": 83.89,
       "bajo52": 60.98
     },
     "CAP": {
-      "precio": 5746.8,
+      "precio": 5660.4,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2030.0,
+      "precio": 2014.1,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2470.1,
+      "precio": 2450.3,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 146.0,
+      "precio": 145.56,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5650.0,
+      "precio": 5580.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 49.95,
+      "precio": 49.4,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4610.0,
+      "precio": 4577.7,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3810.0,
+      "precio": 3841.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3220.1
     },
     "CMPC": {
-      "precio": 1025.0,
+      "precio": 1014.3,
       "anterior": 1070.0,
-      "alto52": 1522.9,
+      "alto52": 1517.3,
       "bajo52": 1013.0
     },
     "COPEC": {
-      "precio": 6850.0,
+      "precio": 6750.7,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 83.8,
+      "precio": 84.01,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.0,
+      "precio": 82.43,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1979.0,
+      "precio": 1955.0,
       "anterior": 1807.0,
-      "alto52": 1985.0,
-      "bajo52": 1263.1
+      "alto52": 1970.0,
+      "bajo52": 1266.0
     },
     "FALABELLA": {
-      "precio": 6430.0,
+      "precio": 6396.2,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
@@ -127,34 +127,34 @@
       "precio": 912.75,
       "anterior": 921.89,
       "alto52": 1150.0,
-      "bajo52": 870.0
+      "bajo52": 875.0
     },
     "ILC": {
-      "precio": 24500.0,
+      "precio": 23800.0,
       "anterior": 21450.0,
-      "alto52": 24700.0,
+      "alto52": 24499.0,
       "bajo52": 12750.0
     },
     "LTM": {
-      "precio": 24.48,
+      "precio": 24.07,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3929.9,
+      "precio": 3850.1,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 4035.0,
+      "precio": 3990.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2410.3
     },
     "QUINENCO": {
-      "precio": 4625.0,
+      "precio": 4613.4,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
@@ -166,58 +166,58 @@
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1242.0,
+      "precio": 1255.9,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 120.95,
+      "precio": 118.78,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 117.52
+      "bajo52": 118.78
     },
     "SQM-B": {
-      "precio": 70060.0,
+      "precio": 69896.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 935.0,
+      "precio": 934.98,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7600.0,
+      "precio": 7637.6,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7363.2
     },
     "ALMENDRAL": {
-      "precio": 25.49,
+      "precio": 24.9,
       "anterior": 26.29,
       "alto52": 34.0,
       "bajo52": 21.0
     },
     "CAMANCHACA": {
-      "precio": 75.5,
+      "precio": 80.0,
       "anterior": 76.49,
       "alto52": 96.88,
-      "bajo52": 56.0
+      "bajo52": 56.81
     },
     "ENAEX": {
-      "precio": 25030.0,
+      "precio": 25211.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
       "bajo52": 20380.0
     },
     "FORUS": {
-      "precio": 1827.0,
+      "precio": 1775.0,
       "anterior": 1983.4,
       "alto52": 2510.0,
-      "bajo52": 1827.0
+      "bajo52": 1775.0
     },
     "HITES": {
       "precio": 133.0,
@@ -226,25 +226,25 @@
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 222.13,
+      "precio": 222.0,
       "anterior": 200.99,
       "alto52": 227.0,
       "bajo52": 110.68
     },
     "MASISA": {
-      "precio": 7.8,
+      "precio": 7.73,
       "anterior": 8.68,
       "alto52": 20.04,
-      "bajo52": 7.8
+      "bajo52": 7.73
     },
     "PAZ": {
-      "precio": 1019.0,
+      "precio": 1044.9,
       "anterior": 870.18,
-      "alto52": 1020.0,
+      "alto52": 1044.9,
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 157.21,
+      "precio": 160.29,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 101.0
@@ -253,19 +253,19 @@
       "precio": 1659.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
-      "bajo52": 1335.0
+      "bajo52": 1346.0
     },
     "SONDA": {
-      "precio": 314.89,
+      "precio": 315.0,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1669.0,
+      "precio": 1653.0,
       "anterior": 1570.0,
       "alto52": 1745.0,
-      "bajo52": 1300.1
+      "bajo52": 1321.1
     },
     "CRISTALES": {
       "precio": 2000.0,
@@ -274,7 +274,7 @@
       "bajo52": 2000.0
     },
     "WATTS": {
-      "precio": 688.0,
+      "precio": 690.0,
       "anterior": 730.0,
       "alto52": 820.0,
       "bajo52": 650.4
@@ -286,50 +286,50 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 97.25,
+      "precio": 96.6,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
     },
     "BLUMAR": {
-      "precio": 278.0,
+      "precio": 291.0,
       "anterior": 275.05,
       "alto52": 369.0,
       "bajo52": 199.03
     },
     "INVERCAP": {
-      "precio": 1581.5,
+      "precio": 1583.0,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1573.6
+      "bajo52": 1583.0
     },
     "BICE": {
-      "precio": 407.71,
+      "precio": 416.6,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 293.74
     },
     "HABITAT": {
-      "precio": 1476.9,
+      "precio": 1455.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
-      "bajo52": 1135.0
+      "bajo52": 1138.0
     },
     "CFMITNIPSA": {
-      "precio": 5263.0,
+      "precio": 5218.5,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2061.51,
+      "precio": 2026.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
     },
     "CFIBTGRCA": {
       "precio": 22015.0,
-      "anterior": 22600.0,
+      "anterior": 22100.0,
       "alto52": 28000.0,
       "bajo52": 21780.0
     },
@@ -371,6 +371,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Por segunda vez, el \"tío WOM\" sale de la dirección de la telefónica",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/tecnologia/por-segunda-vez-el-tio-wom-sale-de-la-direccion-de-la-telefonica/2026-09-09/132057.html",
+      "fecha": "Wed, 09 Sep 2026",
+      "fechaISO": "2026-09-09T16:20:57+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "El 81% de los hubs municipales depende de las universidades para innovar",
       "link": "https://www.cooperativa.cl/noticias/economia/empresas/el-81-de-los-hubs-municipales-depende-de-las-universidades-para-innovar/2026-09-03/164146.html",
       "fecha": "Thu, 03 Sep 2026",
@@ -391,67 +398,60 @@
       "fechaISO": "2026-08-31T11:53:39+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Tras fallo TC, Hacienda alista ajustes para estrenar la nueva invariabilidad tributaria en 2027",
-      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/tras-fallo-tc-hacienda-alista-ajustes-para-estrenar-la-nueva/2026-08-30/110323.html",
-      "fecha": "Sun, 30 Aug 2026",
-      "fechaISO": "2026-08-30T15:03:23+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Por segunda vez, el \"tío WOM\" sale de la dirección de la telefónica",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/tecnologia/por-segunda-vez-el-tio-wom-sale-de-la-direccion-de-la-telefonica/2026-09-09/132057.html",
+      "fecha": "Wed, 09 Sep 2026",
+      "fechaISO": "2026-09-09T16:20:57+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Por incertidumbre macroeconómica: Banco Central mantuvo tasa de interés en 4,5%",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-incertidumbre-macroeconomica-banco-central-mantuvo-tasa-de-interes/2026-09-08/192434.html",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T22:24:34+00:00"
+      "texto": "Diputado republicano: No vamos a tener una baja en el desempleo hasta el próximo año",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/diputado-republicano-no-vamos-a-tener-una-baja-en-el-desempleo-hasta-el/2026-09-09/115910.html",
+      "fecha": "Wed, 09 Sep 2026",
+      "fechaISO": "2026-09-09T14:59:10+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Expo Mercado Público 2026 reunirá más de 100 mil proveedores y expertos internacionales",
-      "link": "https://www.cooperativa.cl/noticias/economia/expo-mercado-publico-2026-reunira-mas-de-100-mil-proveedores-y-expertos/2026-09-08/164555.html",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T19:45:55+00:00"
+      "texto": "Banco Central recortó con fuerza la proyección de crecimiento para 2026",
+      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/banco-central-recorto-con-fuerza-la-proyeccion-de-crecimiento-para-2026/2026-09-09/100202.html",
+      "fecha": "Wed, 09 Sep 2026",
+      "fechaISO": "2026-09-09T13:02:02+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "SII defendió cobro a apuestas online y proyectó recaudación inicial de US$100 millones",
-      "link": "https://www.cooperativa.cl/noticias/pais/juegos-de-azar/sii-defendio-cobro-a-apuestas-online-y-proyecto-recaudacion-inicial-de/2026-09-08/155153.html",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T18:51:53+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Brasil: Juez de la Suprema suspendió al director de la Policía por supuesto espionaje en su contra",
-      "link": "https://www.cooperativa.cl/noticias/mundo/brasil/corrupcion/brasil-juez-de-la-suprema-suspendio-al-director-de-la-policia-por/2026-09-08/095156.html",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T12:51:56+00:00"
+      "texto": "Economista descarta que subsidios solucionen crisis laboral: \"Necesitamos crecer\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/economista-descarta-que-subsidios-solucionen-crisis-laboral/2026-09-09/091607.html",
+      "fecha": "Wed, 09 Sep 2026",
+      "fechaISO": "2026-09-09T12:16:07+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "A preparar el bolsillo: el costo de la canasta dieciochera será mayor que el año pasado",
-      "link": "http://www.df.cl/economia-y-politica/macro/a-preparar-el-bolsillo-el-costo-de-la-canasta-dieciochera-sera-mayor-que",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T22:07:26+00:00"
+      "texto": "IPSA cae a niveles de 11.300 puntos en medio de ventas globales a medida que el petróleo Brent supera los US$ 100 por barril",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-yf4sb",
+      "fecha": "Wed, 09 Sep 2026",
+      "fechaISO": "2026-09-09T16:41:33+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "No habrá feriado XL por Fiestas Patrias: oposición acusa “boicot” del gobierno y del Partido Republicano a la iniciativa",
-      "link": "http://www.df.cl/economia-y-politica/congreso/oposicion-acusa-boicot-del-gobierno-y-del-partido-republicano-a-feriado",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T22:07:43+00:00"
+      "texto": "Clínica Indisa levanta más de US$ 40 millones con la primera colocación de bonos de su historia",
+      "link": "http://www.df.cl/mercados/renta-fija/clinica-indisa-levanta-mas-de-us-40-millones-con-la-primera-colocacion-de",
+      "fecha": "Wed, 09 Sep 2026",
+      "fechaISO": "2026-09-09T16:51:30+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Banco Central vuelve a mantener la tasa y advierte que la economía podría mantener su debilidad por más tiempo de lo esperado",
-      "link": "http://www.df.cl/economia-y-politica/macro/banco-central-vuelve-a-mantener-la-tasa-y-apunta-a-una-incertidumbre-mayor",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T21:56:29+00:00"
+      "texto": "Guillermo Tagle sobre MK4: \"Puede ser un salto al futuro realmente muy significativo\"",
+      "link": "http://www.df.cl/mercados/guillermo-tagle-sobre-mk4-puede-ser-un-salto-al-futuro-realmente-muy",
+      "fecha": "Wed, 09 Sep 2026",
+      "fechaISO": "2026-09-09T16:52:58+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena cierra la baja y mercado se vuelca hacia la UF tras datos de inflación que duplicaron las expectativas en agosto",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ykopd",
-      "fecha": "Tue, 08 Sep 2026",
-      "fechaISO": "2026-09-08T21:46:33+00:00"
+      "texto": "LIV Golf solicita la bancarrota, pero prepara un cambio total en su propiedad",
+      "link": "http://www.df.cl/empresas/multinacionales/liv-golf-solicita-la-bancarrota-pero-prepara-un-cambio-total-en-su",
+      "fecha": "Wed, 09 Sep 2026",
+      "fechaISO": "2026-09-09T16:28:27+00:00"
     }
   ]
 }
