@@ -1,56 +1,58 @@
 {
-  "actualizado": "2026-09-11T19:30:07.903293+00:00",
+  "actualizado": "2026-09-11T22:40:57.256956+00:00",
   "macro": {
     "dolar": 937.2,
     "uf": 40901.94,
     "utm": 71721,
-    "cobre": 6.72
+    "cobre": 6.72,
+    "ipsa": 10887.72,
+    "ipsaChg": -0.55
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 332.63,
+      "precio": 332.75,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 196.22,
+      "precio": 196.3,
       "anterior": 188.5,
       "alto52": 200.68,
       "bajo52": 140.65
     },
     "BCI": {
-      "precio": 66000.0,
+      "precio": 66490.0,
       "anterior": 62502.0,
       "alto52": 66985.0,
       "bajo52": 41513.0
     },
     "ITAUCL": {
-      "precio": 23435.0,
+      "precio": 23436.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 14374.0
     },
     "BSANTANDER": {
-      "precio": 82.5,
+      "precio": 82.55,
       "anterior": 77.0,
       "alto52": 83.3,
       "bajo52": 60.98
     },
     "CAP": {
-      "precio": 5568.6,
+      "precio": 5590.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2038.0,
+      "precio": 2039.5,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2390.0,
+      "precio": 2394.9,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
@@ -62,61 +64,61 @@
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5480.1,
+      "precio": 5480.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.5,
+      "precio": 49.53,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4699.9,
+      "precio": 4655.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3850.2,
+      "precio": 3852.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3285.1
     },
     "CMPC": {
-      "precio": 1010.5,
+      "precio": 1010.9,
       "anterior": 1070.0,
       "alto52": 1514.0,
       "bajo52": 1006.0
     },
     "COPEC": {
-      "precio": 6670.2,
+      "precio": 6590.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 84.87,
+      "precio": 85.0,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.5,
+      "precio": 81.35,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1880.0,
+      "precio": 1855.5,
       "anterior": 1807.0,
       "alto52": 1915.7,
       "bajo52": 1266.0
     },
     "FALABELLA": {
-      "precio": 6398.8,
+      "precio": 6350.0,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
@@ -128,7 +130,7 @@
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 23905.0,
+      "precio": 23999.0,
       "anterior": 21450.0,
       "alto52": 24138.0,
       "bajo52": 12750.0
@@ -140,31 +142,31 @@
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3765.1,
+      "precio": 3762.4,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3895.0,
+      "precio": 3850.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4631.0,
+      "precio": 4690.0,
       "anterior": 4279.0,
       "alto52": 4750.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 425.53,
+      "precio": 425.1,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1260.0,
+      "precio": 1254.7,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
@@ -176,13 +178,13 @@
       "bajo52": 117.99
     },
     "SQM-B": {
-      "precio": 66189.0,
+      "precio": 66299.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 948.0,
+      "precio": 949.0,
       "anterior": 852.33,
       "alto52": 1152.4,
       "bajo52": 815.0
@@ -230,7 +232,7 @@
       "bajo52": 110.68
     },
     "MASISA": {
-      "precio": 7.4,
+      "precio": 7.49,
       "anterior": 8.68,
       "alto52": 20.04,
       "bajo52": 7.4
@@ -242,19 +244,19 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 164.5,
+      "precio": 163.51,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 101.1
     },
     "SK": {
-      "precio": 1631.9,
+      "precio": 1633.9,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 301.0,
+      "precio": 301.01,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -284,7 +286,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 97.94,
+      "precio": 97.12,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -302,7 +304,7 @@
       "bajo52": 1580.8
     },
     "BICE": {
-      "precio": 418.42,
+      "precio": 420.13,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 293.74
@@ -314,19 +316,19 @@
       "bajo52": 1167.0
     },
     "CFMITNIPSA": {
-      "precio": 5197.2,
+      "precio": 5205.7,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2055.0,
+      "precio": 2058.71,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
     },
     "CFIBTGRCA": {
-      "precio": 22000.0,
+      "precio": 21999.69,
       "anterior": 22600.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
@@ -397,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Corfo abrió convocatoria para más de mil becas de especialización en áreas estratégicas",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/corfo-abrio-convocatoria-para-mas-de-mil-becas-de-especializacion-en/2026-09-11/165554.html",
+      "fecha": "Fri, 11 Sep 2026",
+      "fechaISO": "2026-09-11T19:55:54+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Eyzaguirre y dilema de Hacienda: \"Si corta el gasto, es echarle parafina al fuego; si no, amplía el déficit\"",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/eyzaguirre-y-dilema-de-hacienda-si-corta-el-gasto-es-echarle-parafina/2026-09-11/145055.html",
       "fecha": "Fri, 11 Sep 2026",
@@ -417,11 +426,18 @@
       "fechaISO": "2026-09-11T11:51:06+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "El BID invertirá 2.000 millones de dólares para dinamizar el sector vivienda en Chile",
-      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/el-bid-invertira-2-000-millones-de-dolares-para-dinamizar-el-sector/2026-09-10/225456.html",
-      "fecha": "Thu, 10 Sep 2026",
-      "fechaISO": "2026-09-11T01:54:56+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "IPSA cierra una séptima jornada de caídas tras datos de inflación que llevarían a la Fed a subir tasas la próxima semana",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-agres",
+      "fecha": "Fri, 11 Sep 2026",
+      "fechaISO": "2026-09-11T20:09:12+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "La Escuela de Gobierno de la UC tiene nuevo director: Eduardo Valenzuela reemplazará a Andrea Repetto",
+      "link": "http://www.df.cl/economia-y-politica/pais/la-escuela-de-gobierno-de-la-uc-tiene-nuevo-director-eduardo-valenzuela",
+      "fecha": "Fri, 11 Sep 2026",
+      "fechaISO": "2026-09-11T20:04:52+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -436,20 +452,6 @@
       "link": "http://www.df.cl/empresas/industria/ya-es-oficial-chile-abre-el-mercado-a-vinos-bajo-alcohol-desde-8-5-y",
       "fecha": "Fri, 11 Sep 2026",
       "fechaISO": "2026-09-11T18:52:39+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Chile pierde influencia, según especialistas, por retirarse de las negociaciones de la Convención Tributaria de la ONU",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/consenso-de-expertos-en-que-al-retirarse-del-convenio-tributario-de-la-onu",
-      "fecha": "Fri, 11 Sep 2026",
-      "fechaISO": "2026-09-11T15:20:11+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bancos, inmobiliarias y small caps: los ganadores de la bolsa que asoman con la MK4",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bancos-inmobiliarias-y-small-caps-los-ganadores-de-la-bolsa-que-asoman",
-      "fecha": "Fri, 11 Sep 2026",
-      "fechaISO": "2026-09-11T15:03:03+00:00"
     }
   ]
 }
