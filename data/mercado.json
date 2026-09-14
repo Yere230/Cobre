@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T20:50:06.813606+00:00",
+  "actualizado": "2026-09-14T23:14:15.183946+00:00",
   "macro": {
     "dolar": 940.9,
     "uf": 40926.41,
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Start-Up Chile enfrenta la brecha de género con financiamiento inclusivo y alista nueva convocatoria nacional",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/start-up-chile-enfrenta-la-brecha-de-genero-con-financiamiento-inclusivo/2026-09-14/175651.html",
+      "fecha": "Mon, 14 Sep 2026",
+      "fechaISO": "2026-09-14T20:56:51+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Presupuesto 2027: Quiroz cambia el \"más con menos\" por \"más con lo mismo\"",
       "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-quiroz-cambia-el-mas-con-menos-por-mas-con-lo-mismo/2026-09-14/140945.html",
       "fecha": "Mon, 14 Sep 2026",
@@ -419,39 +426,32 @@
       "fechaISO": "2026-09-14T03:55:42+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "EE.UU. sugirió a Chile una ley para prohibir productos ligados al trabajo forzado",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/ee-uu-sugirio-a-chile-una-ley-para-prohibir-productos-ligados-al/2026-09-13/105429.html",
-      "fecha": "Sun, 13 Sep 2026",
-      "fechaISO": "2026-09-13T13:54:29+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Cruzados ve dispararse sus ingresos, Blanco y Negro reduce ganancias y Azul Azul termina en números rojos",
+      "link": "http://www.df.cl/empresas/resultados-de-empresas/cruzados-ve-dispararse-sus-ingresos-blanco-y-negro-reduce-ganancias-y-azul",
+      "fecha": "Mon, 14 Sep 2026",
+      "fechaISO": "2026-09-14T21:33:13+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra al alza cerca de 11.300 puntos y quiebra una larga racha de caídas en medio de los bajos volúmenes transados de septiembre",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-tjcgo",
+      "texto": "Primer semestre de Chilevisión bajo control de Grupo Vytal: ejecuta reestructuración por $ 2.275 millones y revierte pérdida operacional",
+      "link": "http://www.df.cl/empresas/industria/primer-semestre-de-chilevision-bajo-control-de-grupo-vytal-ejecuta",
       "fecha": "Mon, 14 Sep 2026",
-      "fechaISO": "2026-09-14T19:31:02+00:00"
+      "fechaISO": "2026-09-14T23:07:41+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar despega a niveles de $ 960 y cierra en máximos desde octubre de 2025 con miras a la esperada subida de tasas en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mcvky",
+      "texto": "Coordinador Eléctrico refuerza ofensiva contra multa por el apagón y lanza dardos a la SEC",
+      "link": "http://www.df.cl/empresas/energia/coordinador-electrico-refuerza-ofensiva-contra-multa-por-el-apagon-con",
       "fecha": "Mon, 14 Sep 2026",
-      "fechaISO": "2026-09-14T19:08:48+00:00"
+      "fechaISO": "2026-09-14T21:53:17+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "LarrainVial ingresa en la propiedad de gestora de activos alternativos CIO Invest",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/larrainvial-ingresa-en-la-propiedad-de-gestora-de-activos-alternativos-cio",
+      "texto": "Comisión de Hacienda abordará propuesta de la economista Cecilia Cifuentes para el CFA la próxima semana",
+      "link": "http://www.df.cl/economia-y-politica/congreso/comision-de-hacienda-abordara-propuesta-de-la-economista-cecilia-cifuentes",
       "fecha": "Mon, 14 Sep 2026",
-      "fechaISO": "2026-09-14T19:19:33+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Corte de Apelaciones admite a trámite recurso de operadora de casinos online con sede en Curazao por bloqueo de sus sitios",
-      "link": "http://www.df.cl/empresas/industria/corte-de-apelaciones-admite-a-tramite-recurso-de-operadora-de-casinos",
-      "fecha": "Mon, 14 Sep 2026",
-      "fechaISO": "2026-09-14T18:31:16+00:00"
+      "fechaISO": "2026-09-14T22:14:58+00:00"
     }
   ]
 }
