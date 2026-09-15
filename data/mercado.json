@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T20:05:44.798225+00:00",
+  "actualizado": "2026-09-15T22:59:33.193500+00:00",
   "macro": {
     "ipsa": 10887.72,
     "ipsaChg": -0.55
@@ -186,7 +186,7 @@
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7580.0,
+      "precio": 7572.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7363.2
@@ -204,7 +204,7 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 24625.0,
+      "precio": 24589.0,
       "anterior": 24909.0,
       "alto52": 25465.0,
       "bajo52": 20380.0
@@ -258,7 +258,7 @@
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1680.0,
+      "precio": 1679.9,
       "anterior": 1570.0,
       "alto52": 1745.0,
       "bajo52": 1330.0
@@ -282,7 +282,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 97.94,
+      "precio": 97.12,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -306,19 +306,19 @@
       "bajo52": 296.8
     },
     "HABITAT": {
-      "precio": 1395.0,
+      "precio": 1396.4,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1172.7
     },
     "CFMITNIPSA": {
-      "precio": 5202.5,
+      "precio": 5206.9,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2120.0,
+      "precio": 2101.83,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
@@ -367,6 +367,20 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Emprendimiento chileno de productos para madres y guaguas llegó a EE.UU.",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/emprendimiento-chileno-de-productos-para-madres-y-guaguas-llego-a-ee-uu/2026-09-15/172212.html",
+      "fecha": "Tue, 15 Sep 2026",
+      "fechaISO": "2026-09-15T20:22:12+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
+      "texto": "Elon Musk propuso \"inmediato\" testeo mutuo de seguridad entre los gigantes de IA",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/elon-musk-propuso-inmediato-testeo-mutuo-de-seguridad-entre-los/2026-09-15/170604.html",
+      "fecha": "Tue, 15 Sep 2026",
+      "fechaISO": "2026-09-15T20:06:04+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Triunfo verde: Reciclaje avanzado transforma desecho contaminante en materia prima",
       "link": "https://www.cooperativa.cl/noticias/economia/empresas/triunfo-verde-reciclaje-avanzado-transforma-desecho-contaminante-en/2026-09-10/163332.html",
       "fecha": "Thu, 10 Sep 2026",
@@ -380,18 +394,18 @@
       "fechaISO": "2026-09-09T16:20:57+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "El 81% de los hubs municipales depende de las universidades para innovar",
-      "link": "https://www.cooperativa.cl/noticias/economia/empresas/el-81-de-los-hubs-municipales-depende-de-las-universidades-para-innovar/2026-09-03/164146.html",
-      "fecha": "Thu, 03 Sep 2026",
-      "fechaISO": "2026-09-03T20:41:46+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Emprendimiento chileno de productos para madres y guaguas llegó a EE.UU.",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/emprendimiento-chileno-de-productos-para-madres-y-guaguas-llego-a-ee-uu/2026-09-15/172212.html",
+      "fecha": "Tue, 15 Sep 2026",
+      "fechaISO": "2026-09-15T20:22:12+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Un avión de Latam se salió de la pista al aterrizar en Brasil",
-      "link": "https://www.cooperativa.cl/noticias/mundo/brasil/sucesos/un-avion-de-latam-se-salio-de-la-pista-al-aterrizar-en-brasil/2026-08-31/125953.html",
-      "fecha": "Mon, 31 Aug 2026",
-      "fechaISO": "2026-08-31T16:59:53+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Elon Musk propuso \"inmediato\" testeo mutuo de seguridad entre los gigantes de IA",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/elon-musk-propuso-inmediato-testeo-mutuo-de-seguridad-entre-los/2026-09-15/170604.html",
+      "fecha": "Tue, 15 Sep 2026",
+      "fechaISO": "2026-09-15T20:06:04+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -408,18 +422,25 @@
       "fechaISO": "2026-09-15T01:18:48+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Start-Up Chile enfrenta la brecha de género con financiamiento inclusivo y alista nueva convocatoria nacional",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/start-up-chile-enfrenta-la-brecha-de-genero-con-financiamiento-inclusivo/2026-09-14/175651.html",
-      "fecha": "Mon, 14 Sep 2026",
-      "fechaISO": "2026-09-14T20:56:51+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "TDLC rechaza por segunda vez la solicitud de Millicom para abrir consulta sobre de adición de prestaciones 5G a Entel",
+      "link": "http://www.df.cl/empresas/telecom-tecnologia/tdlc-rechaza-por-segunda-vez-la-solicitud-de-millicom-para-abrir-consulta",
+      "fecha": "Tue, 15 Sep 2026",
+      "fechaISO": "2026-09-15T22:22:23+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Presupuesto 2027: Quiroz cambia el \"más con menos\" por \"más con lo mismo\"",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-quiroz-cambia-el-mas-con-menos-por-mas-con-lo-mismo/2026-09-14/140945.html",
-      "fecha": "Mon, 14 Sep 2026",
-      "fechaISO": "2026-09-14T17:09:45+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Caso Audio-Factop: Fiscalía presenta acusación en contra de seis imputados con penas desde 10 años y un día hasta los 20 años",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/caso-audio-factop-fiscalia-presenta-acusacion-en-contra-de-seis-imputados",
+      "fecha": "Tue, 15 Sep 2026",
+      "fechaISO": "2026-09-15T22:09:16+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Max Luksic propone alianza entre municipalidades para mejorar atención primaria de salud: “Con el mismo presupuesto hemos hecho más”",
+      "link": "http://www.df.cl/empresas/salud/max-luksic-propone-alianza-entre-municipalidades-para-mejorar-atencion",
+      "fecha": "Tue, 15 Sep 2026",
+      "fechaISO": "2026-09-15T21:48:17+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -427,27 +448,6 @@
       "link": "http://www.df.cl/empresas/industria/latam-elige-a-un-ejecutivo-de-la-casa-para-tomar-relevo-en-vicepresidencia",
       "fecha": "Tue, 15 Sep 2026",
       "fechaISO": "2026-09-15T19:35:57+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena y Wall Street cierran a la baja después de que principal tasa soberana de EEUU alcanzara máximos de casi dos décadas",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ggw8e",
-      "fecha": "Tue, 15 Sep 2026",
-      "fechaISO": "2026-09-15T20:02:42+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "EFE mueve sus piezas y cambia de gerente general tras casi cuatro años",
-      "link": "http://www.df.cl/empresas/industria/efe-mueve-sus-piezas-y-cambia-de-gerente-general-tras-casi-cuatro-anos",
-      "fecha": "Tue, 15 Sep 2026",
-      "fechaISO": "2026-09-15T19:45:22+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Hacienda abre carrera para encontrar a un nuevo Superintendente de Casinos de Juego",
-      "link": "http://www.df.cl/empresas/industria/hacienda-abre-carrera-para-encontrar-a-un-nuevo-superintendente-de-casinos",
-      "fecha": "Tue, 15 Sep 2026",
-      "fechaISO": "2026-09-15T19:26:18+00:00"
     }
   ]
 }
