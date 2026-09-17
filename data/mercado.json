@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T17:20:00.325012+00:00",
+  "actualizado": "2026-09-17T20:06:08.325891+00:00",
   "macro": {
     "dolar": 954.9,
     "uf": 40950.9,
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Tras decisión de la Fed: Experto anticipa alza de la tasa de interés en Chile",
+      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
+      "fecha": "Thu, 17 Sep 2026",
+      "fechaISO": "2026-09-17T18:25:05+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Las grandes tecnológicas enfrían su salto a bolsa ante el debate sobre regular la IA",
       "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/las-grandes-tecnologicas-enfrian-su-salto-a-bolsa-ante-el-debate-sobre/2026-09-16/205101.html",
       "fecha": "Wed, 16 Sep 2026",
@@ -419,18 +426,11 @@
       "fechaISO": "2026-09-16T17:36:50+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Presupuesto 2027: Oficialismo apunta que proyecto debe ser focalizado en la creación de empleo",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/presupuesto-2027-oficialismo-apunta-que-proyecto-debe-ser-focalizado-en/2026-09-16/142135.html",
-      "fecha": "Wed, 16 Sep 2026",
-      "fechaISO": "2026-09-16T17:21:35+00:00"
-    },
-    {
       "fuente": "Diario Financiero",
-      "texto": "Dólar retiene sus máximos de 11 meses al inicio de la tarde tras el anuncio de tasas de la Fed que remeció a los mercados",
+      "texto": "Dólar cierra sobre la marca de $ 960 por primera vez en casi un año y termina una semana corta en Chile marcada por la Fed",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-b3oum",
       "fecha": "Thu, 17 Sep 2026",
-      "fechaISO": "2026-09-17T16:29:26+00:00"
+      "fechaISO": "2026-09-17T19:19:10+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -451,7 +451,7 @@
       "texto": "Grupo Angelini y SalfaCorp unen fuerzas para desarrollar residencias de adultos mayores y operación llega a la FNE",
       "link": "http://www.df.cl/empresas/retail/grupo-angelini-y-salfacorp-unen-fuerzas-para-desarrollar-residencias-de",
       "fecha": "Thu, 17 Sep 2026",
-      "fechaISO": "2026-09-17T14:20:09+00:00"
+      "fechaISO": "2026-09-17T17:56:18+00:00"
     }
   ]
 }
