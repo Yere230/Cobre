@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T16:46:14.851086+00:00",
+  "actualizado": "2026-09-18T19:29:26.785086+00:00",
   "macro": {
     "dolar": 954.9,
     "uf": 40959.07,
@@ -427,6 +427,13 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Sismo de magnitud 4.8 se registra en las cercanías de Farellones y es percibido en la RM",
+      "link": "http://www.df.cl/economia-y-politica/pais/sismo-de-magnitud-4-8-se-registra-en-las-cercanias-de-farellones-y-es",
+      "fecha": "Fri, 18 Sep 2026",
+      "fechaISO": "2026-09-18T17:10:28+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "El CEO de Nvidia asegura que la IA hará que electricistas y albañiles sean algunos de los empleos mejor pagados",
       "link": "http://www.df.cl/empresas/telecom-tecnologia/el-ceo-de-nvidia-asegura-que-la-ia-hara-que-electricistas-y-albaniles-sean",
       "fecha": "Fri, 18 Sep 2026",
@@ -445,13 +452,6 @@
       "link": "http://www.df.cl/economia-y-politica/pais/presidente-kast-recibe-en-la-moneda-al-embajador-de-eeuu-ad-portas-de",
       "fecha": "Thu, 17 Sep 2026",
       "fechaISO": "2026-09-17T21:21:40+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena sube con fuerza y el IPSA cierra próximo a 11.400 puntos en sesión corta por la víspera del 18 de septiembre",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-peanp",
-      "fecha": "Thu, 17 Sep 2026",
-      "fechaISO": "2026-09-17T20:09:35+00:00"
     }
   ]
 }
