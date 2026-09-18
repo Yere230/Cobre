@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-09-17T22:56:18.862548+00:00",
+  "actualizado": "2026-09-18T16:46:14.851086+00:00",
   "macro": {
     "dolar": 954.9,
-    "uf": 40950.9,
+    "uf": 40959.07,
     "utm": 71721,
     "cobre": 6.36,
     "ipsa": 10887.72,
@@ -399,6 +399,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Conaf prohibió quemas agrícolas y forestales este fin de semana en La Araucanía",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/conaf-prohibio-quemas-agricolas-y-forestales-este-fin-de-semana-en-la/2026-09-17/222444.html",
+      "fecha": "Thu, 17 Sep 2026",
+      "fechaISO": "2026-09-18T01:24:44+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Tras decisión de la Fed: Experto anticipa alza de la tasa de interés en Chile",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
       "fecha": "Thu, 17 Sep 2026",
@@ -419,11 +426,18 @@
       "fechaISO": "2026-09-16T23:46:16+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Chile Day: Quiroz apuntó a reactivar la economía y la aprobación de reforma al mercado de capitales",
-      "link": "https://www.cooperativa.cl/noticias/economia/chile-day-quiroz-apunto-a-reactivar-la-economia-y-la-aprobacion-de/2026-09-16/143650.html",
-      "fecha": "Wed, 16 Sep 2026",
-      "fechaISO": "2026-09-16T17:36:50+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "El CEO de Nvidia asegura que la IA hará que electricistas y albañiles sean algunos de los empleos mejor pagados",
+      "link": "http://www.df.cl/empresas/telecom-tecnologia/el-ceo-de-nvidia-asegura-que-la-ia-hara-que-electricistas-y-albaniles-sean",
+      "fecha": "Fri, 18 Sep 2026",
+      "fechaISO": "2026-09-18T16:09:18+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Singapore Airlines gana el premio a la mejor aerolínea: Qatar Airways le cede el primer puesto",
+      "link": "http://www.df.cl/empresas/multinacionales/singapore-airlines-gana-el-premio-a-la-mejor-aerolinea-qatar-airways-le",
+      "fecha": "Fri, 18 Sep 2026",
+      "fechaISO": "2026-09-18T13:42:20+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -438,20 +452,6 @@
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-peanp",
       "fecha": "Thu, 17 Sep 2026",
       "fechaISO": "2026-09-17T20:09:35+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra sobre la marca de $ 960 por primera vez en casi un año y termina una semana corta en Chile marcada por la Fed",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-b3oum",
-      "fecha": "Thu, 17 Sep 2026",
-      "fechaISO": "2026-09-17T19:19:10+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "La franquicia tributaria Sence entra a la revisión técnica: las propuestas para reactivarla",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/la-franquicia-tributaria-sence-entra-a-la-revision-tecnica-las-propuestas",
-      "fecha": "Thu, 17 Sep 2026",
-      "fechaISO": "2026-09-17T15:19:51+00:00"
     }
   ]
 }
