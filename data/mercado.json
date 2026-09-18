@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T19:29:26.785086+00:00",
+  "actualizado": "2026-09-18T22:41:29.122405+00:00",
   "macro": {
     "dolar": 954.9,
     "uf": 40959.07,
@@ -427,31 +427,31 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Fitch Ratings mantuvo calificación de riesgo de Chile en A- y prevé que deuda pública se situará bajo 43% del PIB en 2026",
+      "link": "http://www.df.cl/economia-y-politica/macro/fitch-ratings-mantuvo-calificacion-de-riesgo-de-chile-en-a-y-preve-que",
+      "fecha": "Fri, 18 Sep 2026",
+      "fechaISO": "2026-09-18T22:39:58+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Suiza On ficha a Mbappé y prepara sus primeros zapatos de fútbol",
+      "link": "http://www.df.cl/empresas/actualidad/suiza-on-ficha-a-mbappe-y-prepara-sus-primeros-zapatos-de-futbol",
+      "fecha": "Fri, 18 Sep 2026",
+      "fechaISO": "2026-09-18T22:08:06+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Lagarde deja abierta su salida anticipada del BCE: \"Ya veremos\"",
+      "link": "http://www.df.cl/mercados/banca-fintech/lagarde-deja-abierta-su-salida-anticipada-del-bce-ya-veremos",
+      "fecha": "Fri, 18 Sep 2026",
+      "fechaISO": "2026-09-18T21:55:02+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Sismo de magnitud 4.8 se registra en las cercanías de Farellones y es percibido en la RM",
       "link": "http://www.df.cl/economia-y-politica/pais/sismo-de-magnitud-4-8-se-registra-en-las-cercanias-de-farellones-y-es",
       "fecha": "Fri, 18 Sep 2026",
       "fechaISO": "2026-09-18T17:10:28+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "El CEO de Nvidia asegura que la IA hará que electricistas y albañiles sean algunos de los empleos mejor pagados",
-      "link": "http://www.df.cl/empresas/telecom-tecnologia/el-ceo-de-nvidia-asegura-que-la-ia-hara-que-electricistas-y-albaniles-sean",
-      "fecha": "Fri, 18 Sep 2026",
-      "fechaISO": "2026-09-18T16:09:18+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Singapore Airlines gana el premio a la mejor aerolínea: Qatar Airways le cede el primer puesto",
-      "link": "http://www.df.cl/empresas/multinacionales/singapore-airlines-gana-el-premio-a-la-mejor-aerolinea-qatar-airways-le",
-      "fecha": "Fri, 18 Sep 2026",
-      "fechaISO": "2026-09-18T13:42:20+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Presidente Kast recibe en La Moneda al embajador de EEUU ad portas de viajar a la ONU",
-      "link": "http://www.df.cl/economia-y-politica/pais/presidente-kast-recibe-en-la-moneda-al-embajador-de-eeuu-ad-portas-de",
-      "fecha": "Thu, 17 Sep 2026",
-      "fechaISO": "2026-09-17T21:21:40+00:00"
     }
   ]
 }
