@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T20:55:25.570534+00:00",
+  "actualizado": "2026-09-21T23:24:22.033648+00:00",
   "macro": {
     "dolar": 958.4,
     "uf": 40983.58,
@@ -425,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Banco Mundial rompe récord y moviliza US$ 200.000 millones para el apoyo a los países en desarrollo",
+      "link": "http://www.df.cl/economia-y-politica/macro/banco-mundial-rompe-record-y-moviliza-us-200-000-millones-para-el-apoyo-a",
+      "fecha": "Mon, 21 Sep 2026",
+      "fechaISO": "2026-09-21T23:23:35+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Sonda concreta compra del negocio Apple de Yáneken por casi US$ 6 millones para ampliar MacOnline",
+      "link": "http://www.df.cl/empresas/telecom-tecnologia/sonda-concreta-compra-del-negocio-apple-de-yaneken-por-casi-us-6-millones",
+      "fecha": "Mon, 21 Sep 2026",
+      "fechaISO": "2026-09-21T22:38:11+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Arcalis Toesca cierra fondo inaugural por US$ 65 millones y prepara segundo vehículo con foco en capital extranjero",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/arcalis-toesca-cierra-fondo-inaugural-por-us-65-millones-y-prepara-segundo",
+      "fecha": "Mon, 21 Sep 2026",
+      "fechaISO": "2026-09-21T23:17:34+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "IPSA cierra con leve caída luego de que SQM recibiera un masivo flujo de ventas en su regreso del fin de semana dieciochero",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-x8n52",
       "fecha": "Mon, 21 Sep 2026",
       "fechaISO": "2026-09-21T20:05:02+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Oposición insta al gobierno a que “se deje ayudar” para salir de la compleja situación económica y laboral",
-      "link": "http://www.df.cl/economia-y-politica/politica/oposicion-insta-al-gobierno-a-que-se-deje-ayudar-para-salir-de-la",
-      "fecha": "Mon, 21 Sep 2026",
-      "fechaISO": "2026-09-21T20:14:23+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "El cobre referencial en Londres sube y queda cerca de un nuevo máximo histórico ante señales de escasez a corto plazo",
-      "link": "http://www.df.cl/mercados/commodities/el-cobre-referencial-en-londres-sube-y-queda-cerca-de-un-nuevo-maximo",
-      "fecha": "Mon, 21 Sep 2026",
-      "fechaISO": "2026-09-21T19:23:04+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra con una caída de $ 10 luego de que el petróleo Brent bajara a niveles de US$ 100 por barril",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3ugv3",
-      "fecha": "Mon, 21 Sep 2026",
-      "fechaISO": "2026-09-21T19:11:16+00:00"
     }
   ]
 }
