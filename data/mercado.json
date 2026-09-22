@@ -1,190 +1,190 @@
 {
-  "actualizado": "2026-09-21T23:24:22.033648+00:00",
+  "actualizado": "2026-09-22T17:23:48.525530+00:00",
   "macro": {
-    "dolar": 958.4,
-    "uf": 40983.58,
+    "dolar": 952,
+    "uf": 40991.75,
     "utm": 71721,
-    "cobre": 6.44
+    "cobre": 6.6
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 331.9,
+      "precio": 338.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 199.5,
-      "anterior": 196.3,
-      "alto52": 200.68,
-      "bajo52": 140.65
+      "precio": 200.6,
+      "anterior": 198.69,
+      "alto52": 200.7,
+      "bajo52": 142.0
     },
     "BCI": {
-      "precio": 66748.0,
+      "precio": 66341.0,
       "anterior": 62502.0,
-      "alto52": 67300.0,
-      "bajo52": 41513.0
+      "alto52": 67330.0,
+      "bajo52": 42200.0
     },
     "ITAUCL": {
-      "precio": 24149.0,
+      "precio": 24251.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
-      "bajo52": 14374.0
+      "bajo52": 14625.0
     },
     "BSANTANDER": {
-      "precio": 82.3,
+      "precio": 82.64,
       "anterior": 77.0,
-      "alto52": 83.4,
-      "bajo52": 60.98
+      "alto52": 83.05,
+      "bajo52": 62.57
     },
     "CAP": {
-      "precio": 5315.0,
+      "precio": 5275.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2035.0,
+      "precio": 2025.8,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2280.0,
+      "precio": 2328.0,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 147.49,
+      "precio": 146.62,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5312.0,
+      "precio": 5330.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.17,
+      "precio": 50.97,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4900.0,
+      "precio": 4967.7,
       "anterior": 4699.9,
-      "alto52": 4938.7,
+      "alto52": 5002.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3948.0,
+      "precio": 4000.0,
       "anterior": 3643.0,
       "alto52": 5250.0,
       "bajo52": 3285.1
     },
     "CMPC": {
-      "precio": 976.0,
+      "precio": 978.0,
       "anterior": 1070.0,
       "alto52": 1501.1,
-      "bajo52": 961.01
+      "bajo52": 957.0
     },
     "COPEC": {
-      "precio": 6500.0,
+      "precio": 6551.4,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 87.9,
+      "precio": 87.55,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.55,
+      "precio": 82.55,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1900.0,
+      "precio": 1905.0,
       "anterior": 1807.0,
-      "alto52": 1900.0,
+      "alto52": 1913.0,
       "bajo52": 1272.5
     },
     "FALABELLA": {
-      "precio": 6520.0,
+      "precio": 6564.2,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 930.01,
+      "precio": 938.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 24741.0,
+      "precio": 25180.0,
       "anterior": 21450.0,
-      "alto52": 24918.0,
+      "alto52": 25199.0,
       "bajo52": 12750.0
     },
     "LTM": {
-      "precio": 25.23,
+      "precio": 25.26,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3898.9,
+      "precio": 3877.9,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3802.7,
+      "precio": 3767.9,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4745.9,
+      "precio": 4798.0,
       "anterior": 4279.0,
-      "alto52": 4750.0,
+      "alto52": 4798.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 447.4,
+      "precio": 454.01,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1337.0,
+      "precio": 1370.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 116.9,
+      "precio": 118.0,
       "anterior": 127.9,
       "alto52": 169.5,
-      "bajo52": 116.35
+      "bajo52": 116.81
     },
     "SQM-B": {
-      "precio": 66170.0,
+      "precio": 67000.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 911.0,
+      "precio": 915.85,
       "anterior": 852.33,
-      "alto52": 1148.8,
+      "alto52": 1146.9,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
@@ -218,19 +218,19 @@
       "bajo52": 1800.0
     },
     "HITES": {
-      "precio": 133.9,
+      "precio": 134.0,
       "anterior": 132.09,
       "alto52": 146.09,
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 223.42,
+      "precio": 226.75,
       "anterior": 200.99,
       "alto52": 227.0,
       "bajo52": 110.68
     },
     "MASISA": {
-      "precio": 7.28,
+      "precio": 7.3,
       "anterior": 8.68,
       "alto52": 20.04,
       "bajo52": 7.28
@@ -242,25 +242,25 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 175.0,
+      "precio": 176.0,
       "anterior": 141.0,
       "alto52": 185.29,
-      "bajo52": 106.0
+      "bajo52": 110.0
     },
     "SK": {
-      "precio": 1627.0,
+      "precio": 1635.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 289.42,
+      "precio": 286.0,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1700.0,
+      "precio": 1705.0,
       "anterior": 1570.0,
       "alto52": 1745.0,
       "bajo52": 1330.0
@@ -284,7 +284,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 95.7,
+      "precio": 95.07,
       "anterior": 91.34,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -296,38 +296,38 @@
       "bajo52": 209.0
     },
     "INVERCAP": {
-      "precio": 1593.9,
+      "precio": 1597.0,
       "anterior": 1917.5,
       "alto52": 2278.8,
-      "bajo52": 1586.1
+      "bajo52": 1582.5
     },
     "BICE": {
-      "precio": 423.43,
+      "precio": 429.0,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1386.9,
+      "precio": 1390.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
-      "bajo52": 1173.0
+      "bajo52": 1185.0
     },
     "CFMITNIPSA": {
-      "precio": 5244.4,
+      "precio": 5265.3,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2122.15,
+      "precio": 2130.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
     },
     "CFIBTGRCA": {
-      "precio": 21792.0,
-      "anterior": 21999.69,
+      "precio": 22200.0,
+      "anterior": 21572.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
     },
@@ -425,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Banco Mundial rompe récord y moviliza US$ 200.000 millones para el apoyo a los países en desarrollo",
-      "link": "http://www.df.cl/economia-y-politica/macro/banco-mundial-rompe-record-y-moviliza-us-200-000-millones-para-el-apoyo-a",
-      "fecha": "Mon, 21 Sep 2026",
-      "fechaISO": "2026-09-21T23:23:35+00:00"
+      "texto": "Presupuesto 2027: gobernadores regionales esperan que Hacienda recapacite sobre recorte de 7%",
+      "link": "http://www.df.cl/economia-y-politica/congreso/presupuesto-2027-gobernadores-regionales-esperan-que-hacienda-recapacite",
+      "fecha": "Tue, 22 Sep 2026",
+      "fechaISO": "2026-09-22T17:13:53+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Sonda concreta compra del negocio Apple de Yáneken por casi US$ 6 millones para ampliar MacOnline",
-      "link": "http://www.df.cl/empresas/telecom-tecnologia/sonda-concreta-compra-del-negocio-apple-de-yaneken-por-casi-us-6-millones",
-      "fecha": "Mon, 21 Sep 2026",
-      "fechaISO": "2026-09-21T22:38:11+00:00"
+      "texto": "IPSA opera al alza sobre los 11.400 puntos aun cuando Latam borra sus ganancias en línea con los precios del petróleo",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-aafdg",
+      "fecha": "Tue, 22 Sep 2026",
+      "fechaISO": "2026-09-22T16:29:42+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Arcalis Toesca cierra fondo inaugural por US$ 65 millones y prepara segundo vehículo con foco en capital extranjero",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/arcalis-toesca-cierra-fondo-inaugural-por-us-65-millones-y-prepara-segundo",
-      "fecha": "Mon, 21 Sep 2026",
-      "fechaISO": "2026-09-21T23:17:34+00:00"
+      "texto": "CMF sanciona y multa con $ 1.024 millones a sociedad de Cristián Araya y otros socios por cotizaciones ficticias y manipulación de precios en la bolsa",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/cmf-sanciona-y-multa-con-a-1-024-millones-a-sociedad-de-cristian-araya-y",
+      "fecha": "Tue, 22 Sep 2026",
+      "fechaISO": "2026-09-22T16:46:46+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra con leve caída luego de que SQM recibiera un masivo flujo de ventas en su regreso del fin de semana dieciochero",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-x8n52",
-      "fecha": "Mon, 21 Sep 2026",
-      "fechaISO": "2026-09-21T20:05:02+00:00"
+      "texto": "Dólar borra caída inicial y regresa a niveles de $ 950 tras el discurso de Trump en la Asamblea General de la ONU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-nzkxp",
+      "fecha": "Tue, 22 Sep 2026",
+      "fechaISO": "2026-09-22T16:14:08+00:00"
     }
   ]
 }
