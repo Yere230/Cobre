@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T20:04:26.957096+00:00",
+  "actualizado": "2026-09-22T23:03:12.319573+00:00",
   "macro": {
     "dolar": 952,
     "uf": 40991.75,
@@ -38,7 +38,7 @@
       "bajo52": 62.57
     },
     "CAP": {
-      "precio": 5420.0,
+      "precio": 5399.4,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
@@ -122,7 +122,7 @@
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 940.0,
+      "precio": 939.99,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 877.21
@@ -182,13 +182,13 @@
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 920.0,
+      "precio": 921.32,
       "anterior": 852.33,
       "alto52": 1146.9,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7546.0,
+      "precio": 7552.4,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7363.2
@@ -248,13 +248,13 @@
       "bajo52": 110.0
     },
     "SK": {
-      "precio": 1635.0,
+      "precio": 1633.1,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 292.0,
+      "precio": 292.44,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -296,37 +296,37 @@
       "bajo52": 209.0
     },
     "INVERCAP": {
-      "precio": 1597.0,
+      "precio": 1599.2,
       "anterior": 1917.5,
       "alto52": 2278.8,
       "bajo52": 1582.5
     },
     "BICE": {
-      "precio": 433.49,
+      "precio": 429.94,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1399.0,
+      "precio": 1389.5,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1185.0
     },
     "CFMITNIPSA": {
-      "precio": 5255.0,
+      "precio": 5258.5,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2120.0,
+      "precio": 2126.8,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
     },
     "CFIBTGRCA": {
-      "precio": 22400.0,
+      "precio": 22277.52,
       "anterior": 21572.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
@@ -425,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Proyecto del PDG que crea un beneficio de compensación por la compra de pañales y medicamentos sortea su primera valla",
-      "link": "http://www.df.cl/economia-y-politica/congreso/proyecto-del-pdg-que-crea-un-beneficio-de-compensacion-por-la-compra-de",
+      "texto": "Minera Escondida presenta última oferta a sindicato de supervisores que involucra millonarios bonos y beneficios",
+      "link": "http://www.df.cl/empresas/mineria/minera-escondida-presenta-ultima-oferta-a-sindicato-de-supervisores-que",
       "fecha": "Tue, 22 Sep 2026",
-      "fechaISO": "2026-09-22T19:55:46+00:00"
+      "fechaISO": "2026-09-22T22:55:29+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra al alza sobre 11.400 puntos ya que indicadores favorables para Chile sobrevivieron al discurso de Trump",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-aafdg",
+      "texto": "Chile sorprende y anuncia que se incorpora al Escudo de las Américas impulsado por Trump",
+      "link": "http://www.df.cl/economia-y-politica/politica/chile-sorprende-y-anuncia-que-se-incorpora-al-escudo-de-las-americas",
       "fecha": "Tue, 22 Sep 2026",
-      "fechaISO": "2026-09-22T19:29:17+00:00"
+      "fechaISO": "2026-09-22T22:09:21+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra con leve caída bajo $ 950 una sesión volátil por el discurso de Trump en la Asamblea General de la ONU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-nzkxp",
+      "texto": "Gobierno propone a Pedro Huichalaf y Marcela Sabat como directores de TVN",
+      "link": "http://www.df.cl/empresas/industria/gobierno-propone-a-pedro-huichalaf-y-marcela-sabat-como-directores-de-tvn",
       "fecha": "Tue, 22 Sep 2026",
-      "fechaISO": "2026-09-22T19:11:40+00:00"
+      "fechaISO": "2026-09-22T21:39:47+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "En su primer discurso ante la ONU, Kast enfatiza que “Chile está de vuelta” y que el cambio \"va a llegar\" en medio de alto desempleo y bajo crecimiento",
-      "link": "http://www.df.cl/economia-y-politica/politica/en-su-primer-discurso-ante-la-onu-kast-enfatiza-que-chile-esta-de-vuelta",
+      "texto": "TerraNoble, la viña ligada a los Von Appen, apuesta por el turismo y Brasil ante estrechez del mercado",
+      "link": "http://www.df.cl/empresas/industria/el-rebaraje-de-terranoble-vina-ligada-a-los-von-appen-apuesta-por-el",
       "fecha": "Tue, 22 Sep 2026",
-      "fechaISO": "2026-09-22T19:07:10+00:00"
+      "fechaISO": "2026-09-22T22:26:02+00:00"
     }
   ]
 }
