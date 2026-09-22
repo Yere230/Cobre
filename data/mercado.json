@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T17:23:48.525530+00:00",
+  "actualizado": "2026-09-22T20:04:26.957096+00:00",
   "macro": {
     "dolar": 952,
     "uf": 40991.75,
@@ -8,73 +8,73 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 338.0,
+      "precio": 335.0,
       "anterior": 332.4,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 200.6,
+      "precio": 201.3,
       "anterior": 198.69,
-      "alto52": 200.7,
+      "alto52": 201.5,
       "bajo52": 142.0
     },
     "BCI": {
-      "precio": 66341.0,
+      "precio": 66900.0,
       "anterior": 62502.0,
       "alto52": 67330.0,
       "bajo52": 42200.0
     },
     "ITAUCL": {
-      "precio": 24251.0,
+      "precio": 24002.0,
       "anterior": 20678.0,
       "alto52": 25887.0,
       "bajo52": 14625.0
     },
     "BSANTANDER": {
-      "precio": 82.64,
+      "precio": 83.0,
       "anterior": 77.0,
       "alto52": 83.05,
       "bajo52": 62.57
     },
     "CAP": {
-      "precio": 5275.0,
+      "precio": 5420.0,
       "anterior": 6313.3,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2025.8,
+      "precio": 2045.0,
       "anterior": 1995.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2328.0,
+      "precio": 2311.4,
       "anterior": 2210.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 146.62,
+      "precio": 147.0,
       "anterior": 135.29,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5330.0,
+      "precio": 5310.0,
       "anterior": 5218.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.97,
+      "precio": 50.95,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4967.7,
+      "precio": 4979.0,
       "anterior": 4699.9,
       "alto52": 5002.0,
       "bajo52": 3541.0
@@ -86,109 +86,109 @@
       "bajo52": 3285.1
     },
     "CMPC": {
-      "precio": 978.0,
+      "precio": 966.1,
       "anterior": 1070.0,
       "alto52": 1501.1,
       "bajo52": 957.0
     },
     "COPEC": {
-      "precio": 6551.4,
+      "precio": 6600.0,
       "anterior": 6249.6,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 87.55,
+      "precio": 86.13,
       "anterior": 84.04,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.55,
+      "precio": 83.51,
       "anterior": 81.01,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1905.0,
+      "precio": 1900.0,
       "anterior": 1807.0,
-      "alto52": 1913.0,
+      "alto52": 1920.0,
       "bajo52": 1272.5
     },
     "FALABELLA": {
-      "precio": 6564.2,
+      "precio": 6579.6,
       "anterior": 5835.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 938.0,
+      "precio": 940.0,
       "anterior": 921.89,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 25180.0,
+      "precio": 25020.0,
       "anterior": 21450.0,
-      "alto52": 25199.0,
+      "alto52": 25277.0,
       "bajo52": 12750.0
     },
     "LTM": {
-      "precio": 25.26,
+      "precio": 25.25,
       "anterior": 24.69,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3877.9,
+      "precio": 3899.9,
       "anterior": 4039.9,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3767.9,
+      "precio": 3759.0,
       "anterior": 3950.0,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4798.0,
+      "precio": 4850.0,
       "anterior": 4279.0,
-      "alto52": 4798.0,
+      "alto52": 4869.7,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 454.01,
+      "precio": 456.0,
       "anterior": 382.96,
       "alto52": 490.0,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1370.0,
+      "precio": 1350.0,
       "anterior": 1249.0,
       "alto52": 1499.9,
       "bajo52": 890.0
     },
     "SMU": {
-      "precio": 118.0,
+      "precio": 119.96,
       "anterior": 127.9,
       "alto52": 169.5,
       "bajo52": 116.81
     },
     "SQM-B": {
-      "precio": 67000.0,
+      "precio": 66655.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 915.85,
+      "precio": 920.0,
       "anterior": 852.33,
       "alto52": 1146.9,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7545.0,
+      "precio": 7546.0,
       "anterior": 7450.3,
       "alto52": 9000.0,
       "bajo52": 7363.2
@@ -212,19 +212,19 @@
       "bajo52": 20380.0
     },
     "FORUS": {
-      "precio": 1800.0,
+      "precio": 1810.0,
       "anterior": 1983.4,
       "alto52": 2510.0,
       "bajo52": 1800.0
     },
     "HITES": {
-      "precio": 134.0,
+      "precio": 135.0,
       "anterior": 132.09,
       "alto52": 146.09,
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 226.75,
+      "precio": 226.8,
       "anterior": 200.99,
       "alto52": 227.0,
       "bajo52": 110.68
@@ -242,7 +242,7 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 176.0,
+      "precio": 169.0,
       "anterior": 141.0,
       "alto52": 185.29,
       "bajo52": 110.0
@@ -254,7 +254,7 @@
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 286.0,
+      "precio": 292.0,
       "anterior": 301.81,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -302,31 +302,31 @@
       "bajo52": 1582.5
     },
     "BICE": {
-      "precio": 429.0,
+      "precio": 433.49,
       "anterior": 375.23,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1390.0,
+      "precio": 1399.0,
       "anterior": 1267.0,
       "alto52": 1600.0,
       "bajo52": 1185.0
     },
     "CFMITNIPSA": {
-      "precio": 5265.3,
+      "precio": 5255.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2130.0,
+      "precio": 2120.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
     },
     "CFIBTGRCA": {
-      "precio": 22200.0,
+      "precio": 22400.0,
       "anterior": 21572.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
@@ -397,6 +397,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Capacitaciones impulsan avances digitales protegiendo historias locales",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/capacitaciones-impulsan-avances-digitales-protegiendo-historias-locales/2026-09-22/164047.html",
+      "fecha": "Tue, 22 Sep 2026",
+      "fechaISO": "2026-09-22T19:40:47+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Kast admitió ante la ONU que en Chile \"la economía aún no despega y el desempleo se mantiene alto\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-admitio-ante-la-onu-que-en-chile-la-economia-aun-no-despega-y-el/2026-09-22/145132.html",
+      "fecha": "Tue, 22 Sep 2026",
+      "fechaISO": "2026-09-22T17:51:32+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Fitch recortó a 0,7% el crecimiento de Chile para 2026 pero ratificó nota 'A-'",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/fitch-recorto-a-0-7-el-crecimiento-de-chile-para-2026-pero-ratifico/2026-09-18/204153.html",
       "fecha": "Fri, 18 Sep 2026",
@@ -410,46 +424,32 @@
       "fechaISO": "2026-09-18T01:24:44+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Tras decisión de la Fed: Experto anticipa alza de la tasa de interés en Chile",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
-      "fecha": "Thu, 17 Sep 2026",
-      "fechaISO": "2026-09-17T18:25:05+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Las grandes tecnológicas enfrían su salto a bolsa ante el debate sobre regular la IA",
-      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/las-grandes-tecnologicas-enfrian-su-salto-a-bolsa-ante-el-debate-sobre/2026-09-16/205101.html",
-      "fecha": "Wed, 16 Sep 2026",
-      "fechaISO": "2026-09-16T23:51:01+00:00"
-    },
-    {
       "fuente": "Diario Financiero",
-      "texto": "Presupuesto 2027: gobernadores regionales esperan que Hacienda recapacite sobre recorte de 7%",
-      "link": "http://www.df.cl/economia-y-politica/congreso/presupuesto-2027-gobernadores-regionales-esperan-que-hacienda-recapacite",
+      "texto": "Proyecto del PDG que crea un beneficio de compensación por la compra de pañales y medicamentos sortea su primera valla",
+      "link": "http://www.df.cl/economia-y-politica/congreso/proyecto-del-pdg-que-crea-un-beneficio-de-compensacion-por-la-compra-de",
       "fecha": "Tue, 22 Sep 2026",
-      "fechaISO": "2026-09-22T17:13:53+00:00"
+      "fechaISO": "2026-09-22T19:55:46+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA opera al alza sobre los 11.400 puntos aun cuando Latam borra sus ganancias en línea con los precios del petróleo",
+      "texto": "IPSA cierra al alza sobre 11.400 puntos ya que indicadores favorables para Chile sobrevivieron al discurso de Trump",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-aafdg",
       "fecha": "Tue, 22 Sep 2026",
-      "fechaISO": "2026-09-22T16:29:42+00:00"
+      "fechaISO": "2026-09-22T19:29:17+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "CMF sanciona y multa con $ 1.024 millones a sociedad de Cristián Araya y otros socios por cotizaciones ficticias y manipulación de precios en la bolsa",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/cmf-sanciona-y-multa-con-a-1-024-millones-a-sociedad-de-cristian-araya-y",
-      "fecha": "Tue, 22 Sep 2026",
-      "fechaISO": "2026-09-22T16:46:46+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar borra caída inicial y regresa a niveles de $ 950 tras el discurso de Trump en la Asamblea General de la ONU",
+      "texto": "Dólar cierra con leve caída bajo $ 950 una sesión volátil por el discurso de Trump en la Asamblea General de la ONU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-nzkxp",
       "fecha": "Tue, 22 Sep 2026",
-      "fechaISO": "2026-09-22T16:14:08+00:00"
+      "fechaISO": "2026-09-22T19:11:40+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "En su primer discurso ante la ONU, Kast enfatiza que “Chile está de vuelta” y que el cambio \"va a llegar\" en medio de alto desempleo y bajo crecimiento",
+      "link": "http://www.df.cl/economia-y-politica/politica/en-su-primer-discurso-ante-la-onu-kast-enfatiza-que-chile-esta-de-vuelta",
+      "fecha": "Tue, 22 Sep 2026",
+      "fechaISO": "2026-09-22T19:07:10+00:00"
     }
   ]
 }
