@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T20:04:32.240285+00:00",
+  "actualizado": "2026-09-23T23:00:57.540072+00:00",
   "macro": {
     "dolar": 945.9,
     "uf": 40999.93,
@@ -122,7 +122,7 @@
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 932.2,
+      "precio": 932.61,
       "anterior": 896.12,
       "alto52": 1150.0,
       "bajo52": 877.21
@@ -212,13 +212,13 @@
       "bajo52": 20380.0
     },
     "FORUS": {
-      "precio": 1801.0,
+      "precio": 1809.7,
       "anterior": 1800.0,
       "alto52": 2510.0,
       "bajo52": 1775.0
     },
     "HITES": {
-      "precio": 135.0,
+      "precio": 134.14,
       "anterior": 133.0,
       "alto52": 146.09,
       "bajo52": 105.13
@@ -236,25 +236,25 @@
       "bajo52": 7.18
     },
     "PAZ": {
-      "precio": 1090.0,
+      "precio": 1087.8,
       "anterior": 1091.6,
       "alto52": 1120.9,
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 167.2,
+      "precio": 166.69,
       "anterior": 167.0,
       "alto52": 185.29,
       "bajo52": 110.0
     },
     "SK": {
-      "precio": 1635.0,
+      "precio": 1633.1,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 290.0,
+      "precio": 292.09,
       "anterior": 293.0,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -296,37 +296,37 @@
       "bajo52": 209.0
     },
     "INVERCAP": {
-      "precio": 1605.5,
+      "precio": 1605.1,
       "anterior": 1593.0,
       "alto52": 2278.8,
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 433.0,
+      "precio": 433.03,
       "anterior": 412.04,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1435.0,
+      "precio": 1432.8,
       "anterior": 1396.4,
       "alto52": 1600.0,
       "bajo52": 1185.0
     },
     "CFMITNIPSA": {
-      "precio": 5272.8,
+      "precio": 5279.5,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2130.0,
+      "precio": 2139.2,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
     },
     "CFIBTGRCA": {
-      "precio": 22100.0,
+      "precio": 22194.19,
       "anterior": 21000.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
@@ -397,6 +397,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Antofagasta: Trabajador murió aplastado por estructura pesada en minera BHP Escondida",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/antofagasta-trabajador-murio-aplastado-por-estructura-pesada-en-minera/2026-09-23/173746.html",
+      "fecha": "Wed, 23 Sep 2026",
+      "fechaISO": "2026-09-23T20:37:46+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Patagonia Biotech Hub busca levantar 1.000 metros cuadrados de laboratorios en Puerto Varas",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/patagonia-biotech-hub-busca-levantar-1-000-metros-cuadrados-de/2026-09-23/163621.html",
+      "fecha": "Wed, 23 Sep 2026",
+      "fechaISO": "2026-09-23T19:36:21+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "El Gobierno sigue alistando su plan pro empleo",
       "link": "https://www.cooperativa.cl/noticias/pais/trabajo/el-gobierno-sigue-alistando-su-plan-pro-empleo/2026-09-23/144713.html",
       "fecha": "Wed, 23 Sep 2026",
@@ -410,46 +424,32 @@
       "fechaISO": "2026-09-23T13:09:12+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Felipe Larraín: Más que \"piñerizar\", analicemos políticas de aceleración económica",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/felipe-larrain-mas-que-pinerizar-analicemos-politicas-de-aceleracion/2026-09-23/091154.html",
+      "fuente": "Diario Financiero",
+      "texto": "TDLC rechaza recurso de reclamación de Conadecus contra su decisión sobre regulación de conglomerados económicos",
+      "link": "http://www.df.cl/empresas/industria/tdlc-rechaza-recurso-de-reclamacion-de-conadecus-contra-su-decision-sobre",
       "fecha": "Wed, 23 Sep 2026",
-      "fechaISO": "2026-09-23T12:11:54+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Capacitaciones impulsan avances digitales protegiendo historias locales",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/capacitaciones-impulsan-avances-digitales-protegiendo-historias-locales/2026-09-22/164047.html",
-      "fecha": "Tue, 22 Sep 2026",
-      "fechaISO": "2026-09-22T19:40:47+00:00"
+      "fechaISO": "2026-09-23T22:27:08+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa de Santiago resiste ventas globales y cierra con un avance modesto gracias al respaldo de las expectativas internas",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-5kdjn",
+      "texto": "Luz verde de la FNE: dueña de Salcobrand toma el control de Rotter & Krauss",
+      "link": "http://www.df.cl/empresas/industria/luz-verde-de-la-fne-duena-de-salcobrand-toma-el-control-de-rotter-krauss",
       "fecha": "Wed, 23 Sep 2026",
-      "fechaISO": "2026-09-23T19:32:32+00:00"
+      "fechaISO": "2026-09-23T21:19:48+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Invariabilidad tributaria y permisos ambientales: los temas que marcaron la reunión de Kast con inversionistas en Nueva York",
-      "link": "http://www.df.cl/economia-y-politica/pais/invariabilidad-tributaria-y-permisos-ambientales-los-temas-que-marcaron-la",
+      "texto": "Gobernadores regionales no logran acuerdo con Hacienda y se declaran en alerta por recortes que incluirá el Presupuesto 2027",
+      "link": "http://www.df.cl/economia-y-politica/politica/gobernadores-regionales-no-logran-acuerdo-con-hacienda-y-se-declaran-en",
       "fecha": "Wed, 23 Sep 2026",
-      "fechaISO": "2026-09-23T20:02:18+00:00"
+      "fechaISO": "2026-09-23T22:16:45+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar se dispara $ 15, supera los $ 960 y cierra en máximos de 2026 tras datos que exacerbaron las preocupaciones inflacionarias en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3p3uj",
+      "texto": "Minera del grupo Luksic presenta última oferta a sindicatos y trabajadores llaman a rechazarla",
+      "link": "http://www.df.cl/empresas/mineria/minera-del-grupo-luksic-presenta-ultima-oferta-a-sindicatos-y-trabajadores",
       "fecha": "Wed, 23 Sep 2026",
-      "fechaISO": "2026-09-23T19:46:18+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Comisión Mixta por secreto bancario: sólo en 2025 la UAF recibió 87 denuncias por día hábil",
-      "link": "http://www.df.cl/economia-y-politica/congreso/comision-mixta-por-secreto-bancario-solo-en-2025-la-uaf-recibio-87",
-      "fecha": "Wed, 23 Sep 2026",
-      "fechaISO": "2026-09-23T16:57:51+00:00"
+      "fechaISO": "2026-09-23T21:37:22+00:00"
     }
   ]
 }
