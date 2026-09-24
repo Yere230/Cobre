@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T17:36:50.660720+00:00",
+  "actualizado": "2026-09-24T20:19:20.372534+00:00",
   "macro": {
     "dolar": 959.4,
     "uf": 41008.1,
@@ -8,181 +8,181 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 329.77,
+      "precio": 329.99,
       "anterior": 326.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 200.38,
+      "precio": 200.01,
       "anterior": 198.0,
       "alto52": 203.0,
       "bajo52": 143.6
     },
     "BCI": {
-      "precio": 65365.0,
+      "precio": 65400.0,
       "anterior": 66100.0,
       "alto52": 68446.0,
       "bajo52": 42200.0
     },
     "ITAUCL": {
-      "precio": 24093.0,
+      "precio": 24200.0,
       "anterior": 23660.0,
       "alto52": 25887.0,
       "bajo52": 14625.0
     },
     "BSANTANDER": {
-      "precio": 81.57,
+      "precio": 81.67,
       "anterior": 82.17,
       "alto52": 83.85,
       "bajo52": 62.57
     },
     "CAP": {
-      "precio": 5334.9,
+      "precio": 5384.0,
       "anterior": 5380.0,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 2000.8,
+      "precio": 2000.0,
       "anterior": 2101.0,
       "alto52": 3238.0,
       "bajo52": 1987.6
     },
     "CENCOMALLS": {
-      "precio": 2289.9,
+      "precio": 2288.0,
       "anterior": 2270.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 146.99,
+      "precio": 147.0,
       "anterior": 146.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5301.5,
+      "precio": 5290.0,
       "anterior": 5415.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 51.4,
+      "precio": 51.45,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4940.0,
+      "precio": 4930.0,
       "anterior": 4699.9,
       "alto52": 4975.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 4017.5,
+      "precio": 3990.0,
       "anterior": 3961.0,
       "alto52": 5250.0,
       "bajo52": 3285.1
     },
     "CMPC": {
-      "precio": 991.0,
+      "precio": 990.0,
       "anterior": 969.0,
       "alto52": 1501.1,
       "bajo52": 956.0
     },
     "COPEC": {
-      "precio": 6549.9,
+      "precio": 6550.0,
       "anterior": 6520.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 85.01,
+      "precio": 84.5,
       "anterior": 83.51,
       "alto52": 105.23,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.95,
+      "precio": 82.01,
       "anterior": 81.26,
       "alto52": 84.49,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1926.7,
+      "precio": 1907.0,
       "anterior": 1880.2,
       "alto52": 1949.9,
       "bajo52": 1272.5
     },
     "FALABELLA": {
-      "precio": 6524.2,
+      "precio": 6524.0,
       "anterior": 6488.9,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 927.99,
+      "precio": 930.0,
       "anterior": 911.0,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 25547.0,
+      "precio": 25500.0,
       "anterior": 24241.0,
-      "alto52": 25573.0,
+      "alto52": 25690.0,
       "bajo52": 12750.0
     },
     "LTM": {
-      "precio": 25.06,
+      "precio": 25.05,
       "anterior": 24.05,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3877.5,
+      "precio": 3845.0,
       "anterior": 3745.0,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3685.2,
+      "precio": 3666.0,
       "anterior": 3859.9,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4859.9,
+      "precio": 4920.0,
       "anterior": 4749.0,
-      "alto52": 4896.0,
+      "alto52": 4920.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 455.05,
+      "precio": 457.99,
       "anterior": 441.43,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1330.0,
+      "precio": 1329.9,
       "anterior": 1300.0,
       "alto52": 1499.9,
       "bajo52": 900.12
     },
     "SMU": {
-      "precio": 120.6,
+      "precio": 121.0,
       "anterior": 117.8,
       "alto52": 169.5,
       "bajo52": 115.4
     },
     "SQM-B": {
-      "precio": 65153.0,
+      "precio": 65144.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 917.49,
+      "precio": 925.0,
       "anterior": 942.0,
       "alto52": 1128.1,
       "bajo52": 815.0
@@ -194,7 +194,7 @@
       "bajo52": 7363.2
     },
     "ALMENDRAL": {
-      "precio": 24.51,
+      "precio": 24.25,
       "anterior": 24.75,
       "alto52": 34.0,
       "bajo52": 21.3
@@ -206,13 +206,13 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 24280.0,
+      "precio": 25008.0,
       "anterior": 24589.0,
       "alto52": 25465.0,
       "bajo52": 20380.0
     },
     "FORUS": {
-      "precio": 1801.0,
+      "precio": 1790.0,
       "anterior": 1800.0,
       "alto52": 2510.0,
       "bajo52": 1775.0
@@ -254,7 +254,7 @@
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 290.0,
+      "precio": 287.0,
       "anterior": 300.0,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -284,7 +284,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 94.69,
+      "precio": 94.35,
       "anterior": 96.33,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -302,7 +302,7 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 431.0,
+      "precio": 432.35,
       "anterior": 417.39,
       "alto52": 450.0,
       "bajo52": 297.0
@@ -314,7 +314,7 @@
       "bajo52": 1185.0
     },
     "CFMITNIPSA": {
-      "precio": 5224.2,
+      "precio": 5215.1,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
@@ -425,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Kast informó que analiza medidas paliativas por efectos de eventual prohibición de exportaciones de diésel desde EEUU",
-      "link": "http://www.df.cl/economia-y-politica/politica/kast-informo-que-analiza-medidas-paliativas-por-efectos-de-eventual",
-      "fecha": "Thu, 24 Sep 2026",
-      "fechaISO": "2026-09-24T16:15:44+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA cae fuerte y pierde los 11.300 puntos mientras siguen las ventas globales ante al auge de las tasas largas estadounidenses",
+      "texto": "IPSA cae con fuerza y cierra levemente bajo 11.300 puntos en sesión marcada por el auge de las tasas largas estadounidenses",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-rm9gj",
       "fecha": "Thu, 24 Sep 2026",
-      "fechaISO": "2026-09-24T16:41:47+00:00"
+      "fechaISO": "2026-09-24T20:08:26+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar sube a niveles de $ 970 al inicio de la tarde mientras el petróleo Brent ya se acerca a US$ 110 por barril",
+      "texto": "Fallece a los 81 años Reinaldo Sánchez, histórico empresario microbusero de Valparaíso y dueño de Santiago Wanderers",
+      "link": "http://www.df.cl/empresas/actualidad/fallece-a-los-81-anos-reinaldo-sanchez-historico-empresario-microbusero-de",
+      "fecha": "Thu, 24 Sep 2026",
+      "fechaISO": "2026-09-24T19:23:56+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Dólar cierra firme en sus máximos desde octubre de 2025 mientras se profundizan las ventas de bonos del Tesoro estadounidense",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-d7mvy",
       "fecha": "Thu, 24 Sep 2026",
-      "fechaISO": "2026-09-24T15:54:10+00:00"
+      "fechaISO": "2026-09-24T19:12:45+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El Senado da luz verde a la reforma política que endurece los requisitos para crear partidos, pese a las dudas que genera iniciativa",
-      "link": "http://www.df.cl/economia-y-politica/congreso/el-senado-da-luz-verde-a-la-reforma-politica-que-endurece-los-requisitos",
+      "texto": "Chile alista su primera emisión de bonos denominada en francos suizos",
+      "link": "http://www.df.cl/mercados/renta-fija/chile-prepara-su-primera-emision-de-bonos-denominada-en-francos-suizos",
       "fecha": "Thu, 24 Sep 2026",
-      "fechaISO": "2026-09-24T16:03:41+00:00"
+      "fechaISO": "2026-09-24T18:40:04+00:00"
     }
   ]
 }
