@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T20:20:30.553545+00:00",
+  "actualizado": "2026-09-25T23:21:23.727168+00:00",
   "macro": {
     "dolar": 965.7,
     "uf": 41016.28,
@@ -122,7 +122,7 @@
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 928.57,
+      "precio": 927.74,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
@@ -164,7 +164,7 @@
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1224.8,
+      "precio": 1236.9,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 900.12
@@ -182,13 +182,13 @@
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 911.0,
+      "precio": 912.34,
       "anterior": 930.0,
       "alto52": 1110.3,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7500.0,
+      "precio": 7475.1,
       "anterior": 7529.2,
       "alto52": 9000.0,
       "bajo52": 7363.2
@@ -236,13 +236,13 @@
       "bajo52": 7.18
     },
     "PAZ": {
-      "precio": 1090.0,
+      "precio": 1087.8,
       "anterior": 1095.0,
       "alto52": 1120.9,
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 171.0,
+      "precio": 170.0,
       "anterior": 174.99,
       "alto52": 185.29,
       "bajo52": 110.0
@@ -302,25 +302,25 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 424.0,
+      "precio": 422.7,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1400.0,
+      "precio": 1426.3,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1185.0
     },
     "CFMITNIPSA": {
-      "precio": 5200.0,
+      "precio": 5196.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2140.0,
+      "precio": 2139.98,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1669.0
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Presupuesto 2027: Quiroz descarta riesgos en regiones y el Servel por recortes",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-quiroz-descarta-riesgos-en-regiones-y-el-servel-por/2026-09-25/191132.html",
+      "fecha": "Fri, 25 Sep 2026",
+      "fechaISO": "2026-09-25T22:11:32+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Presupuesto 2027: Crecimiento de 1% inquieta a regiones y Servel",
       "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-crecimiento-de-1-inquieta-a-regiones-y-servel/2026-09-25/153304.html",
       "fecha": "Fri, 25 Sep 2026",
@@ -417,11 +424,11 @@
       "fechaISO": "2026-09-25T14:46:08+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Comercio da cuenta de caída de los delitos contra el sector",
-      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/comercio-da-cuenta-de-caida-de-los-delitos-contra-el-sector/2026-09-25/111001.html",
+      "fuente": "Diario Financiero",
+      "texto": "Gabriel Hernández, decano de Derecho de la Universidad de Chile: “Solo quienes tengan mérito podrán acceder a estos cargos” de nuevos notarios",
+      "link": "http://www.df.cl/economia-y-politica/pais/decano-de-derecho-de-la-universidad-de-chile-defiende-prueba-para-ser",
       "fecha": "Fri, 25 Sep 2026",
-      "fechaISO": "2026-09-25T14:10:01+00:00"
+      "fechaISO": "2026-09-25T22:15:05+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -443,13 +450,6 @@
       "link": "http://www.df.cl/economia-y-politica/macro/se-anticipa-un-cuarto-aumento-consecutivo-en-el-precio-de-los-combustibles",
       "fecha": "Fri, 25 Sep 2026",
       "fechaISO": "2026-09-25T19:22:36+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Mesa de reactivación laboral pide combinar medidas de emergencia con una agenda estructural ad portas de anuncios de Kast",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/mesa-de-reactivacion-laboral-pide-combinar-medidas-de-emergencia-con-una",
-      "fecha": "Fri, 25 Sep 2026",
-      "fechaISO": "2026-09-25T20:03:51+00:00"
     }
   ]
 }
