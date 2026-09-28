@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T19:52:53.779667+00:00",
+  "actualizado": "2026-09-28T22:28:15.672044+00:00",
   "macro": {
     "dolar": 964.1,
     "uf": 41040.82,
@@ -38,7 +38,7 @@
       "bajo52": 62.57
     },
     "CAP": {
-      "precio": 5283.9,
+      "precio": 5283.4,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 5099.0
@@ -122,7 +122,7 @@
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 930.0,
+      "precio": 929.94,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
@@ -158,7 +158,7 @@
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 453.89,
+      "precio": 452.55,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
@@ -182,7 +182,7 @@
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 905.0,
+      "precio": 903.36,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
@@ -206,7 +206,7 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25300.0,
+      "precio": 25298.0,
       "anterior": 24589.0,
       "alto52": 25465.0,
       "bajo52": 20380.0
@@ -230,7 +230,7 @@
       "bajo52": 110.68
     },
     "MASISA": {
-      "precio": 7.25,
+      "precio": 7.31,
       "anterior": 7.28,
       "alto52": 20.04,
       "bajo52": 7.18
@@ -242,7 +242,7 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 170.0,
+      "precio": 169.25,
       "anterior": 174.99,
       "alto52": 185.29,
       "bajo52": 110.0
@@ -254,7 +254,7 @@
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 285.2,
+      "precio": 287.84,
       "anterior": 295.0,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -308,19 +308,19 @@
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1418.0,
+      "precio": 1424.1,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1210.0
     },
     "CFMITNIPSA": {
-      "precio": 5143.2,
+      "precio": 5142.6,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2130.0,
+      "precio": 2129.48,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
@@ -425,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena cae por tercera sesión y cierra en mínimos de seis semanas frente al estancamiento diplomático en torno a Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-tv7br",
+      "texto": "Aeropuerto de Santiago sale a buscar operadores para buses directos a regiones y ya hay más de 10 interesados",
+      "link": "http://www.df.cl/empresas/industria/aeropuerto-de-santiago-sale-a-buscar-operadores-para-buses-directos-a",
       "fecha": "Mon, 28 Sep 2026",
-      "fechaISO": "2026-09-28T19:40:16+00:00"
+      "fechaISO": "2026-09-28T21:44:58+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El boom del oro que Perú no logra capturar por completo: el 54% de lo exportado tuvo origen ilegal",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/el-boom-del-oro-que-peru-no-logra-capturar-por-completo-el-54-de-lo",
+      "texto": "Presidente de ChileAlimentos: “No debemos creernos el cuento de que nos conocen en todo el mundo”",
+      "link": "http://www.df.cl/empresas/industria/presidente-de-chilealimentos-no-debemos-creernos-el-cuento-de-que-nos",
       "fecha": "Mon, 28 Sep 2026",
-      "fechaISO": "2026-09-28T19:23:01+00:00"
+      "fechaISO": "2026-09-28T22:04:23+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar sube a niveles de $ 970 y cierra en máximos en más de un año tras el punto muerto de las negociaciones entre EEUU e Irán",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-be7yn",
+      "texto": "\"Ha respondido lo que ha querido\" y \"usted no es el Presidente de la República\": los momentos que marcaron la inédita interpelación al canciller Pérez Mackenna",
+      "link": "http://www.df.cl/economia-y-politica/congreso/ha-respondido-lo-que-ha-querido-y-usted-no-es-el-presidente-de-la",
       "fecha": "Mon, 28 Sep 2026",
-      "fechaISO": "2026-09-28T19:42:47+00:00"
+      "fechaISO": "2026-09-28T21:40:13+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Cassis prepara la apertura de cuatro nuevos locales e invierte $ 700 millones para ampliar su planta de Pucón",
-      "link": "http://www.df.cl/empresas/consumo/cassis-prepara-la-apertura-de-cuatro-nuevos-locales-e-invierte-700",
+      "texto": "Costa advierte de un escenario externo que se ha vuelto \"más complejo\" para la economía chilena",
+      "link": "http://www.df.cl/economia-y-politica/macro/costa-advierte-de-un-escenario-externo-que-se-ha-vuelto-mas-complejo-para",
       "fecha": "Mon, 28 Sep 2026",
-      "fechaISO": "2026-09-28T18:57:38+00:00"
+      "fechaISO": "2026-09-28T21:00:45+00:00"
     }
   ]
 }
