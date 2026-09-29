@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T22:28:15.672044+00:00",
+  "actualizado": "2026-09-29T00:27:20.383864+00:00",
   "macro": {
     "dolar": 964.1,
     "uf": 41040.82,
@@ -425,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Aeropuerto de Santiago sale a buscar operadores para buses directos a regiones y ya hay más de 10 interesados",
-      "link": "http://www.df.cl/empresas/industria/aeropuerto-de-santiago-sale-a-buscar-operadores-para-buses-directos-a",
-      "fecha": "Mon, 28 Sep 2026",
-      "fechaISO": "2026-09-28T21:44:58+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Presidente de ChileAlimentos: “No debemos creernos el cuento de que nos conocen en todo el mundo”",
-      "link": "http://www.df.cl/empresas/industria/presidente-de-chilealimentos-no-debemos-creernos-el-cuento-de-que-nos",
-      "fecha": "Mon, 28 Sep 2026",
-      "fechaISO": "2026-09-28T22:04:23+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "\"Ha respondido lo que ha querido\" y \"usted no es el Presidente de la República\": los momentos que marcaron la inédita interpelación al canciller Pérez Mackenna",
+      "texto": "“Ha contestado lo que ha querido” y “usted no es el Presidente”: lo que dejó la inédita interpelación al canciller",
       "link": "http://www.df.cl/economia-y-politica/congreso/ha-respondido-lo-que-ha-querido-y-usted-no-es-el-presidente-de-la",
-      "fecha": "Mon, 28 Sep 2026",
-      "fechaISO": "2026-09-28T21:40:13+00:00"
+      "fecha": "Tue, 29 Sep 2026",
+      "fechaISO": "2026-09-29T00:15:17+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Costa advierte de un escenario externo que se ha vuelto \"más complejo\" para la economía chilena",
-      "link": "http://www.df.cl/economia-y-politica/macro/costa-advierte-de-un-escenario-externo-que-se-ha-vuelto-mas-complejo-para",
+      "texto": "Cambios en gerencias, más contacto con afiliados y encuestas: cómo las AFP se preparan para la licitación de stock",
+      "link": "http://www.df.cl/mercados/pensiones/cambios-en-gerencias-mas-contacto-con-afiliados-y-encuestas-como-las-afp",
       "fecha": "Mon, 28 Sep 2026",
-      "fechaISO": "2026-09-28T21:00:45+00:00"
+      "fechaISO": "2026-09-28T23:43:01+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Kast lanza plan de US$ 1.300 millones para crear 100 mil empleos y tratar de contener la alta desocupación",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/mas-de-us-1-300-millones-en-inversion-y-crear-100-mil-empleos-las-medidas",
+      "fecha": "Mon, 28 Sep 2026",
+      "fechaISO": "2026-09-28T23:58:58+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Andes Iron cambia su estrategia y desiste de su recurso ante la Corte Suprema por Minera Dominga",
+      "link": "http://www.df.cl/empresas/mineria/andes-iron-pone-fin-a-ofensiva-judicial-ante-la-suprema-por-rechazo-a",
+      "fecha": "Tue, 29 Sep 2026",
+      "fechaISO": "2026-09-29T00:07:07+00:00"
     }
   ]
 }
