@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T18:21:12.247062+00:00",
+  "actualizado": "2026-09-29T21:19:03.829182+00:00",
   "macro": {
     "dolar": 969.7,
     "uf": 41049.01,
@@ -8,187 +8,187 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 319.66,
+      "precio": 322.0,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 195.6,
+      "precio": 195.02,
       "anterior": 197.9,
       "alto52": 202.0,
       "bajo52": 143.6
     },
     "BCI": {
-      "precio": 64746.0,
+      "precio": 64739.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
       "bajo52": 42200.0
     },
     "ITAUCL": {
-      "precio": 22677.0,
+      "precio": 23277.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
       "bajo52": 14680.0
     },
     "BSANTANDER": {
-      "precio": 81.77,
+      "precio": 81.92,
       "anterior": 81.82,
       "alto52": 84.4,
       "bajo52": 62.57
     },
     "CAP": {
-      "precio": 5245.0,
+      "precio": 5247.6,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 1916.3,
+      "precio": 1915.0,
       "anterior": 2090.0,
       "alto52": 3238.0,
-      "bajo52": 1914.2
+      "bajo52": 1910.0
     },
     "CENCOMALLS": {
-      "precio": 2246.5,
+      "precio": 2250.1,
       "anterior": 2240.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 145.26,
+      "precio": 146.18,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5210.4,
+      "precio": 5208.9,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.7,
+      "precio": 50.9,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4854.0,
+      "precio": 4835.0,
       "anterior": 4699.9,
       "alto52": 4962.2,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3975.0,
+      "precio": 3960.0,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 962.0,
+      "precio": 965.5,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 944.23
     },
     "COPEC": {
-      "precio": 6220.0,
+      "precio": 6219.5,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 83.57,
+      "precio": 82.5,
       "anterior": 90.0,
       "alto52": 98.5,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 83.05,
+      "precio": 81.35,
       "anterior": 81.53,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1836.7,
+      "precio": 1847.0,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1272.5
     },
     "FALABELLA": {
-      "precio": 6226.1,
+      "precio": 6150.0,
       "anterior": 6599.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 925.68,
+      "precio": 930.0,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 24850.0,
+      "precio": 24687.0,
       "anterior": 25000.0,
       "alto52": 25290.0,
       "bajo52": 12806.0
     },
     "LTM": {
-      "precio": 24.8,
+      "precio": 24.84,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3643.5,
+      "precio": 3630.0,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3564.7,
+      "precio": 3565.0,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4750.0,
+      "precio": 4819.0,
       "anterior": 4620.0,
-      "alto52": 4784.1,
+      "alto52": 4819.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 440.42,
+      "precio": 445.0,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1270.0,
+      "precio": 1280.0,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 900.12
     },
     "SMU": {
-      "precio": 116.66,
+      "precio": 115.2,
       "anterior": 117.5,
       "alto52": 169.5,
-      "bajo52": 115.4
+      "bajo52": 115.2
     },
     "SQM-B": {
-      "precio": 64088.0,
+      "precio": 64490.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 890.0,
+      "precio": 900.0,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7450.0,
+      "precio": 7405.5,
       "anterior": 7529.2,
       "alto52": 9000.0,
       "bajo52": 7363.2
@@ -212,7 +212,7 @@
       "bajo52": 20380.0
     },
     "FORUS": {
-      "precio": 1757.3,
+      "precio": 1769.6,
       "anterior": 1800.0,
       "alto52": 2510.0,
       "bajo52": 1757.3
@@ -248,19 +248,19 @@
       "bajo52": 110.0
     },
     "SK": {
-      "precio": 1609.1,
+      "precio": 1615.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 285.0,
+      "precio": 283.55,
       "anterior": 295.0,
       "alto52": 383.7,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1620.0,
+      "precio": 1620.1,
       "anterior": 1700.0,
       "alto52": 1749.0,
       "bajo52": 1330.0
@@ -302,31 +302,31 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 417.0,
+      "precio": 419.53,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1400.1,
+      "precio": 1407.8,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1239.0
     },
     "CFMITNIPSA": {
-      "precio": 5078.5,
+      "precio": 5081.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2130.0,
+      "precio": 2137.05,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
     },
     "CFIBTGRCA": {
-      "precio": 21700.0,
+      "precio": 21712.65,
       "anterior": 22277.52,
       "alto52": 28000.0,
       "bajo52": 21000.0
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Cámara aprobó devolución del IVA de pañales y medicamentos y Quiroz alabó al PDG",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/pdg/camara-aprobo-devolucion-del-iva-de-panales-y-medicamentos-y-quiroz/2026-09-29/160349.html",
+      "fecha": "Tue, 29 Sep 2026",
+      "fechaISO": "2026-09-29T19:03:49+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Presupuesto 2027: Schalper anticipa fin de programas y \"fraudes sociales\"",
       "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-schalper-anticipa-fin-de-programas-y-fraudes-sociales/2026-09-29/145408.html",
       "fecha": "Tue, 29 Sep 2026",
@@ -417,39 +424,32 @@
       "fechaISO": "2026-09-29T15:16:14+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Oposición valora giro de Kast en materia de empleo: Plan es \"profundamente progresista\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/oposicion-valora-giro-de-kast-en-materia-de-empleo-plan-es/2026-09-29/111808.html",
+      "fuente": "Diario Financiero",
+      "texto": "Pequeño proveedor demanda a Movistar por pagarle cinco veces menos que a un rival: pide multa de $ 939 millones",
+      "link": "http://www.df.cl/empresas/industria/proveedor-demanda-a-movistar-por-pagarle-cinco-veces-menos-que-a-un-rival",
       "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-29T14:18:08+00:00"
+      "fechaISO": "2026-09-29T21:15:00+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Manchester City habría inflado artificialmente sus finanzas en más de 900 millones de libras",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/manchester-city-habria-inflado-artificialmente-sus-finanzas-en-mas-de-900",
+      "texto": "IPSA cierra en rojo por cuarta sesión y arriesga perder los 11.000 puntos luego de que se reactivara la venta de bonos del Tesoro",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-33zbp",
       "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-29T18:17:40+00:00"
+      "fechaISO": "2026-09-29T20:12:29+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Exsubdirectora toma el timón de Indap y se convierte en la primera mujer en encabezarlo en sus más de seis décadas de historia",
-      "link": "http://www.df.cl/empresas/industria/exsubdirectora-toma-el-timon-de-indap-y-se-convierte-en-la-primera-mujer-en",
+      "texto": "Cámara Baja despacha al Senado proyecto del PDG que compensa la compra de medicamentos y pañales",
+      "link": "http://www.df.cl/economia-y-politica/congreso/camara-baja-despacha-al-senado-proyecto-del-pdg-que-compensa-la-compra-de",
       "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-29T18:08:09+00:00"
+      "fechaISO": "2026-09-29T19:36:19+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "En medio de controversia por retiro de reforma, Kast se reúne con presidentes comisiones de Constitución y Seguridad",
-      "link": "http://www.df.cl/economia-y-politica/congreso/en-medio-de-controversia-por-retiro-de-reforma-kast-se-reune-con",
-      "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-29T16:26:26+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar supera los $ 970 al inicio de la tarde mientras las tasas largas de EEUU siguen alcanzando máximos en décadas",
+      "texto": "Dólar supera los $ 970 y cierra en máximos de 13 meses frente al persistente auge de las tasas largas estadounidenses",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-89g7x",
       "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-29T17:55:14+00:00"
+      "fechaISO": "2026-09-29T19:54:17+00:00"
     }
   ]
 }
