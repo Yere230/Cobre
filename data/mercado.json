@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T21:19:03.829182+00:00",
+  "actualizado": "2026-09-29T23:48:23.960994+00:00",
   "macro": {
     "dolar": 969.7,
     "uf": 41049.01,
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Final feliz en Madrid: Maricarmen firmó acuerdo para volver a su hogar de toda la vida",
+      "link": "https://www.cooperativa.cl/noticias/mundo/espana/final-feliz-en-madrid-maricarmen-firmo-acuerdo-para-volver-a-su-hogar/2026-09-29/181100.html",
+      "fecha": "Tue, 29 Sep 2026",
+      "fechaISO": "2026-09-29T21:11:00+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Cámara aprobó devolución del IVA de pañales y medicamentos y Quiroz alabó al PDG",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/pdg/camara-aprobo-devolucion-del-iva-de-panales-y-medicamentos-y-quiroz/2026-09-29/160349.html",
       "fecha": "Tue, 29 Sep 2026",
@@ -417,39 +424,32 @@
       "fechaISO": "2026-09-29T15:38:25+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "\"Infidelidad financiera\": Cuando los problemas de dinero se esconden a la pareja",
-      "link": "https://www.cooperativa.cl/noticias/economia/consumidores/endeudamiento/infidelidad-financiera-cuando-los-problemas-de-dinero-se-esconden-a/2026-09-29/121614.html",
+      "fuente": "Diario Financiero",
+      "texto": "MOP detalla plan de empleo: vialidad concentra el 70% de la inversión y La Araucanía lidera entre las regiones",
+      "link": "http://www.df.cl/empresas/construccion/mop-detalla-plan-de-empleo-vialidad-concentra-el-70-de-la-inversion-y-la",
       "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-29T15:16:14+00:00"
+      "fechaISO": "2026-09-29T22:49:46+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Pequeño proveedor demanda a Movistar por pagarle cinco veces menos que a un rival: pide multa de $ 939 millones",
-      "link": "http://www.df.cl/empresas/industria/proveedor-demanda-a-movistar-por-pagarle-cinco-veces-menos-que-a-un-rival",
+      "texto": "Rau se reunió con RN: Ximena Ossandón propone fórmula intermedia para alcanzar acuerdo por sala cuna",
+      "link": "http://www.df.cl/economia-y-politica/congreso/rau-se-reunio-con-rn-para-abordar-materias-de-la-cartera-y-sala-cuna-tuvo",
       "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-29T21:15:00+00:00"
+      "fechaISO": "2026-09-29T22:59:29+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra en rojo por cuarta sesión y arriesga perder los 11.000 puntos luego de que se reactivara la venta de bonos del Tesoro",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-33zbp",
+      "texto": "Más del 60% de los megaproyectos aprobados este año enfrentan reclamaciones y alertan riesgo de judicialización",
+      "link": "http://www.df.cl/empresas/medio-ambiente/mas-del-60-de-los-megaproyectos-aprobados-este-ano-enfrentan-reclamaciones",
       "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-29T20:12:29+00:00"
+      "fechaISO": "2026-09-29T23:35:32+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Cámara Baja despacha al Senado proyecto del PDG que compensa la compra de medicamentos y pañales",
-      "link": "http://www.df.cl/economia-y-politica/congreso/camara-baja-despacha-al-senado-proyecto-del-pdg-que-compensa-la-compra-de",
+      "texto": "SAAM refuerza su flota en cinco países de América Latina y anuncia la llegada de nuevos remolcadores",
+      "link": "http://www.df.cl/empresas/industria/saam-refuerza-su-flota-en-cinco-paises-de-america-latina-y-anuncia-la",
       "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-29T19:36:19+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar supera los $ 970 y cierra en máximos de 13 meses frente al persistente auge de las tasas largas estadounidenses",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-89g7x",
-      "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-29T19:54:17+00:00"
+      "fechaISO": "2026-09-29T21:29:21+00:00"
     }
   ]
 }
