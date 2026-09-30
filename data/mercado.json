@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T21:20:16.391172+00:00",
+  "actualizado": "2026-09-30T23:59:44.760128+00:00",
   "macro": {
     "dolar": 970.5,
     "uf": 41057.2,
@@ -369,6 +369,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Cumbre en la Casa Blanca: los magnates que pactaron con Trump la expansión de la \"superinteligencia\"",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/cumbre-en-la-casa-blanca-los-magnates-que-pactaron-con-trump-la/2026-09-30/184227.html",
+      "fecha": "Wed, 30 Sep 2026",
+      "fechaISO": "2026-09-30T21:42:27+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Shein cae en la bolsa: aranceles y mayores costos golpean sus resultados",
       "link": "https://www.cooperativa.cl/noticias/economia/empresas/grupos-economicos/shein-cae-en-la-bolsa-aranceles-y-mayores-costos-golpean-sus-resultados/2026-09-29/072036.html",
       "fecha": "Tue, 29 Sep 2026",
@@ -389,11 +396,18 @@
       "fechaISO": "2026-09-25T14:10:01+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Emprendimiento chileno de productos para madres y guaguas llegó a EE.UU.",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/emprendimiento-chileno-de-productos-para-madres-y-guaguas-llego-a-ee-uu/2026-09-15/172212.html",
-      "fecha": "Tue, 15 Sep 2026",
-      "fechaISO": "2026-09-15T20:22:12+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "\"No se ve muy ambicioso\", dice académico UAI sobre el plan gubernamental para crear 100 mil empleos",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/no-se-ve-muy-ambicioso-dice-academico-uai-sobre-el-plan-gubernamental/2026-09-30/201630.html",
+      "fecha": "Wed, 30 Sep 2026",
+      "fechaISO": "2026-09-30T23:16:30+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Cumbre en la Casa Blanca: los magnates que pactaron con Trump la expansión de la \"superinteligencia\"",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/cumbre-en-la-casa-blanca-los-magnates-que-pactaron-con-trump-la/2026-09-30/184227.html",
+      "fecha": "Wed, 30 Sep 2026",
+      "fechaISO": "2026-09-30T21:42:27+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -410,46 +424,32 @@
       "fechaISO": "2026-09-30T20:01:40+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Presupuesto 2027: Gobierno ingresará erario con foco en empleo y oposición acusa cálculo \"tramposo\"",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-gobierno-ingresara-erario-con-foco-en-empleo-y/2026-09-30/145449.html",
+      "fuente": "Diario Financiero",
+      "texto": "Cambios en Fintual: exportfolio manager asume como gerente general de AGF y directivos clave se suman a proyecto AFP",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/cambios-en-fintual-exportfolio-manager-asume-como-gerente-general-de-agf-y",
       "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T17:54:49+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Arrastrada por la minería, la producción industrial cayó 5,7% en agosto",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/arrastrada-por-la-mineria-la-produccion-industrial-cayo-5-7-en-agosto/2026-09-30/124552.html",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T15:45:52+00:00"
+      "fechaISO": "2026-09-30T23:29:46+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Subtel se da plazo hasta fines de octubre para verificar si WOM cumplió con despliegue de la red 5G",
-      "link": "http://www.df.cl/empresas/industria/subtel-posterga-hasta-fines-de-octubre-el-veredicto-sobre-el-cumplimiento",
+      "texto": "56.253 documentos y 121 años de datos: Codelco detalla alcance de investigación sobre accidente en El Teniente",
+      "link": "http://www.df.cl/empresas/mineria/56-253-documentos-y-121-anos-de-datos-codelco-detalla-alcance-de",
       "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T21:16:58+00:00"
+      "fechaISO": "2026-09-30T23:12:13+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Grupo Falabella traspasa a Mallplaza el control de seis activos por US$ 200 millones y prepara expansión de este negocio",
-      "link": "http://www.df.cl/empresas/retail/falabella-traspasa-a-mallplaza-el-control-de-seis-activos-por-us-200",
+      "texto": "El creciente costo económico de criar a un hijo en Chile",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/el-creciente-costo-economico-de-criar-a-un-hijo-en-chile",
       "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T20:36:39+00:00"
+      "fechaISO": "2026-09-30T23:10:42+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Parque Arauco concreta compra de Mall Paseo Quilín a la familia Cousiño y Sergio Mujica",
-      "link": "http://www.df.cl/empresas/retail/parque-arauco-concreta-compra-de-mall-paseo-quilin-a-la-familia-cousino-y",
+      "texto": "El Presupuesto 2027 ya ingresó al Congreso y Quiroz defiende el alza de gasto de 1,5%: “Es coherente con nuestra meta de consolidación fiscal”",
+      "link": "http://www.df.cl/economia-y-politica/macro/el-presupuesto-2027-ya-ingreso-al-congreso-y-quiroz-defiende-el-alza-de",
       "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T20:31:03+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bolsa de Santiago cae por quinta sesión, pierde la marca de 11 mil puntos y termina septiembre en mínimos de dos meses",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-dgaeu",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T20:06:24+00:00"
+      "fechaISO": "2026-09-30T22:51:35+00:00"
     }
   ]
 }
