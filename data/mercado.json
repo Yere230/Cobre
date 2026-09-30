@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T18:10:46.056864+00:00",
+  "actualizado": "2026-09-30T21:20:16.391172+00:00",
   "macro": {
     "dolar": 970.5,
     "uf": 41057.2,
@@ -8,181 +8,181 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 320.68,
+      "precio": 321.5,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 194.82,
+      "precio": 194.5,
       "anterior": 197.9,
       "alto52": 200.7,
       "bajo52": 143.6
     },
     "BCI": {
-      "precio": 65449.0,
+      "precio": 64800.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
       "bajo52": 42200.0
     },
     "ITAUCL": {
-      "precio": 22956.0,
+      "precio": 23000.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
       "bajo52": 14800.0
     },
     "BSANTANDER": {
-      "precio": 81.26,
+      "precio": 81.35,
       "anterior": 81.82,
       "alto52": 84.4,
       "bajo52": 62.57
     },
     "CAP": {
-      "precio": 5232.2,
+      "precio": 5299.4,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 1917.9,
+      "precio": 1905.0,
       "anterior": 2090.0,
       "alto52": 3238.0,
-      "bajo52": 1913.0
+      "bajo52": 1900.0
     },
     "CENCOMALLS": {
-      "precio": 2205.0,
+      "precio": 2175.0,
       "anterior": 2240.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 148.9,
+      "precio": 147.5,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5112.2,
+      "precio": 5090.0,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.91,
+      "precio": 50.9,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4831.0,
+      "precio": 4780.1,
       "anterior": 4699.9,
       "alto52": 4889.6,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3970.0,
+      "precio": 3960.0,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 974.05,
+      "precio": 975.0,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 956.0
     },
     "COPEC": {
-      "precio": 6361.5,
+      "precio": 6300.0,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 82.6,
+      "precio": 82.2,
       "anterior": 90.0,
       "alto52": 97.0,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.6,
+      "precio": 81.8,
       "anterior": 81.53,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1856.0,
+      "precio": 1848.0,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1272.5
     },
     "FALABELLA": {
-      "precio": 6291.4,
+      "precio": 6224.0,
       "anterior": 6599.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 929.9,
+      "precio": 925.0,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 25129.0,
+      "precio": 24867.0,
       "anterior": 25000.0,
       "alto52": 25201.0,
       "bajo52": 12867.0
     },
     "LTM": {
-      "precio": 24.54,
+      "precio": 24.33,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3629.8,
+      "precio": 3505.0,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3617.2,
+      "precio": 3555.0,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4802.2,
+      "precio": 4797.9,
       "anterior": 4620.0,
       "alto52": 4882.7,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 449.7,
+      "precio": 448.22,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1299.5,
+      "precio": 1281.0,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 900.12
     },
     "SMU": {
-      "precio": 115.51,
+      "precio": 115.5,
       "anterior": 117.5,
       "alto52": 169.5,
-      "bajo52": 115.22
+      "bajo52": 115.12
     },
     "SQM-B": {
-      "precio": 63392.0,
+      "precio": 62900.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 900.97,
+      "precio": 895.0,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
@@ -194,7 +194,7 @@
       "bajo52": 7363.2
     },
     "ALMENDRAL": {
-      "precio": 24.0,
+      "precio": 24.44,
       "anterior": 24.5,
       "alto52": 34.0,
       "bajo52": 21.6
@@ -212,7 +212,7 @@
       "bajo52": 20380.0
     },
     "FORUS": {
-      "precio": 1770.0,
+      "precio": 1769.6,
       "anterior": 1800.0,
       "alto52": 2510.0,
       "bajo52": 1770.0
@@ -224,7 +224,7 @@
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 235.84,
+      "precio": 236.71,
       "anterior": 225.01,
       "alto52": 237.02,
       "bajo52": 110.68
@@ -248,19 +248,19 @@
       "bajo52": 110.0
     },
     "SK": {
-      "precio": 1614.4,
+      "precio": 1630.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 281.5,
+      "precio": 280.0,
       "anterior": 295.0,
       "alto52": 383.7,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1620.0,
+      "precio": 1640.0,
       "anterior": 1700.0,
       "alto52": 1749.0,
       "bajo52": 1330.0
@@ -302,31 +302,31 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 421.65,
+      "precio": 413.89,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1399.5,
+      "precio": 1400.4,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1240.0
     },
     "CFMITNIPSA": {
-      "precio": 5098.0,
+      "precio": 5086.9,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2160.0,
+      "precio": 2156.66,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
     },
     "CFIBTGRCA": {
-      "precio": 21500.0,
+      "precio": 21753.44,
       "anterior": 22194.19,
       "alto52": 28000.0,
       "bajo52": 21000.0
@@ -397,59 +397,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Suben todos los combustibles: con especial cuantía la parafina y el diésel",
+      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/suben-todos-los-combustibles-con-especial-cuantia-la-parafina-y-el/2026-09-30/171159.html",
+      "fecha": "Wed, 30 Sep 2026",
+      "fechaISO": "2026-09-30T20:11:59+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Sostenibilidad y Economía Circular: El nuevo horizonte del Distrito Industrial de Maipú",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/sostenibilidad-y-economia-circular-el-nuevo-horizonte-del-distrito/2026-09-30/170140.html",
+      "fecha": "Wed, 30 Sep 2026",
+      "fechaISO": "2026-09-30T20:01:40+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Presupuesto 2027: Gobierno ingresará erario con foco en empleo y oposición acusa cálculo \"tramposo\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-gobierno-ingresara-erario-con-foco-en-empleo-y/2026-09-30/145449.html",
+      "fecha": "Wed, 30 Sep 2026",
+      "fechaISO": "2026-09-30T17:54:49+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Arrastrada por la minería, la producción industrial cayó 5,7% en agosto",
       "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/arrastrada-por-la-mineria-la-produccion-industrial-cayo-5-7-en-agosto/2026-09-30/124552.html",
       "fecha": "Wed, 30 Sep 2026",
       "fechaISO": "2026-09-30T15:45:52+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Macaya y Presupuesto 2027: Los tiempos no están para derroches, pero tampoco para gustitos",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/macaya-y-presupuesto-2027-los-tiempos-no-estan-para-derroches-pero/2026-09-30/082257.html",
+      "fuente": "Diario Financiero",
+      "texto": "Subtel se da plazo hasta fines de octubre para verificar si WOM cumplió con despliegue de la red 5G",
+      "link": "http://www.df.cl/empresas/industria/subtel-posterga-hasta-fines-de-octubre-el-veredicto-sobre-el-cumplimiento",
       "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T11:22:57+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Impuesto de Mamdani a las segundas viviendas sufrió revés judicial",
-      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/impuesto-de-mamdani-a-las-segundas-viviendas-sufrio-reves-judicial/2026-09-30/003935.html",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T03:39:35+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Quiroz desdeña y desecha el Presupuesto de Boric como base de comparación para el reajuste 2027",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/quiroz-desdena-y-desecha-el-presupuesto-de-boric-como-base-de/2026-09-29/231950.html",
-      "fecha": "Tue, 29 Sep 2026",
-      "fechaISO": "2026-09-30T02:19:50+00:00"
+      "fechaISO": "2026-09-30T21:16:58+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar gira al alza y vuelve a cotizar sobre $ 970 a medida que las tasas largas de EEUU alcanzan nuevos máximos desde 2002",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-muvch",
+      "texto": "Grupo Falabella traspasa a Mallplaza el control de seis activos por US$ 200 millones y prepara expansión de este negocio",
+      "link": "http://www.df.cl/empresas/retail/falabella-traspasa-a-mallplaza-el-control-de-seis-activos-por-us-200",
       "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T16:46:01+00:00"
+      "fechaISO": "2026-09-30T20:36:39+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Las tasas largas de Chile se han vuelto \"considerablemente\" más atractivas tras su reciente escalada, según agentes del mercado",
-      "link": "http://www.df.cl/mercados/renta-fija/las-tasas-largas-de-chile-se-han-vuelto-considerablemente-mas-atractivas",
+      "texto": "Parque Arauco concreta compra de Mall Paseo Quilín a la familia Cousiño y Sergio Mujica",
+      "link": "http://www.df.cl/empresas/retail/parque-arauco-concreta-compra-de-mall-paseo-quilin-a-la-familia-cousino-y",
       "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T17:59:46+00:00"
+      "fechaISO": "2026-09-30T20:31:03+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Embajador Coloma confirma asistencia de Kast a Cumbre Iberoamericana en España y apela a estrechar lazos a pesar de diferencias políticas",
-      "link": "http://www.df.cl/economia-y-politica/politica/embajador-coloma-confirma-asistencia-de-kast-a-cumbre-iberoamericana-en",
+      "texto": "Bolsa de Santiago cae por quinta sesión, pierde la marca de 11 mil puntos y termina septiembre en mínimos de dos meses",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-dgaeu",
       "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T18:08:45+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Exfiscal de Delitos Económicos por Subsistema de Inteligencia: “Este proyecto avanza en capacidades para mayor detección, pero va a seguir habiendo operaciones Tokio”",
-      "link": "http://www.df.cl/economia-y-politica/congreso/exfiscal-de-delitos-economicos-por-subsistema-de-inteligencia-economica",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T16:48:15+00:00"
+      "fechaISO": "2026-09-30T20:06:24+00:00"
     }
   ]
 }
