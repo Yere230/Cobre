@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T21:42:35.740761+00:00",
+  "actualizado": "2026-10-01T23:58:51.690725+00:00",
   "macro": {
     "dolar": 972.6,
     "uf": 41065.38,
@@ -397,6 +397,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "El dólar escaló a su valor más alto desde abril de 2025",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/el-dolar-escalo-a-su-valor-mas-alto-desde-abril-de-2025/2026-10-01/201310.html",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T23:13:10+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Presupuesto: críticas transversales por drástico recorte para Liceos Bicentenario",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-criticas-transversales-por-drastico-recorte-para-liceos/2026-10-01/192209.html",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T22:22:09+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Premio Innovadoras en Salud 2026 destacó el liderazgo científico femenino en Chile",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/premio-innovadoras-en-salud-2026-destaco-el-liderazgo-cientifico/2026-10-01/170330.html",
       "fecha": "Thu, 01 Oct 2026",
@@ -410,46 +424,32 @@
       "fechaISO": "2026-10-01T18:48:24+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Experto descartó recesión en la minería chilena: el repunte productivo impulsará la economía",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/experto-descarto-recesion-en-la-mineria-chilena-el-repunte-productivo/2026-10-01/130658.html",
+      "fuente": "Diario Financiero",
+      "texto": "Con mayor consumo y espacio para crecer, Perú gana terreno en los planes de expansión de los retailers chilenos",
+      "link": "http://www.df.cl/empresas/retail/con-mayor-consumo-y-espacio-para-crecer-peru-gana-terreno-en-los-planes-de",
       "fecha": "Thu, 01 Oct 2026",
-      "fechaISO": "2026-10-01T16:06:58+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "\"Balde de agua fría\" y \"año perdido\": Economistas reaccionan al Imacec",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/balde-de-agua-fria-y-ano-perdido-economistas-reaccionan-al-imacec/2026-10-01/110430.html",
-      "fecha": "Thu, 01 Oct 2026",
-      "fechaISO": "2026-10-01T14:04:30+00:00"
+      "fechaISO": "2026-10-01T23:30:05+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Mónica Hodor, la mujer que logró retener la concesión de Enel Distribución, renuncia a poco más de un año de asumir la gerencia general",
-      "link": "http://www.df.cl/empresas/energia/monica-hodor-la-mujer-que-logro-retener-la-concesion-de-enel-distribucion",
+      "texto": "Reforma al mercado de capitales avanza en la Cámara, pero Fonavi concentra reparos por su diseño y riesgo fiscal",
+      "link": "http://www.df.cl/mercados/banca-fintech/comision-de-hacienda-de-la-camara-aprueba-con-mayoria-la-reforma-al-mercado",
       "fecha": "Thu, 01 Oct 2026",
-      "fechaISO": "2026-10-01T21:28:27+00:00"
+      "fechaISO": "2026-10-01T23:25:20+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena cierra en rojo por sexta vez consecutiva tras nueva caída del Imacec y una persistente incertidumbre global",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ayfan",
+      "texto": "Contraloría visa cambios a la ordenanza de construcciones con los que el gobierno busca reducir los precios de los inmuebles y reactivar al sector",
+      "link": "http://www.df.cl/empresas/construccion/contraloria-visa-cambios-a-la-ordenanza-de-construcciones-con-los-que-el",
       "fecha": "Thu, 01 Oct 2026",
-      "fechaISO": "2026-10-01T20:16:40+00:00"
+      "fechaISO": "2026-10-01T23:53:00+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "La execonomista jefe de Quiñenco, un Azul Azul y una exCMF: los nuevos inscritos en el registro para ser elegido por las AFP como director",
-      "link": "http://www.df.cl/mercados/pensiones/la-execonomista-jefe-de-quinenco-un-azul-azul-y-una-excmf-los-nuevos",
+      "texto": "Mina Sierra Gorda da el vamos a ampliación por US$ 725 millones y Kast recalca que \"hemos demostrado que Chile es un país confiable\"",
+      "link": "http://www.df.cl/empresas/mineria/mina-sierra-gorda-da-el-vamos-a-ampliacion-por-us-725-millones-y-kast",
       "fecha": "Thu, 01 Oct 2026",
-      "fechaISO": "2026-10-01T21:34:26+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Crisis de Metropol activa plan de contingencia en Red y abre dudas sobre la salud financiera de los operadores",
-      "link": "http://www.df.cl/empresas/industria/crisis-de-metropol-activa-plan-de-contingencia-en-red-y-abre-dudas-sobre-la",
-      "fecha": "Thu, 01 Oct 2026",
-      "fechaISO": "2026-10-01T20:00:26+00:00"
+      "fechaISO": "2026-10-01T23:37:47+00:00"
     }
   ]
 }
