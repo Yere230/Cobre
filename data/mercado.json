@@ -1,92 +1,92 @@
 {
-  "actualizado": "2026-09-30T23:59:44.760128+00:00",
+  "actualizado": "2026-10-01T18:36:27.292036+00:00",
   "macro": {
-    "dolar": 970.5,
-    "uf": 41057.2,
-    "utm": 71721,
-    "cobre": 6.55
+    "dolar": 972.6,
+    "uf": 41065.38,
+    "utm": 72151,
+    "cobre": 6.57
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 321.5,
+      "precio": 318.16,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 194.5,
+      "precio": 190.46,
       "anterior": 197.9,
       "alto52": 200.7,
       "bajo52": 143.6
     },
     "BCI": {
-      "precio": 64800.0,
+      "precio": 64070.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
       "bajo52": 42200.0
     },
     "ITAUCL": {
-      "precio": 23000.0,
+      "precio": 22532.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
-      "bajo52": 14800.0
+      "bajo52": 14905.0
     },
     "BSANTANDER": {
-      "precio": 81.35,
+      "precio": 79.92,
       "anterior": 81.82,
       "alto52": 84.4,
       "bajo52": 62.57
     },
     "CAP": {
-      "precio": 5299.4,
+      "precio": 5231.9,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 1905.0,
+      "precio": 1900.0,
       "anterior": 2090.0,
       "alto52": 3238.0,
-      "bajo52": 1900.0
+      "bajo52": 1862.2
     },
     "CENCOMALLS": {
-      "precio": 2175.0,
+      "precio": 2176.0,
       "anterior": 2240.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 147.5,
+      "precio": 147.42,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5090.0,
+      "precio": 5132.9,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.9,
+      "precio": 50.83,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4780.1,
+      "precio": 4711.9,
       "anterior": 4699.9,
-      "alto52": 4889.6,
+      "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 3960.0,
+      "precio": 4040.0,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 975.0,
+      "precio": 973.0,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 956.0
@@ -98,109 +98,109 @@
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 82.2,
+      "precio": 81.74,
       "anterior": 90.0,
-      "alto52": 97.0,
+      "alto52": 94.89,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.8,
+      "precio": 81.89,
       "anterior": 81.53,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1848.0,
+      "precio": 1840.0,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1272.5
     },
     "FALABELLA": {
-      "precio": 6224.0,
+      "precio": 6375.0,
       "anterior": 6599.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 925.0,
+      "precio": 909.13,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 24867.0,
+      "precio": 24800.0,
       "anterior": 25000.0,
-      "alto52": 25201.0,
+      "alto52": 25000.0,
       "bajo52": 12867.0
     },
     "LTM": {
-      "precio": 24.33,
+      "precio": 23.51,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3505.0,
+      "precio": 3607.3,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3555.0,
+      "precio": 3563.2,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4797.9,
+      "precio": 4747.6,
       "anterior": 4620.0,
-      "alto52": 4882.7,
+      "alto52": 4840.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 448.22,
+      "precio": 444.88,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1281.0,
+      "precio": 1280.1,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 900.12
     },
     "SMU": {
-      "precio": 115.5,
+      "precio": 114.0,
       "anterior": 117.5,
       "alto52": 169.5,
-      "bajo52": 115.12
+      "bajo52": 113.58
     },
     "SQM-B": {
-      "precio": 62900.0,
+      "precio": 62714.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 895.0,
+      "precio": 890.43,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7424.0,
+      "precio": 7383.0,
       "anterior": 7529.2,
       "alto52": 9000.0,
       "bajo52": 7363.2
     },
     "ALMENDRAL": {
-      "precio": 24.44,
+      "precio": 24.0,
       "anterior": 24.5,
       "alto52": 34.0,
       "bajo52": 21.6
     },
     "CAMANCHACA": {
-      "precio": 82.0,
+      "precio": 82.43,
       "anterior": 82.0,
       "alto52": 96.88,
       "bajo52": 59.01
@@ -212,21 +212,21 @@
       "bajo52": 20380.0
     },
     "FORUS": {
-      "precio": 1769.6,
+      "precio": 1770.0,
       "anterior": 1800.0,
       "alto52": 2510.0,
       "bajo52": 1770.0
     },
     "HITES": {
-      "precio": 129.04,
+      "precio": 128.05,
       "anterior": 133.01,
       "alto52": 146.09,
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 236.71,
+      "precio": 239.29,
       "anterior": 225.01,
-      "alto52": 237.02,
+      "alto52": 239.29,
       "bajo52": 110.68
     },
     "MASISA": {
@@ -242,25 +242,25 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 167.0,
+      "precio": 166.0,
       "anterior": 174.99,
       "alto52": 185.29,
       "bajo52": 110.0
     },
     "SK": {
-      "precio": 1630.0,
+      "precio": 1577.9,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 280.0,
+      "precio": 278.2,
       "anterior": 295.0,
       "alto52": 383.7,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1640.0,
+      "precio": 1680.0,
       "anterior": 1700.0,
       "alto52": 1749.0,
       "bajo52": 1330.0
@@ -296,38 +296,38 @@
       "bajo52": 217.48
     },
     "INVERCAP": {
-      "precio": 1630.0,
+      "precio": 1626.0,
       "anterior": 1582.5,
       "alto52": 2278.8,
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 413.89,
+      "precio": 415.0,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1400.4,
+      "precio": 1400.0,
       "anterior": 1391.0,
       "alto52": 1600.0,
-      "bajo52": 1240.0
+      "bajo52": 1248.0
     },
     "CFMITNIPSA": {
-      "precio": 5086.9,
+      "precio": 5017.9,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2156.66,
+      "precio": 2165.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
     },
     "CFIBTGRCA": {
-      "precio": 21753.44,
-      "anterior": 22194.19,
+      "precio": 21900.0,
+      "anterior": 22099.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
     },
@@ -369,6 +369,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Elon Musk diseñará armas futuristas para el Pentágono",
+      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elon-musk-disenara-armas-futuristas-para-el-pentagono/2026-10-01/002111.html",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T03:21:11+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Cumbre en la Casa Blanca: los magnates que pactaron con Trump la expansión de la \"superinteligencia\"",
       "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/cumbre-en-la-casa-blanca-los-magnates-que-pactaron-con-trump-la/2026-09-30/184227.html",
       "fecha": "Wed, 30 Sep 2026",
@@ -389,67 +396,60 @@
       "fechaISO": "2026-09-29T01:35:18+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Comercio da cuenta de caída de los delitos contra el sector",
-      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/comercio-da-cuenta-de-caida-de-los-delitos-contra-el-sector/2026-09-25/111001.html",
-      "fecha": "Fri, 25 Sep 2026",
-      "fechaISO": "2026-09-25T14:10:01+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Experto descartó recesión en la minería chilena: el repunte productivo impulsará la economía",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/experto-descarto-recesion-en-la-mineria-chilena-el-repunte-productivo/2026-10-01/130658.html",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T16:06:58+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "\"No se ve muy ambicioso\", dice académico UAI sobre el plan gubernamental para crear 100 mil empleos",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/no-se-ve-muy-ambicioso-dice-academico-uai-sobre-el-plan-gubernamental/2026-09-30/201630.html",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T23:16:30+00:00"
+      "texto": "\"Balde de agua fría\" y \"año perdido\": Economistas reaccionan al Imacec",
+      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/balde-de-agua-fria-y-ano-perdido-economistas-reaccionan-al-imacec/2026-10-01/110430.html",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T14:04:30+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Cumbre en la Casa Blanca: los magnates que pactaron con Trump la expansión de la \"superinteligencia\"",
-      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/cumbre-en-la-casa-blanca-los-magnates-que-pactaron-con-trump-la/2026-09-30/184227.html",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T21:42:27+00:00"
+      "texto": "¿Cuándo será el Cyber Monday 2026 en Chile y cómo aprovecharlo?",
+      "link": "https://www.cooperativa.cl/noticias/economia/retail/comercio/cuando-sera-el-cyber-monday-2026-en-chile-y-como-aprovecharlo/2026-10-01/104959.html",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T13:49:59+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Suben todos los combustibles: con especial cuantía la parafina y el diésel",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/suben-todos-los-combustibles-con-especial-cuantia-la-parafina-y-el/2026-09-30/171159.html",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T20:11:59+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Sostenibilidad y Economía Circular: El nuevo horizonte del Distrito Industrial de Maipú",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/sostenibilidad-y-economia-circular-el-nuevo-horizonte-del-distrito/2026-09-30/170140.html",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T20:01:40+00:00"
+      "texto": "Presupuesto 2027: Marcel advierte que cambio de base comparativa puede llevar a \"confusión\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-marcel-advierte-que-cambio-de-base-comparativa-puede/2026-10-01/093439.html",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T12:34:39+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Cambios en Fintual: exportfolio manager asume como gerente general de AGF y directivos clave se suman a proyecto AFP",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/cambios-en-fintual-exportfolio-manager-asume-como-gerente-general-de-agf-y",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T23:29:46+00:00"
+      "texto": "CEO de Copec ante el nuevo ritmo de la descarbonización: “Me cuesta pensar que los combustibles fósiles se vayan a eliminar”",
+      "link": "http://www.df.cl/empresas/energia/ceo-de-copec-ante-el-nuevo-ritmo-de-la-descarbonizacion-me-cuesta-pensar",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T17:01:27+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "56.253 documentos y 121 años de datos: Codelco detalla alcance de investigación sobre accidente en El Teniente",
-      "link": "http://www.df.cl/empresas/mineria/56-253-documentos-y-121-anos-de-datos-codelco-detalla-alcance-de",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T23:12:13+00:00"
+      "texto": "Dólar se dispara $ 12 al inicio de la tarde por compras globales de la divisa y la caída del Imacec en agosto",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-juxmp",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T17:35:48+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El creciente costo económico de criar a un hijo en Chile",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/el-creciente-costo-economico-de-criar-a-un-hijo-en-chile",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T23:10:42+00:00"
+      "texto": "Presupuesto 2027: Quiroz admite que el gasto público crecería un 2,7% si se compara con el erario aprobado por el Congreso",
+      "link": "http://www.df.cl/economia-y-politica/macro/presupuesto-2027-quiroz-reconoce-que-el-gasto-publico-creceria-un-2-7-si",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T17:01:29+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El Presupuesto 2027 ya ingresó al Congreso y Quiroz defiende el alza de gasto de 1,5%: “Es coherente con nuestra meta de consolidación fiscal”",
-      "link": "http://www.df.cl/economia-y-politica/macro/el-presupuesto-2027-ya-ingreso-al-congreso-y-quiroz-defiende-el-alza-de",
-      "fecha": "Wed, 30 Sep 2026",
-      "fechaISO": "2026-09-30T22:51:35+00:00"
+      "texto": "IPSA sigue perdiendo terreno bajo los 11 mil puntos a medida que las ventas se apoderan de todos los mercados bursátiles",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ayfan",
+      "fecha": "Thu, 01 Oct 2026",
+      "fechaISO": "2026-10-01T18:30:10+00:00"
     }
   ]
 }
