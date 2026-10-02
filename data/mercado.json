@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T21:14:03.731932+00:00",
+  "actualizado": "2026-10-02T23:52:54.572057+00:00",
   "macro": {
     "dolar": 983.8,
     "uf": 41073.57,
@@ -341,6 +341,13 @@
   "noticias": [
     {
       "fuente": "Cooperativa · Bolsas",
+      "texto": "Dólar amenaza con alcanzar la luca: \"No hay nada que le dé soporte al peso\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-amenaza-con-alcanzar-la-luca-no-hay-nada-que-le-de-soporte-al/2026-10-02/184944.html",
+      "fecha": "Fri, 02 Oct 2026",
+      "fechaISO": "2026-10-02T21:49:44+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Bolsas",
       "texto": "Las grandes tecnológicas enfrían su salto a bolsa ante el debate sobre regular la IA",
       "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/las-grandes-tecnologicas-enfrian-su-salto-a-bolsa-ante-el-debate-sobre/2026-09-16/205101.html",
       "fecha": "Wed, 16 Sep 2026",
@@ -359,13 +366,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/bolsas/elon-musk-se-convirtio-en-el-primer-billonario-del-mundo-tras-salida-a/2026-06-12/172053.html",
       "fecha": "Fri, 12 Jun 2026",
       "fechaISO": "2026-06-12T21:20:53+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Bolsas",
-      "texto": "SpaceX protagonizará la mayor salida a bolsa de la historia en medio de protestas contra su IA",
-      "link": "https://www.cooperativa.cl/noticias/economia/bolsas/spacex-protagonizara-la-mayor-salida-a-bolsa-de-la-historia-en-medio-de/2026-06-11/171625.html",
-      "fecha": "Thu, 11 Jun 2026",
-      "fechaISO": "2026-06-11T21:16:25+00:00"
     },
     {
       "fuente": "Cooperativa · Empresas",
@@ -397,6 +397,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "\"Partir con Equidad\" busca terminar con la brecha de financiamiento en la educación parvularia",
+      "link": "https://www.cooperativa.cl/noticias/pais/educacion/partir-con-equidad-busca-terminar-con-la-brecha-de-financiamiento-en/2026-10-02/191916.html",
+      "fecha": "Fri, 02 Oct 2026",
+      "fechaISO": "2026-10-02T22:19:16+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Dólar amenaza con alcanzar la luca: \"No hay nada que le dé soporte al peso\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-amenaza-con-alcanzar-la-luca-no-hay-nada-que-le-de-soporte-al/2026-10-02/184944.html",
+      "fecha": "Fri, 02 Oct 2026",
+      "fechaISO": "2026-10-02T21:49:44+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Sofofa y Corfo impulsan la biotecnología chilena en los mercados globales",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/sofofa-y-corfo-impulsan-la-biotecnologia-chilena-en-los-mercados-globales/2026-10-02/164856.html",
       "fecha": "Fri, 02 Oct 2026",
@@ -410,18 +424,11 @@
       "fechaISO": "2026-10-02T17:27:43+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "El dólar escaló a su valor más alto desde abril de 2025",
-      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/el-dolar-escalo-a-su-valor-mas-alto-desde-abril-de-2025/2026-10-01/201310.html",
-      "fecha": "Thu, 01 Oct 2026",
-      "fechaISO": "2026-10-01T23:13:10+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Presupuesto: críticas transversales por drástico recorte para Liceos Bicentenario",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-criticas-transversales-por-drastico-recorte-para-liceos/2026-10-01/192209.html",
-      "fecha": "Thu, 01 Oct 2026",
-      "fechaISO": "2026-10-01T22:22:09+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Administradora de Espacio Riesco se queda con la operación del Centro de Convenciones de Lima por 15 años",
+      "link": "http://www.df.cl/empresas/industria/administradora-de-espacio-riesco-se-queda-con-la-operacion-del-centro-de",
+      "fecha": "Fri, 02 Oct 2026",
+      "fechaISO": "2026-10-02T21:40:12+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -443,13 +450,6 @@
       "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-a-punto-de-promulgarse-tc-entrega-sentencia-y",
       "fecha": "Fri, 02 Oct 2026",
       "fechaISO": "2026-10-02T18:41:01+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Quiroz admite que el PIB crecerá por debajo del 1% este año, pero mejora proyección para el 2027 a una expansión de 3,3%",
-      "link": "http://www.df.cl/economia-y-politica/macro/quiroz-admite-que-el-pib-crecera-por-debajo-del-1-este-ano-pero-mejora",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T20:16:17+00:00"
     }
   ]
 }
