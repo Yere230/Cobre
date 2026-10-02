@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T18:05:47.913437+00:00",
+  "actualizado": "2026-10-02T21:14:03.731932+00:00",
   "macro": {
     "dolar": 983.8,
     "uf": 41073.57,
@@ -8,49 +8,49 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 320.96,
+      "precio": 326.0,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 189.03,
+      "precio": 189.5,
       "anterior": 197.9,
       "alto52": 200.7,
       "bajo52": 144.1
     },
     "BCI": {
-      "precio": 64623.0,
+      "precio": 64100.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
       "bajo52": 42200.0
     },
     "ITAUCL": {
-      "precio": 22914.0,
+      "precio": 22850.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
       "bajo52": 15169.0
     },
     "BSANTANDER": {
-      "precio": 79.0,
+      "precio": 78.8,
       "anterior": 81.82,
       "alto52": 84.4,
       "bajo52": 62.76
     },
     "CAP": {
-      "precio": 5291.4,
+      "precio": 5300.0,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 1903.7,
+      "precio": 1899.9,
       "anterior": 2090.0,
       "alto52": 3238.0,
       "bajo52": 1862.7
     },
     "CENCOMALLS": {
-      "precio": 2172.5,
+      "precio": 2170.5,
       "anterior": 2240.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
@@ -62,7 +62,7 @@
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5205.6,
+      "precio": 5203.6,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
@@ -74,133 +74,133 @@
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4763.3,
+      "precio": 4780.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 4187.4,
+      "precio": 4200.0,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 976.69,
+      "precio": 975.0,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 956.0
     },
     "COPEC": {
-      "precio": 6358.1,
+      "precio": 6315.0,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 81.38,
+      "precio": 84.9,
       "anterior": 90.0,
       "alto52": 94.89,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.79,
+      "precio": 81.11,
       "anterior": 81.53,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1865.8,
+      "precio": 1885.0,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1272.5
     },
     "FALABELLA": {
-      "precio": 6313.3,
+      "precio": 6340.0,
       "anterior": 6599.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 907.53,
+      "precio": 900.0,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 24936.0,
+      "precio": 24805.0,
       "anterior": 25000.0,
       "alto52": 25124.0,
       "bajo52": 12867.0
     },
     "LTM": {
-      "precio": 23.64,
+      "precio": 23.5,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3643.2,
+      "precio": 3639.9,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3573.7,
+      "precio": 3589.0,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4740.3,
+      "precio": 4740.0,
       "anterior": 4620.0,
       "alto52": 4811.9,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 440.34,
+      "precio": 444.0,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1270.0,
+      "precio": 1275.0,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 900.12
     },
     "SMU": {
-      "precio": 115.92,
+      "precio": 116.99,
       "anterior": 117.5,
       "alto52": 169.5,
       "bajo52": 114.0
     },
     "SQM-B": {
-      "precio": 63664.0,
+      "precio": 63840.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 894.0,
+      "precio": 897.41,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7398.0,
+      "precio": 7313.9,
       "anterior": 7529.2,
       "alto52": 9000.0,
       "bajo52": 7269.3
     },
     "ALMENDRAL": {
-      "precio": 24.54,
+      "precio": 24.0,
       "anterior": 24.5,
       "alto52": 34.0,
       "bajo52": 22.1
     },
     "CAMANCHACA": {
-      "precio": 82.43,
+      "precio": 82.44,
       "anterior": 82.0,
       "alto52": 96.88,
       "bajo52": 59.01
@@ -212,19 +212,19 @@
       "bajo52": 20380.0
     },
     "FORUS": {
-      "precio": 1760.0,
+      "precio": 1759.9,
       "anterior": 1800.0,
       "alto52": 2510.0,
-      "bajo52": 1760.0
+      "bajo52": 1735.0
     },
     "HITES": {
-      "precio": 129.6,
+      "precio": 131.0,
       "anterior": 133.01,
       "alto52": 146.09,
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 238.08,
+      "precio": 235.78,
       "anterior": 225.01,
       "alto52": 238.08,
       "bajo52": 110.68
@@ -260,13 +260,13 @@
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1620.2,
+      "precio": 1685.0,
       "anterior": 1700.0,
       "alto52": 1749.0,
       "bajo52": 1330.0
     },
     "CRISTALES": {
-      "precio": 2000.0,
+      "precio": 2100.0,
       "anterior": 2000.0,
       "alto52": 2800.0,
       "bajo52": 2000.0
@@ -284,7 +284,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 92.9,
+      "precio": 92.94,
       "anterior": 95.7,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -302,31 +302,31 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 420.25,
+      "precio": 420.09,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1422.9,
+      "precio": 1400.8,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5045.1,
+      "precio": 5032.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2160.0,
+      "precio": 2160.07,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
     },
     "CFIBTGRCA": {
-      "precio": 22100.0,
+      "precio": 21900.0,
       "anterior": 22100.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
@@ -397,6 +397,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Sofofa y Corfo impulsan la biotecnología chilena en los mercados globales",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/sofofa-y-corfo-impulsan-la-biotecnologia-chilena-en-los-mercados-globales/2026-10-02/164856.html",
+      "fecha": "Fri, 02 Oct 2026",
+      "fechaISO": "2026-10-02T19:48:56+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Presidente Kast ante caída de la economía: \"Soy siempre un optimista compulsivo\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-kast-ante-caida-de-la-economia-soy-siempre-un-optimista/2026-10-02/142743.html",
+      "fecha": "Fri, 02 Oct 2026",
+      "fechaISO": "2026-10-02T17:27:43+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "El dólar escaló a su valor más alto desde abril de 2025",
       "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/el-dolar-escalo-a-su-valor-mas-alto-desde-abril-de-2025/2026-10-01/201310.html",
       "fecha": "Thu, 01 Oct 2026",
@@ -410,46 +424,32 @@
       "fechaISO": "2026-10-01T22:22:09+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Premio Innovadoras en Salud 2026 destacó el liderazgo científico femenino en Chile",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/premio-innovadoras-en-salud-2026-destaco-el-liderazgo-cientifico/2026-10-01/170330.html",
-      "fecha": "Thu, 01 Oct 2026",
-      "fechaISO": "2026-10-01T20:03:30+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Bolsa chilena cierra con alza marginal y logra descontinuar seis jornadas de pérdidas tras débiles cifras de empleo en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-k938r",
+      "fecha": "Fri, 02 Oct 2026",
+      "fechaISO": "2026-10-02T20:07:29+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Kast ante marcha estudiantil: \"Hemos hecho todo por mantener los derechos sociales\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/kast-ante-marcha-estudiantil-hemos-hecho-todo-por-mantener-los/2026-10-01/154824.html",
-      "fecha": "Thu, 01 Oct 2026",
-      "fechaISO": "2026-10-01T18:48:24+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "A un paso de los cuatro dígitos: dólar supera los $ 990 con un alza semanal de casi $ 30 y cierra en nuevos máximos desde abril de 2025",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-96t3c",
+      "fecha": "Fri, 02 Oct 2026",
+      "fechaISO": "2026-10-02T19:22:54+00:00"
     },
     {
       "fuente": "Diario Financiero",
       "texto": "Ley de Reconstrucción a punto de promulgarse: TC entrega sentencia pero sorprende eliminando las condiciones para compensar a municipios por fin de contribuciones",
       "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-a-punto-de-promulgarse-tc-entrega-sentencia-y",
       "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T17:57:01+00:00"
+      "fechaISO": "2026-10-02T18:41:01+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Industria inmobiliaria prevé nuevo impulso a la inversión tras toma de razón a la OGUC, pero queda atenta a reacción de municipios",
-      "link": "http://www.df.cl/empresas/construccion/industria-inmobiliaria-preve-nuevo-impulso-a-la-inversion-tras-toma-de",
+      "texto": "Quiroz admite que el PIB crecerá por debajo del 1% este año, pero mejora proyección para el 2027 a una expansión de 3,3%",
+      "link": "http://www.df.cl/economia-y-politica/macro/quiroz-admite-que-el-pib-crecera-por-debajo-del-1-este-ano-pero-mejora",
       "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T16:41:36+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar borra caída inicial y supera los $ 990 en medio de la volatilidad global tras últimos datos de empleo estadounidenses",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-96t3c",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T16:27:19+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA arriesga una séptima sesión en rojo mientras las tasas largas de EEUU se rehúsan a caer tras débiles cifras de empleo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-k938r",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T16:00:23+00:00"
+      "fechaISO": "2026-10-02T20:16:17+00:00"
     }
   ]
 }
