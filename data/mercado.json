@@ -1,203 +1,203 @@
 {
-  "actualizado": "2026-10-02T23:52:54.572057+00:00",
+  "actualizado": "2026-10-05T20:56:11.162064+00:00",
   "macro": {
-    "dolar": 983.8,
-    "uf": 41073.57,
+    "dolar": 984.8,
+    "uf": 41098.15,
     "utm": 72151,
-    "cobre": 6.56
+    "cobre": 6.48
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 326.0,
+      "precio": 320.0,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 189.5,
+      "precio": 191.98,
       "anterior": 197.9,
       "alto52": 200.7,
       "bajo52": 144.1
     },
     "BCI": {
-      "precio": 64100.0,
+      "precio": 65000.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
-      "bajo52": 42200.0
+      "bajo52": 42212.0
     },
     "ITAUCL": {
-      "precio": 22850.0,
+      "precio": 22725.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
       "bajo52": 15169.0
     },
     "BSANTANDER": {
-      "precio": 78.8,
+      "precio": 79.98,
       "anterior": 81.82,
       "alto52": 84.4,
       "bajo52": 62.76
     },
     "CAP": {
-      "precio": 5300.0,
+      "precio": 5299.0,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 5099.0
     },
     "CENCOSUD": {
-      "precio": 1899.9,
+      "precio": 1920.0,
       "anterior": 2090.0,
       "alto52": 3238.0,
-      "bajo52": 1862.7
+      "bajo52": 1917.4
     },
     "CENCOMALLS": {
-      "precio": 2170.5,
+      "precio": 2187.9,
       "anterior": 2240.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 147.5,
+      "precio": 147.0,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5203.6,
+      "precio": 5400.0,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 51.0,
+      "precio": 50.9,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4780.0,
+      "precio": 4900.0,
       "anterior": 4699.9,
-      "alto52": 4800.0,
+      "alto52": 4973.0,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 4200.0,
+      "precio": 4246.0,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 975.0,
+      "precio": 993.9,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 956.0
     },
     "COPEC": {
-      "precio": 6315.0,
+      "precio": 6400.0,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 84.9,
+      "precio": 89.0,
       "anterior": 90.0,
-      "alto52": 94.89,
+      "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.11,
+      "precio": 83.3,
       "anterior": 81.53,
       "alto52": 84.0,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1885.0,
+      "precio": 1875.3,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1272.5
     },
     "FALABELLA": {
-      "precio": 6340.0,
+      "precio": 6524.0,
       "anterior": 6599.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 900.0,
+      "precio": 908.55,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 24805.0,
+      "precio": 24700.0,
       "anterior": 25000.0,
-      "alto52": 25124.0,
+      "alto52": 25000.0,
       "bajo52": 12867.0
     },
     "LTM": {
-      "precio": 23.5,
+      "precio": 24.98,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3639.9,
+      "precio": 3740.0,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3589.0,
+      "precio": 3610.0,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4740.0,
+      "precio": 4790.0,
       "anterior": 4620.0,
-      "alto52": 4811.9,
+      "alto52": 4790.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 444.0,
+      "precio": 449.04,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1275.0,
+      "precio": 1309.0,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 900.12
     },
     "SMU": {
-      "precio": 116.99,
+      "precio": 115.0,
       "anterior": 117.5,
       "alto52": 169.5,
-      "bajo52": 114.0
+      "bajo52": 114.51
     },
     "SQM-B": {
-      "precio": 63840.0,
+      "precio": 64300.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 897.41,
+      "precio": 885.0,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7313.9,
+      "precio": 7340.0,
       "anterior": 7529.2,
       "alto52": 9000.0,
-      "bajo52": 7269.3
+      "bajo52": 7332.1
     },
     "ALMENDRAL": {
       "precio": 24.0,
       "anterior": 24.5,
       "alto52": 34.0,
-      "bajo52": 22.1
+      "bajo52": 23.4
     },
     "CAMANCHACA": {
       "precio": 82.44,
@@ -212,25 +212,25 @@
       "bajo52": 20380.0
     },
     "FORUS": {
-      "precio": 1759.9,
+      "precio": 1733.0,
       "anterior": 1800.0,
       "alto52": 2510.0,
-      "bajo52": 1735.0
+      "bajo52": 1733.0
     },
     "HITES": {
-      "precio": 131.0,
+      "precio": 136.0,
       "anterior": 133.01,
       "alto52": 146.09,
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 235.78,
+      "precio": 233.61,
       "anterior": 225.01,
-      "alto52": 238.08,
+      "alto52": 235.0,
       "bajo52": 110.68
     },
     "MASISA": {
-      "precio": 7.26,
+      "precio": 7.21,
       "anterior": 7.28,
       "alto52": 20.04,
       "bajo52": 7.18
@@ -242,19 +242,19 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 167.0,
+      "precio": 164.6,
       "anterior": 174.99,
       "alto52": 185.29,
       "bajo52": 110.0
     },
     "SK": {
-      "precio": 1608.3,
+      "precio": 1609.6,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 283.0,
+      "precio": 282.53,
       "anterior": 295.0,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -284,7 +284,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 92.94,
+      "precio": 92.89,
       "anterior": 95.7,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -296,38 +296,38 @@
       "bajo52": 217.48
     },
     "INVERCAP": {
-      "precio": 1622.3,
+      "precio": 1625.3,
       "anterior": 1582.5,
       "alto52": 2278.8,
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 420.09,
+      "precio": 420.44,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1400.8,
+      "precio": 1423.0,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5032.0,
+      "precio": 5095.3,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2160.07,
+      "precio": 2150.03,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
     },
     "CFIBTGRCA": {
-      "precio": 21900.0,
-      "anterior": 22100.0,
+      "precio": 22000.0,
+      "anterior": 21800.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
     },
@@ -369,6 +369,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Capacitación inmersiva busca reducir riesgos laborales en minería mediante gemelos digitales y realidad virtual",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/capacitacion-inmersiva-busca-reducir-riesgos-laborales-en-mineria/2026-10-05/165559.html",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T19:55:59+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Elon Musk diseñará armas futuristas para el Pentágono",
       "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elon-musk-disenara-armas-futuristas-para-el-pentagono/2026-10-01/002111.html",
       "fecha": "Thu, 01 Oct 2026",
@@ -389,67 +396,60 @@
       "fechaISO": "2026-09-29T10:20:36+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Nuevo capítulo de la teleserie Dominga: Andes Iron retiró acciones judiciales",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/nuevo-capitulo-de-la-teleserie-dominga-andes-iron-retiro-acciones/2026-09-28/223518.html",
-      "fecha": "Mon, 28 Sep 2026",
-      "fechaISO": "2026-09-29T01:35:18+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Evaluador apoya el fin de \"Yo Elijo Mi PC\": Lo más probable es que las familias igual comprarían uno",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/evaluador-apoya-el-fin-de-yo-elijo-mi-pc-lo-mas-probable-es-que-las/2026-10-05/164325.html",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T19:43:25+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "\"Partir con Equidad\" busca terminar con la brecha de financiamiento en la educación parvularia",
-      "link": "https://www.cooperativa.cl/noticias/pais/educacion/partir-con-equidad-busca-terminar-con-la-brecha-de-financiamiento-en/2026-10-02/191916.html",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T22:19:16+00:00"
+      "texto": "Capacitación inmersiva busca reducir riesgos laborales en minería mediante gemelos digitales y realidad virtual",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/capacitacion-inmersiva-busca-reducir-riesgos-laborales-en-mineria/2026-10-05/165559.html",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T19:55:59+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Dólar amenaza con alcanzar la luca: \"No hay nada que le dé soporte al peso\"",
-      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-amenaza-con-alcanzar-la-luca-no-hay-nada-que-le-de-soporte-al/2026-10-02/184944.html",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T21:49:44+00:00"
+      "texto": "Partido Liberal por \"Yo Elijo Mi PC\": ¿Cómo nadie alertó del impacto político?",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/partido-liberal-por-yo-elijo-mi-pc-como-nadie-alerto-del-impacto/2026-10-05/115441.html",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T14:54:41+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Sofofa y Corfo impulsan la biotecnología chilena en los mercados globales",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/sofofa-y-corfo-impulsan-la-biotecnologia-chilena-en-los-mercados-globales/2026-10-02/164856.html",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T19:48:56+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Presidente Kast ante caída de la economía: \"Soy siempre un optimista compulsivo\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-kast-ante-caida-de-la-economia-soy-siempre-un-optimista/2026-10-02/142743.html",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T17:27:43+00:00"
+      "texto": "Gobernadores regionales se reunieron con Hacienda ante inquietud por recortes en el Presupuesto 2027",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/gobernadores-regionales-se-reunieron-con-hacienda-ante-inquietud-por/2026-10-05/103043.html",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T13:30:43+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Administradora de Espacio Riesco se queda con la operación del Centro de Convenciones de Lima por 15 años",
-      "link": "http://www.df.cl/empresas/industria/administradora-de-espacio-riesco-se-queda-con-la-operacion-del-centro-de",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T21:40:12+00:00"
+      "texto": "Por qué la actividad económica cae en todas las regiones mineras salvo en Atacama, que sube casi 10%",
+      "link": "http://www.df.cl/empresas/mineria/por-que-la-actividad-economica-cae-en-todas-las-regiones-mineras-salvo-en",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T20:55:35+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena cierra con alza marginal y logra descontinuar seis jornadas de pérdidas tras débiles cifras de empleo en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-k938r",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T20:07:29+00:00"
+      "texto": "IPSA cierra al alza sobre los 11.000 puntos con Latam a la cabeza y Brasil disparado por triunfo de Bolsonaro",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsa-hoy",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T20:21:52+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "A un paso de los cuatro dígitos: dólar supera los $ 990 con un alza semanal de casi $ 30 y cierra en nuevos máximos desde abril de 2025",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-96t3c",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T19:22:54+00:00"
+      "texto": "Ley de Presupuestos pide autorización al Congreso para que el Fisco se endeude en hasta US$ 25.000 millones el próximo año",
+      "link": "http://www.df.cl/economia-y-politica/macro/ley-de-presupuestos-pide-autorizacion-al-congreso-para-que-el-fisco-se",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T20:54:17+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Ley de Reconstrucción a punto de promulgarse: TC entrega sentencia pero sorprende eliminando las condiciones para compensar a municipios por fin de contribuciones",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-a-punto-de-promulgarse-tc-entrega-sentencia-y",
-      "fecha": "Fri, 02 Oct 2026",
-      "fechaISO": "2026-10-02T18:41:01+00:00"
+      "texto": "Expresidente de Telefónica Chile asume como CEO de la matriz de las sanitarias Essbio, Esval, Nuevosur y Aguas del Valle",
+      "link": "http://www.df.cl/empresas/industria/expresidente-de-telefonica-chile-asume-como-ceo-de-la-matriz-de-las",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T20:00:29+00:00"
     }
   ]
 }
