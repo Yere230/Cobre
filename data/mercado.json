@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T20:56:11.162064+00:00",
+  "actualizado": "2026-10-05T23:05:52.715116+00:00",
   "macro": {
     "dolar": 984.8,
     "uf": 41098.15,
@@ -397,6 +397,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Usuarios reportan problemas durante varios días en sitio del banco Bci",
+      "link": "https://www.cooperativa.cl/noticias/economia/servicios-financieros/bancos/usuarios-reportan-problemas-durante-varios-dias-en-sitio-del-banco-bci/2026-10-05/193928.html",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T22:39:28+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "España es la punta del iceberg: ¿qué está haciendo Europa por la vivienda?",
+      "link": "https://www.cooperativa.cl/noticias/mundo/espana/espana-es-la-punta-del-iceberg-que-esta-haciendo-europa-por-la/2026-10-05/180208.html",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T21:02:08+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Evaluador apoya el fin de \"Yo Elijo Mi PC\": Lo más probable es que las familias igual comprarían uno",
       "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/evaluador-apoya-el-fin-de-yo-elijo-mi-pc-lo-mas-probable-es-que-las/2026-10-05/164325.html",
       "fecha": "Mon, 05 Oct 2026",
@@ -410,25 +424,25 @@
       "fechaISO": "2026-10-05T19:55:59+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Partido Liberal por \"Yo Elijo Mi PC\": ¿Cómo nadie alertó del impacto político?",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/partido-liberal-por-yo-elijo-mi-pc-como-nadie-alerto-del-impacto/2026-10-05/115441.html",
+      "fuente": "Diario Financiero",
+      "texto": "Expresidente de Telefónica Chile asume como CEO de la matriz de cuatro sanitarias: tienen el 36% de los clientes del país",
+      "link": "http://www.df.cl/empresas/industria/expresidente-de-telefonica-chile-asume-como-ceo-de-la-matriz-de-las",
       "fecha": "Mon, 05 Oct 2026",
-      "fechaISO": "2026-10-05T14:54:41+00:00"
+      "fechaISO": "2026-10-05T23:01:36+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Gobernadores regionales se reunieron con Hacienda ante inquietud por recortes en el Presupuesto 2027",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/gobernadores-regionales-se-reunieron-con-hacienda-ante-inquietud-por/2026-10-05/103043.html",
+      "fuente": "Diario Financiero",
+      "texto": "Kast se reúne con Sistema de Empresas Públicas y analiza alternativas para mejorar sus rendimientos",
+      "link": "http://www.df.cl/economia-y-politica/politica/kast-se-reune-con-sistema-de-empresas-publicas-y-analiza-alternativas-para",
       "fecha": "Mon, 05 Oct 2026",
-      "fechaISO": "2026-10-05T13:30:43+00:00"
+      "fechaISO": "2026-10-05T21:06:44+00:00"
     },
     {
       "fuente": "Diario Financiero",
       "texto": "Por qué la actividad económica cae en todas las regiones mineras salvo en Atacama, que sube casi 10%",
       "link": "http://www.df.cl/empresas/mineria/por-que-la-actividad-economica-cae-en-todas-las-regiones-mineras-salvo-en",
       "fecha": "Mon, 05 Oct 2026",
-      "fechaISO": "2026-10-05T20:55:35+00:00"
+      "fechaISO": "2026-10-05T22:38:22+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -436,20 +450,6 @@
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsa-hoy",
       "fecha": "Mon, 05 Oct 2026",
       "fechaISO": "2026-10-05T20:21:52+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Ley de Presupuestos pide autorización al Congreso para que el Fisco se endeude en hasta US$ 25.000 millones el próximo año",
-      "link": "http://www.df.cl/economia-y-politica/macro/ley-de-presupuestos-pide-autorizacion-al-congreso-para-que-el-fisco-se",
-      "fecha": "Mon, 05 Oct 2026",
-      "fechaISO": "2026-10-05T20:54:17+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Expresidente de Telefónica Chile asume como CEO de la matriz de las sanitarias Essbio, Esval, Nuevosur y Aguas del Valle",
-      "link": "http://www.df.cl/empresas/industria/expresidente-de-telefonica-chile-asume-como-ceo-de-la-matriz-de-las",
-      "fecha": "Mon, 05 Oct 2026",
-      "fechaISO": "2026-10-05T20:00:29+00:00"
     }
   ]
 }
