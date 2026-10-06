@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T18:40:16.416261+00:00",
+  "actualizado": "2026-10-06T21:31:16.356048+00:00",
   "macro": {
     "dolar": 977.2,
     "uf": 41106.35,
@@ -8,46 +8,46 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 322.61,
+      "precio": 320.0,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 189.9,
+      "precio": 190.0,
       "anterior": 197.9,
       "alto52": 200.7,
       "bajo52": 144.21
     },
     "BCI": {
-      "precio": 65136.0,
+      "precio": 65389.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
       "bajo52": 42589.0
     },
     "ITAUCL": {
-      "precio": 22711.0,
+      "precio": 22750.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
       "bajo52": 15169.0
     },
     "BSANTANDER": {
-      "precio": 79.21,
+      "precio": 78.51,
       "anterior": 81.82,
       "alto52": 84.4,
       "bajo52": 62.76
     },
     "CAP": {
-      "precio": 5200.1,
+      "precio": 5000.0,
       "anterior": 5390.0,
       "alto52": 8680.0,
-      "bajo52": 5099.0
+      "bajo52": 5000.0
     },
     "CENCOSUD": {
-      "precio": 1918.8,
+      "precio": 1900.0,
       "anterior": 2090.0,
       "alto52": 3238.0,
-      "bajo52": 1915.5
+      "bajo52": 1900.0
     },
     "CENCOMALLS": {
       "precio": 2212.0,
@@ -56,79 +56,79 @@
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 146.63,
+      "precio": 147.96,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5412.0,
+      "precio": 5413.2,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 51.09,
+      "precio": 52.14,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4970.1,
+      "precio": 4979.0,
       "anterior": 4699.9,
       "alto52": 4991.8,
       "bajo52": 3541.0
     },
     "ENTEL": {
-      "precio": 4177.9,
+      "precio": 4224.0,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 969.99,
+      "precio": 958.32,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 956.0
     },
     "COPEC": {
-      "precio": 6520.4,
+      "precio": 6530.0,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 88.47,
+      "precio": 89.9,
       "anterior": 90.0,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 83.58,
+      "precio": 86.49,
       "anterior": 81.53,
-      "alto52": 85.35,
+      "alto52": 86.49,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1853.0,
+      "precio": 1861.3,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1272.5
     },
     "FALABELLA": {
-      "precio": 6605.8,
+      "precio": 6563.0,
       "anterior": 6599.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 912.0,
+      "precio": 921.23,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 24825.0,
+      "precio": 24900.0,
       "anterior": 25000.0,
       "alto52": 25000.0,
       "bajo52": 12867.0
@@ -140,58 +140,58 @@
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3746.2,
+      "precio": 3760.0,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3612.0,
+      "precio": 3640.0,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4677.0,
+      "precio": 4760.0,
       "anterior": 4620.0,
       "alto52": 4835.5,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 450.91,
+      "precio": 456.52,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1270.0,
+      "precio": 1313.9,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 900.12
     },
     "SMU": {
-      "precio": 115.26,
+      "precio": 115.8,
       "anterior": 117.5,
       "alto52": 169.5,
       "bajo52": 114.87
     },
     "SQM-B": {
-      "precio": 64708.0,
+      "precio": 64900.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 863.0,
+      "precio": 868.1,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7355.0,
+      "precio": 7353.0,
       "anterior": 7529.2,
       "alto52": 9000.0,
-      "bajo52": 7350.0
+      "bajo52": 7321.7
     },
     "ALMENDRAL": {
       "precio": 24.6,
@@ -242,7 +242,7 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 162.0,
+      "precio": 161.74,
       "anterior": 174.99,
       "alto52": 185.29,
       "bajo52": 110.0
@@ -260,7 +260,7 @@
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1690.0,
+      "precio": 1710.0,
       "anterior": 1700.0,
       "alto52": 1749.0,
       "bajo52": 1335.1
@@ -302,25 +302,25 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 424.06,
+      "precio": 425.75,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 297.0
     },
     "HABITAT": {
-      "precio": 1425.0,
+      "precio": 1427.6,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5131.0,
+      "precio": 5124.8,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2165.0,
+      "precio": 2165.3,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
@@ -397,6 +397,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Gobierno reformula Calles Sin Violencia y lo convierte en Plan Foco",
+      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/gobierno-reformula-calles-sin-violencia-y-lo-convierte-en-plan-foco/2026-10-06/171534.html",
+      "fecha": "Tue, 06 Oct 2026",
+      "fechaISO": "2026-10-06T20:15:34+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Presupuesto: Movilh denuncia que se omite financiamiento a programas para personas trans",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-movilh-denuncia-que-se-omite-financiamiento-a-programas/2026-10-06/163040.html",
+      "fecha": "Tue, 06 Oct 2026",
+      "fechaISO": "2026-10-06T19:30:40+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "La Araucanía: Estragos en Pitrufquén por muerte de ganado durante sistema frontal",
       "link": "https://www.cooperativa.cl/noticias/pais/tiempo/la-araucania-estragos-en-pitrufquen-por-muerte-de-ganado-durante/2026-10-06/143645.html",
       "fecha": "Tue, 06 Oct 2026",
@@ -410,46 +424,32 @@
       "fechaISO": "2026-10-06T14:57:17+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Carmona y el Presupuesto: Espero que el Gobierno no esté con tejo pasado, cual sindicato negociando",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/carmona-y-el-presupuesto-espero-que-el-gobierno-no-este-con-tejo/2026-10-06/113716.html",
+      "fuente": "Diario Financiero",
+      "texto": "Con un fuerte rechazo a los recortes a programas sociales, la oposición afronta la primera jornada de discusión del Presupuesto 2027",
+      "link": "http://www.df.cl/economia-y-politica/congreso/con-un-fuerte-rechazo-a-los-recortes-a-programas-sociales-la-oposicion",
       "fecha": "Tue, 06 Oct 2026",
-      "fechaISO": "2026-10-06T14:37:16+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Presupuesto: Quiroz proyectó crecimiento de 0,7% para 2026 y justificó solicitud de endeudamiento",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/presupuesto-quiroz-proyecto-crecimiento-de-0-7-para-2026-y-justifico/2026-10-06/112302.html",
-      "fecha": "Tue, 06 Oct 2026",
-      "fechaISO": "2026-10-06T14:23:02+00:00"
+      "fechaISO": "2026-10-06T21:30:09+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "La CUT llama a reactivar el Consejo Nacional de Capacitación que se creó en el gobierno anterior",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/la-cut-llama-a-reactivar-el-consejo-nacional-de-capacitacion-constituido-en",
+      "texto": "Buena noticia para Dorothy Pérez: presupuesto de Contraloría crece 5,9% centrado en aumento de personal y uso de IA para fiscalizaciones",
+      "link": "http://www.df.cl/economia-y-politica/pais/buena-noticia-para-dorothy-perez-presupuesto-de-contraloria-crece-5-9",
       "fecha": "Tue, 06 Oct 2026",
-      "fechaISO": "2026-10-06T18:25:41+00:00"
+      "fechaISO": "2026-10-06T21:23:46+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Embajador de EEUU resta importancia a críticas de expresidentes por Escudo de las Américas: “Algunos están evaluando volver a postularse”",
-      "link": "http://www.df.cl/economia-y-politica/politica/embajador-de-eeuu-resta-importancia-a-criticas-de-expresidentes-por-escudo",
+      "texto": "Presupuesto de RREE incluye la reparación de la “critica” situación de la embajada en Francia y la participación en Feria de Frankfurt",
+      "link": "http://www.df.cl/economia-y-politica/pais/presupuesto-de-rree-incluye-la-reparacion-de-la-critica-situacion-de",
       "fecha": "Tue, 06 Oct 2026",
-      "fechaISO": "2026-10-06T18:13:38+00:00"
+      "fechaISO": "2026-10-06T20:30:08+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Codelco investiga nuevos antecedentes de sobreproducción en divisiones Ministro Hales y Salvador durante 2024 y 2025",
-      "link": "http://www.df.cl/empresas/mineria/codelco-investiga-nuevos-antecedentes-de-sobreproduccion-en-divisiones",
+      "texto": "Fin de la espera: Senado aprueba cinco jueces para los Tribunales Ambientales",
+      "link": "http://www.df.cl/empresas/medio-ambiente/fin-a-la-espera-senado-aprueba-cinco-nombres-para-los-tribunales",
       "fecha": "Tue, 06 Oct 2026",
-      "fechaISO": "2026-10-06T18:29:04+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Presupuesto de Medio Ambiente sube en protección a la biodiversidad, pero se cortan aportes a fiscalización, educación y cambio climático",
-      "link": "http://www.df.cl/empresas/medio-ambiente/presupuesto-de-medio-ambiente-sube-en-proteccion-a-la-biodiversidad-pero",
-      "fecha": "Tue, 06 Oct 2026",
-      "fechaISO": "2026-10-06T16:50:21+00:00"
+      "fechaISO": "2026-10-06T20:41:06+00:00"
     }
   ]
 }
