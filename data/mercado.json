@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T23:05:52.715116+00:00",
+  "actualizado": "2026-10-06T01:21:00.874343+00:00",
   "macro": {
     "dolar": 984.8,
     "uf": 41098.15,
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Comienza la discusión del Presupuesto: Quiroz dispuesto a \"perfeccionar, manteniendo la restricción general\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/comienza-la-discusion-del-presupuesto-quiroz-dispuesto-a-perfeccionar/2026-10-05/194548.html",
+      "fecha": "Mon, 05 Oct 2026",
+      "fechaISO": "2026-10-05T22:45:48+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Usuarios reportan problemas durante varios días en sitio del banco Bci",
       "link": "https://www.cooperativa.cl/noticias/economia/servicios-financieros/bancos/usuarios-reportan-problemas-durante-varios-dias-en-sitio-del-banco-bci/2026-10-05/193928.html",
       "fecha": "Mon, 05 Oct 2026",
@@ -417,11 +424,18 @@
       "fechaISO": "2026-10-05T19:43:25+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Capacitación inmersiva busca reducir riesgos laborales en minería mediante gemelos digitales y realidad virtual",
-      "link": "https://www.cooperativa.cl/noticias/economia/empresas/capacitacion-inmersiva-busca-reducir-riesgos-laborales-en-mineria/2026-10-05/165559.html",
+      "fuente": "Diario Financiero",
+      "texto": "En medio de alza de jet fuel y baja en el flujo internacional: aerolíneas ajustan sus estrategias para la temporada alta",
+      "link": "http://www.df.cl/empresas/industria/en-medio-de-alza-de-jet-fuel-y-baja-en-el-flujo-internacional-aerolineas",
       "fecha": "Mon, 05 Oct 2026",
-      "fechaISO": "2026-10-05T19:55:59+00:00"
+      "fechaISO": "2026-10-05T23:07:01+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Este martes entra en circulación la nueva moneda de $50",
+      "link": "http://www.df.cl/economia-y-politica/pais/este-martes-entra-en-circulacion-la-nueva-moneda-de-50",
+      "fecha": "Tue, 06 Oct 2026",
+      "fechaISO": "2026-10-06T00:28:22+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -436,20 +450,6 @@
       "link": "http://www.df.cl/economia-y-politica/politica/kast-se-reune-con-sistema-de-empresas-publicas-y-analiza-alternativas-para",
       "fecha": "Mon, 05 Oct 2026",
       "fechaISO": "2026-10-05T21:06:44+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Por qué la actividad económica cae en todas las regiones mineras salvo en Atacama, que sube casi 10%",
-      "link": "http://www.df.cl/empresas/mineria/por-que-la-actividad-economica-cae-en-todas-las-regiones-mineras-salvo-en",
-      "fecha": "Mon, 05 Oct 2026",
-      "fechaISO": "2026-10-05T22:38:22+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA cierra al alza sobre los 11.000 puntos con Latam a la cabeza y Brasil disparado por triunfo de Bolsonaro",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsa-hoy",
-      "fecha": "Mon, 05 Oct 2026",
-      "fechaISO": "2026-10-05T20:21:52+00:00"
     }
   ]
 }
