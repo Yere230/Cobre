@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T21:31:16.356048+00:00",
+  "actualizado": "2026-10-06T23:54:52.474247+00:00",
   "macro": {
     "dolar": 977.2,
     "uf": 41106.35,
@@ -425,6 +425,20 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Fintual ingresa solicitud formal ante la Superintendencia de Pensiones para constituir AFP y busca personal",
+      "link": "http://www.df.cl/mercados/pensiones/fintual-ingresa-solicitud-formal-ante-la-superintendencia-de-pensiones-para",
+      "fecha": "Tue, 06 Oct 2026",
+      "fechaISO": "2026-10-06T23:54:40+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Olimpiadas Especiales 2027 disparan presupuesto del Ministerio del Deporte, pero recursos caen en programas sociales e infraestructura",
+      "link": "http://www.df.cl/economia-y-politica/politica/olimpiadas-especiales-2027-disparan-presupuesto-del-ministerio-del-deporte",
+      "fecha": "Tue, 06 Oct 2026",
+      "fechaISO": "2026-10-06T22:14:17+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Con un fuerte rechazo a los recortes a programas sociales, la oposición afronta la primera jornada de discusión del Presupuesto 2027",
       "link": "http://www.df.cl/economia-y-politica/congreso/con-un-fuerte-rechazo-a-los-recortes-a-programas-sociales-la-oposicion",
       "fecha": "Tue, 06 Oct 2026",
@@ -435,21 +449,7 @@
       "texto": "Buena noticia para Dorothy Pérez: presupuesto de Contraloría crece 5,9% centrado en aumento de personal y uso de IA para fiscalizaciones",
       "link": "http://www.df.cl/economia-y-politica/pais/buena-noticia-para-dorothy-perez-presupuesto-de-contraloria-crece-5-9",
       "fecha": "Tue, 06 Oct 2026",
-      "fechaISO": "2026-10-06T21:23:46+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Presupuesto de RREE incluye la reparación de la “critica” situación de la embajada en Francia y la participación en Feria de Frankfurt",
-      "link": "http://www.df.cl/economia-y-politica/pais/presupuesto-de-rree-incluye-la-reparacion-de-la-critica-situacion-de",
-      "fecha": "Tue, 06 Oct 2026",
-      "fechaISO": "2026-10-06T20:30:08+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Fin de la espera: Senado aprueba cinco jueces para los Tribunales Ambientales",
-      "link": "http://www.df.cl/empresas/medio-ambiente/fin-a-la-espera-senado-aprueba-cinco-nombres-para-los-tribunales",
-      "fecha": "Tue, 06 Oct 2026",
-      "fechaISO": "2026-10-06T20:41:06+00:00"
+      "fechaISO": "2026-10-06T22:26:11+00:00"
     }
   ]
 }
