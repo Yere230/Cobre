@@ -1,104 +1,104 @@
 {
-  "actualizado": "2026-10-08T00:16:36.288305+00:00",
+  "actualizado": "2026-10-08T19:02:56.390294+00:00",
   "macro": {
-    "dolar": 967.8,
-    "uf": 41114.54,
+    "dolar": 979.9,
+    "uf": 41122.74,
     "utm": 72151,
-    "cobre": 6.58
+    "cobre": 6.57
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 319.1,
+      "precio": 323.34,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 187.0,
+      "precio": 189.69,
       "anterior": 197.9,
       "alto52": 200.7,
-      "bajo52": 144.52
+      "bajo52": 145.5
     },
     "BCI": {
-      "precio": 63600.0,
+      "precio": 63100.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
-      "bajo52": 42975.0
+      "bajo52": 43305.0
     },
     "ITAUCL": {
-      "precio": 22957.0,
+      "precio": 22747.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
       "bajo52": 15169.0
     },
     "BSANTANDER": {
-      "precio": 78.0,
+      "precio": 78.48,
       "anterior": 81.82,
       "alto52": 84.4,
-      "bajo52": 62.76
+      "bajo52": 62.85
     },
     "CAP": {
-      "precio": 4962.0,
+      "precio": 4991.0,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 4940.0
     },
     "CENCOSUD": {
-      "precio": 1874.9,
+      "precio": 1905.7,
       "anterior": 2090.0,
       "alto52": 3238.0,
-      "bajo52": 1861.5
+      "bajo52": 1866.0
     },
     "CENCOMALLS": {
-      "precio": 2210.0,
+      "precio": 2252.0,
       "anterior": 2240.0,
       "alto52": 2799.9,
       "bajo52": 1970.0
     },
     "COLBUN": {
-      "precio": 150.0,
+      "precio": 151.15,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5380.0,
+      "precio": 5400.0,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 51.53,
+      "precio": 51.2,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4920.0,
+      "precio": 4835.0,
       "anterior": 4699.9,
-      "alto52": 4961.7,
-      "bajo52": 3555.0
+      "alto52": 4919.5,
+      "bajo52": 3572.5
     },
     "ENTEL": {
-      "precio": 4203.1,
+      "precio": 4279.5,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 952.0,
+      "precio": 967.0,
       "anterior": 957.0,
       "alto52": 1501.1,
-      "bajo52": 938.39
+      "bajo52": 946.42
     },
     "COPEC": {
-      "precio": 6523.3,
+      "precio": 6674.9,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 89.97,
+      "precio": 90.79,
       "anterior": 90.0,
       "alto52": 93.93,
       "bajo52": 73.95
@@ -106,95 +106,95 @@
     "ENELCHILE": {
       "precio": 85.0,
       "anterior": 81.53,
-      "alto52": 86.35,
+      "alto52": 86.42,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1855.0,
+      "precio": 1858.9,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1272.5
     },
     "FALABELLA": {
-      "precio": 6450.0,
+      "precio": 6514.2,
       "anterior": 6599.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 906.73,
+      "precio": 906.7,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 25114.0,
+      "precio": 25308.0,
       "anterior": 25000.0,
-      "alto52": 25114.0,
+      "alto52": 25308.0,
       "bajo52": 12867.0
     },
     "LTM": {
-      "precio": 24.9,
+      "precio": 24.69,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.01
     },
     "PARAUCO": {
-      "precio": 3700.0,
+      "precio": 3702.0,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2300.0
     },
     "MALLPLAZA": {
-      "precio": 3570.0,
+      "precio": 3573.4,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2470.0
     },
     "QUINENCO": {
-      "precio": 4723.5,
+      "precio": 4690.0,
       "anterior": 4620.0,
       "alto52": 4777.2,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 462.8,
+      "precio": 462.76,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1300.0,
+      "precio": 1288.9,
       "anterior": 1315.0,
       "alto52": 1499.9,
-      "bajo52": 909.0
+      "bajo52": 914.06
     },
     "SMU": {
-      "precio": 115.5,
+      "precio": 116.23,
       "anterior": 117.5,
       "alto52": 169.5,
-      "bajo52": 113.0
+      "bajo52": 115.4
     },
     "SQM-B": {
-      "precio": 63000.0,
+      "precio": 63275.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 39150.0
     },
     "CONCHATORO": {
-      "precio": 862.0,
+      "precio": 870.2,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7337.6,
-      "anterior": 7529.2,
+      "precio": 7345.0,
+      "anterior": 7379.6,
       "alto52": 9000.0,
-      "bajo52": 7316.7
+      "bajo52": 7152.7
     },
     "ALMENDRAL": {
-      "precio": 24.75,
+      "precio": 24.4,
       "anterior": 24.5,
       "alto52": 34.0,
       "bajo52": 24.0
@@ -224,10 +224,10 @@
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 231.31,
+      "precio": 227.88,
       "anterior": 225.01,
-      "alto52": 231.31,
-      "bajo52": 110.68
+      "alto52": 229.03,
+      "bajo52": 112.95
     },
     "MASISA": {
       "precio": 7.28,
@@ -242,19 +242,19 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 161.74,
+      "precio": 157.5,
       "anterior": 174.99,
       "alto52": 185.29,
-      "bajo52": 110.55
+      "bajo52": 112.0
     },
     "SK": {
-      "precio": 1609.6,
+      "precio": 1600.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 283.01,
+      "precio": 282.9,
       "anterior": 295.0,
       "alto52": 383.7,
       "bajo52": 272.0
@@ -263,7 +263,7 @@
       "precio": 1750.0,
       "anterior": 1700.0,
       "alto52": 1750.0,
-      "bajo52": 1335.1
+      "bajo52": 1336.6
     },
     "CRISTALES": {
       "precio": 2100.0,
@@ -296,38 +296,38 @@
       "bajo52": 217.48
     },
     "INVERCAP": {
-      "precio": 1618.5,
+      "precio": 1623.0,
       "anterior": 1582.5,
       "alto52": 2278.8,
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 423.0,
+      "precio": 425.8,
       "anterior": 421.55,
       "alto52": 450.0,
-      "bajo52": 297.75
+      "bajo52": 298.78
     },
     "HABITAT": {
-      "precio": 1420.0,
+      "precio": 1430.0,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5065.4,
+      "precio": 5080.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4162.17
     },
     "CFINRENTAS": {
-      "precio": 2170.0,
+      "precio": 2165.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
     },
     "CFIBTGRCA": {
-      "precio": 22210.62,
-      "anterior": 21753.44,
+      "precio": 22300.0,
+      "anterior": 21900.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
     },
@@ -397,59 +397,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Presupuesto: Tohá advierte una \"agenda política\" tras los recortes",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-toha-advierte-una-agenda-politica-tras-los-recortes/2026-10-07/184217.html",
-      "fecha": "Wed, 07 Oct 2026",
-      "fechaISO": "2026-10-07T21:42:17+00:00"
+      "texto": "Ministro y recortes en cultura: el presupuesto va en la línea correcta",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/ministro-y-recortes-en-cultura-el-presupuesto-va-en-la-linea-correcta/2026-10-08/143147.html",
+      "fecha": "Thu, 08 Oct 2026",
+      "fechaISO": "2026-10-08T17:31:47+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Summit País Digital 2026 impulsa modernización e inteligencia artificial para Chile",
-      "link": "https://www.cooperativa.cl/noticias/economia/empresas/summit-pais-digital-2026-impulsa-modernizacion-e-inteligencia-artificial/2026-10-07/165220.html",
-      "fecha": "Wed, 07 Oct 2026",
-      "fechaISO": "2026-10-07T19:52:20+00:00"
+      "texto": "Presupuesto 2027: Oposición acusa al Gobierno de buscar \"control\" sobre Fiscalía",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-oposicion-acusa-al-gobierno-de-buscar-control-sobre/2026-10-08/133817.html",
+      "fecha": "Thu, 08 Oct 2026",
+      "fechaISO": "2026-10-08T16:38:17+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Tensión cuprífera: huelga en dos minas de Luksic y mediación en Escondida",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/negociaciones-colectivas/tension-cuprifera-huelga-en-dos-minas-de-luksic-y-mediacion-en/2026-10-07/163818.html",
-      "fecha": "Wed, 07 Oct 2026",
-      "fechaISO": "2026-10-07T19:38:18+00:00"
+      "texto": "Tensión política en Madrid tras la muerte de Maricarmen, símbolo de la crisis de vivienda",
+      "link": "https://www.cooperativa.cl/noticias/mundo/espana/tension-politica-en-madrid-tras-la-muerte-de-maricarmen-simbolo-de-la/2026-10-08/125229.html",
+      "fecha": "Thu, 08 Oct 2026",
+      "fechaISO": "2026-10-08T15:52:29+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Rector UC pidió rechazar los recortes a las universidades: \"Comprometen el desarrollo\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/educacion/universidades/rector-uc-pidio-rechazar-los-recortes-a-las-universidades-comprometen/2026-10-07/145727.html",
-      "fecha": "Wed, 07 Oct 2026",
-      "fechaISO": "2026-10-07T17:57:27+00:00"
+      "texto": "CyberMonday cerró con récord histórico de compras, pero con un ticket promedio 15% menor",
+      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/cybermonday-cerro-con-record-historico-de-compras-pero-con-un-ticket/2026-10-08/111703.html",
+      "fecha": "Thu, 08 Oct 2026",
+      "fechaISO": "2026-10-08T14:17:03+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "¿Qué le pasa al fondo E? selectivo más conservador del sistema acumula caída de más de 10% en 2026",
-      "link": "http://www.df.cl/mercados/pensiones/que-le-pasa-al-fondo-e-selectivo-mas-conservador-del-sistema-acumula",
-      "fecha": "Wed, 07 Oct 2026",
-      "fechaISO": "2026-10-07T23:13:14+00:00"
+      "texto": "Dólar cierra plano tras borrar alza que lo acercó a $ 990 en sesión marcada por los temores de que EEUU escale la guerra contra Irán",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-pkbv3",
+      "fecha": "Thu, 08 Oct 2026",
+      "fechaISO": "2026-10-08T19:01:35+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El cara y sello: envíos aceleran el paso, pero las importaciones de bienes de capital extienden las bajas",
-      "link": "http://www.df.cl/economia-y-politica/macro/chile-a-dos-velocidades-exportaciones-aceleran-el-paso-pero-las",
-      "fecha": "Wed, 07 Oct 2026",
-      "fechaISO": "2026-10-07T22:45:16+00:00"
+      "texto": "WTTC advierte sobre los desafíos del turismo: llama a prepararse para la IA y destaca que la tecnología puede impulsar el empleo",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/wttc-advierte-sobre-los-desafios-del-turismo-llama-a-prepararse-para-la-ia",
+      "fecha": "Thu, 08 Oct 2026",
+      "fechaISO": "2026-10-08T18:01:20+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Subsecretaria Estévez asegura que un Acuerdo Recíproco de Comercio sigue en la mesa de negociación arancelaria de Chile y EEUU",
-      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/estevez-asegura-que-un-acuerdo-reciproco-de-comercio-sigue-en-la-mesa-de",
-      "fecha": "Wed, 07 Oct 2026",
-      "fechaISO": "2026-10-07T22:42:26+00:00"
+      "texto": "IPSA supera los 11 mil puntos tras datos de inflación local y mientras Trump asegura que no atacará a Irán antes de las elecciones de noviembre",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-aoknd",
+      "fecha": "Thu, 08 Oct 2026",
+      "fechaISO": "2026-10-08T16:52:50+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "“Hay que buscar a los beneficiarios correctos”: Gómez explica gestión del gasto y defiende fin de “Yo elijo mi PC”",
-      "link": "http://www.df.cl/economia-y-politica/macro/hay-que-buscar-a-los-beneficiarios-correctos-director-de-dipres-explica",
-      "fecha": "Wed, 07 Oct 2026",
-      "fechaISO": "2026-10-07T22:39:17+00:00"
+      "texto": "Reconocido criadero de caballos abre disputa judicial contra eléctrica Saesa por líneas de transmisión que pasarían sobre su terreno en Buin",
+      "link": "http://www.df.cl/empresas/industria/reconocido-criadero-de-caballos-abre-disputa-judicial-contra-electrica",
+      "fecha": "Thu, 08 Oct 2026",
+      "fechaISO": "2026-10-08T16:41:29+00:00"
     }
   ]
 }
