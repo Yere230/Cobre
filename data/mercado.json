@@ -1,11 +1,6 @@
 {
-  "actualizado": "2026-10-08T21:54:44.659552+00:00",
-  "macro": {
-    "dolar": 979.9,
-    "uf": 41122.74,
-    "utm": 72151,
-    "cobre": 6.57
-  },
+  "actualizado": "2026-10-09T00:30:21.697342+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
       "precio": 322.8,
@@ -106,7 +101,7 @@
     "ENELCHILE": {
       "precio": 85.42,
       "anterior": 81.53,
-      "alto52": 86.42,
+      "alto52": 86.9,
       "bajo52": 67.67
     },
     "ECL": {
@@ -425,10 +420,24 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Aluvión en Las Condes arrastra vehículos e inunda viviendas: Senapred declara Alerta Roja en 10 comunas de Santiago",
-      "link": "http://www.df.cl/economia-y-politica/actualidad/aluvion-tras-fuerte-lluvia-arrastra-vehiculos-y-provoca-danos-en-sector-de",
+      "texto": "Kast decreta estado de catástrofe tras aluvión en Las Condes que deja al menos seis heridos",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/kast-decreta-estado-de-catastrofe-tras-aluvion-en-las-condes-que-deja-al",
+      "fecha": "Fri, 09 Oct 2026",
+      "fechaISO": "2026-10-09T00:12:20+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Fundamentales y menor tamaño: la guía para inversiones inmobiliarias de Nicolás Ibáñez Varela en tiempos de tasas altas",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/fundamentales-y-menor-tamano-la-guia-para-inversiones-inmobiliarias-de",
       "fecha": "Thu, 08 Oct 2026",
-      "fechaISO": "2026-10-08T21:50:57+00:00"
+      "fechaISO": "2026-10-08T22:55:23+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Gobierno suspende promulgación de la Ley de Reconstrucción por los aluviones en Las Condes",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/kast-anuncia-que-este-viernes-promulgara-la-ley-de-reconstruccion-es-un",
+      "fecha": "Thu, 08 Oct 2026",
+      "fechaISO": "2026-10-08T22:39:00+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -436,20 +445,6 @@
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-aoknd",
       "fecha": "Thu, 08 Oct 2026",
       "fechaISO": "2026-10-08T20:05:57+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "A dos años de su aterrizaje, Chile se convierte en la estación de mayor crecimiento de Turkish Airlines en la región",
-      "link": "http://www.df.cl/empresas/industria/a-dos-anos-de-su-aterrizaje-chile-se-convierte-en-la-estacion-de-mayor",
-      "fecha": "Thu, 08 Oct 2026",
-      "fechaISO": "2026-10-08T19:42:08+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "PDG resucita propuesta para terminar con cobros en UF y plantea revisar en qué contratos se justifica",
-      "link": "http://www.df.cl/economia-y-politica/congreso/pdg-resucita-propuesta-para-terminar-con-cobros-en-uf-y-plantea-revisar-en",
-      "fecha": "Thu, 08 Oct 2026",
-      "fechaISO": "2026-10-08T19:36:55+00:00"
     }
   ]
 }
