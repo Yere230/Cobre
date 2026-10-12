@@ -1,11 +1,6 @@
 {
-  "actualizado": "2026-10-10T00:06:46.241030+00:00",
-  "macro": {
-    "dolar": 981.6,
-    "uf": 41130.94,
-    "utm": 72151,
-    "cobre": 6.61
-  },
+  "actualizado": "2026-10-12T21:26:51.078248+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
       "precio": 327.99,
@@ -17,7 +12,7 @@
       "precio": 189.68,
       "anterior": 197.9,
       "alto52": 200.7,
-      "bajo52": 145.66
+      "bajo52": 147.0
     },
     "BCI": {
       "precio": 63200.0,
@@ -29,19 +24,19 @@
       "precio": 23300.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
-      "bajo52": 15169.0
+      "bajo52": 15201.0
     },
     "BSANTANDER": {
       "precio": 78.6,
       "anterior": 81.82,
       "alto52": 84.4,
-      "bajo52": 63.0
+      "bajo52": 63.03
     },
     "CAP": {
       "precio": 5007.0,
       "anterior": 5390.0,
       "alto52": 8680.0,
-      "bajo52": 5001.0
+      "bajo52": 5000.0
     },
     "CENCOSUD": {
       "precio": 1920.0,
@@ -113,7 +108,7 @@
       "precio": 1830.6,
       "anterior": 1855.0,
       "alto52": 1949.9,
-      "bajo52": 1272.5
+      "bajo52": 1286.6
     },
     "FALABELLA": {
       "precio": 6600.0,
@@ -131,7 +126,7 @@
       "precio": 25200.0,
       "anterior": 25000.0,
       "alto52": 25540.0,
-      "bajo52": 12867.0
+      "bajo52": 13097.0
     },
     "LTM": {
       "precio": 24.38,
@@ -143,13 +138,13 @@
       "precio": 3650.0,
       "anterior": 3900.0,
       "alto52": 4596.3,
-      "bajo52": 2314.1
+      "bajo52": 2322.1
     },
     "MALLPLAZA": {
       "precio": 3600.0,
       "anterior": 3900.0,
       "alto52": 4700.0,
-      "bajo52": 2470.0
+      "bajo52": 2500.1
     },
     "QUINENCO": {
       "precio": 4900.0,
@@ -164,7 +159,7 @@
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1308.4,
+      "precio": 1323.7,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 920.0
@@ -256,14 +251,14 @@
     "SONDA": {
       "precio": 283.0,
       "anterior": 295.0,
-      "alto52": 375.0,
+      "alto52": 374.99,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
       "precio": 1750.0,
       "anterior": 1700.0,
       "alto52": 1750.0,
-      "bajo52": 1336.6
+      "bajo52": 1350.0
     },
     "CRISTALES": {
       "precio": 2100.0,
@@ -293,7 +288,7 @@
       "precio": 355.0,
       "anterior": 275.05,
       "alto52": 369.0,
-      "bajo52": 217.48
+      "bajo52": 219.8
     },
     "INVERCAP": {
       "precio": 1620.0,
@@ -302,31 +297,31 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 424.49,
+      "precio": 422.32,
       "anterior": 421.55,
       "alto52": 450.0,
-      "bajo52": 298.78
+      "bajo52": 300.0
     },
     "HABITAT": {
-      "precio": 1447.7,
+      "precio": 1444.0,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5079.1,
+      "precio": 5087.4,
       "anterior": 5035.4,
       "alto52": 5588.4,
-      "bajo52": 4162.17
+      "bajo52": 4184.2
     },
     "CFINRENTAS": {
-      "precio": 2163.33,
+      "precio": 2160.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
     },
     "CFIBTGRCA": {
-      "precio": 22300.16,
+      "precio": 22300.0,
       "anterior": 21900.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
@@ -397,59 +392,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Inflación y tasas de interés: La brecha entre las proyecciones de la Dipres y el mercado",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/inflacion/inflacion-y-tasas-de-interes-la-brecha-entre-las-proyecciones-de-la/2026-10-09/145043.html",
-      "fecha": "Fri, 09 Oct 2026",
-      "fechaISO": "2026-10-09T17:50:43+00:00"
+      "texto": "Fiscalía: Aplastamiento fue la causa de muerte de los trabajadores tras avalancha en El Teniente",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/fiscalia-aplastamiento-fue-la-causa-de-muerte-de-los-trabajadores-tras/2026-10-12/150727.html",
+      "fecha": "Mon, 12 Oct 2026",
+      "fechaISO": "2026-10-12T18:07:27+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Exautoridades y parlamentarias buscan alternativa para mantener Prodemu",
-      "link": "https://www.cooperativa.cl/noticias/pais/mujer/exautoridades-y-parlamentarias-buscan-alternativa-para-mantener-prodemu/2026-10-09/144449.html",
-      "fecha": "Fri, 09 Oct 2026",
-      "fechaISO": "2026-10-09T17:44:49+00:00"
+      "texto": "Educación superior: Cruch respaldó freno a recortes de aportes basales en el Presupuesto",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/educacion-superior-cruch-respaldo-freno-a-recortes-de-aportes-basales/2026-10-12/144913.html",
+      "fecha": "Mon, 12 Oct 2026",
+      "fechaISO": "2026-10-12T17:49:13+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Kast visitó el Banco Central tras cuestionados dichos de Quiroz",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-visito-el-banco-central-tras-cuestionados-dichos-de-quiroz/2026-10-09/140459.html",
-      "fecha": "Fri, 09 Oct 2026",
-      "fechaISO": "2026-10-09T17:04:59+00:00"
+      "texto": "EE.UU. sostiene que el flujo de petróleo en el Golfo Pérsico se restableció entre un 80 y 90%",
+      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/ee-uu-sostiene-que-el-flujo-de-petroleo-en-el-golfo-persico-se/2026-10-12/124458.html",
+      "fecha": "Mon, 12 Oct 2026",
+      "fechaISO": "2026-10-12T15:44:58+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Mercado a un Metro: La iniciativa del tren subterráneo que impulsa a las pymes",
-      "link": "https://www.cooperativa.cl/noticias/pais/transportes/metro/mercado-a-un-metro-la-iniciativa-del-tren-subterraneo-que-impulsa-a-las/2026-10-08/180915.html",
-      "fecha": "Thu, 08 Oct 2026",
-      "fechaISO": "2026-10-08T21:09:15+00:00"
+      "texto": "Nobel de Economía a Hall y Woodford por fundamentos micro de estabilización macroeconómica",
+      "link": "https://www.cooperativa.cl/noticias/sociedad/premios-nobel/nobel-de-economia-a-hall-y-woodford-por-fundamentos-micro-de/2026-10-12/092535.html",
+      "fecha": "Mon, 12 Oct 2026",
+      "fechaISO": "2026-10-12T12:25:35+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA gana terreno sobre los 11 mil puntos y cierra una semana alcista marcada por el impulso electoral de Brasil",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-n5t5w",
-      "fecha": "Fri, 09 Oct 2026",
-      "fechaISO": "2026-10-09T20:08:25+00:00"
+      "texto": "Wall Street cierra mixto, mientras el petróleo se dispara y los inversionistas esperan resultados empresariales y datos económicos",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/wall-street-cierra-mixto-mientras-el-petroleo-se-dispara-y-los",
+      "fecha": "Mon, 12 Oct 2026",
+      "fechaISO": "2026-10-12T20:55:21+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Kast visita el Banco Central y analiza con el Consejo el momento económico a meses de que Rosanna Costa cumpla su período como presidenta",
-      "link": "http://www.df.cl/economia-y-politica/pais/kast-visita-el-banco-central-y-analiza-con-el-consejo-el-momento-economico",
-      "fecha": "Fri, 09 Oct 2026",
-      "fechaISO": "2026-10-09T20:31:15+00:00"
+      "texto": "Escondida lanza oferta final a sindicato: $ 28 millones líquidos por trabajador y plazo hasta este martes para aceptar",
+      "link": "http://www.df.cl/empresas/mineria/escondida-lanza-oferta-final-a-sindicato-28-millones-liquidos-por",
+      "fecha": "Mon, 12 Oct 2026",
+      "fechaISO": "2026-10-12T20:48:50+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Fiscalía rechaza la solicitud de la china Joyvio y vuelve a confirmar su decisión de no perseverar en investigación contra Isidoro Quiroga",
-      "link": "http://www.df.cl/empresas/industria/fiscalia-rechaza-la-solicitud-de-la-china-joyvio-y-vuelve-a-confirmar-su",
-      "fecha": "Fri, 09 Oct 2026",
-      "fechaISO": "2026-10-09T20:07:05+00:00"
+      "texto": "Alud en El Teniente: Codelco confirma el fallecimiento de dos trabajadores en la mina",
+      "link": "http://www.df.cl/empresas/mineria/alud-en-el-teniente-codelco-confirma-rescate-de-un-trabajador-y-busqueda",
+      "fecha": "Mon, 12 Oct 2026",
+      "fechaISO": "2026-10-12T20:45:08+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra estable bajo $ 980 y quiebra una larga racha de alzas semanales mientras precios del cobre repuntan con fuerza",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-p5kv8",
-      "fecha": "Fri, 09 Oct 2026",
-      "fechaISO": "2026-10-09T19:16:43+00:00"
+      "texto": "Biministro Daniel Mas: \"El 2027 va a ser el año del crecimiento y el empleo\"",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/biministro-daniel-mas-el-2027-va-a-ser-el-ano-del-crecimiento-y-el",
+      "fecha": "Sun, 11 Oct 2026",
+      "fechaISO": "2026-10-11T16:59:32+00:00"
     }
   ]
 }
