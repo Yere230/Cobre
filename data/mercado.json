@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-10-12T23:33:37.545463+00:00",
-  "macro": {},
+  "actualizado": "2026-10-13T02:08:09.238345+00:00",
+  "macro": {
+    "dolar": 981.6,
+    "uf": 41146.83,
+    "utm": 72151,
+    "cobre": 6.61
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 327.99,
@@ -12,13 +17,13 @@
       "precio": 189.68,
       "anterior": 197.9,
       "alto52": 200.7,
-      "bajo52": 147.0
+      "bajo52": 147.61
     },
     "BCI": {
       "precio": 63200.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
-      "bajo52": 43305.0
+      "bajo52": 44001.0
     },
     "ITAUCL": {
       "precio": 23300.0,
@@ -30,7 +35,7 @@
       "precio": 78.6,
       "anterior": 81.82,
       "alto52": 84.4,
-      "bajo52": 63.03
+      "bajo52": 63.09
     },
     "CAP": {
       "precio": 5007.0,
@@ -48,7 +53,7 @@
       "precio": 2250.0,
       "anterior": 2240.0,
       "alto52": 2799.9,
-      "bajo52": 1970.0
+      "bajo52": 2000.0
     },
     "COLBUN": {
       "precio": 152.0,
@@ -72,7 +77,7 @@
       "precio": 4750.0,
       "anterior": 4699.9,
       "alto52": 4899.0,
-      "bajo52": 3600.6
+      "bajo52": 3690.0
     },
     "ENTEL": {
       "precio": 4250.0,
@@ -132,13 +137,13 @@
       "precio": 24.38,
       "anterior": 24.78,
       "alto52": 30.0,
-      "bajo52": 20.01
+      "bajo52": 20.21
     },
     "PARAUCO": {
       "precio": 3650.0,
       "anterior": 3900.0,
       "alto52": 4596.3,
-      "bajo52": 2322.1
+      "bajo52": 2355.0
     },
     "MALLPLAZA": {
       "precio": 3600.0,
@@ -312,7 +317,7 @@
       "precio": 5087.4,
       "anterior": 5035.4,
       "alto52": 5588.4,
-      "bajo52": 4184.2
+      "bajo52": 4232.2
     },
     "CFINRENTAS": {
       "precio": 2160.0,
@@ -420,6 +425,13 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Gobierno logra acuerdo con Autopista Central para rebajar en hasta un 25% el TAG y mete presión al resto de las concesionarias",
+      "link": "http://www.df.cl/empresas/construccion/gobierno-logra-acuerdo-con-autopista-central-para-rebajar-en-hasta-un-25",
+      "fecha": "Tue, 13 Oct 2026",
+      "fechaISO": "2026-10-13T00:29:23+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Wall Street cierra mixto, mientras el petróleo se dispara y los inversionistas esperan resultados empresariales y datos económicos",
       "link": "http://www.df.cl/mercados/bolsa-monedas/wall-street-cierra-mixto-mientras-el-petroleo-se-dispara-y-los",
       "fecha": "Mon, 12 Oct 2026",
@@ -438,13 +450,6 @@
       "link": "http://www.df.cl/empresas/mineria/alud-en-el-teniente-codelco-confirma-rescate-de-un-trabajador-y-busqueda",
       "fecha": "Mon, 12 Oct 2026",
       "fechaISO": "2026-10-12T20:45:08+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Biministro Daniel Mas: \"El 2027 va a ser el año del crecimiento y el empleo\"",
-      "link": "http://www.df.cl/economia-y-politica/actualidad/biministro-daniel-mas-el-2027-va-a-ser-el-ano-del-crecimiento-y-el",
-      "fecha": "Sun, 11 Oct 2026",
-      "fechaISO": "2026-10-11T16:59:32+00:00"
     }
   ]
 }
