@@ -1,39 +1,39 @@
 {
-  "actualizado": "2026-10-13T19:35:45.237979+00:00",
+  "actualizado": "2026-10-13T21:46:30.366064+00:00",
   "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 327.1,
+      "precio": 331.0,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 191.04,
+      "precio": 192.0,
       "anterior": 197.9,
       "alto52": 200.7,
       "bajo52": 147.61
     },
     "BCI": {
-      "precio": 65096.0,
+      "precio": 65900.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
       "bajo52": 44001.0
     },
     "ITAUCL": {
-      "precio": 23286.0,
+      "precio": 23250.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
       "bajo52": 15325.0
     },
     "BSANTANDER": {
-      "precio": 78.8,
+      "precio": 78.55,
       "anterior": 81.82,
       "alto52": 84.4,
       "bajo52": 63.09
     },
     "CAP": {
-      "precio": 4811.1,
+      "precio": 4850.0,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 4802.0
@@ -45,19 +45,19 @@
       "bajo52": 1882.0
     },
     "CENCOMALLS": {
-      "precio": 2270.6,
+      "precio": 2284.0,
       "anterior": 2240.0,
       "alto52": 2799.9,
       "bajo52": 2000.0
     },
     "COLBUN": {
-      "precio": 148.8,
+      "precio": 149.0,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5201.2,
+      "precio": 5221.0,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
@@ -69,127 +69,127 @@
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4680.5,
+      "precio": 4700.0,
       "anterior": 4699.9,
       "alto52": 4898.9,
       "bajo52": 3690.0
     },
     "ENTEL": {
-      "precio": 4240.0,
+      "precio": 4250.0,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 964.0,
+      "precio": 965.0,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 950.0
     },
     "COPEC": {
-      "precio": 6560.3,
+      "precio": 6561.0,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 91.0,
+      "precio": 90.0,
       "anterior": 90.0,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 86.07,
+      "precio": 86.2,
       "anterior": 81.53,
       "alto52": 86.69,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1847.9,
+      "precio": 1840.0,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1286.6
     },
     "FALABELLA": {
-      "precio": 6600.0,
+      "precio": 6645.0,
       "anterior": 6599.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 898.01,
+      "precio": 898.0,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 25002.0,
+      "precio": 25200.0,
       "anterior": 25000.0,
       "alto52": 25497.0,
       "bajo52": 13223.0
     },
     "LTM": {
-      "precio": 24.0,
+      "precio": 24.09,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.21
     },
     "PARAUCO": {
-      "precio": 3666.7,
+      "precio": 3650.0,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2355.0
     },
     "MALLPLAZA": {
-      "precio": 3538.2,
+      "precio": 3634.1,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2500.1
     },
     "QUINENCO": {
-      "precio": 4705.0,
+      "precio": 4740.0,
       "anterior": 4620.0,
       "alto52": 4869.1,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 458.0,
+      "precio": 461.0,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1275.0,
+      "precio": 1277.7,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 920.0
     },
     "SMU": {
-      "precio": 119.98,
+      "precio": 118.43,
       "anterior": 117.5,
       "alto52": 169.5,
       "bajo52": 115.4
     },
     "SQM-B": {
-      "precio": 61337.0,
+      "precio": 61585.0,
       "anterior": 65450.0,
       "alto52": 86900.0,
       "bajo52": 40000.0
     },
     "CONCHATORO": {
-      "precio": 890.73,
+      "precio": 891.0,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7395.4,
+      "precio": 7417.6,
       "anterior": 7340.0,
       "alto52": 9000.0,
       "bajo52": 7152.7
     },
     "ALMENDRAL": {
-      "precio": 24.5,
+      "precio": 24.08,
       "anterior": 24.5,
       "alto52": 34.0,
       "bajo52": 24.0
@@ -237,7 +237,7 @@
       "bajo52": 636.37
     },
     "SOCOVESA": {
-      "precio": 163.18,
+      "precio": 163.27,
       "anterior": 174.99,
       "alto52": 185.29,
       "bajo52": 112.0
@@ -255,7 +255,7 @@
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1760.0,
+      "precio": 1758.6,
       "anterior": 1700.0,
       "alto52": 1760.0,
       "bajo52": 1350.0
@@ -297,31 +297,31 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 430.0,
+      "precio": 430.49,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 300.0
     },
     "HABITAT": {
-      "precio": 1470.0,
+      "precio": 1469.9,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5064.0,
+      "precio": 5064.2,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4232.2
     },
     "CFINRENTAS": {
-      "precio": 2165.0,
+      "precio": 2164.71,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
     },
     "CFIBTGRCA": {
-      "precio": 22928.0,
+      "precio": 22937.58,
       "anterior": 22000.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
@@ -392,6 +392,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Gobierno tras accidentes fatales: Queremos que Codelco sea rentable, pero primero es la seguridad",
+      "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/gobierno-tras-accidentes-fatales-queremos-que-codelco-sea-rentable/2026-10-13/155318.html",
+      "fecha": "Tue, 13 Oct 2026",
+      "fechaISO": "2026-10-13T18:53:18+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Rectores advierten que Presupuesto 2027 \"pone en riesgo el sistema universitario chileno\"",
       "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/rectores-advierten-que-presupuesto-2027-pone-en-riesgo-el-sistema/2026-10-13/153042.html",
       "fecha": "Tue, 13 Oct 2026",
@@ -412,39 +419,32 @@
       "fechaISO": "2026-10-13T12:45:48+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Fiscalía: Aplastamiento fue la causa de muerte de los trabajadores tras avalancha en El Teniente",
-      "link": "https://www.cooperativa.cl/noticias/pais/judicial/fiscalia-aplastamiento-fue-la-causa-de-muerte-de-los-trabajadores-tras/2026-10-12/150727.html",
-      "fecha": "Mon, 12 Oct 2026",
-      "fechaISO": "2026-10-12T18:07:27+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Chile Week China 2026 contará por primera vez con una delegación de empresas de tecnología e inteligencia artificial",
+      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/chile-week-china-2026-contara-por-primera-vez-con-una-delegacion-de",
+      "fecha": "Tue, 13 Oct 2026",
+      "fechaISO": "2026-10-13T21:38:43+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Senapred declara alerta roja en Región Metropolitana por tormenta con violenta granizada que causó anegamientos y cortes de energía",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/tormenta-con-violenta-granizada-afecta-a-la-zona-central-de-chile",
+      "fecha": "Tue, 13 Oct 2026",
+      "fechaISO": "2026-10-13T21:26:53+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Contraloría da luz verde a decreto que habilita reglamento para Ley Uber",
+      "link": "http://www.df.cl/empresas/industria/contraloria-da-luz-verde-a-decreto-de-de-grange-que-habilita-reglamento",
+      "fecha": "Tue, 13 Oct 2026",
+      "fechaISO": "2026-10-13T21:30:07+00:00"
     },
     {
       "fuente": "Diario Financiero",
       "texto": "IPSA cierra a la baja sobre 11 mil puntos tras un fin de semana largo y previo a datos de inflación en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-njeyx",
       "fecha": "Tue, 13 Oct 2026",
-      "fechaISO": "2026-10-13T19:33:01+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra al alza sobre $ 980 ya que los traders se pusieron al día con el petróleo tras el fin de semana largo en Chile",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-rtuun",
-      "fecha": "Tue, 13 Oct 2026",
-      "fechaISO": "2026-10-13T19:17:40+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Diego Masola dejará la gerencia general de Scotiabank Chile tras cinco años en el cargo",
-      "link": "http://www.df.cl/mercados/banca-fintech/diego-masola-dejara-la-gerencia-general-de-scotiabank-chile-tras-cinco-anos",
-      "fecha": "Tue, 13 Oct 2026",
-      "fechaISO": "2026-10-13T19:24:25+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Biministro Mas sigue confiando en un crecimiento superior al 3% el próximo año, pese a panorama más adverso que anticipa el FMI",
-      "link": "http://www.df.cl/economia-y-politica/macro/biministro-mas-sigue-confiando-en-un-crecimiento-superior-al-3-el-proximo",
-      "fecha": "Tue, 13 Oct 2026",
-      "fechaISO": "2026-10-13T18:46:19+00:00"
+      "fechaISO": "2026-10-13T20:27:05+00:00"
     }
   ]
 }
