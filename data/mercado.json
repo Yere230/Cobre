@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-10-14T20:32:10.305159+00:00",
-  "macro": {},
+  "actualizado": "2026-10-14T23:19:21.283070+00:00",
+  "macro": {
+    "dolar": 980.8,
+    "uf": 41157.43,
+    "utm": 72151,
+    "cobre": 6.71
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 329.15,
@@ -420,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA pierde los 11 mil puntos tras el IPC estadounidense, pero bancos chilenos cierran al alza tras sus resultados y las nuevas perspectivas de inflación",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-et8a4",
+      "texto": "Grupo Falabella fortalece su perfil financiero: Fitch eleva clasificación tras reducción de deuda y mejora de márgenes",
+      "link": "http://www.df.cl/empresas/retail/falabella-fortalece-su-perfil-financiero-fitch-eleva-clasificacion-tras",
       "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T20:13:40+00:00"
+      "fechaISO": "2026-10-14T23:16:32+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Startup de autos eléctricos Tucar se acoge a reorganización judicial con deudas por $ 17.500 millones",
-      "link": "http://www.df.cl/empresas/industria/startup-de-autos-electricos-tucar-se-acoge-a-reorganizacion-judicial-con",
+      "texto": "Codelco convoca a junta extraordinaria de accionistas por nuevas inconsistencias en cifras de producción",
+      "link": "http://www.df.cl/empresas/mineria/codelco-convoca-a-junta-extraordinaria-de-accionistas-por-nuevas",
       "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T19:52:25+00:00"
+      "fechaISO": "2026-10-14T23:14:26+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Los precios del litio acaban de borrar todas sus alzas de 2026 por las expectativas de una sobreoferta el próximo año",
-      "link": "http://www.df.cl/mercados/commodities/los-precios-del-litio-acaban-de-borrar-todas-sus-alzas-de-2026-por-las",
+      "texto": "Subsecretario Pavez aclara alcance del uso del 2% para emergencias ante últimos fenómenos climáticos",
+      "link": "http://www.df.cl/economia-y-politica/gobierno/subsecretario-pavez-aclara-alcance-del-uso-del-2-para-emergencias-ante",
       "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T20:05:26+00:00"
+      "fechaISO": "2026-10-14T21:18:20+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra al alza sobre $ 985 por datos de inflación que reforzaron el atractivo de la divisa a nivel internacional",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmkwc",
+      "texto": "Atacan faena de CMPC que había retomado operaciones tras siete años paralizada por violencia",
+      "link": "http://www.df.cl/empresas/industria/atacan-faena-de-cmpc-que-habia-retomado-operaciones-tras-siete-anos",
       "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T19:20:40+00:00"
+      "fechaISO": "2026-10-14T21:14:59+00:00"
     }
   ]
 }
