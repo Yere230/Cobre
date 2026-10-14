@@ -1,194 +1,189 @@
 {
-  "actualizado": "2026-10-14T17:39:34.494669+00:00",
-  "macro": {
-    "dolar": 980.8,
-    "uf": 41157.43,
-    "utm": 72151,
-    "cobre": 6.71
-  },
+  "actualizado": "2026-10-14T20:32:10.305159+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 327.19,
+      "precio": 329.15,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 192.01,
+      "precio": 192.49,
       "anterior": 197.9,
       "alto52": 200.7,
       "bajo52": 150.19
     },
     "BCI": {
-      "precio": 66114.0,
+      "precio": 66000.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
       "bajo52": 45100.0
     },
     "ITAUCL": {
-      "precio": 23502.0,
+      "precio": 23593.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
       "bajo52": 15635.0
     },
     "BSANTANDER": {
-      "precio": 79.21,
+      "precio": 79.55,
       "anterior": 81.82,
       "alto52": 84.4,
       "bajo52": 64.67
     },
     "CAP": {
-      "precio": 4800.0,
+      "precio": 4770.0,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 4736.0
     },
     "CENCOSUD": {
-      "precio": 1862.3,
+      "precio": 1850.1,
       "anterior": 2090.0,
       "alto52": 3238.0,
-      "bajo52": 1861.0
+      "bajo52": 1850.1
     },
     "CENCOMALLS": {
-      "precio": 2240.0,
+      "precio": 2250.0,
       "anterior": 2240.0,
       "alto52": 2799.9,
       "bajo52": 2031.9
     },
     "COLBUN": {
-      "precio": 148.55,
+      "precio": 149.0,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5140.0,
+      "precio": 5141.0,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.19,
+      "precio": 50.4,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4622.7,
+      "precio": 4610.0,
       "anterior": 4699.9,
       "alto52": 4800.0,
       "bajo52": 3711.9
     },
     "ENTEL": {
-      "precio": 4209.6,
+      "precio": 4230.0,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 965.01,
+      "precio": 965.0,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 956.0
     },
     "COPEC": {
-      "precio": 6604.1,
+      "precio": 6675.0,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 88.77,
+      "precio": 89.5,
       "anterior": 90.0,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 86.09,
+      "precio": 86.0,
       "anterior": 81.53,
       "alto52": 87.29,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1805.0,
+      "precio": 1799.0,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6615.9,
+      "precio": 6649.9,
       "anterior": 6599.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 905.69,
+      "precio": 895.01,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 24617.0,
+      "precio": 24800.0,
       "anterior": 25000.0,
-      "alto52": 25000.0,
+      "alto52": 25182.0,
       "bajo52": 13223.0
     },
     "LTM": {
-      "precio": 23.52,
+      "precio": 23.3,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3667.1,
+      "precio": 3705.0,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2440.0
     },
     "MALLPLAZA": {
-      "precio": 3594.8,
+      "precio": 3637.4,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2522.0
     },
     "QUINENCO": {
-      "precio": 4728.3,
+      "precio": 4810.0,
       "anterior": 4620.0,
-      "alto52": 4777.2,
+      "alto52": 4880.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 454.32,
+      "precio": 472.99,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1289.9,
+      "precio": 1300.0,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 932.0
     },
     "SMU": {
-      "precio": 118.87,
+      "precio": 115.12,
       "anterior": 117.5,
       "alto52": 169.5,
-      "bajo52": 115.4
+      "bajo52": 115.12
     },
     "SQM-B": {
-      "precio": 61365.0,
+      "precio": 60710.0,
       "anterior": 64900.0,
       "alto52": 86900.0,
       "bajo52": 40000.0
     },
     "CONCHATORO": {
-      "precio": 889.99,
+      "precio": 890.0,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7365.0,
+      "precio": 7367.6,
       "anterior": 7353.0,
       "alto52": 9000.0,
       "bajo52": 7152.7
@@ -200,7 +195,7 @@
       "bajo52": 24.0
     },
     "CAMANCHACA": {
-      "precio": 82.5,
+      "precio": 81.76,
       "anterior": 82.0,
       "alto52": 96.88,
       "bajo52": 59.01
@@ -218,7 +213,7 @@
       "bajo52": 1733.0
     },
     "HITES": {
-      "precio": 133.0,
+      "precio": 130.51,
       "anterior": 133.01,
       "alto52": 146.09,
       "bajo52": 105.13
@@ -248,19 +243,19 @@
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1595.0,
+      "precio": 1500.0,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 283.0,
+      "precio": 280.0,
       "anterior": 295.0,
       "alto52": 374.0,
       "bajo52": 272.0
     },
     "EMBONOR-B": {
-      "precio": 1760.0,
+      "precio": 1758.0,
       "anterior": 1700.0,
       "alto52": 1760.0,
       "bajo52": 1359.0
@@ -272,7 +267,7 @@
       "bajo52": 2000.0
     },
     "WATTS": {
-      "precio": 667.0,
+      "precio": 665.0,
       "anterior": 703.49,
       "alto52": 820.0,
       "bajo52": 650.4
@@ -290,37 +285,37 @@
       "bajo52": 91.22
     },
     "BLUMAR": {
-      "precio": 355.0,
+      "precio": 365.69,
       "anterior": 275.05,
       "alto52": 369.0,
       "bajo52": 219.8
     },
     "INVERCAP": {
-      "precio": 1611.9,
+      "precio": 1606.7,
       "anterior": 1582.5,
       "alto52": 2278.8,
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 431.0,
+      "precio": 427.26,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 300.11
     },
     "HABITAT": {
-      "precio": 1445.0,
+      "precio": 1447.6,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5049.6,
+      "precio": 5048.3,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4234.3
     },
     "CFINRENTAS": {
-      "precio": 2177.0,
+      "precio": 2175.45,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1684.0
@@ -397,59 +392,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Emprender es Crecer Más: el programa que profesionaliza a las pymes del retail",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/emprender-es-crecer-mas-el-programa-que-profesionaliza-a-las-pymes-del/2026-10-14/164400.html",
+      "fecha": "Wed, 14 Oct 2026",
+      "fechaISO": "2026-10-14T19:44:00+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Minera Escondida anunció firma de nuevo contrato colectivo con supervisores para eludir huelga",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/minera-escondida-anuncio-firma-de-nuevo-contrato-colectivo-con/2026-10-14/161121.html",
+      "fecha": "Wed, 14 Oct 2026",
+      "fechaISO": "2026-10-14T19:11:21+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Orrego cuestiona que el Ejecutivo financie radares con fondos regionales",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/orrego-cuestiona-que-el-ejecutivo-financie-radares-con-fondos-regionales/2026-10-14/144149.html",
+      "fecha": "Wed, 14 Oct 2026",
+      "fechaISO": "2026-10-14T17:41:49+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "\"Históricamente han servido\": Partidos políticos se abren a debatir entrega de bonos ante alto desempleo",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/historicamente-han-servido-partidos-politicos-se-abren-a-debatir/2026-10-14/115342.html",
       "fecha": "Wed, 14 Oct 2026",
       "fechaISO": "2026-10-14T14:53:42+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Otro fatal accidente minero, esta vez en Taltal",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/accidentes-laborales/otro-fatal-accidente-minero-esta-vez-en-taltal/2026-10-14/113655.html",
+      "fuente": "Diario Financiero",
+      "texto": "IPSA pierde los 11 mil puntos tras el IPC estadounidense, pero bancos chilenos cierran al alza tras sus resultados y las nuevas perspectivas de inflación",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-et8a4",
       "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T14:36:55+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Poduje alista plan inspirado en Frei para calmar \"la angustia de las familias por morir esperando\"",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/poduje-alista-plan-inspirado-en-frei-para-calmar-la-angustia-de-las/2026-10-14/095127.html",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T12:51:27+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Escondida anuncia acuerdo para evitar huelga de supervisores",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/escondida-anuncia-acuerdo-para-evitar-huelga-de-supervisores/2026-10-14/075716.html",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T10:57:16+00:00"
+      "fechaISO": "2026-10-14T20:13:40+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "CMF destaca expansión de los fondos alternativos: concentran la mayor parte de la industria y superan los US$ 28 mil millones",
-      "link": "http://www.df.cl/mercados/banca-fintech/cmf-destaca-expansion-de-los-fondos-alternativos-concentran-la-mayor-parte",
+      "texto": "Startup de autos eléctricos Tucar se acoge a reorganización judicial con deudas por $ 17.500 millones",
+      "link": "http://www.df.cl/empresas/industria/startup-de-autos-electricos-tucar-se-acoge-a-reorganizacion-judicial-con",
       "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T17:31:51+00:00"
+      "fechaISO": "2026-10-14T19:52:25+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "La última carta que se juega Escondida para evitar la huelga de supervisores: pago final de $ 30 millones",
-      "link": "http://www.df.cl/empresas/mineria/la-ultima-carta-que-se-juega-escondida-para-evitar-la-huelga-de",
+      "texto": "Los precios del litio acaban de borrar todas sus alzas de 2026 por las expectativas de una sobreoferta el próximo año",
+      "link": "http://www.df.cl/mercados/commodities/los-precios-del-litio-acaban-de-borrar-todas-sus-alzas-de-2026-por-las",
       "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T17:04:22+00:00"
+      "fechaISO": "2026-10-14T20:05:26+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "La glosa de la discordia: oposición rechaza incorporar cláusula que autoriza manejo de datos personales",
-      "link": "http://www.df.cl/economia-y-politica/congreso/la-glosa-de-la-discordia-oposicion-rechaza-incorporar-clausula-que",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T16:13:27+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar salta a niveles de $ 990 por datos de inflación que alimentan la expectativa de un próximo ajuste monetario en EEUU",
+      "texto": "Dólar cierra al alza sobre $ 985 por datos de inflación que reforzaron el atractivo de la divisa a nivel internacional",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmkwc",
       "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T15:44:22+00:00"
+      "fechaISO": "2026-10-14T19:20:40+00:00"
     }
   ]
 }
