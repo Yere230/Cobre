@@ -1,183 +1,178 @@
 {
-  "actualizado": "2026-10-14T23:19:21.283070+00:00",
-  "macro": {
-    "dolar": 980.8,
-    "uf": 41157.43,
-    "utm": 72151,
-    "cobre": 6.71
-  },
+  "actualizado": "2026-10-15T17:25:50.170124+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 329.15,
+      "precio": 331.98,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 192.49,
+      "precio": 193.12,
       "anterior": 197.9,
       "alto52": 200.7,
-      "bajo52": 150.19
+      "bajo52": 152.99
     },
     "BCI": {
-      "precio": 66000.0,
+      "precio": 65152.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
-      "bajo52": 45100.0
+      "bajo52": 45153.0
     },
     "ITAUCL": {
-      "precio": 23593.0,
+      "precio": 23294.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
-      "bajo52": 15635.0
+      "bajo52": 16101.0
     },
     "BSANTANDER": {
-      "precio": 79.55,
+      "precio": 80.33,
       "anterior": 81.82,
       "alto52": 84.4,
-      "bajo52": 64.67
+      "bajo52": 65.01
     },
     "CAP": {
-      "precio": 4770.0,
+      "precio": 4680.0,
       "anterior": 5390.0,
       "alto52": 8680.0,
-      "bajo52": 4736.0
+      "bajo52": 4680.0
     },
     "CENCOSUD": {
-      "precio": 1850.1,
+      "precio": 1836.7,
       "anterior": 2090.0,
       "alto52": 3238.0,
-      "bajo52": 1850.1
+      "bajo52": 1831.1
     },
     "CENCOMALLS": {
-      "precio": 2250.0,
+      "precio": 2229.6,
       "anterior": 2240.0,
       "alto52": 2799.9,
-      "bajo52": 2031.9
+      "bajo52": 2040.0
     },
     "COLBUN": {
-      "precio": 149.0,
+      "precio": 149.2,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5141.0,
+      "precio": 5197.4,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.4,
+      "precio": 50.1,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4610.0,
+      "precio": 4763.5,
       "anterior": 4699.9,
       "alto52": 4800.0,
-      "bajo52": 3711.9
+      "bajo52": 3749.9
     },
     "ENTEL": {
-      "precio": 4230.0,
+      "precio": 4172.1,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 965.0,
+      "precio": 965.05,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 956.0
     },
     "COPEC": {
-      "precio": 6675.0,
+      "precio": 6663.6,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 89.5,
+      "precio": 88.76,
       "anterior": 90.0,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 86.0,
+      "precio": 84.86,
       "anterior": 81.53,
-      "alto52": 87.29,
+      "alto52": 86.16,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1799.0,
+      "precio": 1818.4,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6649.9,
+      "precio": 6658.3,
       "anterior": 6599.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 895.01,
+      "precio": 908.0,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 24800.0,
+      "precio": 24700.0,
       "anterior": 25000.0,
-      "alto52": 25182.0,
-      "bajo52": 13223.0
+      "alto52": 25000.0,
+      "bajo52": 13300.0
     },
     "LTM": {
-      "precio": 23.3,
+      "precio": 23.48,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3705.0,
+      "precio": 3723.9,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2440.0
     },
     "MALLPLAZA": {
-      "precio": 3637.4,
+      "precio": 3571.6,
       "anterior": 3900.0,
       "alto52": 4700.0,
-      "bajo52": 2522.0
+      "bajo52": 2530.1
     },
     "QUINENCO": {
-      "precio": 4810.0,
+      "precio": 4778.0,
       "anterior": 4620.0,
-      "alto52": 4880.0,
+      "alto52": 4810.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 472.99,
+      "precio": 462.26,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1300.0,
+      "precio": 1299.3,
       "anterior": 1315.0,
       "alto52": 1499.9,
-      "bajo52": 932.0
+      "bajo52": 970.0
     },
     "SMU": {
-      "precio": 115.12,
+      "precio": 115.69,
       "anterior": 117.5,
       "alto52": 169.5,
-      "bajo52": 115.12
+      "bajo52": 115.4
     },
     "SQM-B": {
-      "precio": 60710.0,
-      "anterior": 64900.0,
+      "precio": 59981.0,
+      "anterior": 63000.0,
       "alto52": 86900.0,
       "bajo52": 40000.0
     },
@@ -188,7 +183,7 @@
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7367.6,
+      "precio": 7365.0,
       "anterior": 7353.0,
       "alto52": 9000.0,
       "bajo52": 7152.7
@@ -206,9 +201,9 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25567.0,
+      "precio": 25670.0,
       "anterior": 24589.0,
-      "alto52": 25567.0,
+      "alto52": 25671.0,
       "bajo52": 20450.0
     },
     "FORUS": {
@@ -218,7 +213,7 @@
       "bajo52": 1733.0
     },
     "HITES": {
-      "precio": 130.51,
+      "precio": 129.92,
       "anterior": 133.01,
       "alto52": 146.09,
       "bajo52": 105.13
@@ -227,7 +222,7 @@
       "precio": 225.0,
       "anterior": 225.01,
       "alto52": 227.0,
-      "bajo52": 112.95
+      "bajo52": 115.61
     },
     "MASISA": {
       "precio": 7.28,
@@ -239,16 +234,16 @@
       "precio": 1068.8,
       "anterior": 1095.0,
       "alto52": 1120.9,
-      "bajo52": 651.15
+      "bajo52": 695.92
     },
     "SOCOVESA": {
-      "precio": 163.1,
+      "precio": 160.0,
       "anterior": 174.99,
       "alto52": 185.29,
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1500.0,
+      "precio": 1598.2,
       "anterior": 1632.3,
       "alto52": 1875.0,
       "bajo52": 1355.0
@@ -262,7 +257,7 @@
     "EMBONOR-B": {
       "precio": 1758.0,
       "anterior": 1700.0,
-      "alto52": 1760.0,
+      "alto52": 1758.0,
       "bajo52": 1359.0
     },
     "CRISTALES": {
@@ -293,41 +288,41 @@
       "precio": 365.69,
       "anterior": 275.05,
       "alto52": 369.0,
-      "bajo52": 219.8
+      "bajo52": 219.99
     },
     "INVERCAP": {
-      "precio": 1606.7,
+      "precio": 1600.0,
       "anterior": 1582.5,
       "alto52": 2278.8,
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 427.26,
+      "precio": 433.0,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 300.11
     },
     "HABITAT": {
-      "precio": 1447.6,
+      "precio": 1435.0,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5048.3,
+      "precio": 5049.5,
       "anterior": 5035.4,
       "alto52": 5588.4,
-      "bajo52": 4234.3
+      "bajo52": 4324.0
     },
     "CFINRENTAS": {
-      "precio": 2175.45,
+      "precio": 2200.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
-      "bajo52": 1684.0
+      "bajo52": 1700.0
     },
     "CFIBTGRCA": {
       "precio": 22600.0,
-      "anterior": 21900.0,
+      "anterior": 22210.62,
       "alto52": 28000.0,
       "bajo52": 21000.0
     },
@@ -339,6 +334,13 @@
     }
   },
   "noticias": [
+    {
+      "fuente": "Cooperativa · Bolsas",
+      "texto": "Caída en picada del fondo E aviva debate sobre inversiones de las AFP",
+      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/caida-en-picada-del-fondo-e-aviva-debate-sobre-inversiones-de-las-afp/2026-10-15/075903.html",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T10:59:03+00:00"
+    },
     {
       "fuente": "Cooperativa · Bolsas",
       "texto": "Dólar amenaza con alcanzar la luca: \"No hay nada que le dé soporte al peso\"",
@@ -359,13 +361,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/bolsas/shein-debutara-en-la-bolsa-tras-anos-de-espera-y-un-desplome-millonario/2026-08-31/075339.html",
       "fecha": "Mon, 31 Aug 2026",
       "fechaISO": "2026-08-31T11:53:39+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Bolsas",
-      "texto": "Elon Musk se convirtió en el primer billonario del mundo tras salida a bolsa de SpaceX",
-      "link": "https://www.cooperativa.cl/noticias/economia/bolsas/elon-musk-se-convirtio-en-el-primer-billonario-del-mundo-tras-salida-a/2026-06-12/172053.html",
-      "fecha": "Fri, 12 Jun 2026",
-      "fechaISO": "2026-06-12T21:20:53+00:00"
     },
     {
       "fuente": "Cooperativa · Empresas",
@@ -397,59 +392,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Emprender es Crecer Más: el programa que profesionaliza a las pymes del retail",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/emprender-es-crecer-mas-el-programa-que-profesionaliza-a-las-pymes-del/2026-10-14/164400.html",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T19:44:00+00:00"
+      "texto": "Grau y caída de crecimiento: Nunca tuvimos una economía que decrezca sin una crisis mundial",
+      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/grau-y-caida-de-crecimiento-nunca-tuvimos-una-economia-que-decrezca-sin/2026-10-15/114415.html",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T14:44:15+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Minera Escondida anunció firma de nuevo contrato colectivo con supervisores para eludir huelga",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/minera-escondida-anuncio-firma-de-nuevo-contrato-colectivo-con/2026-10-14/161121.html",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T19:11:21+00:00"
+      "texto": "Gobierno proyecta baja promedio de 4,3% en las cuentas de la luz a partir de enero",
+      "link": "https://www.cooperativa.cl/noticias/pais/servicios-basicos/electricidad/gobierno-proyecta-baja-promedio-de-4-3-en-las-cuentas-de-la-luz-a/2026-10-15/103242.html",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T13:32:42+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Orrego cuestiona que el Ejecutivo financie radares con fondos regionales",
-      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/orrego-cuestiona-que-el-ejecutivo-financie-radares-con-fondos-regionales/2026-10-14/144149.html",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T17:41:49+00:00"
+      "texto": "Propuesta del Gobierno establece alza de 7,6% de presupuesto en Defensa",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/propuesta-del-gobierno-establece-alza-de-7-6-de-presupuesto-en-defensa/2026-10-15/091456.html",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T12:14:56+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "\"Históricamente han servido\": Partidos políticos se abren a debatir entrega de bonos ante alto desempleo",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/historicamente-han-servido-partidos-politicos-se-abren-a-debatir/2026-10-14/115342.html",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T14:53:42+00:00"
+      "texto": "Caída en picada del fondo E aviva debate sobre inversiones de las AFP",
+      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/caida-en-picada-del-fondo-e-aviva-debate-sobre-inversiones-de-las-afp/2026-10-15/075903.html",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T10:59:03+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Grupo Falabella fortalece su perfil financiero: Fitch eleva clasificación tras reducción de deuda y mejora de márgenes",
-      "link": "http://www.df.cl/empresas/retail/falabella-fortalece-su-perfil-financiero-fitch-eleva-clasificacion-tras",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T23:16:32+00:00"
+      "texto": "Hacienda cede ante diputados UDI y mantendría actual norma antifraudes en la MK4",
+      "link": "http://www.df.cl/economia-y-politica/congreso/hacienda-cede-ante-diputados-udi-y-mantendria-actual-norma-antifraudes-en",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T17:18:20+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Codelco convoca a junta extraordinaria de accionistas por nuevas inconsistencias en cifras de producción",
-      "link": "http://www.df.cl/empresas/mineria/codelco-convoca-a-junta-extraordinaria-de-accionistas-por-nuevas",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T23:14:26+00:00"
+      "texto": "La reciente ola compradora de bonos en EEUU promete un mayor alivio para el castigado fondo E",
+      "link": "http://www.df.cl/mercados/renta-fija/la-reciente-ola-compradora-de-bonos-en-eeuu-promete-un-mayor-alivio-para-el",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T17:09:17+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Subsecretario Pavez aclara alcance del uso del 2% para emergencias ante últimos fenómenos climáticos",
-      "link": "http://www.df.cl/economia-y-politica/gobierno/subsecretario-pavez-aclara-alcance-del-uso-del-2-para-emergencias-ante",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T21:18:20+00:00"
+      "texto": "Dólar cae levemente en medio de ventas globales por menor confianza de los inversionistas sobre la IA",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ddbfe",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T16:26:22+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Atacan faena de CMPC que había retomado operaciones tras siete años paralizada por violencia",
-      "link": "http://www.df.cl/empresas/industria/atacan-faena-de-cmpc-que-habia-retomado-operaciones-tras-siete-anos",
-      "fecha": "Wed, 14 Oct 2026",
-      "fechaISO": "2026-10-14T21:14:59+00:00"
+      "texto": "Alejandro Ferreiro y polémica caída del fondo E: \"Lo que ocurrió no creo que sea una cuestión de la que las AFP se puedan sentir especialmente orgullosas\"",
+      "link": "http://www.df.cl/mercados/pensiones/alejandro-ferreiro-exsuperintendente-de-afp-estas-volatilidades-son",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T17:21:50+00:00"
     }
   ]
 }
