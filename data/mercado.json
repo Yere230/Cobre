@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T20:13:48.555735+00:00",
+  "actualizado": "2026-10-15T23:08:10.051662+00:00",
   "macro": {
     "dolar": 987.0,
     "uf": 41162.73,
@@ -206,7 +206,7 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25670.0,
+      "precio": 25671.0,
       "anterior": 24589.0,
       "alto52": 25671.0,
       "bajo52": 20450.0
@@ -242,7 +242,7 @@
       "bajo52": 695.92
     },
     "SOCOVESA": {
-      "precio": 160.0,
+      "precio": 160.06,
       "anterior": 174.99,
       "alto52": 185.29,
       "bajo52": 112.0
@@ -302,13 +302,13 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 434.01,
+      "precio": 433.56,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 300.11
     },
     "HABITAT": {
-      "precio": 1430.0,
+      "precio": 1430.9,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
@@ -320,7 +320,7 @@
       "bajo52": 4324.0
     },
     "CFINRENTAS": {
-      "precio": 2200.0,
+      "precio": 2181.18,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1700.0
@@ -425,6 +425,20 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Exportaciones chilenas superan por primera vez los US$ 90 mil millones entre enero y septiembre, y rompen récord de empresas exportadoras",
+      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/exportaciones-chilenas-superan-por-primera-vez-los-us-90-mil-millones",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T21:48:45+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Antofagasta plc nombra a expresidente regional de BHP como nuevo integrante de su directorio",
+      "link": "http://www.df.cl/empresas/mineria/antofagasta-plc-nombra-a-exbhp-carlos-avila-como-nuevo-integrante-de-su",
+      "fecha": "Thu, 15 Oct 2026",
+      "fechaISO": "2026-10-15T21:17:07+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Wall Street da media vuelta y cierra al alza mientras inversionistas reconsideran sus temores sobre el financiamiento de proyectos de IA",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-vzsfj",
       "fecha": "Thu, 15 Oct 2026",
@@ -436,20 +450,6 @@
       "link": "http://www.df.cl/mercados/pensiones/las-afp-alertaron-al-regulador-sobre-riesgos-de-los-swaps-antes-de-las",
       "fecha": "Thu, 15 Oct 2026",
       "fechaISO": "2026-10-15T19:34:27+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Oposición da señal de unidad en desayuno con la posible candidata y expresidenta Bachelet: también asistió el exmandatario Boric",
-      "link": "http://www.df.cl/economia-y-politica/politica/oposicion-da-senal-de-unidad-en-desayuno-con-la-posible-candidata-y",
-      "fecha": "Thu, 15 Oct 2026",
-      "fechaISO": "2026-10-15T19:26:14+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Multi X pierde 918 toneladas de salmones por bloom de algas e industria eleva la alerta por fenómeno del El Niño",
-      "link": "http://www.df.cl/empresas/industria/multi-x-pierde-918-toneladas-de-salmones-por-bloom-de-algas-e-industria",
-      "fecha": "Thu, 15 Oct 2026",
-      "fechaISO": "2026-10-15T20:05:13+00:00"
     }
   ]
 }
