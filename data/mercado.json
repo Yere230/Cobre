@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T17:01:50.911910+00:00",
+  "actualizado": "2026-10-16T19:50:48.186272+00:00",
   "macro": {
     "dolar": 984.1,
     "uf": 41168.03,
@@ -7,170 +7,176 @@
     "cobre": 6.62
   },
   "acciones": {
+    "AGUAS-A": {
+      "precio": 337.3,
+      "anterior": 335.0,
+      "alto52": 400.0,
+      "bajo52": 310.11
+    },
     "CHILE": {
-      "precio": 191.2,
+      "precio": 191.69,
       "anterior": 197.9,
       "alto52": 200.7,
       "bajo52": 152.99
     },
     "BCI": {
-      "precio": 65213.0,
+      "precio": 64360.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
       "bajo52": 45153.0
     },
     "ITAUCL": {
-      "precio": 23360.0,
+      "precio": 23000.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
       "bajo52": 16101.0
     },
     "BSANTANDER": {
-      "precio": 80.07,
+      "precio": 80.49,
       "anterior": 81.82,
       "alto52": 84.4,
       "bajo52": 65.53
     },
     "CAP": {
-      "precio": 4645.8,
+      "precio": 4635.0,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 4630.0
     },
     "CENCOSUD": {
-      "precio": 1885.0,
+      "precio": 1871.4,
       "anterior": 2090.0,
       "alto52": 3238.0,
-      "bajo52": 1849.2
+      "bajo52": 1846.0
     },
     "CENCOMALLS": {
-      "precio": 2220.3,
+      "precio": 2240.1,
       "anterior": 2240.0,
       "alto52": 2799.9,
       "bajo52": 2075.0
     },
     "COLBUN": {
-      "precio": 150.57,
+      "precio": 148.0,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5325.3,
+      "precio": 5359.0,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.02,
+      "precio": 49.8,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4848.0,
+      "precio": 4850.0,
       "anterior": 4699.9,
       "alto52": 4887.9,
       "bajo52": 3800.0
     },
     "ENTEL": {
-      "precio": 4221.8,
+      "precio": 4223.0,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 966.04,
+      "precio": 966.0,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 956.0
     },
     "COPEC": {
-      "precio": 6790.0,
+      "precio": 6748.0,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 88.99,
+      "precio": 88.5,
       "anterior": 90.0,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 86.56,
+      "precio": 86.8,
       "anterior": 81.53,
       "alto52": 87.19,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1876.0,
+      "precio": 1864.4,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6795.6,
+      "precio": 6824.9,
       "anterior": 6510.1,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 906.73,
+      "precio": 901.5,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 25451.0,
+      "precio": 25021.0,
       "anterior": 25000.0,
       "alto52": 26000.0,
       "bajo52": 13300.0
     },
     "LTM": {
-      "precio": 23.82,
+      "precio": 23.34,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3736.6,
+      "precio": 3734.9,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2448.6
     },
     "MALLPLAZA": {
-      "precio": 3583.8,
+      "precio": 3594.9,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2557.7
     },
     "QUINENCO": {
-      "precio": 4807.2,
+      "precio": 4800.0,
       "anterior": 4620.0,
       "alto52": 4845.6,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 465.1,
+      "precio": 468.9,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1312.0,
+      "precio": 1315.0,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 970.0
     },
     "SMU": {
-      "precio": 117.56,
+      "precio": 117.7,
       "anterior": 117.5,
       "alto52": 166.5,
       "bajo52": 115.4
     },
     "SQM-B": {
-      "precio": 60063.0,
+      "precio": 59490.0,
       "anterior": 63190.0,
       "alto52": 86900.0,
       "bajo52": 40000.0
@@ -230,7 +236,7 @@
       "bajo52": 7.17
     },
     "PAZ": {
-      "precio": 1039.9,
+      "precio": 1068.0,
       "anterior": 1095.0,
       "alto52": 1120.9,
       "bajo52": 726.35
@@ -248,7 +254,7 @@
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 278.0,
+      "precio": 279.9,
       "anterior": 295.0,
       "alto52": 374.0,
       "bajo52": 272.0
@@ -272,7 +278,7 @@
       "bajo52": 650.4
     },
     "TRICOT": {
-      "precio": 585.09,
+      "precio": 585.0,
       "anterior": 581.84,
       "alto52": 688.8,
       "bajo52": 513.1
@@ -284,31 +290,31 @@
       "bajo52": 91.22
     },
     "BLUMAR": {
-      "precio": 365.69,
+      "precio": 367.0,
       "anterior": 275.05,
       "alto52": 369.0,
       "bajo52": 219.99
     },
     "INVERCAP": {
-      "precio": 1595.0,
+      "precio": 1587.9,
       "anterior": 1582.5,
       "alto52": 2278.8,
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 440.0,
+      "precio": 439.0,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 304.0
     },
     "HABITAT": {
-      "precio": 1405.0,
+      "precio": 1400.0,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5079.8,
+      "precio": 5041.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4324.0
@@ -405,8 +411,8 @@
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "CPC aboga por cambios regulatorios a las AFP tras derrumbe de fondo E",
-      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/cpc-aboga-por-cambios-regulatorios-a-las-afp-tras-derrumbe-de-fondo-e/2026-10-16/085149.html",
+      "texto": "CPC aboga por actualizar normas de riesgo de inversión tras derrumbe del fondo E",
+      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/cpc-aboga-por-actualizar-normas-de-riesgo-de-inversion-tras-derrumbe-del/2026-10-16/085149.html",
       "fecha": "Fri, 16 Oct 2026",
       "fechaISO": "2026-10-16T11:51:49+00:00"
     },
@@ -419,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Gobierno se abre a recoger las inquietudes de los órganos autónomos de cara a la discusión del Presupuesto 2027",
-      "link": "http://www.df.cl/economia-y-politica/macro/gobierno-se-abre-a-recoger-las-inquietudes-de-los-organos-autonomos-de-cara",
-      "fecha": "Fri, 16 Oct 2026",
-      "fechaISO": "2026-10-16T16:48:02+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena recupera la marca de 11 mil puntos mientras se espera una pausa en la política restrictiva de la Fed",
+      "texto": "IPSA cierra estable mientras Wall Street cae fuerte a medida que el petróleo Brent sube a máximos de cinco meses",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-x3zxe",
       "fecha": "Fri, 16 Oct 2026",
-      "fechaISO": "2026-10-16T16:05:27+00:00"
+      "fechaISO": "2026-10-16T19:24:50+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El Banco do Brasil regresa a Chile tras cinco años y abrirá oficina de representación",
-      "link": "http://www.df.cl/mercados/banca-fintech/el-banco-do-brasil-regresa-a-chile-tras-cinco-anos-y-abrira-oficina-de",
+      "texto": "Presidentes de Chile y Bolivia firman declaración en que reafirman voluntad de evaluar una futura interconexión eléctrica",
+      "link": "http://www.df.cl/empresas/energia/presidentes-de-chile-y-bolivia-firman-declaracion-en-que-reafirman-voluntad",
       "fecha": "Fri, 16 Oct 2026",
-      "fechaISO": "2026-10-16T16:00:55+00:00"
+      "fechaISO": "2026-10-16T19:24:34+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cotiza estable mientras agentes se convencen de que la Fed hará una pausa en su próxima reunión de política",
+      "texto": "Dólar cierra al alza este viernes y a nivel semanal tras repunte del petróleo que moderó las ventas globales sobre la divisa",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-vr6ig",
       "fecha": "Fri, 16 Oct 2026",
-      "fechaISO": "2026-10-16T15:01:38+00:00"
+      "fechaISO": "2026-10-16T19:17:15+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "En histórica visita a La Paz, Kast suscribe acuerdos comerciales y mineros pero Bolivia reitera que mantiene aspiración marítima",
+      "link": "http://www.df.cl/economia-y-politica/politica/en-historica-visita-a-la-paz-kast-suscribe-acuerdos-comerciales-y-mineros",
+      "fecha": "Fri, 16 Oct 2026",
+      "fechaISO": "2026-10-16T19:27:33+00:00"
     }
   ]
 }
