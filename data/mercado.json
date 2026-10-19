@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-10-19T21:23:29.500063+00:00",
-  "macro": {},
+  "actualizado": "2026-10-19T23:49:24.697849+00:00",
+  "macro": {
+    "dolar": 981.6,
+    "uf": 41183.94,
+    "utm": 72151,
+    "cobre": 6.54
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 333.0,
@@ -392,6 +397,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Andrés Palma: El Gobierno debe asumir que hoy sí hay crisis y no el año pasado",
+      "link": "https://www.cooperativa.cl/noticias/economia/andres-palma-el-gobierno-debe-asumir-que-hoy-si-hay-crisis-y-no-el-ano/2026-10-19/194845.html",
+      "fecha": "Mon, 19 Oct 2026",
+      "fechaISO": "2026-10-19T22:48:45+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Gobierno evalúa acciones para \"evitar un daño de mayor magnitud\" ante dura caída del fondo E",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gobierno-evalua-acciones-para-evitar-un-dano-de-mayor-magnitud-ante/2026-10-19/190024.html",
+      "fecha": "Mon, 19 Oct 2026",
+      "fechaISO": "2026-10-19T22:00:24+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Presupuesto en Salud: Gobierno defiende recorte a ley Ricarte Soto y Cariola acusa \"marketing fiscal\"",
       "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-en-salud-gobierno-defiende-recorte-a-ley-ricarte-soto-y/2026-10-19/150406.html",
       "fecha": "Mon, 19 Oct 2026",
@@ -405,46 +424,32 @@
       "fechaISO": "2026-10-19T18:06:07+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Presupuesto 2027: Gobierno apela a la \"responsabilidad\" ante reparos de Fiscalía, Contraloría y Servel",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-gobierno-apela-a-la-responsabilidad-ante-reparos-de/2026-10-19/144919.html",
+      "fuente": "Diario Financiero",
+      "texto": "ProntoPaga amenaza con cortar servicios a plataformas de apuestas online que no paguen su IVA digital",
+      "link": "http://www.df.cl/empresas/industria/prontopaga-amenaza-con-cortar-servicios-a-plataformas-de-apuestas-online",
       "fecha": "Mon, 19 Oct 2026",
-      "fechaISO": "2026-10-19T17:49:19+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Exsuperintendente: Hubo numerosas advertencias, pero las AFP decían tener una estrategia ganadora",
-      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/exsuperintendente-hubo-numerosas-advertencias-pero-las-afp-decian/2026-10-19/082345.html",
-      "fecha": "Mon, 19 Oct 2026",
-      "fechaISO": "2026-10-19T11:23:45+00:00"
+      "fechaISO": "2026-10-19T23:30:45+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Servicio Civil pone en marcha procesos para nombrar nuevos notarios: publicará 12 concursos antes de fin de año",
-      "link": "http://www.df.cl/economia-y-politica/politica/servicio-civil-pone-en-marcha-procesos-para-nombrar-nuevos-notarios",
+      "texto": "Impulsado por los vuelos domésticos, tráfico aéreo en Chile vuelve a crecer tras 13 meses de caídas",
+      "link": "http://www.df.cl/empresas/industria/impulsado-por-los-vuelos-domesticos-trafico-aereo-en-chile-vuelve-a-crecer",
       "fecha": "Mon, 19 Oct 2026",
-      "fechaISO": "2026-10-19T20:19:33+00:00"
+      "fechaISO": "2026-10-19T23:28:12+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Wall Street cierra al alza y el IPSA se estabiliza, pero los activos europeos resienten la fuerte turbulencia política de Francia",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-uy9hk",
+      "texto": "Latam Airlines proyecta que costos del jet fuel se mantendrán altos aunque cesen las tensiones en Medio Oriente",
+      "link": "http://www.df.cl/empresas/industria/latam-airlines-proyecta-que-costos-del-jet-fuel-se-mantendran-altos-aunque",
       "fecha": "Mon, 19 Oct 2026",
-      "fechaISO": "2026-10-19T20:20:15+00:00"
+      "fechaISO": "2026-10-19T23:19:07+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "ENAP refuerza su posición en Ecuador: suscribe contrato para comprar firma en ese país por más de US$ 200 millones",
-      "link": "http://www.df.cl/empresas/energia/enap-refuerza-su-posicion-en-ecuador-suscribe-contrato-para-comprar-firma",
+      "texto": "Oposición pide sesión especial en el Senado y el PDG hace lo propio en la Cámara por caída del Fondo E",
+      "link": "http://www.df.cl/economia-y-politica/congreso/oposicion-pide-sesion-especial-en-el-senado-y-pdg-hace-lo-propio-en-la",
       "fecha": "Mon, 19 Oct 2026",
-      "fechaISO": "2026-10-19T19:58:04+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cae a cerca de $ 980 al cierre de la sesión en Chile tras ponerse al día con recientes ventas globales sobre la moneda",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-fhk42",
-      "fecha": "Mon, 19 Oct 2026",
-      "fechaISO": "2026-10-19T19:47:47+00:00"
+      "fechaISO": "2026-10-19T22:49:15+00:00"
     }
   ]
 }
