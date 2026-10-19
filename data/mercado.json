@@ -1,189 +1,189 @@
 {
-  "actualizado": "2026-10-19T18:52:34.563494+00:00",
+  "actualizado": "2026-10-19T21:23:29.500063+00:00",
   "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 332.28,
+      "precio": 333.0,
       "anterior": 335.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 191.3,
+      "precio": 191.5,
       "anterior": 197.9,
       "alto52": 200.7,
       "bajo52": 152.99
     },
     "BCI": {
-      "precio": 64673.0,
+      "precio": 65000.0,
       "anterior": 65600.0,
       "alto52": 68446.0,
       "bajo52": 45153.0
     },
     "ITAUCL": {
-      "precio": 23065.0,
+      "precio": 22781.0,
       "anterior": 24200.0,
       "alto52": 25887.0,
       "bajo52": 16101.0
     },
     "BSANTANDER": {
-      "precio": 80.29,
+      "precio": 80.7,
       "anterior": 81.82,
       "alto52": 84.4,
       "bajo52": 65.69
     },
     "CAP": {
-      "precio": 4667.6,
+      "precio": 4641.0,
       "anterior": 5390.0,
       "alto52": 8680.0,
       "bajo52": 4635.0
     },
     "CENCOSUD": {
-      "precio": 1843.2,
+      "precio": 1857.0,
       "anterior": 2090.0,
       "alto52": 3238.0,
       "bajo52": 1841.0
     },
     "CENCOMALLS": {
-      "precio": 2207.5,
+      "precio": 2210.1,
       "anterior": 2240.0,
       "alto52": 2799.9,
       "bajo52": 2090.0
     },
     "COLBUN": {
-      "precio": 149.22,
+      "precio": 149.0,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5307.6,
+      "precio": 5350.0,
       "anterior": 5330.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.02,
+      "precio": 49.81,
       "anterior": 46.51,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4823.4,
+      "precio": 4830.0,
       "anterior": 4699.9,
-      "alto52": 4882.2,
+      "alto52": 4888.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4209.0,
+      "precio": 4249.0,
       "anterior": 3977.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 956.46,
+      "precio": 960.0,
       "anterior": 957.0,
       "alto52": 1501.1,
       "bajo52": 955.31
     },
     "COPEC": {
-      "precio": 6679.0,
+      "precio": 6740.0,
       "anterior": 6430.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 89.71,
+      "precio": 90.62,
       "anterior": 90.0,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 86.29,
+      "precio": 86.9,
       "anterior": 81.53,
       "alto52": 87.99,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1833.4,
+      "precio": 1860.0,
       "anterior": 1855.0,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6690.2,
+      "precio": 6779.0,
       "anterior": 6600.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 885.02,
+      "precio": 890.0,
       "anterior": 955.57,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 25005.0,
+      "precio": 25498.0,
       "anterior": 25000.0,
       "alto52": 25498.0,
       "bajo52": 13800.0
     },
     "LTM": {
-      "precio": 23.3,
+      "precio": 23.4,
       "anterior": 24.78,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3760.1,
+      "precio": 3800.0,
       "anterior": 3900.0,
       "alto52": 4596.3,
       "bajo52": 2493.0
     },
     "MALLPLAZA": {
-      "precio": 3562.6,
+      "precio": 3600.1,
       "anterior": 3900.0,
       "alto52": 4700.0,
       "bajo52": 2590.2
     },
     "QUINENCO": {
-      "precio": 4735.4,
+      "precio": 4700.0,
       "anterior": 4620.0,
       "alto52": 4816.8,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 465.17,
+      "precio": 466.99,
       "anterior": 442.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1341.6,
+      "precio": 1340.0,
       "anterior": 1315.0,
       "alto52": 1499.9,
       "bajo52": 985.0
     },
     "SMU": {
-      "precio": 113.86,
+      "precio": 117.0,
       "anterior": 117.5,
       "alto52": 166.5,
       "bajo52": 113.77
     },
     "SQM-B": {
-      "precio": 59235.0,
+      "precio": 59300.0,
       "anterior": 62400.0,
       "alto52": 86900.0,
       "bajo52": 40000.0
     },
     "CONCHATORO": {
-      "precio": 896.16,
+      "precio": 900.0,
       "anterior": 930.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7374.4,
+      "precio": 7378.0,
       "anterior": 7353.0,
       "alto52": 9000.0,
       "bajo52": 7152.7
@@ -195,13 +195,13 @@
       "bajo52": 24.0
     },
     "CAMANCHACA": {
-      "precio": 84.1,
+      "precio": 83.95,
       "anterior": 82.0,
       "alto52": 96.88,
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25670.0,
+      "precio": 25671.0,
       "anterior": 24589.0,
       "alto52": 25670.0,
       "bajo52": 20450.0
@@ -237,7 +237,7 @@
       "bajo52": 726.35
     },
     "SOCOVESA": {
-      "precio": 158.0,
+      "precio": 160.02,
       "anterior": 174.99,
       "alto52": 185.29,
       "bajo52": 112.0
@@ -249,7 +249,7 @@
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 275.0,
+      "precio": 278.13,
       "anterior": 295.0,
       "alto52": 374.0,
       "bajo52": 272.0
@@ -267,7 +267,7 @@
       "bajo52": 2000.0
     },
     "WATTS": {
-      "precio": 667.0,
+      "precio": 669.75,
       "anterior": 703.49,
       "alto52": 820.0,
       "bajo52": 650.4
@@ -297,25 +297,25 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 429.0,
+      "precio": 430.0,
       "anterior": 421.55,
       "alto52": 450.0,
       "bajo52": 308.0
     },
     "HABITAT": {
-      "precio": 1374.0,
+      "precio": 1367.0,
       "anterior": 1391.0,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5045.0,
+      "precio": 5054.4,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4324.0
     },
     "CFINRENTAS": {
-      "precio": 2170.0,
+      "precio": 2169.08,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1700.0
@@ -420,31 +420,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Oposición activa medidas legislativas para evitar situaciones como la tras la caída del fondo E",
-      "link": "http://www.df.cl/economia-y-politica/congreso/oposicion-activa-medidas-legislativas-para-evitar-situaciones-como-la",
+      "texto": "Servicio Civil pone en marcha procesos para nombrar nuevos notarios: publicará 12 concursos antes de fin de año",
+      "link": "http://www.df.cl/economia-y-politica/politica/servicio-civil-pone-en-marcha-procesos-para-nombrar-nuevos-notarios",
       "fecha": "Mon, 19 Oct 2026",
-      "fechaISO": "2026-10-19T17:58:48+00:00"
+      "fechaISO": "2026-10-19T20:19:33+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Industria de fondos mutuos supera los cuatro millones de partícipes y alcanza nuevo máximo histórico",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/industria-de-fondos-mutuos-supera-los-cuatro-millones-de-participes-y",
+      "texto": "Wall Street cierra al alza y el IPSA se estabiliza, pero los activos europeos resienten la fuerte turbulencia política de Francia",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-uy9hk",
       "fecha": "Mon, 19 Oct 2026",
-      "fechaISO": "2026-10-19T18:08:57+00:00"
+      "fechaISO": "2026-10-19T20:20:15+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "La Moneda entra a la discusión por las pérdidas del fondo E y no descarta tomar acciones legales: “Con el ahorro de los chilenos no se juega”",
-      "link": "http://www.df.cl/economia-y-politica/politica/la-moneda-entra-a-la-discusion-por-las-perdidas-del-fondo-e-y-no-descarta",
+      "texto": "ENAP refuerza su posición en Ecuador: suscribe contrato para comprar firma en ese país por más de US$ 200 millones",
+      "link": "http://www.df.cl/empresas/energia/enap-refuerza-su-posicion-en-ecuador-suscribe-contrato-para-comprar-firma",
       "fecha": "Mon, 19 Oct 2026",
-      "fechaISO": "2026-10-19T18:19:55+00:00"
+      "fechaISO": "2026-10-19T19:58:04+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "CEO de Antofagasta Minerals apuesta por potencial minero del Cono Sur y ve oportunidades en Chile, Argentina y Perú",
-      "link": "http://www.df.cl/empresas/mineria/ceo-de-antofagasta-minerals-apuesta-por-potencial-minero-del-cono-sur-y-ve",
+      "texto": "Dólar cae a cerca de $ 980 al cierre de la sesión en Chile tras ponerse al día con recientes ventas globales sobre la moneda",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-fhk42",
       "fecha": "Mon, 19 Oct 2026",
-      "fechaISO": "2026-10-19T18:07:06+00:00"
+      "fechaISO": "2026-10-19T19:47:47+00:00"
     }
   ]
 }
