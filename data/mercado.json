@@ -1,69 +1,69 @@
 {
-  "actualizado": "2026-10-20T17:36:37.318280+00:00",
+  "actualizado": "2026-10-20T20:21:43.064286+00:00",
   "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 330.85,
+      "precio": 330.1,
       "anterior": 331.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 193.62,
+      "precio": 193.5,
       "anterior": 192.0,
       "alto52": 200.7,
       "bajo52": 152.99
     },
     "BCI": {
-      "precio": 64705.0,
+      "precio": 64800.0,
       "anterior": 65900.0,
       "alto52": 68446.0,
       "bajo52": 45153.0
     },
     "ITAUCL": {
-      "precio": 23039.0,
+      "precio": 22999.0,
       "anterior": 23250.0,
       "alto52": 25887.0,
       "bajo52": 16101.0
     },
     "BSANTANDER": {
-      "precio": 80.97,
+      "precio": 81.18,
       "anterior": 78.55,
       "alto52": 84.4,
       "bajo52": 65.69
     },
     "CAP": {
-      "precio": 4625.0,
+      "precio": 4610.1,
       "anterior": 4850.0,
       "alto52": 8680.0,
       "bajo52": 4603.9
     },
     "CENCOSUD": {
-      "precio": 1842.0,
+      "precio": 1825.0,
       "anterior": 1885.0,
       "alto52": 3238.0,
       "bajo52": 1820.0
     },
     "CENCOMALLS": {
-      "precio": 2278.4,
+      "precio": 2241.0,
       "anterior": 2284.0,
       "alto52": 2799.9,
       "bajo52": 2090.3
     },
     "COLBUN": {
-      "precio": 151.24,
+      "precio": 151.0,
       "anterior": 149.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5255.6,
+      "precio": 5250.0,
       "anterior": 5221.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 50.12,
+      "precio": 49.7,
       "anterior": 50.55,
       "alto52": 54.8,
       "bajo52": 42.0
@@ -71,113 +71,113 @@
     "ANDINA-B": {
       "precio": 4890.0,
       "anterior": 4700.0,
-      "alto52": 4899.0,
+      "alto52": 4910.3,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4211.0,
+      "precio": 4230.0,
       "anterior": 4250.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 944.75,
+      "precio": 942.0,
       "anterior": 965.0,
       "alto52": 1501.1,
-      "bajo52": 942.21
+      "bajo52": 942.0
     },
     "COPEC": {
-      "precio": 6590.1,
+      "precio": 6598.0,
       "anterior": 6561.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 90.81,
+      "precio": 90.92,
       "anterior": 90.0,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 86.82,
+      "precio": 86.5,
       "anterior": 86.2,
       "alto52": 88.4,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1860.1,
+      "precio": 1860.0,
       "anterior": 1840.0,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6748.0,
+      "precio": 6710.1,
       "anterior": 6645.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 885.03,
+      "precio": 885.01,
       "anterior": 898.0,
       "alto52": 1150.0,
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 24876.0,
+      "precio": 24950.0,
       "anterior": 25200.0,
       "alto52": 26000.0,
       "bajo52": 14200.0
     },
     "LTM": {
-      "precio": 23.5,
+      "precio": 23.39,
       "anterior": 24.09,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3758.0,
+      "precio": 3750.0,
       "anterior": 3650.0,
       "alto52": 4596.3,
       "bajo52": 2510.1
     },
     "MALLPLAZA": {
-      "precio": 3565.0,
+      "precio": 3519.1,
       "anterior": 3634.1,
       "alto52": 4700.0,
       "bajo52": 2590.2
     },
     "QUINENCO": {
-      "precio": 4715.3,
+      "precio": 4728.0,
       "anterior": 4740.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 463.0,
+      "precio": 462.89,
       "anterior": 461.0,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1330.0,
+      "precio": 1350.0,
       "anterior": 1277.7,
       "alto52": 1499.9,
       "bajo52": 985.0
     },
     "SMU": {
-      "precio": 114.55,
+      "precio": 114.96,
       "anterior": 118.43,
       "alto52": 166.5,
-      "bajo52": 114.42
+      "bajo52": 114.2
     },
     "SQM-B": {
-      "precio": 58429.0,
+      "precio": 58350.0,
       "anterior": 61585.0,
       "alto52": 86900.0,
       "bajo52": 40000.0
     },
     "CONCHATORO": {
-      "precio": 888.45,
+      "precio": 894.99,
       "anterior": 891.0,
       "alto52": 1105.0,
       "bajo52": 815.0
@@ -213,7 +213,7 @@
       "bajo52": 1706.0
     },
     "HITES": {
-      "precio": 129.92,
+      "precio": 131.7,
       "anterior": 133.0,
       "alto52": 146.09,
       "bajo52": 105.13
@@ -243,7 +243,7 @@
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1605.0,
+      "precio": 1606.3,
       "anterior": 1595.0,
       "alto52": 1875.0,
       "bajo52": 1355.0
@@ -291,19 +291,19 @@
       "bajo52": 219.99
     },
     "INVERCAP": {
-      "precio": 1573.0,
+      "precio": 1572.0,
       "anterior": 1623.7,
       "alto52": 2278.8,
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 434.0,
+      "precio": 435.99,
       "anterior": 430.49,
       "alto52": 450.0,
       "bajo52": 310.02
     },
     "HABITAT": {
-      "precio": 1288.0,
+      "precio": 1300.0,
       "anterior": 1469.9,
       "alto52": 1600.0,
       "bajo52": 1251.0
@@ -420,31 +420,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "¿Cuánto cuesta realmente arrendar en Santiago? Precios publicados se alejan de los efectivos y brecha se triplica en tres años",
-      "link": "http://www.df.cl/empresas/construccion/cuanto-cuesta-realmente-arrendar-en-santiago-precios-publicados-se-alejan",
-      "fecha": "Tue, 20 Oct 2026",
-      "fechaISO": "2026-10-20T17:19:45+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Kast sostiene que hay una “oportunidad histórica” en materia económica y llama al Parlamento a apoyar agenda de seguridad: “No pasen facturas por hacerle daño al gobierno”",
-      "link": "http://www.df.cl/economia-y-politica/gobierno/kast-sostiene-que-hay-una-oportunidad-historica-en-materia-economica-y",
-      "fecha": "Tue, 20 Oct 2026",
-      "fechaISO": "2026-10-20T16:50:16+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cae por debajo de $ 975 ante menor confianza sobre la IA y un giro a la baja en los precios del petróleo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-a28gj",
-      "fecha": "Tue, 20 Oct 2026",
-      "fechaISO": "2026-10-20T16:37:15+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Wall Street gira al alza liderado por el Dow Jones a medida que sigue avanzando la temporada de resultados en EEUU",
+      "texto": "IPSA cierra a la baja mientras el fantasma de los retiros de fondos de pensiones sobrevuela al mercado chileno",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-jtvlg",
       "fecha": "Tue, 20 Oct 2026",
-      "fechaISO": "2026-10-20T16:26:28+00:00"
+      "fechaISO": "2026-10-20T20:07:14+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Parisi propone congelar aumento de cotizaciones hasta llegar al 7% de desempleo y crear un Fondo F más conservador",
+      "link": "http://www.df.cl/economia-y-politica/politica/parisi-propone-congelar-aumento-de-cotizaciones-hasta-llegar-al-7-de",
+      "fecha": "Tue, 20 Oct 2026",
+      "fechaISO": "2026-10-20T19:49:44+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Dólar pierde los $ 980 al cierre por menor confianza sobre la IA y un giro a la baja en los precios del petróleo",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-a28gj",
+      "fecha": "Tue, 20 Oct 2026",
+      "fechaISO": "2026-10-20T19:09:11+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Senado aprueba a Macarena Lobos y Juan Esteban Laval como nuevos comisionados de la CMF",
+      "link": "http://www.df.cl/mercados/banca-fintech/senado-aprueba-a-macarena-lobos-y-juan-esteban-laval-como-nuevos",
+      "fecha": "Tue, 20 Oct 2026",
+      "fechaISO": "2026-10-20T19:45:36+00:00"
     }
   ]
 }
