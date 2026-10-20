@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-10-20T20:21:43.064286+00:00",
-  "macro": {},
+  "actualizado": "2026-10-20T23:15:15.233878+00:00",
+  "macro": {
+    "dolar": 981.9,
+    "uf": 41189.24,
+    "utm": 72151,
+    "cobre": 6.58
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 330.1,
@@ -183,7 +188,7 @@
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7300.0,
+      "precio": 7291.2,
       "anterior": 7417.6,
       "alto52": 9000.0,
       "bajo52": 7152.7
@@ -201,7 +206,7 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25670.0,
+      "precio": 25671.0,
       "anterior": 25567.0,
       "alto52": 25671.0,
       "bajo52": 20450.0
@@ -219,7 +224,7 @@
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 222.0,
+      "precio": 221.99,
       "anterior": 225.63,
       "alto52": 227.0,
       "bajo52": 116.0
@@ -237,13 +242,13 @@
       "bajo52": 737.01
     },
     "SOCOVESA": {
-      "precio": 158.0,
+      "precio": 158.01,
       "anterior": 163.27,
       "alto52": 185.29,
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1606.3,
+      "precio": 1604.9,
       "anterior": 1595.0,
       "alto52": 1875.0,
       "bajo52": 1355.0
@@ -297,25 +302,25 @@
       "bajo52": 1563.3
     },
     "BICE": {
-      "precio": 435.99,
+      "precio": 434.65,
       "anterior": 430.49,
       "alto52": 450.0,
       "bajo52": 310.02
     },
     "HABITAT": {
-      "precio": 1300.0,
+      "precio": 1305.4,
       "anterior": 1469.9,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5037.8,
+      "precio": 5039.0,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4324.0
     },
     "CFINRENTAS": {
-      "precio": 2175.0,
+      "precio": 2175.02,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1700.0
@@ -420,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra a la baja mientras el fantasma de los retiros de fondos de pensiones sobrevuela al mercado chileno",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-jtvlg",
+      "texto": "Nuevo temporal: Mineduc anuncia retorno a clases este miércoles, mientras Senapred mantiene alerta roja en la RM",
+      "link": "http://www.df.cl/economia-y-politica/pais/temporal-en-chile-mineduc-anuncia-retorno-a-clases-este-miercoles",
       "fecha": "Tue, 20 Oct 2026",
-      "fechaISO": "2026-10-20T20:07:14+00:00"
+      "fechaISO": "2026-10-20T23:00:24+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Parisi propone congelar aumento de cotizaciones hasta llegar al 7% de desempleo y crear un Fondo F más conservador",
-      "link": "http://www.df.cl/economia-y-politica/politica/parisi-propone-congelar-aumento-de-cotizaciones-hasta-llegar-al-7-de",
-      "fecha": "Tue, 20 Oct 2026",
-      "fechaISO": "2026-10-20T19:49:44+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar pierde los $ 980 al cierre por menor confianza sobre la IA y un giro a la baja en los precios del petróleo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-a28gj",
-      "fecha": "Tue, 20 Oct 2026",
-      "fechaISO": "2026-10-20T19:09:11+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Senado aprueba a Macarena Lobos y Juan Esteban Laval como nuevos comisionados de la CMF",
+      "texto": "Senado da luz verde a las cartas de Kast: Macarena Lobos y Juan Esteban Laval son los nuevos comisionados de la CMF",
       "link": "http://www.df.cl/mercados/banca-fintech/senado-aprueba-a-macarena-lobos-y-juan-esteban-laval-como-nuevos",
       "fecha": "Tue, 20 Oct 2026",
-      "fechaISO": "2026-10-20T19:45:36+00:00"
+      "fechaISO": "2026-10-20T22:51:30+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Sala cuna universal: comisión del Trabajo de la Cámara aprueba idea de legislar y Rau alista indicaciones para destrabar el proyecto",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/sala-cuna-universal-comision-del-trabajo-de-la-camara-aprueba-idea-de",
+      "fecha": "Tue, 20 Oct 2026",
+      "fechaISO": "2026-10-20T22:43:08+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Operativo por robo de cobre en O'Higgins deja 59 detenidos, entre ellos, dos trabajadores de empresas que prestan servicios a El Teniente",
+      "link": "http://www.df.cl/empresas/mineria/operativo-por-robo-de-cobre-en-o-higgins-deja-59-detenidos-entre-ellos",
+      "fecha": "Tue, 20 Oct 2026",
+      "fechaISO": "2026-10-20T22:10:10+00:00"
     }
   ]
 }
