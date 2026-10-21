@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-10-21T20:29:13.527952+00:00",
-  "macro": {},
+  "actualizado": "2026-10-21T23:28:47.483625+00:00",
+  "macro": {
+    "dolar": 978.6,
+    "uf": 41194.55,
+    "utm": 72151,
+    "cobre": 6.55
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 329.89,
@@ -392,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "\"Devuelvan la plata\": Oposición aboga por compensar a afiliados a las AFP",
+      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/devuelvan-la-plata-oposicion-aboga-por-compensar-a-afiliados-a-las-afp/2026-10-21/200242.html",
+      "fecha": "Wed, 21 Oct 2026",
+      "fechaISO": "2026-10-21T23:02:42+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "\"Es como ir al casino a jugar\": Conadecus condena pérdidas de fondos D y E de las AFP",
       "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/es-como-ir-al-casino-a-jugar-conadecus-condena-perdidas-de-fondos-d-y/2026-10-21/123833.html",
       "fecha": "Wed, 21 Oct 2026",
@@ -412,39 +424,32 @@
       "fechaISO": "2026-10-21T14:30:36+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "\"Nada funciona si no ponemos las cuentas públicas en orden\", dijo Quiroz",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/nada-funciona-si-no-ponemos-las-cuentas-publicas-en-orden-dijo-quiroz/2026-10-21/104127.html",
+      "fuente": "Diario Financiero",
+      "texto": "Global66 aumenta 74% sus operaciones en Chile y supera los US$ 850 millones en el tercer trimestre",
+      "link": "http://www.df.cl/mercados/banca-fintech/global66-aumenta-74-sus-operaciones-en-chile-y-supera-los-us-850-millones",
       "fecha": "Wed, 21 Oct 2026",
-      "fechaISO": "2026-10-21T13:41:27+00:00"
+      "fechaISO": "2026-10-21T22:23:35+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra con ganancias en buena jornada de bolsas globales, tras resultados de SpaceX y esperando las elecciones de Brasil",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-chc2u",
+      "texto": "MK4 amplía el giro de las AFP y las faculta para administrar cuentas de ahorro voluntario para la vivienda",
+      "link": "http://www.df.cl/economia-y-politica/congreso/mk4-amplia-el-giro-de-las-afp-y-las-faculta-para-administrar-cuentas-de",
       "fecha": "Wed, 21 Oct 2026",
-      "fechaISO": "2026-10-21T20:26:54+00:00"
+      "fechaISO": "2026-10-21T22:01:02+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Quinto aumento consecutivo: el precio de las bencinas subirá $ 41,3 promedio por litro y el diésel $ 91,5",
-      "link": "http://www.df.cl/economia-y-politica/macro/quinto-aumento-consecutivo-el-precio-de-las-bencinas-subira-41-3",
+      "texto": "Meta impulsa su apuesta por la IA con mayores inversiones y una nueva clase de acciones",
+      "link": "http://www.df.cl/empresas/industria/meta-impulsa-su-apuesta-por-la-ia-con-perspectivas-de-gasto-y-una-nueva",
       "fecha": "Wed, 21 Oct 2026",
-      "fechaISO": "2026-10-21T20:24:58+00:00"
+      "fechaISO": "2026-10-21T22:58:24+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Gonzalo Arenas debuta como vocero de La Moneda con dardos a las AFP por fondo E: \"Es sumamente grave que se hayan desperdiciado esa cantidad de recursos\"",
-      "link": "http://www.df.cl/economia-y-politica/gobierno/gonzalo-arenas-asume-como-subsecretario-de-la-segegob-y-nuevo-vocero-del",
+      "texto": "CMPC vende 60 mil hectáreas forestales en el Maule a JPMorgan por US$ 365,5 millones",
+      "link": "http://www.df.cl/empresas/industria/cmpc-vende-60-mil-hectareas-forestales-en-el-maule-a-jp-morgan-por-us-365-5",
       "fecha": "Wed, 21 Oct 2026",
-      "fechaISO": "2026-10-21T20:18:52+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra al alza mientras el Brent retoma los US$ 110 por inquietud sobre un posible recrudecimiento del conflicto en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-u9nii",
-      "fecha": "Wed, 21 Oct 2026",
-      "fechaISO": "2026-10-21T19:22:58+00:00"
+      "fechaISO": "2026-10-21T21:39:33+00:00"
     }
   ]
 }
