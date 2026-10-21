@@ -1,122 +1,117 @@
 {
-  "actualizado": "2026-10-21T17:43:21.593395+00:00",
-  "macro": {
-    "dolar": 978.6,
-    "uf": 41194.55,
-    "utm": 72151,
-    "cobre": 6.55
-  },
+  "actualizado": "2026-10-21T20:29:13.527952+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 330.01,
+      "precio": 329.89,
       "anterior": 329.15,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 193.5,
+      "precio": 194.9,
       "anterior": 192.49,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 65269.0,
+      "precio": 65500.0,
       "anterior": 66000.0,
       "alto52": 68446.0,
       "bajo52": 45153.0
     },
     "ITAUCL": {
-      "precio": 23317.0,
+      "precio": 23300.0,
       "anterior": 23593.0,
       "alto52": 25887.0,
       "bajo52": 16254.0
     },
     "BSANTANDER": {
-      "precio": 80.66,
+      "precio": 81.2,
       "anterior": 79.55,
       "alto52": 84.4,
       "bajo52": 65.69
     },
     "CAP": {
-      "precio": 4619.6,
+      "precio": 4615.0,
       "anterior": 4770.0,
       "alto52": 8680.0,
       "bajo52": 4575.0
     },
     "CENCOSUD": {
-      "precio": 1845.0,
+      "precio": 1867.1,
       "anterior": 1850.1,
       "alto52": 3238.0,
       "bajo52": 1802.8
     },
     "CENCOMALLS": {
-      "precio": 2221.8,
+      "precio": 2255.0,
       "anterior": 2250.0,
       "alto52": 2799.9,
       "bajo52": 2100.0
     },
     "COLBUN": {
-      "precio": 153.99,
+      "precio": 152.5,
       "anterior": 149.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5255.3,
+      "precio": 5280.0,
       "anterior": 5141.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 49.2,
+      "precio": 48.85,
       "anterior": 50.4,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4964.7,
+      "precio": 4930.0,
       "anterior": 4610.0,
-      "alto52": 4968.0,
+      "alto52": 4969.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4280.5,
+      "precio": 4350.0,
       "anterior": 4230.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 942.51,
+      "precio": 945.7,
       "anterior": 965.0,
       "alto52": 1501.1,
       "bajo52": 938.17
     },
     "COPEC": {
-      "precio": 6500.7,
+      "precio": 6698.0,
       "anterior": 6675.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 91.45,
+      "precio": 91.0,
       "anterior": 89.5,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 85.76,
+      "precio": 86.29,
       "anterior": 86.0,
       "alto52": 87.5,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1890.0,
+      "precio": 1880.0,
       "anterior": 1799.0,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6714.6,
+      "precio": 6790.0,
       "anterior": 6649.9,
       "alto52": 6948.5,
       "bajo52": 5237.7
@@ -128,61 +123,61 @@
       "bajo52": 876.01
     },
     "ILC": {
-      "precio": 24594.0,
+      "precio": 24400.0,
       "anterior": 24800.0,
       "alto52": 26000.0,
       "bajo52": 14200.0
     },
     "LTM": {
-      "precio": 23.8,
+      "precio": 23.7,
       "anterior": 23.3,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3786.0,
+      "precio": 3780.0,
       "anterior": 3705.0,
       "alto52": 4596.3,
       "bajo52": 2510.1
     },
     "MALLPLAZA": {
-      "precio": 3557.4,
+      "precio": 3590.0,
       "anterior": 3637.4,
       "alto52": 4700.0,
       "bajo52": 2590.2
     },
     "QUINENCO": {
-      "precio": 4650.0,
+      "precio": 4680.0,
       "anterior": 4810.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 462.99,
+      "precio": 467.18,
       "anterior": 472.99,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1350.0,
+      "precio": 1344.1,
       "anterior": 1300.0,
       "alto52": 1499.9,
       "bajo52": 985.0
     },
     "SMU": {
-      "precio": 115.01,
+      "precio": 115.2,
       "anterior": 115.12,
       "alto52": 166.5,
       "bajo52": 114.02
     },
     "SQM-B": {
-      "precio": 57400.0,
+      "precio": 57550.0,
       "anterior": 60710.0,
       "alto52": 86900.0,
       "bajo52": 40000.0
     },
     "CONCHATORO": {
-      "precio": 887.0,
+      "precio": 894.99,
       "anterior": 890.0,
       "alto52": 1105.0,
       "bajo52": 815.0
@@ -206,13 +201,13 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25670.0,
+      "precio": 25671.0,
       "anterior": 25567.0,
       "alto52": 25671.0,
       "bajo52": 20450.0
     },
     "FORUS": {
-      "precio": 1740.0,
+      "precio": 1710.0,
       "anterior": 1733.0,
       "alto52": 2510.0,
       "bajo52": 1706.0
@@ -230,7 +225,7 @@
       "bajo52": 116.0
     },
     "MASISA": {
-      "precio": 7.1,
+      "precio": 7.04,
       "anterior": 7.28,
       "alto52": 20.04,
       "bajo52": 7.03
@@ -242,22 +237,22 @@
       "bajo52": 737.01
     },
     "SOCOVESA": {
-      "precio": 159.0,
+      "precio": 158.89,
       "anterior": 163.1,
       "alto52": 185.29,
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1599.9,
+      "precio": 1605.5,
       "anterior": 1500.0,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 274.89,
+      "precio": 272.83,
       "anterior": 280.0,
       "alto52": 374.0,
-      "bajo52": 272.0
+      "bajo52": 270.0
     },
     "EMBONOR-B": {
       "precio": 1795.0,
@@ -296,37 +291,37 @@
       "bajo52": 219.99
     },
     "INVERCAP": {
-      "precio": 1560.0,
+      "precio": 1560.1,
       "anterior": 1606.7,
       "alto52": 2278.8,
-      "bajo52": 1560.0
+      "bajo52": 1554.8
     },
     "BICE": {
-      "precio": 433.0,
+      "precio": 432.36,
       "anterior": 427.26,
       "alto52": 450.0,
       "bajo52": 311.0
     },
     "HABITAT": {
-      "precio": 1320.0,
+      "precio": 1334.9,
       "anterior": 1447.6,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 5040.2,
+      "precio": 5043.4,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4324.0
     },
     "CFINRENTAS": {
-      "precio": 2180.8,
+      "precio": 2180.95,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1700.0
     },
     "CFIBTGRCA": {
-      "precio": 22500.0,
+      "precio": 22420.44,
       "anterior": 22600.0,
       "alto52": 28000.0,
       "bajo52": 21000.0
@@ -425,31 +420,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Buk arremete contra licitación de Fonasa para recaudar cotizaciones y advierte riesgos de monopolio",
-      "link": "http://www.df.cl/empresas/salud/buk-arremete-contra-licitacion-de-fonasa-para-recaudar-cotizaciones-y",
-      "fecha": "Wed, 21 Oct 2026",
-      "fechaISO": "2026-10-21T16:45:38+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA sube en positiva jornada para bolsas globales, tras resultados de SpaceX y esperando las elecciones de Brasil",
+      "texto": "IPSA cierra con ganancias en buena jornada de bolsas globales, tras resultados de SpaceX y esperando las elecciones de Brasil",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-chc2u",
       "fecha": "Wed, 21 Oct 2026",
-      "fechaISO": "2026-10-21T16:19:30+00:00"
+      "fechaISO": "2026-10-21T20:26:54+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Diego Pino, de Scotiabank Chile: “Hay varios inversionistas que están destrozados porque tomaron posiciones largas en bonos”",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/diego-pino-de-scotiabank-chile-hay-varios-inversionistas-que-estan",
+      "texto": "Quinto aumento consecutivo: el precio de las bencinas subirá $ 41,3 promedio por litro y el diésel $ 91,5",
+      "link": "http://www.df.cl/economia-y-politica/macro/quinto-aumento-consecutivo-el-precio-de-las-bencinas-subira-41-3",
       "fecha": "Wed, 21 Oct 2026",
-      "fechaISO": "2026-10-21T15:33:27+00:00"
+      "fechaISO": "2026-10-21T20:24:58+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar sube levemente mientras el petróleo Brent ronda los US$ 110 tras nuevos ataques en el estrecho de Ormuz",
+      "texto": "Gonzalo Arenas debuta como vocero de La Moneda con dardos a las AFP por fondo E: \"Es sumamente grave que se hayan desperdiciado esa cantidad de recursos\"",
+      "link": "http://www.df.cl/economia-y-politica/gobierno/gonzalo-arenas-asume-como-subsecretario-de-la-segegob-y-nuevo-vocero-del",
+      "fecha": "Wed, 21 Oct 2026",
+      "fechaISO": "2026-10-21T20:18:52+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Dólar cierra al alza mientras el Brent retoma los US$ 110 por inquietud sobre un posible recrudecimiento del conflicto en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-u9nii",
       "fecha": "Wed, 21 Oct 2026",
-      "fechaISO": "2026-10-21T15:21:12+00:00"
+      "fechaISO": "2026-10-21T19:22:58+00:00"
     }
   ]
 }
