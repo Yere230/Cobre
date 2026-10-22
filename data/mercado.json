@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T20:27:13.170161+00:00",
+  "actualizado": "2026-10-22T23:28:29.195745+00:00",
   "macro": {
     "dolar": 976.8,
     "uf": 41199.85,
@@ -188,13 +188,13 @@
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7241.4,
+      "precio": 7295.5,
       "anterior": 7341.9,
       "alto52": 9000.0,
       "bajo52": 7152.7
     },
     "ALMENDRAL": {
-      "precio": 24.7,
+      "precio": 24.5,
       "anterior": 24.0,
       "alto52": 34.0,
       "bajo52": 23.29
@@ -206,13 +206,13 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25670.0,
+      "precio": 25671.0,
       "anterior": 25671.0,
       "alto52": 25671.0,
       "bajo52": 20450.0
     },
     "FORUS": {
-      "precio": 1682.0,
+      "precio": 1681.9,
       "anterior": 1740.0,
       "alto52": 2510.0,
       "bajo52": 1682.0
@@ -254,7 +254,7 @@
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 268.0,
+      "precio": 268.06,
       "anterior": 277.1,
       "alto52": 374.0,
       "bajo52": 268.0
@@ -284,7 +284,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 91.29,
+      "precio": 91.37,
       "anterior": 93.3,
       "alto52": 155.0,
       "bajo52": 91.22
@@ -296,25 +296,25 @@
       "bajo52": 220.0
     },
     "INVERCAP": {
-      "precio": 1528.1,
+      "precio": 1528.7,
       "anterior": 1598.2,
       "alto52": 2278.8,
       "bajo52": 1528.1
     },
     "BICE": {
-      "precio": 424.0,
+      "precio": 424.72,
       "anterior": 433.56,
       "alto52": 450.0,
       "bajo52": 317.0
     },
     "HABITAT": {
-      "precio": 1320.0,
+      "precio": 1318.0,
       "anterior": 1430.9,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4971.9,
+      "precio": 4978.3,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4370.0
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Enadi: Kast presentó iniciativa para identificar empleos con anticipación y lograr contrataciones",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/enadi-kast-presento-iniciativa-para-identificar-empleos-con/2026-10-22/192831.html",
+      "fecha": "Thu, 22 Oct 2026",
+      "fechaISO": "2026-10-22T22:28:31+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "EtMday 2026: Singulares plataformas conectarán proyectos emergentes con directores consagrados",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/etmday-2026-singulares-plataformas-conectaran-proyectos-emergentes-con/2026-10-22/164915.html",
       "fecha": "Thu, 22 Oct 2026",
@@ -417,11 +424,18 @@
       "fechaISO": "2026-10-22T17:13:10+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Ante las pérdidas de las AFP, ¿conviene jubilar ahora, esperar o cambiar de fondo?",
-      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/ante-las-perdidas-de-las-afp-conviene-jubilar-ahora-esperar-o-cambiar/2026-10-22/115516.html",
+      "fuente": "Diario Financiero",
+      "texto": "EY refuerza su negocio de consultoría en Chile con la incorporación de Aurys y más de 30 profesionales",
+      "link": "http://www.df.cl/empresas/entre-codigos/ey-refuerza-su-negocio-de-consultoria-en-chile-con-la-incorporacion-de",
       "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T14:55:16+00:00"
+      "fechaISO": "2026-10-22T22:59:19+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Secreto bancario: Hacienda insiste en levantamiento con orden judicial y la oposición busca un término medio",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/secreto-bancario-hacienda-insiste-en-levantamiento-con-orden-judicial-y-la",
+      "fecha": "Thu, 22 Oct 2026",
+      "fechaISO": "2026-10-22T22:15:54+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -436,20 +450,6 @@
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-vjrya",
       "fecha": "Thu, 22 Oct 2026",
       "fechaISO": "2026-10-22T19:20:52+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Alivio para el fondo E: las tasas largas de EEUU se desploman por temores a una fuerte desaceleración económica",
-      "link": "http://www.df.cl/mercados/renta-fija/alivio-para-el-fondo-e-las-tasas-largas-de-eeuu-se-desploman-por-temores-a",
-      "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T20:12:25+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "\"¿Qué trabajadores necesitarán? ¿Cuántos? ¿Dónde? ¿Y cuándo?\": Gobierno lanza nueva plataforma para coordinar ofertas de empleo con proyectos de inversión",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/que-trabajadores-necesitaran-cuantos-donde-y-cuando-gobierno",
-      "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T18:46:47+00:00"
     }
   ]
 }
