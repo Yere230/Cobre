@@ -1,218 +1,213 @@
 {
-  "actualizado": "2026-10-22T23:28:29.195745+00:00",
-  "macro": {
-    "dolar": 976.8,
-    "uf": 41199.85,
-    "utm": 72151,
-    "cobre": 6.62
-  },
+  "actualizado": "2026-10-23T17:32:34.688205+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 334.0,
-      "anterior": 332.0,
+      "precio": 330.13,
+      "anterior": 337.3,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 190.35,
-      "anterior": 191.6,
+      "precio": 189.82,
+      "anterior": 191.69,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 63800.0,
-      "anterior": 65143.0,
+      "precio": 63202.0,
+      "anterior": 64360.0,
       "alto52": 68446.0,
-      "bajo52": 45153.0
+      "bajo52": 46224.0
     },
     "ITAUCL": {
-      "precio": 22800.0,
-      "anterior": 23200.0,
+      "precio": 22597.0,
+      "anterior": 23000.0,
       "alto52": 25887.0,
-      "bajo52": 16254.0
+      "bajo52": 16450.0
     },
     "BSANTANDER": {
-      "precio": 79.2,
-      "anterior": 80.8,
+      "precio": 78.1,
+      "anterior": 80.49,
       "alto52": 84.4,
       "bajo52": 65.69
     },
     "CAP": {
-      "precio": 4479.0,
-      "anterior": 4630.0,
+      "precio": 4373.2,
+      "anterior": 4635.0,
       "alto52": 8680.0,
-      "bajo52": 4408.5
+      "bajo52": 4300.2
     },
     "CENCOSUD": {
-      "precio": 1849.9,
-      "anterior": 1865.0,
+      "precio": 1859.0,
+      "anterior": 1871.4,
       "alto52": 3238.0,
       "bajo52": 1820.0
     },
     "CENCOMALLS": {
-      "precio": 2240.0,
-      "anterior": 2248.2,
+      "precio": 2227.5,
+      "anterior": 2240.1,
       "alto52": 2799.9,
       "bajo52": 2100.0
     },
     "COLBUN": {
-      "precio": 152.5,
-      "anterior": 149.0,
+      "precio": 155.03,
+      "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5277.9,
-      "anterior": 5217.5,
+      "precio": 5230.3,
+      "anterior": 5359.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 49.17,
-      "anterior": 49.81,
+      "precio": 48.56,
+      "anterior": 49.8,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4938.2,
-      "anterior": 4800.0,
-      "alto52": 4954.7,
+      "precio": 4904.7,
+      "anterior": 4850.0,
+      "alto52": 4929.9,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4349.0,
-      "anterior": 4200.0,
+      "precio": 4251.7,
+      "anterior": 4223.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 945.41,
-      "anterior": 965.0,
+      "precio": 951.65,
+      "anterior": 966.0,
       "alto52": 1501.1,
-      "bajo52": 937.03
+      "bajo52": 940.0
     },
     "COPEC": {
-      "precio": 6502.0,
-      "anterior": 6739.0,
+      "precio": 6439.9,
+      "anterior": 6748.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 90.99,
-      "anterior": 90.32,
+      "precio": 91.99,
+      "anterior": 88.5,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 84.5,
-      "anterior": 86.0,
-      "alto52": 88.0,
+      "precio": 84.79,
+      "anterior": 86.8,
+      "alto52": 87.5,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1880.0,
-      "anterior": 1860.0,
+      "precio": 1875.1,
+      "anterior": 1864.4,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6690.0,
-      "anterior": 6615.0,
+      "precio": 6536.0,
+      "anterior": 6824.9,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 884.86,
-      "anterior": 900.51,
+      "precio": 877.03,
+      "anterior": 901.5,
       "alto52": 1150.0,
-      "bajo52": 877.21
+      "bajo52": 874.0
     },
     "ILC": {
-      "precio": 23850.0,
-      "anterior": 25200.0,
+      "precio": 23531.0,
+      "anterior": 25191.0,
       "alto52": 26000.0,
-      "bajo52": 14200.0
+      "bajo52": 14550.0
     },
     "LTM": {
-      "precio": 23.38,
-      "anterior": 23.77,
+      "precio": 22.91,
+      "anterior": 23.34,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3676.4,
-      "anterior": 3725.0,
+      "precio": 3690.0,
+      "anterior": 3734.9,
       "alto52": 4596.3,
       "bajo52": 2510.1
     },
     "MALLPLAZA": {
-      "precio": 3509.5,
-      "anterior": 3575.0,
+      "precio": 3465.0,
+      "anterior": 3594.9,
       "alto52": 4700.0,
       "bajo52": 2590.2
     },
     "QUINENCO": {
-      "precio": 4575.0,
+      "precio": 4476.9,
       "anterior": 4800.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 458.0,
-      "anterior": 463.74,
+      "precio": 447.01,
+      "anterior": 468.9,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1348.0,
-      "anterior": 1300.0,
+      "precio": 1300.6,
+      "anterior": 1318.8,
       "alto52": 1499.9,
       "bajo52": 985.0
     },
     "SMU": {
-      "precio": 111.45,
-      "anterior": 116.99,
+      "precio": 109.33,
+      "anterior": 117.7,
       "alto52": 166.5,
-      "bajo52": 111.2
+      "bajo52": 109.03
     },
     "SQM-B": {
-      "precio": 55720.0,
-      "anterior": 59555.0,
+      "precio": 56300.0,
+      "anterior": 59490.0,
       "alto52": 86900.0,
-      "bajo52": 40650.0
+      "bajo52": 40791.0
     },
     "CONCHATORO": {
-      "precio": 880.63,
-      "anterior": 894.44,
+      "precio": 864.0,
+      "anterior": 914.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7295.5,
-      "anterior": 7341.9,
+      "precio": 7284.6,
+      "anterior": 7421.8,
       "alto52": 9000.0,
       "bajo52": 7152.7
     },
     "ALMENDRAL": {
-      "precio": 24.5,
+      "precio": 24.6,
       "anterior": 24.0,
       "alto52": 34.0,
       "bajo52": 23.29
     },
     "CAMANCHACA": {
-      "precio": 86.42,
-      "anterior": 81.76,
+      "precio": 89.0,
+      "anterior": 83.99,
       "alto52": 96.88,
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25671.0,
+      "precio": 25670.0,
       "anterior": 25671.0,
       "alto52": 25671.0,
       "bajo52": 20450.0
     },
     "FORUS": {
-      "precio": 1681.9,
+      "precio": 1682.0,
       "anterior": 1740.0,
       "alto52": 2510.0,
       "bajo52": 1682.0
@@ -236,31 +231,31 @@
       "bajo52": 7.1
     },
     "PAZ": {
-      "precio": 1040.0,
-      "anterior": 1068.8,
+      "precio": 1055.0,
+      "anterior": 1064.2,
       "alto52": 1120.9,
-      "bajo52": 737.01
+      "bajo52": 741.78
     },
     "SOCOVESA": {
       "precio": 155.1,
-      "anterior": 160.06,
+      "anterior": 160.01,
       "alto52": 185.29,
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1598.7,
-      "anterior": 1598.2,
+      "precio": 1600.0,
+      "anterior": 1599.9,
       "alto52": 1875.0,
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 268.06,
-      "anterior": 277.1,
+      "precio": 280.0,
+      "anterior": 278.64,
       "alto52": 374.0,
-      "bajo52": 268.0
+      "bajo52": 265.0
     },
     "EMBONOR-B": {
-      "precio": 1795.0,
+      "precio": 1760.0,
       "anterior": 1762.0,
       "alto52": 1845.9,
       "bajo52": 1359.0
@@ -268,7 +263,7 @@
     "CRISTALES": {
       "precio": 2100.0,
       "anterior": 2100.0,
-      "alto52": 2800.0,
+      "alto52": 2790.0,
       "bajo52": 2000.0
     },
     "WATTS": {
@@ -279,61 +274,61 @@
     },
     "TRICOT": {
       "precio": 585.0,
-      "anterior": 585.09,
+      "anterior": 585.0,
       "alto52": 688.8,
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 91.37,
+      "precio": 90.16,
       "anterior": 93.3,
       "alto52": 155.0,
-      "bajo52": 91.22
+      "bajo52": 90.16
     },
     "BLUMAR": {
       "precio": 369.0,
-      "anterior": 365.69,
+      "anterior": 367.0,
       "alto52": 369.0,
-      "bajo52": 220.0
+      "bajo52": 220.01
     },
     "INVERCAP": {
-      "precio": 1528.7,
-      "anterior": 1598.2,
+      "precio": 1527.0,
+      "anterior": 1587.9,
       "alto52": 2278.8,
-      "bajo52": 1528.1
+      "bajo52": 1523.3
     },
     "BICE": {
-      "precio": 424.72,
-      "anterior": 433.56,
+      "precio": 424.12,
+      "anterior": 438.9,
       "alto52": 450.0,
-      "bajo52": 317.0
+      "bajo52": 323.81
     },
     "HABITAT": {
-      "precio": 1318.0,
-      "anterior": 1430.9,
+      "precio": 1310.0,
+      "anterior": 1399.7,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4978.3,
+      "precio": 4939.9,
       "anterior": 5035.4,
       "alto52": 5588.4,
-      "bajo52": 4370.0
+      "bajo52": 4401.18
     },
     "CFINRENTAS": {
-      "precio": 2181.73,
+      "precio": 2180.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
-      "bajo52": 1735.0
+      "bajo52": 1742.0
     },
     "CFIBTGRCA": {
-      "precio": 22420.44,
+      "precio": 21572.0,
       "anterior": 22600.0,
       "alto52": 27090.0,
       "bajo52": 21000.0
     },
     "CFIBTGRRA": {
       "precio": 7300.0,
-      "anterior": 7199.0,
+      "anterior": 7250.0,
       "alto52": 12472.8,
       "bajo52": 7100.0
     }
@@ -397,6 +392,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Brent supera los 116 dólares por primera vez en casi seis meses ante escalada en Medio Oriente",
+      "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/brent-supera-los-116-dolares-por-primera-vez-en-casi-seis-meses-ante/2026-10-23/125934.html",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T15:59:34+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Matemático creó fórmula que explica por qué nos cuesta tomar decisiones",
+      "link": "https://www.cooperativa.cl/noticias/sociedad/ciencia/matematico-creo-formula-que-explica-por-que-nos-cuesta-tomar-decisiones/2026-10-23/100836.html",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T13:08:36+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Enadi: Kast presentó iniciativa para identificar empleos con anticipación y lograr contrataciones",
       "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/enadi-kast-presento-iniciativa-para-identificar-empleos-con/2026-10-22/192831.html",
       "fecha": "Thu, 22 Oct 2026",
@@ -410,46 +419,32 @@
       "fechaISO": "2026-10-22T19:49:15+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Chile entre las economías con menor expansión de la región: Cepal proyecta un magro 0,2% para 2026",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile-entre-las-economias-con-menor-expansion-de-la-region-cepal/2026-10-22/152503.html",
-      "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T18:25:03+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Fondo E: Gobierno pide \"no tomar decisiones apresuradas\" y esperar a la Superintendencia",
-      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/fondo-e-gobierno-pide-no-tomar-decisiones-apresuradas-y-esperar-a-la/2026-10-22/141310.html",
-      "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T17:13:10+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Expertos hacen balance del primer año de la Ley de Permisos Sectoriales y sinceran dudas sobre su implementación",
+      "link": "http://www.df.cl/empresas/entre-codigos/expertos-hacen-balance-del-primer-ano-de-la-ley-de-permisos-sectoriales-y",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T16:23:20+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "EY refuerza su negocio de consultoría en Chile con la incorporación de Aurys y más de 30 profesionales",
-      "link": "http://www.df.cl/empresas/entre-codigos/ey-refuerza-su-negocio-de-consultoria-en-chile-con-la-incorporacion-de",
-      "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T22:59:19+00:00"
+      "texto": "Abogados respaldan postergar la Ley de Protección de Datos y apuntan a retos de cultura e interpretación normativa",
+      "link": "http://www.df.cl/empresas/entre-codigos/abogados-respaldan-postergar-la-ley-de-proteccion-de-datos-y-apuntan-a",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T16:21:54+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Secreto bancario: Hacienda insiste en levantamiento con orden judicial y la oposición busca un término medio",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/secreto-bancario-hacienda-insiste-en-levantamiento-con-orden-judicial-y-la",
-      "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T22:15:54+00:00"
+      "texto": "Abogados expertos analizan responsabilidad de directorios en la caída del Fondo E y asidero de recursos en tribunales",
+      "link": "http://www.df.cl/empresas/entre-codigos/abogados-expertos-analizan-responsabilidad-de-directorios-en-la-caida-del",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T16:22:15+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsas mundiales se tiñen de rojo: el IPSA chileno anota su mayor caída desde mayo y cierra en mínimos de casi cuatro meses",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-hebpb",
-      "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T20:21:28+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra al alza sobre $ 985 a medida que el petróleo sigue escalando por la creciente inseguridad en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-vjrya",
-      "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T19:20:52+00:00"
+      "texto": "Álvaro Oyarce y Felipe Welkner lanzan nueva boutique tributaria con foco internacional",
+      "link": "http://www.df.cl/empresas/entre-codigos/alvaro-oyarce-y-felipe-welkner-lanzan-nueva-boutique-tributaria-con-foco",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T16:11:30+00:00"
     }
   ]
 }
