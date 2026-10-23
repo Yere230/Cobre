@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-10-23T20:16:14.161682+00:00",
-  "macro": {},
+  "actualizado": "2026-10-23T23:15:42.619648+00:00",
+  "macro": {
+    "dolar": 986.6,
+    "uf": 41205.16,
+    "utm": 72151,
+    "cobre": 6.56
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 331.0,
@@ -195,19 +200,19 @@
       "bajo52": 23.29
     },
     "CAMANCHACA": {
-      "precio": 89.01,
+      "precio": 89.0,
       "anterior": 83.99,
       "alto52": 96.88,
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25670.0,
+      "precio": 25671.0,
       "anterior": 25671.0,
       "alto52": 25671.0,
       "bajo52": 20450.0
     },
     "FORUS": {
-      "precio": 1682.0,
+      "precio": 1681.9,
       "anterior": 1740.0,
       "alto52": 2510.0,
       "bajo52": 1682.0
@@ -231,7 +236,7 @@
       "bajo52": 7.1
     },
     "PAZ": {
-      "precio": 1040.0,
+      "precio": 1030.7,
       "anterior": 1064.2,
       "alto52": 1120.9,
       "bajo52": 741.78
@@ -279,7 +284,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 90.16,
+      "precio": 90.46,
       "anterior": 93.3,
       "alto52": 155.0,
       "bajo52": 90.16
@@ -303,25 +308,25 @@
       "bajo52": 323.81
     },
     "HABITAT": {
-      "precio": 1315.0,
+      "precio": 1313.5,
       "anterior": 1399.7,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4937.2,
+      "precio": 4910.6,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4401.18
     },
     "CFINRENTAS": {
-      "precio": 2170.0,
+      "precio": 2171.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1742.0
     },
     "CFIBTGRCA": {
-      "precio": 21572.0,
+      "precio": 22035.67,
       "anterior": 22600.0,
       "alto52": 27090.0,
       "bajo52": 21000.0
@@ -392,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Dólar anotó su mayor nivel en un año y medio al rozar los 1.000 pesos",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-anoto-su-mayor-nivel-en-un-ano-y-medio-al-rozar-los-1-000-pesos/2026-10-23/184033.html",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T21:40:33+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Concurso \"Chile Re-Descubre\" busca visibilizar innovaciones locales mediante arte y tecnología",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/concurso-chile-re-descubre-busca-visibilizar-innovaciones-locales/2026-10-23/164220.html",
       "fecha": "Fri, 23 Oct 2026",
@@ -412,18 +424,18 @@
       "fechaISO": "2026-10-23T17:14:53+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Brent supera los 116 dólares por primera vez en casi seis meses ante escalada en Medio Oriente",
-      "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/brent-supera-los-116-dolares-por-primera-vez-en-casi-seis-meses-ante/2026-10-23/125934.html",
+      "fuente": "Diario Financiero",
+      "texto": "Moody's se une a Fitch y S&P: agencia mantiene clasificación de riesgo de Chile ante mejores perspectivas para 2027",
+      "link": "http://www.df.cl/economia-y-politica/macro/moody-s-se-une-a-fitch-y-s-p-agencia-mantiene-clasificacion-de-riesgo-de",
       "fecha": "Fri, 23 Oct 2026",
-      "fechaISO": "2026-10-23T15:59:34+00:00"
+      "fechaISO": "2026-10-23T21:10:10+00:00"
     },
     {
       "fuente": "Diario Financiero",
       "texto": "Bolsa de Santiago pierde 2% a nivel semanal y cierra en mínimos de cuatro meses por la aversión al riesgo generalizada",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-wffpz",
       "fecha": "Fri, 23 Oct 2026",
-      "fechaISO": "2026-10-23T19:25:25+00:00"
+      "fechaISO": "2026-10-23T20:23:13+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -438,13 +450,6 @@
       "link": "http://www.df.cl/empresas/construccion/utilidades-de-megacentro-se-disparan-a-septiembre-y-firma-apuesta-por",
       "fecha": "Fri, 23 Oct 2026",
       "fechaISO": "2026-10-23T18:21:25+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Expertos hacen balance del primer año de la Ley de Permisos Sectoriales y sinceran dudas sobre su implementación",
-      "link": "http://www.df.cl/empresas/entre-codigos/expertos-hacen-balance-del-primer-ano-de-la-ley-de-permisos-sectoriales-y",
-      "fecha": "Fri, 23 Oct 2026",
-      "fechaISO": "2026-10-23T16:23:20+00:00"
     }
   ]
 }
