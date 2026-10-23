@@ -1,183 +1,183 @@
 {
-  "actualizado": "2026-10-23T17:32:34.688205+00:00",
+  "actualizado": "2026-10-23T20:16:14.161682+00:00",
   "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 330.13,
+      "precio": 331.0,
       "anterior": 337.3,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 189.82,
+      "precio": 190.0,
       "anterior": 191.69,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 63202.0,
+      "precio": 63310.0,
       "anterior": 64360.0,
       "alto52": 68446.0,
       "bajo52": 46224.0
     },
     "ITAUCL": {
-      "precio": 22597.0,
+      "precio": 22500.0,
       "anterior": 23000.0,
       "alto52": 25887.0,
       "bajo52": 16450.0
     },
     "BSANTANDER": {
-      "precio": 78.1,
+      "precio": 78.98,
       "anterior": 80.49,
       "alto52": 84.4,
       "bajo52": 65.69
     },
     "CAP": {
-      "precio": 4373.2,
+      "precio": 4338.0,
       "anterior": 4635.0,
       "alto52": 8680.0,
       "bajo52": 4300.2
     },
     "CENCOSUD": {
-      "precio": 1859.0,
+      "precio": 1852.0,
       "anterior": 1871.4,
       "alto52": 3238.0,
       "bajo52": 1820.0
     },
     "CENCOMALLS": {
-      "precio": 2227.5,
+      "precio": 2230.0,
       "anterior": 2240.1,
       "alto52": 2799.9,
       "bajo52": 2100.0
     },
     "COLBUN": {
-      "precio": 155.03,
+      "precio": 154.0,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5230.3,
+      "precio": 5185.0,
       "anterior": 5359.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.56,
+      "precio": 48.3,
       "anterior": 49.8,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4904.7,
+      "precio": 4900.0,
       "anterior": 4850.0,
       "alto52": 4929.9,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4251.7,
+      "precio": 4240.0,
       "anterior": 4223.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 951.65,
+      "precio": 958.0,
       "anterior": 966.0,
       "alto52": 1501.1,
       "bajo52": 940.0
     },
     "COPEC": {
-      "precio": 6439.9,
+      "precio": 6523.3,
       "anterior": 6748.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 91.99,
+      "precio": 92.0,
       "anterior": 88.5,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 84.79,
+      "precio": 86.15,
       "anterior": 86.8,
       "alto52": 87.5,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1875.1,
+      "precio": 1890.0,
       "anterior": 1864.4,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6536.0,
+      "precio": 6575.0,
       "anterior": 6824.9,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 877.03,
+      "precio": 878.85,
       "anterior": 901.5,
       "alto52": 1150.0,
       "bajo52": 874.0
     },
     "ILC": {
-      "precio": 23531.0,
+      "precio": 23800.0,
       "anterior": 25191.0,
       "alto52": 26000.0,
       "bajo52": 14550.0
     },
     "LTM": {
-      "precio": 22.91,
+      "precio": 22.93,
       "anterior": 23.34,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3690.0,
+      "precio": 3640.1,
       "anterior": 3734.9,
       "alto52": 4596.3,
       "bajo52": 2510.1
     },
     "MALLPLAZA": {
-      "precio": 3465.0,
+      "precio": 3502.8,
       "anterior": 3594.9,
       "alto52": 4700.0,
       "bajo52": 2590.2
     },
     "QUINENCO": {
-      "precio": 4476.9,
+      "precio": 4510.0,
       "anterior": 4800.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 447.01,
+      "precio": 454.0,
       "anterior": 468.9,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1300.6,
+      "precio": 1299.0,
       "anterior": 1318.8,
       "alto52": 1499.9,
       "bajo52": 985.0
     },
     "SMU": {
-      "precio": 109.33,
+      "precio": 110.0,
       "anterior": 117.7,
       "alto52": 166.5,
-      "bajo52": 109.03
+      "bajo52": 107.2
     },
     "SQM-B": {
-      "precio": 56300.0,
+      "precio": 56919.0,
       "anterior": 59490.0,
       "alto52": 86900.0,
       "bajo52": 40791.0
     },
     "CONCHATORO": {
-      "precio": 864.0,
+      "precio": 870.0,
       "anterior": 914.0,
       "alto52": 1105.0,
       "bajo52": 815.0
@@ -195,7 +195,7 @@
       "bajo52": 23.29
     },
     "CAMANCHACA": {
-      "precio": 89.0,
+      "precio": 89.01,
       "anterior": 83.99,
       "alto52": 96.88,
       "bajo52": 59.01
@@ -231,7 +231,7 @@
       "bajo52": 7.1
     },
     "PAZ": {
-      "precio": 1055.0,
+      "precio": 1040.0,
       "anterior": 1064.2,
       "alto52": 1120.9,
       "bajo52": 741.78
@@ -297,25 +297,25 @@
       "bajo52": 1523.3
     },
     "BICE": {
-      "precio": 424.12,
+      "precio": 426.0,
       "anterior": 438.9,
       "alto52": 450.0,
       "bajo52": 323.81
     },
     "HABITAT": {
-      "precio": 1310.0,
+      "precio": 1315.0,
       "anterior": 1399.7,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4939.9,
+      "precio": 4937.2,
       "anterior": 5035.4,
       "alto52": 5588.4,
       "bajo52": 4401.18
     },
     "CFINRENTAS": {
-      "precio": 2180.0,
+      "precio": 2170.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1742.0
@@ -392,31 +392,52 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Concurso \"Chile Re-Descubre\" busca visibilizar innovaciones locales mediante arte y tecnología",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/concurso-chile-re-descubre-busca-visibilizar-innovaciones-locales/2026-10-23/164220.html",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T19:42:20+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Desplome del Fondo E será investigado por la Fiscalía Centro Norte",
+      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/desplome-del-fondo-e-sera-investigado-por-la-fiscalia-centro-norte/2026-10-23/144156.html",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T17:41:56+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Lluvias y alza de combustibles amenazan con elevar la inflación en Chile",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/lluvias-y-alza-de-combustibles-amenazan-con-elevar-la-inflacion-en-chile/2026-10-23/141453.html",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T17:14:53+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Brent supera los 116 dólares por primera vez en casi seis meses ante escalada en Medio Oriente",
       "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/brent-supera-los-116-dolares-por-primera-vez-en-casi-seis-meses-ante/2026-10-23/125934.html",
       "fecha": "Fri, 23 Oct 2026",
       "fechaISO": "2026-10-23T15:59:34+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Matemático creó fórmula que explica por qué nos cuesta tomar decisiones",
-      "link": "https://www.cooperativa.cl/noticias/sociedad/ciencia/matematico-creo-formula-que-explica-por-que-nos-cuesta-tomar-decisiones/2026-10-23/100836.html",
+      "fuente": "Diario Financiero",
+      "texto": "Bolsa de Santiago pierde 2% a nivel semanal y cierra en mínimos de cuatro meses por la aversión al riesgo generalizada",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-wffpz",
       "fecha": "Fri, 23 Oct 2026",
-      "fechaISO": "2026-10-23T13:08:36+00:00"
+      "fechaISO": "2026-10-23T19:25:25+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Enadi: Kast presentó iniciativa para identificar empleos con anticipación y lograr contrataciones",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/enadi-kast-presento-iniciativa-para-identificar-empleos-con/2026-10-22/192831.html",
-      "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T22:28:31+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Dólar salta $ 10 este viernes y cierra la semana en máximos desde abril de 2025 por el incansable rally del petróleo",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ddc9m",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T19:06:37+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "EtMday 2026: Singulares plataformas conectarán proyectos emergentes con directores consagrados",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/etmday-2026-singulares-plataformas-conectaran-proyectos-emergentes-con/2026-10-22/164915.html",
-      "fecha": "Thu, 22 Oct 2026",
-      "fechaISO": "2026-10-22T19:49:15+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Utilidades de Megacentro se disparan a septiembre y firma apuesta por nuevos desarrollos industriales",
+      "link": "http://www.df.cl/empresas/construccion/utilidades-de-megacentro-se-disparan-a-septiembre-y-firma-apuesta-por",
+      "fecha": "Fri, 23 Oct 2026",
+      "fechaISO": "2026-10-23T18:21:25+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -424,27 +445,6 @@
       "link": "http://www.df.cl/empresas/entre-codigos/expertos-hacen-balance-del-primer-ano-de-la-ley-de-permisos-sectoriales-y",
       "fecha": "Fri, 23 Oct 2026",
       "fechaISO": "2026-10-23T16:23:20+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Abogados respaldan postergar la Ley de Protección de Datos y apuntan a retos de cultura e interpretación normativa",
-      "link": "http://www.df.cl/empresas/entre-codigos/abogados-respaldan-postergar-la-ley-de-proteccion-de-datos-y-apuntan-a",
-      "fecha": "Fri, 23 Oct 2026",
-      "fechaISO": "2026-10-23T16:21:54+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Abogados expertos analizan responsabilidad de directorios en la caída del Fondo E y asidero de recursos en tribunales",
-      "link": "http://www.df.cl/empresas/entre-codigos/abogados-expertos-analizan-responsabilidad-de-directorios-en-la-caida-del",
-      "fecha": "Fri, 23 Oct 2026",
-      "fechaISO": "2026-10-23T16:22:15+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Álvaro Oyarce y Felipe Welkner lanzan nueva boutique tributaria con foco internacional",
-      "link": "http://www.df.cl/empresas/entre-codigos/alvaro-oyarce-y-felipe-welkner-lanzan-nueva-boutique-tributaria-con-foco",
-      "fecha": "Fri, 23 Oct 2026",
-      "fechaISO": "2026-10-23T16:11:30+00:00"
     }
   ]
 }
