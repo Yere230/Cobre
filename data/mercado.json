@@ -1,117 +1,117 @@
 {
-  "actualizado": "2026-10-26T18:54:35.891470+00:00",
+  "actualizado": "2026-10-26T21:30:50.419547+00:00",
   "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 326.72,
+      "precio": 329.0,
       "anterior": 337.3,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 190.8,
+      "precio": 190.73,
       "anterior": 191.69,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 62267.0,
+      "precio": 62300.0,
       "anterior": 64360.0,
       "alto52": 68446.0,
       "bajo52": 46224.0
     },
     "ITAUCL": {
-      "precio": 22138.0,
+      "precio": 22100.0,
       "anterior": 23000.0,
       "alto52": 25887.0,
       "bajo52": 16450.0
     },
     "BSANTANDER": {
-      "precio": 78.31,
+      "precio": 78.1,
       "anterior": 80.49,
       "alto52": 84.4,
       "bajo52": 65.69
     },
     "CAP": {
-      "precio": 4259.5,
+      "precio": 4250.0,
       "anterior": 4635.0,
       "alto52": 8680.0,
       "bajo52": 4206.0
     },
     "CENCOSUD": {
-      "precio": 1828.0,
+      "precio": 1820.0,
       "anterior": 1871.4,
       "alto52": 3238.0,
       "bajo52": 1796.0
     },
     "CENCOMALLS": {
-      "precio": 2241.1,
+      "precio": 2258.0,
       "anterior": 2240.1,
       "alto52": 2799.9,
       "bajo52": 2100.0
     },
     "COLBUN": {
-      "precio": 151.03,
+      "precio": 150.5,
       "anterior": 148.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5110.0,
+      "precio": 5150.0,
       "anterior": 5359.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.96,
+      "precio": 47.5,
       "anterior": 49.8,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4778.0,
+      "precio": 4780.0,
       "anterior": 4850.0,
       "alto52": 4899.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4217.2,
+      "precio": 4240.0,
       "anterior": 4223.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 929.07,
+      "precio": 939.9,
       "anterior": 966.0,
       "alto52": 1501.1,
       "bajo52": 927.21
     },
     "COPEC": {
-      "precio": 6499.8,
+      "precio": 6505.0,
       "anterior": 6748.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 83.78,
+      "precio": 84.11,
       "anterior": 88.5,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 84.56,
+      "precio": 84.4,
       "anterior": 86.8,
       "alto52": 87.5,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1879.1,
+      "precio": 1880.0,
       "anterior": 1864.4,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6446.7,
+      "precio": 6500.0,
       "anterior": 6824.9,
       "alto52": 6948.5,
       "bajo52": 5237.7
@@ -123,67 +123,67 @@
       "bajo52": 877.21
     },
     "ILC": {
-      "precio": 23299.0,
+      "precio": 23379.0,
       "anterior": 25191.0,
       "alto52": 26000.0,
       "bajo52": 14550.0
     },
     "LTM": {
-      "precio": 21.51,
+      "precio": 21.6,
       "anterior": 23.34,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3566.2,
+      "precio": 3583.0,
       "anterior": 3734.9,
       "alto52": 4596.3,
       "bajo52": 2510.1
     },
     "MALLPLAZA": {
-      "precio": 3465.8,
+      "precio": 3477.8,
       "anterior": 3594.9,
       "alto52": 4700.0,
       "bajo52": 2590.2
     },
     "QUINENCO": {
-      "precio": 4462.0,
+      "precio": 4512.3,
       "anterior": 4800.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 444.35,
+      "precio": 453.9,
       "anterior": 468.9,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1284.0,
+      "precio": 1285.4,
       "anterior": 1318.8,
       "alto52": 1499.9,
       "bajo52": 985.0
     },
     "SMU": {
-      "precio": 108.77,
+      "precio": 109.0,
       "anterior": 117.7,
       "alto52": 166.5,
-      "bajo52": 107.68
+      "bajo52": 107.0
     },
     "SQM-B": {
-      "precio": 56981.0,
+      "precio": 56525.0,
       "anterior": 59490.0,
       "alto52": 86900.0,
       "bajo52": 40791.0
     },
     "CONCHATORO": {
-      "precio": 857.0,
+      "precio": 850.0,
       "anterior": 914.0,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7265.0,
+      "precio": 7237.4,
       "anterior": 7421.8,
       "alto52": 9000.0,
       "bajo52": 7152.7
@@ -195,19 +195,19 @@
       "bajo52": 23.29
     },
     "CAMANCHACA": {
-      "precio": 89.5,
+      "precio": 89.33,
       "anterior": 83.99,
       "alto52": 96.88,
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25670.0,
+      "precio": 25671.0,
       "anterior": 25671.0,
       "alto52": 25671.0,
       "bajo52": 20450.0
     },
     "FORUS": {
-      "precio": 1682.0,
+      "precio": 1681.9,
       "anterior": 1740.0,
       "alto52": 2510.0,
       "bajo52": 1682.0
@@ -249,10 +249,10 @@
       "bajo52": 1355.0
     },
     "SONDA": {
-      "precio": 270.0,
+      "precio": 269.94,
       "anterior": 278.64,
       "alto52": 374.0,
-      "bajo52": 270.0
+      "bajo52": 269.94
     },
     "EMBONOR-B": {
       "precio": 1760.0,
@@ -279,7 +279,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 90.89,
+      "precio": 90.61,
       "anterior": 93.3,
       "alto52": 155.0,
       "bajo52": 90.45
@@ -297,7 +297,7 @@
       "bajo52": 1518.7
     },
     "BICE": {
-      "precio": 423.0,
+      "precio": 422.96,
       "anterior": 438.9,
       "alto52": 450.0,
       "bajo52": 323.81
@@ -309,19 +309,19 @@
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4880.5,
+      "precio": 4877.1,
       "anterior": 5054.4,
       "alto52": 5588.4,
       "bajo52": 4417.5
     },
     "CFINRENTAS": {
-      "precio": 2170.0,
+      "precio": 2152.75,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1742.0
     },
     "CFIBTGRCA": {
-      "precio": 21572.0,
+      "precio": 22035.67,
       "anterior": 22000.0,
       "alto52": 27090.0,
       "bajo52": 21000.0
@@ -392,6 +392,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Pacto Pyme lanzó mil becas gratuitas de capacitación digital e IA para empresas medianas",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/pacto-pyme-lanzo-mil-becas-gratuitas-de-capacitacion-digital-e-ia-para/2026-10-26/165104.html",
+      "fecha": "Mon, 26 Oct 2026",
+      "fechaISO": "2026-10-26T19:51:04+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Expertos apuntan a que desempleo se mantendrá cercano al actual 9,6%",
       "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/expertos-apuntan-a-que-desempleo-se-mantendra-cercano-al-actual-9-6/2026-10-26/141853.html",
       "fecha": "Mon, 26 Oct 2026",
@@ -412,39 +419,32 @@
       "fechaISO": "2026-10-26T15:22:03+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Codelco y BHP sellaron acuerdo de exploración para el proyecto Anillo en Antofagasta",
-      "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/codelco-y-bhp-sellaron-acuerdo-de-exploracion-para-el-proyecto-anillo-en/2026-10-26/113941.html",
+      "fuente": "Diario Financiero",
+      "texto": "Canadiense Capstone Copper anuncia plan de inversión por US$ 3.000 millones en el norte de Chile",
+      "link": "http://www.df.cl/empresas/mineria/canadiense-capstone-copper-anuncia-plan-de-inversion-por-us-3-000-millones",
       "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T14:39:41+00:00"
+      "fechaISO": "2026-10-26T20:43:58+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Gobierno ingresa indicaciones a proyecto de casinos online: fin a la publicidad, impuesto de 3% sobre IVA y licencias por 1.000 UTM anuales",
-      "link": "http://www.df.cl/empresas/industria/gobierno-ingresa-indicaciones-a-proyecto-de-casinos-online-fin-a-la",
+      "texto": "IPSA cierra en mínimos de casi cinco meses con acción de Latam en picada tras el vuelco electoral de Brasil",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoyni3re",
       "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T18:09:42+00:00"
+      "fechaISO": "2026-10-26T20:03:38+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "La Moneda valora que clasificadoras mantengan la nota soberana de Chile y Quiroz inicia negociaciones para destrabar el Presupuesto en el Congreso",
-      "link": "http://www.df.cl/economia-y-politica/politica/la-moneda-valora-que-clasificadoras-mantengan-la-nota-soberana-de-chile-y",
+      "texto": "Dólar cierra a la baja por una ola de ventas tras rozar la marca de $ 1.000 en medio del efecto Brasil sobre los mercados",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-wuvym",
       "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T18:13:56+00:00"
+      "fechaISO": "2026-10-26T19:30:55+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "“Una asignación espectral ociosa”: Subtel rechaza renovar concesiones de WOM en banda codiciada por nuevas tecnologías",
-      "link": "http://www.df.cl/empresas/industria/una-asignacion-espectral-ociosa-subtel-rechaza-renovar-concesiones-de",
+      "texto": "¿Cuáles son las empresas del IPSA más expuestas a la sorpresa electoral de Brasil?",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/cuales-son-las-empresas-del-ipsa-mas-expuestas-a-la-sorpresa-electoral-de",
       "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T17:04:23+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Masisa contra el tiempo: pérdidas llegan a US$ 23,1 millones a septiembre y reconoce dificultades para conseguir financiamiento ante una fecha clave",
-      "link": "http://www.df.cl/empresas/industria/masisa-aumenta-sus-perdidas-a-us-23-1-millones",
-      "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T16:46:19+00:00"
+      "fechaISO": "2026-10-26T19:01:57+00:00"
     }
   ]
 }
