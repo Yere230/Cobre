@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-10-26T21:30:50.419547+00:00",
-  "macro": {},
+  "actualizado": "2026-10-26T23:57:26.116752+00:00",
+  "macro": {
+    "dolar": 990.4,
+    "uf": 41221.08,
+    "utm": 72151,
+    "cobre": 6.44
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 329.0,
@@ -168,7 +173,7 @@
       "precio": 109.0,
       "anterior": 117.7,
       "alto52": 166.5,
-      "bajo52": 107.0
+      "bajo52": 105.2
     },
     "SQM-B": {
       "precio": 56525.0,
@@ -392,59 +397,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "U. de Chile pidió en la Cámara reponer fondos para la Gran Sala Sinfónica Nacional",
+      "link": "https://www.cooperativa.cl/noticias/cultura/arte/u-de-chile-pidio-en-la-camara-reponer-fondos-para-la-gran-sala/2026-10-26/201853.html",
+      "fecha": "Mon, 26 Oct 2026",
+      "fechaISO": "2026-10-26T23:18:53+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Manouchehri a Meza: \"Cuando le tocan a las AFP, sus amos, usted explota\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/manouchehri-a-meza-cuando-le-tocan-a-las-afp-sus-amos-usted-explota/2026-10-26/175104.html",
+      "fecha": "Mon, 26 Oct 2026",
+      "fechaISO": "2026-10-26T20:51:04+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Cámara aprobó comisión investigadora sobre caídas de fondos y pérdidas millonarias de las AFP",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/camara-aprobo-comision-investigadora-sobre-caidas-de-fondos-y-perdidas/2026-10-26/180805.html",
+      "fecha": "Mon, 26 Oct 2026",
+      "fechaISO": "2026-10-26T21:08:05+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Pacto Pyme lanzó mil becas gratuitas de capacitación digital e IA para empresas medianas",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/pacto-pyme-lanzo-mil-becas-gratuitas-de-capacitacion-digital-e-ia-para/2026-10-26/165104.html",
       "fecha": "Mon, 26 Oct 2026",
       "fechaISO": "2026-10-26T19:51:04+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Expertos apuntan a que desempleo se mantendrá cercano al actual 9,6%",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/expertos-apuntan-a-que-desempleo-se-mantendra-cercano-al-actual-9-6/2026-10-26/141853.html",
+      "fuente": "Diario Financiero",
+      "texto": "Caída del fondo E: Cortez asegura que Superintendencia de Pensiones advirtió en 2024 sobre uso de derivados a las AFP",
+      "link": "http://www.df.cl/mercados/pensiones/caida-del-fondo-e-cortez-asegura-que-superintendencia-de-pensiones",
       "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T17:18:53+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Dólar volvió a rozar los mil pesos tras la reelección de Lula en Brasil",
-      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-volvio-a-rozar-los-mil-pesos-tras-la-reeleccion-de-lula-en-brasil/2026-10-26/141137.html",
-      "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T17:11:37+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Las AFP estiman que jubilaciones bajarán entre 0,8% y 1,8% por pérdidas del fondo E",
-      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/las-afp-estiman-que-jubilaciones-bajaran-entre-0-8-y-1-8-por-perdidas/2026-10-26/122203.html",
-      "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T15:22:03+00:00"
+      "fechaISO": "2026-10-26T23:37:23+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Canadiense Capstone Copper anuncia plan de inversión por US$ 3.000 millones en el norte de Chile",
-      "link": "http://www.df.cl/empresas/mineria/canadiense-capstone-copper-anuncia-plan-de-inversion-por-us-3-000-millones",
+      "texto": "Alerta roja en 10 comunas de la RM: nueva jornada de lluvias causa inundaciones y sube el riesgo de aluviones",
+      "link": "http://www.df.cl/economia-y-politica/pais/alerta-roja-en-10-comunas-de-la-rm-nueva-jornada-de-lluvias-causa",
       "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T20:43:58+00:00"
+      "fechaISO": "2026-10-26T23:18:28+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra en mínimos de casi cinco meses con acción de Latam en picada tras el vuelco electoral de Brasil",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoyni3re",
+      "texto": "SKY Airline y brasileña Gol, del Grupo Abra, anuncian acuerdo de códigos compartidos",
+      "link": "http://www.df.cl/empresas/industria/sky-airline-y-brasilena-gol-del-grupo-abra-anuncian-acuerdo-de-codigos",
       "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T20:03:38+00:00"
+      "fechaISO": "2026-10-26T22:22:09+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra a la baja por una ola de ventas tras rozar la marca de $ 1.000 en medio del efecto Brasil sobre los mercados",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-wuvym",
+      "texto": "Diputados escalan a la justicia cambios a la OGUC y piden declarar inconstitucionales normas clave",
+      "link": "http://www.df.cl/empresas/construccion/diputados-escalan-a-la-justicia-cambios-a-la-oguc-y-piden-declarar",
       "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T19:30:55+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "¿Cuáles son las empresas del IPSA más expuestas a la sorpresa electoral de Brasil?",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/cuales-son-las-empresas-del-ipsa-mas-expuestas-a-la-sorpresa-electoral-de",
-      "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T19:01:57+00:00"
+      "fechaISO": "2026-10-26T22:53:40+00:00"
     }
   ]
 }
