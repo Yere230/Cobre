@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T21:09:38.103934+00:00",
+  "actualizado": "2026-10-27T23:52:28.019270+00:00",
   "macro": {
     "dolar": 994.3,
     "uf": 41226.39,
@@ -191,7 +191,7 @@
       "precio": 7169.7,
       "anterior": 7291.2,
       "alto52": 9000.0,
-      "bajo52": 7152.7
+      "bajo52": 7150.0
     },
     "ALMENDRAL": {
       "precio": 24.0,
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Dura sesión sobre AFPs en el Senado: se habló de \"turbazo\", \"administración desleal\" y \"sandeces\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/dura-sesion-sobre-afps-en-el-senado-se-hablo-de-turbazo/2026-10-27/193710.html",
+      "fecha": "Tue, 27 Oct 2026",
+      "fechaISO": "2026-10-27T22:37:10+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Fiscal de la Superintendencia de Pensiones: \"No me dejaré arrastrar por la opinión pública ni política\"",
       "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/fiscal-de-la-superintendencia-de-pensiones-no-me-dejare-arrastrar-por/2026-10-27/143158.html",
       "fecha": "Tue, 27 Oct 2026",
@@ -417,39 +424,32 @@
       "fechaISO": "2026-10-26T22:40:25+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "U. de Chile pidió en la Cámara reponer fondos para la Gran Sala Sinfónica Nacional",
-      "link": "https://www.cooperativa.cl/noticias/cultura/arte/u-de-chile-pidio-en-la-camara-reponer-fondos-para-la-gran-sala/2026-10-26/201853.html",
-      "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T23:18:53+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Gobierno declara preemergencia por riesgo de bloom de algas en 15 regiones y ministro del Interior explica alcances",
+      "link": "http://www.df.cl/empresas/industria/gobierno-declara-preemergencia-por-riesgo-de-bloom-de-algas-en-15-regiones",
+      "fecha": "Tue, 27 Oct 2026",
+      "fechaISO": "2026-10-27T23:47:00+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Banco Central mantiene la tasa y advierte mayores presiones sobre la inflación para los próximos meses",
-      "link": "http://www.df.cl/economia-y-politica/macro/banco-central-mantiene-la-tasa-y-advierte-mayores-presiones-sobre-la",
+      "texto": "Rau aborda eventual compensación de las AFP por caída del fondo E y Contraloría revisará actuar de Super de Pensiones",
+      "link": "http://www.df.cl/mercados/pensiones/caida-del-fondo-e-contraloria-ingresa-a-la-cancha-y-revisara-las",
       "fecha": "Tue, 27 Oct 2026",
-      "fechaISO": "2026-10-27T21:04:03+00:00"
+      "fechaISO": "2026-10-27T23:32:32+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Subsecretaria Estévez se reunirá este miércoles con el representante comercial de EEUU para seguir con las negociaciones arancelarias",
-      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/subsecretaria-estevez-se-reunira-este-miercoles-con-el-representante",
+      "texto": "Cámara despacha reforma al mercado de capitales al Senado, pero rechaza participación de las AFP en el ahorro para la vivienda",
+      "link": "http://www.df.cl/mercados/banca-fintech/camara-despacha-reforma-al-mercado-de-capitales-al-senado-pero-rechaza",
       "fecha": "Tue, 27 Oct 2026",
-      "fechaISO": "2026-10-27T20:21:44+00:00"
+      "fechaISO": "2026-10-27T23:41:10+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena repunta 1,8% en la subasta de cierre gracias a una ola de compras de oportunidad tras el negativo efecto Brasil",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-h9mwy",
+      "texto": "Utilidad de Coca-Cola Andina roza los $ 200 mil millones tras crecer 17% a septiembre",
+      "link": "http://www.df.cl/empresas/consumo/utilidad-de-coca-cola-andina-roza-los-200-mil-millones-tras-crecer-17-a",
       "fecha": "Tue, 27 Oct 2026",
-      "fechaISO": "2026-10-27T20:05:39+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra a la baja en $ 985 luego de que inversionistas reajustaran sus apuestas en la región tras la sacudida de Brasil",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-p5xh6",
-      "fecha": "Tue, 27 Oct 2026",
-      "fechaISO": "2026-10-27T19:50:12+00:00"
+      "fechaISO": "2026-10-27T22:44:34+00:00"
     }
   ]
 }
