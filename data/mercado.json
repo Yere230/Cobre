@@ -1,189 +1,194 @@
 {
-  "actualizado": "2026-10-27T18:25:37.930919+00:00",
-  "macro": {},
+  "actualizado": "2026-10-27T21:09:38.103934+00:00",
+  "macro": {
+    "dolar": 994.3,
+    "uf": 41226.39,
+    "utm": 72151,
+    "cobre": 6.56
+  },
   "acciones": {
     "AGUAS-A": {
-      "precio": 331.54,
+      "precio": 332.0,
       "anterior": 330.1,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 192.3,
+      "precio": 193.42,
       "anterior": 193.5,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 62355.0,
+      "precio": 62400.0,
       "anterior": 64800.0,
       "alto52": 68446.0,
       "bajo52": 46224.0
     },
     "ITAUCL": {
-      "precio": 22712.0,
+      "precio": 22814.0,
       "anterior": 22999.0,
       "alto52": 25887.0,
       "bajo52": 16450.0
     },
     "BSANTANDER": {
-      "precio": 78.31,
+      "precio": 79.9,
       "anterior": 81.18,
       "alto52": 84.4,
       "bajo52": 65.69
     },
     "CAP": {
-      "precio": 4347.7,
+      "precio": 4400.0,
       "anterior": 4610.1,
       "alto52": 8680.0,
       "bajo52": 4236.2
     },
     "CENCOSUD": {
-      "precio": 1821.0,
+      "precio": 1825.9,
       "anterior": 1825.0,
       "alto52": 3238.0,
       "bajo52": 1801.0
     },
     "CENCOMALLS": {
-      "precio": 2210.0,
+      "precio": 2200.0,
       "anterior": 2241.0,
       "alto52": 2799.9,
       "bajo52": 2100.0
     },
     "COLBUN": {
-      "precio": 148.71,
+      "precio": 149.5,
       "anterior": 151.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5300.0,
+      "precio": 5240.0,
       "anterior": 5250.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.71,
+      "precio": 47.75,
       "anterior": 49.7,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4848.6,
+      "precio": 4863.7,
       "anterior": 4890.0,
       "alto52": 4969.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4184.1,
+      "precio": 4570.5,
       "anterior": 4230.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 937.2,
+      "precio": 940.0,
       "anterior": 942.0,
       "alto52": 1501.1,
       "bajo52": 933.04
     },
     "COPEC": {
-      "precio": 6580.0,
+      "precio": 6560.0,
       "anterior": 6598.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 83.33,
+      "precio": 82.9,
       "anterior": 90.92,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 84.29,
+      "precio": 84.3,
       "anterior": 86.5,
       "alto52": 88.4,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1880.3,
+      "precio": 1900.0,
       "anterior": 1860.0,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6532.5,
+      "precio": 6650.0,
       "anterior": 6710.1,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 885.0,
+      "precio": 876.6,
       "anterior": 885.01,
       "alto52": 1150.0,
-      "bajo52": 875.44
+      "bajo52": 869.99
     },
     "ILC": {
-      "precio": 23527.0,
+      "precio": 23495.0,
       "anterior": 24950.0,
       "alto52": 26000.0,
       "bajo52": 14578.0
     },
     "LTM": {
-      "precio": 21.97,
+      "precio": 22.1,
       "anterior": 23.39,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3617.6,
+      "precio": 3647.7,
       "anterior": 3750.0,
       "alto52": 4596.3,
       "bajo52": 2510.1
     },
     "MALLPLAZA": {
-      "precio": 3461.8,
+      "precio": 3470.0,
       "anterior": 3519.1,
       "alto52": 4700.0,
       "bajo52": 2590.2
     },
     "QUINENCO": {
-      "precio": 4410.1,
+      "precio": 4450.0,
       "anterior": 4728.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 453.9,
+      "precio": 452.0,
       "anterior": 462.89,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1300.0,
+      "precio": 1307.8,
       "anterior": 1350.0,
       "alto52": 1499.9,
       "bajo52": 1000.0
     },
     "SMU": {
-      "precio": 107.5,
+      "precio": 107.0,
       "anterior": 114.96,
       "alto52": 166.5,
-      "bajo52": 107.19
+      "bajo52": 107.0
     },
     "SQM-B": {
-      "precio": 59600.0,
+      "precio": 59999.0,
       "anterior": 58350.0,
       "alto52": 86900.0,
       "bajo52": 40791.0
     },
     "CONCHATORO": {
-      "precio": 857.32,
+      "precio": 853.0,
       "anterior": 894.99,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7200.0,
+      "precio": 7169.7,
       "anterior": 7291.2,
       "alto52": 9000.0,
       "bajo52": 7152.7
@@ -201,13 +206,13 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25216.0,
+      "precio": 25565.0,
       "anterior": 25671.0,
       "alto52": 25700.0,
       "bajo52": 20450.0
     },
     "FORUS": {
-      "precio": 1682.0,
+      "precio": 1681.9,
       "anterior": 1740.0,
       "alto52": 2510.0,
       "bajo52": 1682.0
@@ -231,7 +236,7 @@
       "bajo52": 6.9
     },
     "PAZ": {
-      "precio": 1035.3,
+      "precio": 1035.2,
       "anterior": 1042.2,
       "alto52": 1120.9,
       "bajo52": 741.78
@@ -255,7 +260,7 @@
       "bajo52": 269.94
     },
     "EMBONOR-B": {
-      "precio": 1760.0,
+      "precio": 1830.0,
       "anterior": 1784.0,
       "alto52": 1845.9,
       "bajo52": 1365.0
@@ -279,7 +284,7 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 90.89,
+      "precio": 90.61,
       "anterior": 92.84,
       "alto52": 155.0,
       "bajo52": 90.89
@@ -291,37 +296,37 @@
       "bajo52": 220.01
     },
     "INVERCAP": {
-      "precio": 1502.1,
+      "precio": 1500.0,
       "anterior": 1572.0,
       "alto52": 2278.8,
-      "bajo52": 1502.1
+      "bajo52": 1500.0
     },
     "BICE": {
-      "precio": 419.1,
+      "precio": 419.09,
       "anterior": 434.65,
       "alto52": 450.0,
       "bajo52": 323.81
     },
     "HABITAT": {
-      "precio": 1299.0,
+      "precio": 1301.8,
       "anterior": 1305.4,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4933.3,
+      "precio": 4928.6,
       "anterior": 5039.0,
       "alto52": 5588.4,
       "bajo52": 4420.0
     },
     "CFINRENTAS": {
-      "precio": 2165.0,
+      "precio": 2165.07,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1742.0
     },
     "CFIBTGRCA": {
-      "precio": 21572.0,
+      "precio": 22035.67,
       "anterior": 22000.0,
       "alto52": 27090.0,
       "bajo52": 21000.0
@@ -392,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Fiscal de la Superintendencia de Pensiones: \"No me dejaré arrastrar por la opinión pública ni política\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/fiscal-de-la-superintendencia-de-pensiones-no-me-dejare-arrastrar-por/2026-10-27/143158.html",
+      "fecha": "Tue, 27 Oct 2026",
+      "fechaISO": "2026-10-27T17:31:58+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "SMA formuló cargos contra ENAP por manipular datos de emisiones",
       "link": "https://www.cooperativa.cl/noticias/pais/medioambiente/contaminacion/sma-formulo-cargos-contra-enap-por-manipular-datos-de-emisiones/2026-10-27/141037.html",
       "fecha": "Tue, 27 Oct 2026",
@@ -412,39 +424,32 @@
       "fechaISO": "2026-10-26T23:18:53+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Manouchehri a Meza: \"Cuando le tocan a las AFP, sus amos, usted explota\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/manouchehri-a-meza-cuando-le-tocan-a-las-afp-sus-amos-usted-explota/2026-10-26/175104.html",
-      "fecha": "Mon, 26 Oct 2026",
-      "fechaISO": "2026-10-26T20:51:04+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Banco Central mantiene la tasa y advierte mayores presiones sobre la inflación para los próximos meses",
+      "link": "http://www.df.cl/economia-y-politica/macro/banco-central-mantiene-la-tasa-y-advierte-mayores-presiones-sobre-la",
+      "fecha": "Tue, 27 Oct 2026",
+      "fechaISO": "2026-10-27T21:04:03+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Ley de Reconstrucción: ventana para regularizar deudas municipales permitiría reducir una mora que asciende a casi US $ 300 millones",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-ventana-para-regularizar-deudas-municipales",
+      "texto": "Subsecretaria Estévez se reunirá este miércoles con el representante comercial de EEUU para seguir con las negociaciones arancelarias",
+      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/subsecretaria-estevez-se-reunira-este-miercoles-con-el-representante",
       "fecha": "Tue, 27 Oct 2026",
-      "fechaISO": "2026-10-27T18:01:22+00:00"
+      "fechaISO": "2026-10-27T20:21:44+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Gremio de la construcción alerta por el presupuesto del Minvu para 2027, que cambia el financiamiento de las viviendas sociales",
-      "link": "http://www.df.cl/economia-y-politica/macro/gremio-de-la-construccion-alerta-por-el-presupuesto-del-minvu-para-2027",
+      "texto": "Bolsa chilena repunta 1,8% en la subasta de cierre gracias a una ola de compras de oportunidad tras el negativo efecto Brasil",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-h9mwy",
       "fecha": "Tue, 27 Oct 2026",
-      "fechaISO": "2026-10-27T18:25:28+00:00"
+      "fechaISO": "2026-10-27T20:05:39+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Inmobiliaria Las Salinas ingresa a tramitación cinco proyectos que considera \"clave\" para materializar inversión por US$ 1.000 millones en Viña del Mar",
-      "link": "http://www.df.cl/empresas/construccion/inmobiliaria-las-salinas-ingresa-a-tramitacion-cinco-proyectos-que",
+      "texto": "Dólar cierra a la baja en $ 985 luego de que inversionistas reajustaran sus apuestas en la región tras la sacudida de Brasil",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-p5xh6",
       "fecha": "Tue, 27 Oct 2026",
-      "fechaISO": "2026-10-27T16:23:38+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Industria de apuestas online advierte que prohibición de publicidad propuesta por Hacienda favorece oferta ilegal",
-      "link": "http://www.df.cl/empresas/industria/industria-de-apuestas-online-advierte-que-prohibicion-de-publicidad",
-      "fecha": "Tue, 27 Oct 2026",
-      "fechaISO": "2026-10-27T18:22:03+00:00"
+      "fechaISO": "2026-10-27T19:50:12+00:00"
     }
   ]
 }
