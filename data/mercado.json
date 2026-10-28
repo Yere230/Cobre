@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T18:32:59.662851+00:00",
+  "actualizado": "2026-10-28T21:34:26.689637+00:00",
   "macro": {
     "dolar": 985.1,
     "uf": 41231.7,
@@ -8,157 +8,157 @@
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 327.95,
+      "precio": 331.0,
       "anterior": 329.89,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 192.11,
+      "precio": 192.4,
       "anterior": 194.9,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 63552.0,
+      "precio": 63800.0,
       "anterior": 65500.0,
       "alto52": 68446.0,
       "bajo52": 46505.0
     },
     "ITAUCL": {
-      "precio": 22758.0,
+      "precio": 22800.0,
       "anterior": 23300.0,
       "alto52": 25887.0,
       "bajo52": 16450.0
     },
     "BSANTANDER": {
-      "precio": 78.68,
+      "precio": 78.69,
       "anterior": 81.2,
       "alto52": 84.4,
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 4360.0,
+      "precio": 4310.0,
       "anterior": 4615.0,
       "alto52": 8680.0,
-      "bajo52": 4312.1
+      "bajo52": 4300.0
     },
     "CENCOSUD": {
-      "precio": 1813.9,
+      "precio": 1818.0,
       "anterior": 1867.1,
       "alto52": 3238.0,
       "bajo52": 1801.0
     },
     "CENCOMALLS": {
-      "precio": 2195.3,
+      "precio": 2197.9,
       "anterior": 2255.0,
       "alto52": 2799.9,
       "bajo52": 2100.0
     },
     "COLBUN": {
-      "precio": 152.77,
+      "precio": 152.5,
       "anterior": 152.5,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5269.1,
+      "precio": 5280.0,
       "anterior": 5280.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.72,
+      "precio": 47.5,
       "anterior": 48.85,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4855.0,
+      "precio": 4790.0,
       "anterior": 4930.0,
       "alto52": 4969.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4292.4,
+      "precio": 4215.1,
       "anterior": 4350.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 940.0,
+      "precio": 949.0,
       "anterior": 945.7,
       "alto52": 1501.1,
       "bajo52": 926.1
     },
     "COPEC": {
-      "precio": 6640.0,
+      "precio": 6664.9,
       "anterior": 6698.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 81.89,
+      "precio": 81.99,
       "anterior": 91.0,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.87,
+      "precio": 82.99,
       "anterior": 86.29,
       "alto52": 88.4,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1906.4,
+      "precio": 1920.0,
       "anterior": 1880.0,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6591.1,
+      "precio": 6595.1,
       "anterior": 6790.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 886.66,
+      "precio": 884.97,
       "anterior": 883.0,
       "alto52": 1150.0,
       "bajo52": 875.44
     },
     "ILC": {
-      "precio": 23639.0,
+      "precio": 23498.0,
       "anterior": 24400.0,
       "alto52": 26000.0,
       "bajo52": 14648.0
     },
     "LTM": {
-      "precio": 21.79,
+      "precio": 21.65,
       "anterior": 23.7,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3628.9,
+      "precio": 3647.0,
       "anterior": 3780.0,
       "alto52": 4596.3,
       "bajo52": 2510.1
     },
     "MALLPLAZA": {
-      "precio": 3457.2,
+      "precio": 3478.9,
       "anterior": 3590.0,
       "alto52": 4700.0,
       "bajo52": 2590.2
     },
     "QUINENCO": {
-      "precio": 4446.1,
+      "precio": 4499.0,
       "anterior": 4680.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 454.97,
+      "precio": 449.0,
       "anterior": 467.18,
       "alto52": 484.34,
       "bajo52": 350.0
@@ -170,19 +170,19 @@
       "bajo52": 1010.0
     },
     "SMU": {
-      "precio": 106.0,
+      "precio": 107.0,
       "anterior": 115.2,
       "alto52": 166.5,
-      "bajo52": 105.92
+      "bajo52": 105.2
     },
     "SQM-B": {
-      "precio": 58049.0,
+      "precio": 57906.0,
       "anterior": 57550.0,
       "alto52": 86900.0,
       "bajo52": 42350.0
     },
     "CONCHATORO": {
-      "precio": 874.89,
+      "precio": 869.9,
       "anterior": 894.99,
       "alto52": 1105.0,
       "bajo52": 815.0
@@ -206,13 +206,13 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25700.0,
+      "precio": 25698.0,
       "anterior": 25671.0,
       "alto52": 25700.0,
       "bajo52": 20450.0
     },
     "FORUS": {
-      "precio": 1682.0,
+      "precio": 1681.9,
       "anterior": 1710.0,
       "alto52": 2510.0,
       "bajo52": 1682.0
@@ -224,7 +224,7 @@
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 216.1,
+      "precio": 216.09,
       "anterior": 219.8,
       "alto52": 227.0,
       "bajo52": 118.0
@@ -242,7 +242,7 @@
       "bajo52": 744.0
     },
     "SOCOVESA": {
-      "precio": 156.43,
+      "precio": 157.55,
       "anterior": 158.89,
       "alto52": 185.29,
       "bajo52": 112.0
@@ -260,7 +260,7 @@
       "bajo52": 269.94
     },
     "EMBONOR-B": {
-      "precio": 1850.0,
+      "precio": 1835.0,
       "anterior": 1795.0,
       "alto52": 1850.0,
       "bajo52": 1365.0
@@ -272,7 +272,7 @@
       "bajo52": 2000.0
     },
     "WATTS": {
-      "precio": 657.0,
+      "precio": 656.5,
       "anterior": 669.9,
       "alto52": 820.0,
       "bajo52": 650.4
@@ -302,7 +302,7 @@
       "bajo52": 1492.1
     },
     "BICE": {
-      "precio": 420.0,
+      "precio": 419.95,
       "anterior": 432.36,
       "alto52": 450.0,
       "bajo52": 323.81
@@ -314,7 +314,7 @@
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4910.0,
+      "precio": 4905.0,
       "anterior": 5043.4,
       "alto52": 5588.4,
       "bajo52": 4433.0
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "HubTec presentó plataforma que busca unificar desarrollos tecnológicos hacia mercados internacionales",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/hubtec-presento-plataforma-que-busca-unificar-desarrollos-tecnologicos/2026-10-28/165644.html",
+      "fecha": "Wed, 28 Oct 2026",
+      "fechaISO": "2026-10-28T19:56:44+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Kast pide enfrentar problemas institucionales y \"no salir arrancando a la primera\"",
       "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-pide-enfrentar-problemas-institucionales-y-no-salir-arrancando-a/2026-10-28/145323.html",
       "fecha": "Wed, 28 Oct 2026",
@@ -417,39 +424,32 @@
       "fechaISO": "2026-10-28T13:00:08+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "CMF propone exigir carnet para depósitos en efectivo desde un millón de pesos",
-      "link": "https://www.cooperativa.cl/noticias/economia/servicios-financieros/bancos/cmf-propone-exigir-carnet-para-depositos-en-efectivo-desde-un-millon-de/2026-10-28/101245.html",
+      "fuente": "Diario Financiero",
+      "texto": "La oposición sube la presión contra Rabat y anuncia presentación de una acusación constitucional por las rebajas de penas",
+      "link": "http://www.df.cl/economia-y-politica/politica/la-oposicion-sube-la-presion-contra-rabat-y-anuncia-presentacion-de-una",
       "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T13:12:45+00:00"
+      "fechaISO": "2026-10-28T21:31:38+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Cámara despacha a ley el primer proyecto minero de Kast: elimina la patente progresiva y posterga pago de 2026",
-      "link": "http://www.df.cl/empresas/camara-despacha-a-ley-el-primer-proyecto-minero-de-kast-elimina-la-patente",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T17:38:18+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar borra la caída que siguió al mensaje del Central a medida que se acerca el anuncio de política monetaria en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-weuae",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T16:24:46+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena cae más de 1% tras sesgo restrictivo del Banco Central y mientras SQM corrige su fuerte alza de la víspera",
+      "texto": "Bolsa chilena cierra a la baja tras sesgo restrictivo del Banco Central y los recientes comentarios del presidente de la Fed",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-xwbgb",
       "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T18:21:26+00:00"
+      "fechaISO": "2026-10-28T20:18:07+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Exministro Juan Carlos Jobet en Enade: \"Dejar de crecer no resuelve el problema ambiental\"",
-      "link": "http://www.df.cl/empresas/actualidad/exministro-juan-carlos-jobet-en-enade-dejar-de-crecer-no-resuelve-el",
+      "texto": "Dólar cierra al alza cerca de $ 990 tras comentarios de Warsh que impulsaron hasta 5% al principal rendimiento del Tesoro",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-weuae",
       "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T16:09:12+00:00"
+      "fechaISO": "2026-10-28T20:26:59+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Sergio Urzúa advierte en Enade que es necesario un crecimiento de 3,7% para que no suba el desempleo, pero pone énfasis en el cambio demográfico",
+      "link": "http://www.df.cl/economia-y-politica/macro/sergio-urzua-advierte-en-la-enade-que-es-necesario-un-crecimiento-de-3-7",
+      "fecha": "Wed, 28 Oct 2026",
+      "fechaISO": "2026-10-28T19:26:54+00:00"
     }
   ]
 }
