@@ -1,192 +1,192 @@
 {
-  "actualizado": "2026-10-29T00:05:42.498316+00:00",
+  "actualizado": "2026-10-29T18:42:00.920446+00:00",
   "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 331.0,
+      "precio": 327.0,
       "anterior": 329.89,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 192.4,
+      "precio": 187.7,
       "anterior": 194.9,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 63800.0,
+      "precio": 63219.0,
       "anterior": 65500.0,
       "alto52": 68446.0,
-      "bajo52": 46505.0
+      "bajo52": 47284.0
     },
     "ITAUCL": {
-      "precio": 22800.0,
+      "precio": 22373.0,
       "anterior": 23300.0,
       "alto52": 25887.0,
-      "bajo52": 16450.0
+      "bajo52": 16500.0
     },
     "BSANTANDER": {
-      "precio": 78.69,
+      "precio": 77.26,
       "anterior": 81.2,
       "alto52": 84.4,
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 4310.0,
+      "precio": 4210.0,
       "anterior": 4615.0,
       "alto52": 8680.0,
-      "bajo52": 4312.1
+      "bajo52": 4200.0
     },
     "CENCOSUD": {
-      "precio": 1818.0,
+      "precio": 1807.4,
       "anterior": 1867.1,
       "alto52": 3238.0,
-      "bajo52": 1801.0
+      "bajo52": 1796.0
     },
     "CENCOMALLS": {
-      "precio": 2197.9,
+      "precio": 2189.5,
       "anterior": 2255.0,
       "alto52": 2799.9,
       "bajo52": 2100.0
     },
     "COLBUN": {
-      "precio": 152.5,
+      "precio": 152.95,
       "anterior": 152.5,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5280.0,
+      "precio": 5195.5,
       "anterior": 5280.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.5,
+      "precio": 47.06,
       "anterior": 48.85,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4790.0,
+      "precio": 4710.4,
       "anterior": 4930.0,
       "alto52": 4969.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4215.1,
+      "precio": 4260.1,
       "anterior": 4350.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 949.0,
+      "precio": 937.39,
       "anterior": 945.7,
       "alto52": 1501.1,
-      "bajo52": 926.1
+      "bajo52": 925.0
     },
     "COPEC": {
-      "precio": 6664.9,
+      "precio": 6516.3,
       "anterior": 6698.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 81.99,
+      "precio": 83.58,
       "anterior": 91.0,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 82.99,
+      "precio": 81.95,
       "anterior": 86.29,
       "alto52": 88.4,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1920.0,
+      "precio": 1915.4,
       "anterior": 1880.0,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6595.1,
+      "precio": 6511.4,
       "anterior": 6790.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 884.97,
+      "precio": 878.7,
       "anterior": 883.0,
       "alto52": 1150.0,
-      "bajo52": 875.44
+      "bajo52": 868.0
     },
     "ILC": {
-      "precio": 23498.0,
+      "precio": 23464.0,
       "anterior": 24400.0,
       "alto52": 26000.0,
-      "bajo52": 14648.0
+      "bajo52": 14770.0
     },
     "LTM": {
-      "precio": 21.65,
+      "precio": 21.74,
       "anterior": 23.7,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3647.0,
+      "precio": 3556.3,
       "anterior": 3780.0,
       "alto52": 4596.3,
       "bajo52": 2510.1
     },
     "MALLPLAZA": {
-      "precio": 3478.9,
+      "precio": 3387.4,
       "anterior": 3590.0,
       "alto52": 4700.0,
       "bajo52": 2590.2
     },
     "QUINENCO": {
-      "precio": 4499.0,
+      "precio": 4483.6,
       "anterior": 4680.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 449.0,
+      "precio": 451.37,
       "anterior": 467.18,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1300.0,
+      "precio": 1312.0,
       "anterior": 1344.1,
       "alto52": 1499.9,
-      "bajo52": 1010.0
+      "bajo52": 1015.0
     },
     "SMU": {
-      "precio": 107.0,
+      "precio": 103.31,
       "anterior": 115.2,
       "alto52": 166.5,
-      "bajo52": 105.2
+      "bajo52": 102.34
     },
     "SQM-B": {
-      "precio": 57906.0,
+      "precio": 56255.0,
       "anterior": 57550.0,
       "alto52": 86900.0,
-      "bajo52": 42350.0
+      "bajo52": 43000.0
     },
     "CONCHATORO": {
-      "precio": 869.9,
+      "precio": 858.0,
       "anterior": 894.99,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7100.0,
+      "precio": 7103.0,
       "anterior": 7288.3,
       "alto52": 9000.0,
-      "bajo52": 7123.2
+      "bajo52": 7085.7
     },
     "ALMENDRAL": {
       "precio": 24.25,
@@ -195,25 +195,25 @@
       "bajo52": 23.29
     },
     "CAMANCHACA": {
-      "precio": 93.0,
+      "precio": 92.92,
       "anterior": 84.0,
       "alto52": 96.88,
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25698.0,
+      "precio": 25700.0,
       "anterior": 25671.0,
-      "alto52": 25700.0,
+      "alto52": 25871.0,
       "bajo52": 20450.0
     },
     "FORUS": {
-      "precio": 1681.9,
+      "precio": 1682.0,
       "anterior": 1710.0,
       "alto52": 2510.0,
-      "bajo52": 1682.0
+      "bajo52": 1655.0
     },
     "HITES": {
-      "precio": 129.04,
+      "precio": 128.05,
       "anterior": 132.0,
       "alto52": 146.09,
       "bajo52": 105.13
@@ -222,22 +222,22 @@
       "precio": 216.09,
       "anterior": 219.8,
       "alto52": 227.0,
-      "bajo52": 118.0
+      "bajo52": 118.38
     },
     "MASISA": {
       "precio": 7.1,
       "anterior": 7.04,
       "alto52": 20.04,
-      "bajo52": 6.9
+      "bajo52": 6.85
     },
     "PAZ": {
-      "precio": 1044.9,
+      "precio": 1050.0,
       "anterior": 1046.2,
       "alto52": 1120.9,
-      "bajo52": 744.0
+      "bajo52": 750.69
     },
     "SOCOVESA": {
-      "precio": 157.55,
+      "precio": 160.0,
       "anterior": 158.89,
       "alto52": 185.29,
       "bajo52": 112.0
@@ -246,18 +246,18 @@
       "precio": 1581.3,
       "anterior": 1605.5,
       "alto52": 1875.0,
-      "bajo52": 1365.0
+      "bajo52": 1365.1
     },
     "SONDA": {
-      "precio": 269.94,
+      "precio": 265.2,
       "anterior": 272.83,
       "alto52": 374.0,
-      "bajo52": 269.94
+      "bajo52": 265.0
     },
     "EMBONOR-B": {
-      "precio": 1835.0,
+      "precio": 1825.0,
       "anterior": 1795.0,
-      "alto52": 1850.0,
+      "alto52": 1845.9,
       "bajo52": 1365.0
     },
     "CRISTALES": {
@@ -279,10 +279,10 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 91.43,
+      "precio": 91.7,
       "anterior": 92.84,
       "alto52": 155.0,
-      "bajo52": 91.22
+      "bajo52": 89.84
     },
     "BLUMAR": {
       "precio": 369.0,
@@ -291,44 +291,44 @@
       "bajo52": 220.01
     },
     "INVERCAP": {
-      "precio": 1492.1,
+      "precio": 1462.4,
       "anterior": 1560.1,
       "alto52": 2278.8,
-      "bajo52": 1492.1
+      "bajo52": 1462.4
     },
     "BICE": {
-      "precio": 419.95,
+      "precio": 416.1,
       "anterior": 432.36,
       "alto52": 450.0,
       "bajo52": 323.81
     },
     "HABITAT": {
-      "precio": 1290.0,
+      "precio": 1289.0,
       "anterior": 1334.9,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4905.0,
+      "precio": 4853.6,
       "anterior": 5043.4,
       "alto52": 5588.4,
-      "bajo52": 4433.0
+      "bajo52": 4466.0
     },
     "CFINRENTAS": {
-      "precio": 2160.0,
+      "precio": 2154.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
-      "bajo52": 1743.0
+      "bajo52": 1760.0
     },
     "CFIBTGRCA": {
-      "precio": 21500.0,
+      "precio": 21000.0,
       "anterior": 22420.44,
       "alto52": 27090.0,
       "bajo52": 21000.0
     },
     "CFIBTGRRA": {
       "precio": 7300.0,
-      "anterior": 7250.0,
+      "anterior": 7300.0,
       "alto52": 12472.8,
       "bajo52": 7100.0
     }
@@ -364,6 +364,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Alphabet ganó 200 mil millones de dólares en los primeros nueve meses del año",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/internet/google/alphabet-gano-200-mil-millones-de-dolares-en-los-primeros-nueve-meses/2026-10-28/223713.html",
+      "fecha": "Wed, 28 Oct 2026",
+      "fechaISO": "2026-10-29T01:37:13+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Kast pide enfrentar problemas institucionales y \"no salir arrancando a la primera\"",
       "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-pide-enfrentar-problemas-institucionales-y-no-salir-arrancando-a/2026-10-28/145323.html",
       "fecha": "Wed, 28 Oct 2026",
@@ -384,67 +391,60 @@
       "fechaISO": "2026-10-28T12:19:38+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "SMA formuló cargos contra ENAP por manipular datos de emisiones",
-      "link": "https://www.cooperativa.cl/noticias/pais/medioambiente/contaminacion/sma-formulo-cargos-contra-enap-por-manipular-datos-de-emisiones/2026-10-27/141037.html",
-      "fecha": "Tue, 27 Oct 2026",
-      "fechaISO": "2026-10-27T17:10:37+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Delincuencia costó a Chile US$10.540 millones en 2025, según Clapes UC",
+      "link": "https://www.cooperativa.cl/noticias/economia/delincuencia-costo-a-chile-us-10-540-millones-en-2025-segun-clapes-uc/2026-10-29/141109.html",
+      "fecha": "Thu, 29 Oct 2026",
+      "fechaISO": "2026-10-29T17:11:09+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "HubTec presentó plataforma que busca unificar desarrollos tecnológicos hacia mercados internacionales",
-      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/hubtec-presento-plataforma-que-busca-unificar-desarrollos-tecnologicos/2026-10-28/165644.html",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T19:56:44+00:00"
+      "texto": "Economistas coinciden en necesidad de acuerdos para enfrentar crisis de empleo",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/economistas-coinciden-en-necesidad-de-acuerdos-para-enfrentar-crisis-de/2026-10-29/112310.html",
+      "fecha": "Thu, 29 Oct 2026",
+      "fechaISO": "2026-10-29T14:23:10+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Kast pide enfrentar problemas institucionales y \"no salir arrancando a la primera\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-pide-enfrentar-problemas-institucionales-y-no-salir-arrancando-a/2026-10-28/145323.html",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T17:53:23+00:00"
+      "texto": "Consejo Minero responde a Quiroz: \"La minería está funcionando a tope\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/consejo-minero-responde-a-quiroz-la-mineria-esta-funcionando-a-tope/2026-10-29/075717.html",
+      "fecha": "Thu, 29 Oct 2026",
+      "fechaISO": "2026-10-29T10:57:17+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "CFA: La probabilidad de sobrepasar el umbral prudente de deuda en tres años supera el 50%",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/cfa-la-probabilidad-de-sobrepasar-el-umbral-prudente-de-deuda-en-tres/2026-10-28/140232.html",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T17:02:32+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Quiroz fijó meta de crecimiento de 4%: \"No tengo miedo a equivocarme por ambicioso\"",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/quiroz-fijo-meta-de-crecimiento-de-4-no-tengo-miedo-a-equivocarme-por/2026-10-28/100008.html",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T13:00:08+00:00"
+      "texto": "Dominga: Greenpeace emplaza a Kast ante una eventual aprobación",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/dominga-greenpeace-emplaza-a-kast-ante-una-eventual-aprobacion/2026-10-29/075244.html",
+      "fecha": "Thu, 29 Oct 2026",
+      "fechaISO": "2026-10-29T10:52:44+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Ley Karin: gobierno reingresa reglamento a Contraloría y aborda denuncias de mala fe",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/ley-karin-gobierno-reingresa-reglamento-a-contraloria-y-aborda-denuncias",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T23:48:13+00:00"
+      "texto": "The Legal 500 lanza guía 2027 y destaca a los mejores estudios de abogados de Chile en 28 categorías",
+      "link": "http://www.df.cl/empresas/entre-codigos/the-legal-500-publica-su-guia-2027-y-destaca-a-los-mejores-estudios-de",
+      "fecha": "Thu, 29 Oct 2026",
+      "fechaISO": "2026-10-29T18:39:55+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "En su primer Enade, gobierno llama a empresarios a invertir y anticipa un mejor escenario económico a partir de 2027",
-      "link": "http://www.df.cl/economia-y-politica/politica/el-llamado-de-kast-ante-empresarios-en-la-enade-es-el-momento-de-invertir",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T23:30:07+00:00"
+      "texto": "Costo económico de la delincuencia en Chile llegó a US $ 10.540 millones en 2025 y equivale al 3% del PIB",
+      "link": "http://www.df.cl/economia-y-politica/pais/costo-economico-de-la-delincuencia-en-chile-llego-a-us-10-540-millones-en",
+      "fecha": "Thu, 29 Oct 2026",
+      "fechaISO": "2026-10-29T18:32:48+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Nova Austral cambia de CEO tras más de seis años al mando de Nicolás Larco",
-      "link": "http://www.df.cl/empresas/industria/nova-austral-cambia-de-ceo-tras-mas-de-seis-anos-al-mando-de-nicolas-larco",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T22:31:59+00:00"
+      "texto": "Embonor más que duplica utilidad a septiembre por mayores ventas y contención de costos",
+      "link": "http://www.df.cl/empresas/consumo/embonor-mas-que-duplica-utilidad-a-septiembre-por-mayores-ventas-y",
+      "fecha": "Thu, 29 Oct 2026",
+      "fechaISO": "2026-10-29T17:52:35+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Enel Chile anota alza de 10,7% en sus utilidades a septiembre debido a mejora operacional",
-      "link": "http://www.df.cl/empresas/energia/enel-chile-anota-alza-de-10-7-en-sus-utilidades-a-septiembre-debido-a",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T22:14:46+00:00"
+      "texto": "Bolsa chilena cae arrastrada por SQM y mientras los decepcionantes resultados de Alphabet golpean a Wall Street",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-xicjp",
+      "fecha": "Thu, 29 Oct 2026",
+      "fechaISO": "2026-10-29T16:41:11+00:00"
     }
   ]
 }
