@@ -1,11 +1,6 @@
 {
-  "actualizado": "2026-10-28T21:34:26.689637+00:00",
-  "macro": {
-    "dolar": 985.1,
-    "uf": 41231.7,
-    "utm": 72151,
-    "cobre": 6.58
-  },
+  "actualizado": "2026-10-29T00:05:42.498316+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
       "precio": 331.0,
@@ -41,7 +36,7 @@
       "precio": 4310.0,
       "anterior": 4615.0,
       "alto52": 8680.0,
-      "bajo52": 4300.0
+      "bajo52": 4312.1
     },
     "CENCOSUD": {
       "precio": 1818.0,
@@ -425,31 +420,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "La oposición sube la presión contra Rabat y anuncia presentación de una acusación constitucional por las rebajas de penas",
-      "link": "http://www.df.cl/economia-y-politica/politica/la-oposicion-sube-la-presion-contra-rabat-y-anuncia-presentacion-de-una",
+      "texto": "Ley Karin: gobierno reingresa reglamento a Contraloría y aborda denuncias de mala fe",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/ley-karin-gobierno-reingresa-reglamento-a-contraloria-y-aborda-denuncias",
       "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T21:31:38+00:00"
+      "fechaISO": "2026-10-28T23:48:13+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena cierra a la baja tras sesgo restrictivo del Banco Central y los recientes comentarios del presidente de la Fed",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-xwbgb",
+      "texto": "En su primer Enade, gobierno llama a empresarios a invertir y anticipa un mejor escenario económico a partir de 2027",
+      "link": "http://www.df.cl/economia-y-politica/politica/el-llamado-de-kast-ante-empresarios-en-la-enade-es-el-momento-de-invertir",
       "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T20:18:07+00:00"
+      "fechaISO": "2026-10-28T23:30:07+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra al alza cerca de $ 990 tras comentarios de Warsh que impulsaron hasta 5% al principal rendimiento del Tesoro",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-weuae",
+      "texto": "Nova Austral cambia de CEO tras más de seis años al mando de Nicolás Larco",
+      "link": "http://www.df.cl/empresas/industria/nova-austral-cambia-de-ceo-tras-mas-de-seis-anos-al-mando-de-nicolas-larco",
       "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T20:26:59+00:00"
+      "fechaISO": "2026-10-28T22:31:59+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Sergio Urzúa advierte en Enade que es necesario un crecimiento de 3,7% para que no suba el desempleo, pero pone énfasis en el cambio demográfico",
-      "link": "http://www.df.cl/economia-y-politica/macro/sergio-urzua-advierte-en-la-enade-que-es-necesario-un-crecimiento-de-3-7",
+      "texto": "Enel Chile anota alza de 10,7% en sus utilidades a septiembre debido a mejora operacional",
+      "link": "http://www.df.cl/empresas/energia/enel-chile-anota-alza-de-10-7-en-sus-utilidades-a-septiembre-debido-a",
       "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T19:26:54+00:00"
+      "fechaISO": "2026-10-28T22:14:46+00:00"
     }
   ]
 }
