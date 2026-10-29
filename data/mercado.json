@@ -1,189 +1,194 @@
 {
-  "actualizado": "2026-10-29T18:42:00.920446+00:00",
-  "macro": {},
+  "actualizado": "2026-10-29T21:41:21.978269+00:00",
+  "macro": {
+    "dolar": 981.1,
+    "uf": 41237.01,
+    "utm": 72151,
+    "cobre": 6.65
+  },
   "acciones": {
     "AGUAS-A": {
-      "precio": 327.0,
+      "precio": 325.82,
       "anterior": 329.89,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 187.7,
+      "precio": 189.01,
       "anterior": 194.9,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 63219.0,
+      "precio": 63497.0,
       "anterior": 65500.0,
       "alto52": 68446.0,
       "bajo52": 47284.0
     },
     "ITAUCL": {
-      "precio": 22373.0,
+      "precio": 22461.0,
       "anterior": 23300.0,
       "alto52": 25887.0,
       "bajo52": 16500.0
     },
     "BSANTANDER": {
-      "precio": 77.26,
+      "precio": 77.87,
       "anterior": 81.2,
       "alto52": 84.4,
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 4210.0,
+      "precio": 4220.3,
       "anterior": 4615.0,
       "alto52": 8680.0,
-      "bajo52": 4200.0
+      "bajo52": 4205.0
     },
     "CENCOSUD": {
-      "precio": 1807.4,
+      "precio": 1807.9,
       "anterior": 1867.1,
       "alto52": 3238.0,
       "bajo52": 1796.0
     },
     "CENCOMALLS": {
-      "precio": 2189.5,
+      "precio": 2190.0,
       "anterior": 2255.0,
       "alto52": 2799.9,
       "bajo52": 2100.0
     },
     "COLBUN": {
-      "precio": 152.95,
+      "precio": 152.98,
       "anterior": 152.5,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5195.5,
+      "precio": 5188.0,
       "anterior": 5280.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.06,
+      "precio": 46.8,
       "anterior": 48.85,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4710.4,
+      "precio": 4720.0,
       "anterior": 4930.0,
       "alto52": 4969.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4260.1,
+      "precio": 4200.0,
       "anterior": 4350.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 937.39,
+      "precio": 945.0,
       "anterior": 945.7,
       "alto52": 1501.1,
       "bajo52": 925.0
     },
     "COPEC": {
-      "precio": 6516.3,
+      "precio": 6530.0,
       "anterior": 6698.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 83.58,
+      "precio": 83.0,
       "anterior": 91.0,
       "alto52": 93.93,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.95,
+      "precio": 82.96,
       "anterior": 86.29,
       "alto52": 88.4,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1915.4,
+      "precio": 1924.4,
       "anterior": 1880.0,
       "alto52": 1949.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6511.4,
+      "precio": 6588.8,
       "anterior": 6790.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 878.7,
+      "precio": 877.52,
       "anterior": 883.0,
       "alto52": 1150.0,
       "bajo52": 868.0
     },
     "ILC": {
-      "precio": 23464.0,
+      "precio": 23100.0,
       "anterior": 24400.0,
       "alto52": 26000.0,
       "bajo52": 14770.0
     },
     "LTM": {
-      "precio": 21.74,
+      "precio": 21.62,
       "anterior": 23.7,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3556.3,
+      "precio": 3580.0,
       "anterior": 3780.0,
       "alto52": 4596.3,
       "bajo52": 2510.1
     },
     "MALLPLAZA": {
-      "precio": 3387.4,
+      "precio": 3398.0,
       "anterior": 3590.0,
       "alto52": 4700.0,
       "bajo52": 2590.2
     },
     "QUINENCO": {
-      "precio": 4483.6,
+      "precio": 4493.0,
       "anterior": 4680.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 451.37,
+      "precio": 450.0,
       "anterior": 467.18,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1312.0,
+      "precio": 1280.0,
       "anterior": 1344.1,
       "alto52": 1499.9,
       "bajo52": 1015.0
     },
     "SMU": {
-      "precio": 103.31,
+      "precio": 104.89,
       "anterior": 115.2,
       "alto52": 166.5,
       "bajo52": 102.34
     },
     "SQM-B": {
-      "precio": 56255.0,
+      "precio": 56000.0,
       "anterior": 57550.0,
       "alto52": 86900.0,
       "bajo52": 43000.0
     },
     "CONCHATORO": {
-      "precio": 858.0,
+      "precio": 860.0,
       "anterior": 894.99,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7103.0,
+      "precio": 7086.1,
       "anterior": 7288.3,
       "alto52": 9000.0,
       "bajo52": 7085.7
@@ -201,13 +206,13 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25700.0,
+      "precio": 25698.0,
       "anterior": 25671.0,
       "alto52": 25871.0,
       "bajo52": 20450.0
     },
     "FORUS": {
-      "precio": 1682.0,
+      "precio": 1681.9,
       "anterior": 1710.0,
       "alto52": 2510.0,
       "bajo52": 1655.0
@@ -237,7 +242,7 @@
       "bajo52": 750.69
     },
     "SOCOVESA": {
-      "precio": 160.0,
+      "precio": 157.45,
       "anterior": 158.89,
       "alto52": 185.29,
       "bajo52": 112.0
@@ -249,13 +254,13 @@
       "bajo52": 1365.1
     },
     "SONDA": {
-      "precio": 265.2,
+      "precio": 264.65,
       "anterior": 272.83,
       "alto52": 374.0,
       "bajo52": 265.0
     },
     "EMBONOR-B": {
-      "precio": 1825.0,
+      "precio": 1825.1,
       "anterior": 1795.0,
       "alto52": 1845.9,
       "bajo52": 1365.0
@@ -291,31 +296,31 @@
       "bajo52": 220.01
     },
     "INVERCAP": {
-      "precio": 1462.4,
+      "precio": 1470.8,
       "anterior": 1560.1,
       "alto52": 2278.8,
       "bajo52": 1462.4
     },
     "BICE": {
-      "precio": 416.1,
+      "precio": 419.01,
       "anterior": 432.36,
       "alto52": 450.0,
       "bajo52": 323.81
     },
     "HABITAT": {
-      "precio": 1289.0,
+      "precio": 1287.4,
       "anterior": 1334.9,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4853.6,
+      "precio": 4860.8,
       "anterior": 5043.4,
       "alto52": 5588.4,
       "bajo52": 4466.0
     },
     "CFINRENTAS": {
-      "precio": 2154.0,
+      "precio": 2156.84,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1760.0
@@ -364,6 +369,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Hub fomenta innovación pedagógica mediante alianzas orientadas hacia mayor impacto territorial",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/hub-fomenta-innovacion-pedagogica-mediante-alianzas-orientadas-hacia/2026-10-29/165421.html",
+      "fecha": "Thu, 29 Oct 2026",
+      "fechaISO": "2026-10-29T19:54:21+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Alphabet ganó 200 mil millones de dólares en los primeros nueve meses del año",
       "link": "https://www.cooperativa.cl/noticias/tecnologia/internet/google/alphabet-gano-200-mil-millones-de-dolares-en-los-primeros-nueve-meses/2026-10-28/223713.html",
       "fecha": "Wed, 28 Oct 2026",
@@ -384,11 +396,11 @@
       "fechaISO": "2026-10-28T13:00:08+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "\"Tiempo de invertir\": Empresarios y gobierno se reúnen en encuentro Enade",
-      "link": "https://www.cooperativa.cl/noticias/economia/empresas/tiempo-de-invertir-empresarios-y-gobierno-se-reunen-en-encuentro-enade/2026-10-28/091938.html",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T12:19:38+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Hub fomenta innovación pedagógica mediante alianzas orientadas hacia mayor impacto territorial",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/hub-fomenta-innovacion-pedagogica-mediante-alianzas-orientadas-hacia/2026-10-29/165421.html",
+      "fecha": "Thu, 29 Oct 2026",
+      "fechaISO": "2026-10-29T19:54:21+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -412,39 +424,32 @@
       "fechaISO": "2026-10-29T10:57:17+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Dominga: Greenpeace emplaza a Kast ante una eventual aprobación",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/dominga-greenpeace-emplaza-a-kast-ante-una-eventual-aprobacion/2026-10-29/075244.html",
+      "fuente": "Diario Financiero",
+      "texto": "Hernán Arellano, el banquero de inversión que tomará la posta de Ebensperger en Banco de Chile",
+      "link": "http://www.df.cl/mercados/banca-fintech/hernan-arellano-el-banquero-de-inversion-que-tomara-la-posta-de",
       "fecha": "Thu, 29 Oct 2026",
-      "fechaISO": "2026-10-29T10:52:44+00:00"
+      "fechaISO": "2026-10-29T21:31:46+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "The Legal 500 lanza guía 2027 y destaca a los mejores estudios de abogados de Chile en 28 categorías",
-      "link": "http://www.df.cl/empresas/entre-codigos/the-legal-500-publica-su-guia-2027-y-destaca-a-los-mejores-estudios-de",
+      "texto": "ENAP más que duplica sus ganancias a septiembre y llega a US$ 1.112 millones gracias a los márgenes de refinación disparados por el conflicto con Irán",
+      "link": "http://www.df.cl/empresas/energia/enap-mas-que-duplica-sus-ganancias-a-septiembre-y-llega-a-us-1-112",
       "fecha": "Thu, 29 Oct 2026",
-      "fechaISO": "2026-10-29T18:39:55+00:00"
+      "fechaISO": "2026-10-29T21:29:10+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Costo económico de la delincuencia en Chile llegó a US $ 10.540 millones en 2025 y equivale al 3% del PIB",
-      "link": "http://www.df.cl/economia-y-politica/pais/costo-economico-de-la-delincuencia-en-chile-llego-a-us-10-540-millones-en",
+      "texto": "Fin a una era en Banco de Chile: Eduardo Ebensperger deja la gerencia general tras una década al mando",
+      "link": "http://www.df.cl/mercados/banca-fintech/fin-a-una-era-en-banco-de-chile-eduardo-ebensperger-deja-la-gerencia",
       "fecha": "Thu, 29 Oct 2026",
-      "fechaISO": "2026-10-29T18:32:48+00:00"
+      "fechaISO": "2026-10-29T20:26:53+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Embonor más que duplica utilidad a septiembre por mayores ventas y contención de costos",
-      "link": "http://www.df.cl/empresas/consumo/embonor-mas-que-duplica-utilidad-a-septiembre-por-mayores-ventas-y",
-      "fecha": "Thu, 29 Oct 2026",
-      "fechaISO": "2026-10-29T17:52:35+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena cae arrastrada por SQM y mientras los decepcionantes resultados de Alphabet golpean a Wall Street",
+      "texto": "Wall Street cierra a la baja tras los decepcionantes resultados de Alphabet y la bolsa chilena cae a mínimos desde junio",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-xicjp",
       "fecha": "Thu, 29 Oct 2026",
-      "fechaISO": "2026-10-29T16:41:11+00:00"
+      "fechaISO": "2026-10-29T20:12:40+00:00"
     }
   ]
 }
