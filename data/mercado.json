@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-10-30T21:24:41.388501+00:00",
-  "macro": {},
+  "actualizado": "2026-10-30T23:55:22.453997+00:00",
+  "macro": {
+    "dolar": 993.2,
+    "uf": 41242.32,
+    "utm": 72151,
+    "cobre": 6.66
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 322.0,
@@ -420,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Ganancias de las AFP caen 18,2% a septiembre arrastradas por el menor resultado del encaje",
+      "link": "http://www.df.cl/mercados/pensiones/ganancias-de-las-afp-caen-18-2-a-septiembre-arrastradas-por-el-menor",
+      "fecha": "Fri, 30 Oct 2026",
+      "fechaISO": "2026-10-30T22:43:03+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "A dos meses de anunciar la compra: Toesca concreta toma de control de sanitaria Suralis",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/a-dos-meses-de-anunciar-la-compra-toesca-concreta-toma-de-control-de",
+      "fecha": "Fri, 30 Oct 2026",
+      "fechaISO": "2026-10-30T22:01:41+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Primera salida en medio de la crisis por las rebajas de penas: Kast remueve a Silva de Justicia y asume la abogada Josefina Soto",
+      "link": "http://www.df.cl/economia-y-politica/politica/primera-salida-en-medio-de-polemica-por-rebajas-de-penas-kast-remueve-al",
+      "fecha": "Fri, 30 Oct 2026",
+      "fechaISO": "2026-10-30T23:46:37+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "IPSA sigue en caída libre y octubre cierra como su peor mes desde 2023 mientras crece el temor a una escalada bélica en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-j5cik",
       "fecha": "Fri, 30 Oct 2026",
       "fechaISO": "2026-10-30T20:17:03+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Francisco Ruiz-Tagle dejará la gerencia general de CMPC en abril de 2027 tras nueve años en el cargo y cuatro décadas en la empresa",
-      "link": "http://www.df.cl/empresas/industria/francisco-ruiz-tagle-dejara-la-gerencia-general-de-cmpc-en-abril-de-2027",
-      "fecha": "Fri, 30 Oct 2026",
-      "fechaISO": "2026-10-30T20:43:46+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra con leve alza tras rondar los $ 1.000 y registra un avance de casi $ 20 en octubre, su quinto mes de ganancias",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-yuugr",
-      "fecha": "Fri, 30 Oct 2026",
-      "fechaISO": "2026-10-30T19:16:31+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Cochilco sube proyección del precio del cobre a US$ 5,95 para 2027 y estima que producción chilena de cobre crecerá 3%",
-      "link": "http://www.df.cl/empresas/mineria/cochilco-sube-proyeccion-del-precio-del-cobre-a-us-5-95-para-2027-y-estima",
-      "fecha": "Fri, 30 Oct 2026",
-      "fechaISO": "2026-10-30T18:53:56+00:00"
     }
   ]
 }
