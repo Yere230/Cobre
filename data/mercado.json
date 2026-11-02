@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T21:58:46.081561+00:00",
+  "actualizado": "2026-11-02T23:50:01.549703+00:00",
   "macro": {
     "dolar": 992.7,
     "uf": 41258.26,
@@ -425,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Nueva Masvida pone fin a deuda por ley corta de isapres y completa devolución a sus afiliados",
-      "link": "http://www.df.cl/empresas/salud/nueva-masvida-pone-fin-a-deuda-por-ley-corta-de-isapres-y-completa",
+      "texto": "La economía repunta en septiembre pese a la minería, pero no logra revertir las perspectivas de 2026",
+      "link": "http://www.df.cl/economia-y-politica/macro/la-economia-repunta-en-septiembre-pese-a-la-mineria-pero-no-logra-revertir",
       "fecha": "Mon, 02 Nov 2026",
-      "fechaISO": "2026-11-02T21:50:16+00:00"
+      "fechaISO": "2026-11-02T23:35:27+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Negocio móvil en Chile y Perú impulsa ganancias de Entel y utilidades crecen 19% en lo que va del año",
-      "link": "http://www.df.cl/empresas/industria/utilidades-de-entel-crecen-5-3-en-el-tercer-trimestre-impulsadas-por-el",
+      "texto": "Apple logra esquivar el golpe de los chips más caros y sorprende a Wall Street con ventas récord gracias al iPhone",
+      "link": "http://www.df.cl/empresas/multinacionales/apple-logra-esquivar-el-golpe-de-los-chips-mas-caros-y-sorprende-a-wall",
       "fecha": "Mon, 02 Nov 2026",
-      "fechaISO": "2026-11-02T21:57:23+00:00"
+      "fechaISO": "2026-11-02T22:36:43+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Gobierno confirma pago de sueldos a trabajadores de operadora de buses Metropol y apunta a su gerente por retrasos",
-      "link": "http://www.df.cl/empresas/industria/gobierno-confirma-pago-de-sueldos-a-trabajadores-de-operadora-de-buses",
+      "texto": "Comité de Ministros da luz verde a US$ 4.250 millones de la mano de Puerto Exterior de San Antonio",
+      "link": "http://www.df.cl/empresas/medio-ambiente/comite-de-ministros-da-luz-verde-a-us-4-250-millones-de-la-mano-de-puerto",
       "fecha": "Mon, 02 Nov 2026",
-      "fechaISO": "2026-11-02T21:43:13+00:00"
+      "fechaISO": "2026-11-02T22:52:53+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra al alza con fuerte impulso de Latam, que subió más de 7% ante el desplome de los precios del petróleo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-8fpxk",
+      "texto": "Cámara Baja admite a trámite proyecto que compensa a afectados por la caída de fondos D y E",
+      "link": "http://www.df.cl/economia-y-politica/congreso/camara-baja-admite-a-tramite-proyecto-que-compensa-a-afectados-por-la-caida",
       "fecha": "Mon, 02 Nov 2026",
-      "fechaISO": "2026-11-02T21:06:17+00:00"
+      "fechaISO": "2026-11-02T22:48:56+00:00"
     }
   ]
 }
