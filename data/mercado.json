@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T23:50:01.549703+00:00",
+  "actualizado": "2026-11-03T02:29:12.225848+00:00",
   "macro": {
     "dolar": 992.7,
     "uf": 41258.26,
@@ -173,7 +173,7 @@
       "precio": 102.5,
       "anterior": 109.0,
       "alto52": 166.5,
-      "bajo52": 101.12
+      "bajo52": 101.13
     },
     "SQM-B": {
       "precio": 53320.0,
@@ -428,7 +428,7 @@
       "texto": "La economía repunta en septiembre pese a la minería, pero no logra revertir las perspectivas de 2026",
       "link": "http://www.df.cl/economia-y-politica/macro/la-economia-repunta-en-septiembre-pese-a-la-mineria-pero-no-logra-revertir",
       "fecha": "Mon, 02 Nov 2026",
-      "fechaISO": "2026-11-02T23:35:27+00:00"
+      "fechaISO": "2026-11-02T23:50:19+00:00"
     },
     {
       "fuente": "Diario Financiero",
