@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-03T19:52:44.531110+00:00",
-  "macro": {},
+  "actualizado": "2026-11-03T22:14:38.777906+00:00",
+  "macro": {
+    "dolar": 981.8,
+    "uf": 41263.57,
+    "utm": 72440,
+    "cobre": 6.5
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 324.25,
@@ -33,7 +38,7 @@
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 4190.0,
+      "precio": 4200.7,
       "anterior": 4400.0,
       "alto52": 8680.0,
       "bajo52": 4163.6
@@ -63,7 +68,7 @@
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.1,
+      "precio": 47.14,
       "anterior": 47.75,
       "alto52": 54.8,
       "bajo52": 42.0
@@ -117,7 +122,7 @@
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 880.01,
+      "precio": 883.82,
       "anterior": 876.6,
       "alto52": 1150.0,
       "bajo52": 868.0
@@ -201,7 +206,7 @@
       "bajo52": 59.01
     },
     "ENAEX": {
-      "precio": 25700.0,
+      "precio": 25698.0,
       "anterior": 25565.0,
       "alto52": 25871.0,
       "bajo52": 20500.0
@@ -243,7 +248,7 @@
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1560.2,
+      "precio": 1559.5,
       "anterior": 1600.0,
       "alto52": 1875.0,
       "bajo52": 1387.4
@@ -255,7 +260,7 @@
       "bajo52": 260.0
     },
     "EMBONOR-B": {
-      "precio": 1815.0,
+      "precio": 1815.1,
       "anterior": 1830.0,
       "alto52": 1846.0,
       "bajo52": 1365.0
@@ -297,13 +302,13 @@
       "bajo52": 1433.0
     },
     "BICE": {
-      "precio": 420.0,
+      "precio": 420.03,
       "anterior": 419.09,
       "alto52": 450.0,
       "bajo52": 331.05
     },
     "HABITAT": {
-      "precio": 1270.0,
+      "precio": 1272.1,
       "anterior": 1301.8,
       "alto52": 1600.0,
       "bajo52": 1251.0
@@ -315,7 +320,7 @@
       "bajo52": 4470.4
     },
     "CFINRENTAS": {
-      "precio": 2170.0,
+      "precio": 2168.44,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1775.0
@@ -364,6 +369,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "\"No fue suerte\": libro reúne historias reales de éxito en el emprendimiento chileno",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/no-fue-suerte-libro-reune-historias-reales-de-exito-en-el/2026-11-03/164750.html",
+      "fecha": "Tue, 03 Nov 2026",
+      "fechaISO": "2026-11-03T19:47:50+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Hasta en los túneles: Metro de Santiago alcanza cobertura 5G total",
       "link": "https://www.cooperativa.cl/noticias/pais/transportes/metro/hasta-en-los-tuneles-metro-de-santiago-alcanza-cobertura-5g-total/2026-11-02/104748.html",
       "fecha": "Mon, 02 Nov 2026",
@@ -384,11 +396,11 @@
       "fechaISO": "2026-10-29T01:37:13+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Kast pide enfrentar problemas institucionales y \"no salir arrancando a la primera\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-pide-enfrentar-problemas-institucionales-y-no-salir-arrancando-a/2026-10-28/145323.html",
-      "fecha": "Wed, 28 Oct 2026",
-      "fechaISO": "2026-10-28T17:53:23+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "\"No fue suerte\": libro reúne historias reales de éxito en el emprendimiento chileno",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/no-fue-suerte-libro-reune-historias-reales-de-exito-en-el/2026-11-03/164750.html",
+      "fecha": "Tue, 03 Nov 2026",
+      "fechaISO": "2026-11-03T19:47:50+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -412,39 +424,32 @@
       "fechaISO": "2026-11-02T19:00:35+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Ministro Mas: No llegamos al Gobierno para celebrar décimas de crecimiento",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/ministro-mas-no-llegamos-al-gobierno-para-celebrar-decimas-de-crecimiento/2026-11-02/150956.html",
-      "fecha": "Mon, 02 Nov 2026",
-      "fechaISO": "2026-11-02T18:09:56+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Latam eleva sus utilidades un 16% en el tercer trimestre, pero recorta sus proyecciones por alza del combustible",
+      "link": "http://www.df.cl/empresas/industria/latam-eleva-sus-utilidades-un-16-en-el-tercer-trimestre-pero-recorta-sus",
+      "fecha": "Tue, 03 Nov 2026",
+      "fechaISO": "2026-11-03T21:55:48+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra estable mientras Wall Street observa el desarrollo de las midterms con un repunte del sector tecnológico",
+      "texto": "Crisis bancaria sacude a Paraguay: renuncia presidente del Banco Central tras intervención de Ueno Bank",
+      "link": "http://www.df.cl/empresas/multinacionales/crisis-bancaria-sacude-a-paraguay-renuncia-presidente-del-banco-central",
+      "fecha": "Tue, 03 Nov 2026",
+      "fechaISO": "2026-11-03T21:36:48+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Wall Street avanza al cierre del mercado gracias a un repunte del sector tecnológico y mientras agentes observan el desarrollo de las midterms",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-umuun",
       "fecha": "Tue, 03 Nov 2026",
-      "fechaISO": "2026-11-03T19:34:06+00:00"
+      "fechaISO": "2026-11-03T21:21:01+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra al alza mientras el cobre pierde 2,2% y los estadounidenses votan en las elecciones de mitad de mandato",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-aa3fu",
+      "texto": "Estacionamientos impulsan los ingresos de Mallplaza y la compañía prevé seguir expandiendo este negocio",
+      "link": "http://www.df.cl/empresas/retail/negocio-de-estacionamientos-impulsa-ingresos-de-mallplaza-y-grupo-proyecta",
       "fecha": "Tue, 03 Nov 2026",
-      "fechaISO": "2026-11-03T19:14:03+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "De Gregorio y la situación de la economía nacional: “Esta es la primera recesión no causada por fenómenos internacionales”",
-      "link": "http://www.df.cl/economia-y-politica/macro/de-gregorio-y-la-situacion-de-la-economia-nacional-esta-es-la-primera",
-      "fecha": "Tue, 03 Nov 2026",
-      "fechaISO": "2026-11-03T19:06:32+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "La mayor transmisora eléctrica de Chile obtiene más de US$ 250 millones con una venta de bonos para financiar sus inversiones",
-      "link": "http://www.df.cl/mercados/renta-fija/la-mayor-transmisora-electrica-de-chile-obtiene-mas-de-us-250-millones-con",
-      "fecha": "Tue, 03 Nov 2026",
-      "fechaISO": "2026-11-03T19:37:10+00:00"
+      "fechaISO": "2026-11-03T21:49:27+00:00"
     }
   ]
 }
