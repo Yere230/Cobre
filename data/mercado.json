@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-04T20:06:55.772632+00:00",
-  "macro": {},
+  "actualizado": "2026-11-04T22:29:33.013304+00:00",
+  "macro": {
+    "dolar": 980.6,
+    "uf": 41268.88,
+    "utm": 72440,
+    "cobre": 6.58
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 332.3,
@@ -33,7 +38,7 @@
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 4250.0,
+      "precio": 4246.2,
       "anterior": 4400.0,
       "alto52": 8680.0,
       "bajo52": 4157.3
@@ -117,7 +122,7 @@
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 882.0,
+      "precio": 883.73,
       "anterior": 876.6,
       "alto52": 1150.0,
       "bajo52": 868.0
@@ -183,7 +188,7 @@
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7078.5,
+      "precio": 7071.0,
       "anterior": 7169.7,
       "alto52": 9000.0,
       "bajo52": 7061.3
@@ -243,7 +248,7 @@
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1560.0,
+      "precio": 1553.2,
       "anterior": 1600.0,
       "alto52": 1875.0,
       "bajo52": 1387.4
@@ -255,7 +260,7 @@
       "bajo52": 260.0
     },
     "EMBONOR-B": {
-      "precio": 1780.0,
+      "precio": 1802.3,
       "anterior": 1830.0,
       "alto52": 1850.0,
       "bajo52": 1366.1
@@ -303,25 +308,25 @@
       "bajo52": 333.76
     },
     "HABITAT": {
-      "precio": 1269.0,
+      "precio": 1267.4,
       "anterior": 1301.8,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4860.0,
+      "precio": 4860.1,
       "anterior": 4918.9,
       "alto52": 5588.4,
       "bajo52": 4490.0
     },
     "CFINRENTAS": {
-      "precio": 2166.0,
+      "precio": 2167.55,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1775.0
     },
     "CFIBTGRCA": {
-      "precio": 20600.0,
+      "precio": 20599.18,
       "anterior": 21500.0,
       "alto52": 27090.0,
       "bajo52": 20400.0
@@ -392,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "\"Ideas para un Chile accesible\": El concurso de Senadis que premiará propuestas de diseño universal",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/ideas-para-un-chile-accesible-el-concurso-de-senadis-que-premiara/2026-11-04/170009.html",
+      "fecha": "Wed, 04 Nov 2026",
+      "fechaISO": "2026-11-04T20:00:09+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Comisión aprobó presupuesto de gores con \"una merma chica, de 3 a 4%\"",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/comision-aprobo-presupuesto-de-gores-con-una-merma-chica-de-3-a-4/2026-11-04/144619.html",
       "fecha": "Wed, 04 Nov 2026",
@@ -412,39 +424,32 @@
       "fechaISO": "2026-11-04T14:56:44+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "El \"crucero eterno\" zarpó sin pasajeros tras dejar varadas a 200 personas en Camboya",
-      "link": "https://www.cooperativa.cl/noticias/mundo/asia/camboya/el-crucero-eterno-zarpo-sin-pasajeros-tras-dejar-varadas-a-200/2026-11-04/095445.html",
+      "fuente": "Diario Financiero",
+      "texto": "Arauco revierte sus pérdidas a septiembre y gana casi US$ 100 millones",
+      "link": "http://www.df.cl/empresas/industria/arauco-revierte-perdidas-y-gana-casi-us-100-millones-a-septiembre",
       "fecha": "Wed, 04 Nov 2026",
-      "fechaISO": "2026-11-04T12:54:45+00:00"
+      "fechaISO": "2026-11-04T22:21:09+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra su mejor sesión desde junio y supera los 10.600 tras efectos de las midterms sobre las principales acciones chilenas",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-vdg3z",
+      "texto": "Marsh completa la adquisición de gestora española AltamarCAM y alcanza US$ 75 mil millones bajo administración en activos alternativos",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/marsh-completa-la-adquisicion-de-gestora-espanola-altamarcam-y-alcanza-us",
       "fecha": "Wed, 04 Nov 2026",
-      "fechaISO": "2026-11-04T19:43:24+00:00"
+      "fechaISO": "2026-11-04T21:57:14+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Competidor de Elon Musk y Jeff Bezos obtiene luz verde para operar su red satelital en Chile",
-      "link": "http://www.df.cl/empresas/industria/el-competidor-de-elon-musk-y-jeff-bezos-que-obtuvo-luz-verde-para-operar-su",
+      "texto": "Menor nivel de escrituraciones en Chile golpea los ingresos de Paz Corp, que caen 26,5% a septiembre",
+      "link": "http://www.df.cl/empresas/construccion/menor-nivel-de-escrituraciones-en-chile-golpea-los-ingresos-de-paz-corp",
       "fecha": "Wed, 04 Nov 2026",
-      "fechaISO": "2026-11-04T19:31:54+00:00"
+      "fechaISO": "2026-11-04T22:00:48+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El CEO de JPMorgan, Jamie Dimon, vuelve a Chile a una década de su última visita",
-      "link": "http://www.df.cl/mercados/banca-fintech/el-ceo-de-jpmorgan-jamie-dimon-vuelve-a-chile-a-una-decada-de-su-ultima",
+      "texto": "Francisco Ibáñez, de Bloomberg Indices, y el régimen de las AFP: “Esperaría que se mantengan cerca de su benchmark”",
+      "link": "http://www.df.cl/mercados/pensiones/francisco-ibanez-de-bloomberg-indices-y-el-regimen-de-las-afp-esperaria",
       "fecha": "Wed, 04 Nov 2026",
-      "fechaISO": "2026-11-04T19:40:53+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra con una caída de $ 16 mientras el petróleo se hunde por las repercusiones del triunfo demócrata en las midterms",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-cumel",
-      "fecha": "Wed, 04 Nov 2026",
-      "fechaISO": "2026-11-04T20:02:18+00:00"
+      "fechaISO": "2026-11-04T21:46:04+00:00"
     }
   ]
 }
