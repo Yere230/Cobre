@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T22:14:38.777906+00:00",
+  "actualizado": "2026-11-04T00:43:24.131274+00:00",
   "macro": {
     "dolar": 981.8,
     "uf": 41263.57,
@@ -53,7 +53,7 @@
       "precio": 2109.9,
       "anterior": 2200.0,
       "alto52": 2799.9,
-      "bajo52": 2087.2
+      "bajo52": 2089.0
     },
     "COLBUN": {
       "precio": 153.0,
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "De Gregorio advierte: \"No veo evidencia de crecimientos superiores al 3% hacia adelante\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/crisis-financiera/de-gregorio-advierte-no-veo-evidencia-de-crecimientos-superiores-al-3/2026-11-03/190920.html",
+      "fecha": "Tue, 03 Nov 2026",
+      "fechaISO": "2026-11-03T22:09:20+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "\"No fue suerte\": libro reúne historias reales de éxito en el emprendimiento chileno",
       "link": "https://www.cooperativa.cl/noticias/economia/empresas/no-fue-suerte-libro-reune-historias-reales-de-exito-en-el/2026-11-03/164750.html",
       "fecha": "Tue, 03 Nov 2026",
@@ -417,39 +424,32 @@
       "fechaISO": "2026-11-03T14:47:15+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Ciberataques a comercios: Subieron a cinco los países europeos perjudicados",
-      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/informatica/ciberataques-a-comercios-subieron-a-cinco-los-paises-europeos/2026-11-02/160035.html",
-      "fecha": "Mon, 02 Nov 2026",
-      "fechaISO": "2026-11-02T19:00:35+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Presupuesto 2027: oficialismo aprueba ocho partidas entre protestas contra Rabat y críticas por recortes",
+      "link": "http://www.df.cl/economia-y-politica/macro/presupuesto-2027-oficialismo-aprueba-ocho-partidas-entre-protestas-contra",
+      "fecha": "Wed, 04 Nov 2026",
+      "fechaISO": "2026-11-04T00:07:20+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Latam eleva sus utilidades un 16% en el tercer trimestre, pero recorta sus proyecciones por alza del combustible",
-      "link": "http://www.df.cl/empresas/industria/latam-eleva-sus-utilidades-un-16-en-el-tercer-trimestre-pero-recorta-sus",
-      "fecha": "Tue, 03 Nov 2026",
-      "fechaISO": "2026-11-03T21:55:48+00:00"
+      "texto": "Presidente Kast desde Italia: “La responsabilidad política (por el caso Rabat) la asumí yo”",
+      "link": "http://www.df.cl/economia-y-politica/kast-lidera-defensa-de-rabat-desde-italia-y-advierte-al-oficialismo-por",
+      "fecha": "Wed, 04 Nov 2026",
+      "fechaISO": "2026-11-04T00:06:32+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Crisis bancaria sacude a Paraguay: renuncia presidente del Banco Central tras intervención de Ueno Bank",
-      "link": "http://www.df.cl/empresas/multinacionales/crisis-bancaria-sacude-a-paraguay-renuncia-presidente-del-banco-central",
+      "texto": "CCU mejora sus ganancias en el tercer trimestre, pero anota caída de 20% en sus utilidades a septiembre",
+      "link": "http://www.df.cl/empresas/industria/ccu-mejora-sus-ganancias-en-el-tercer-trimestre-pero-anota-caida-de-20-en",
       "fecha": "Tue, 03 Nov 2026",
-      "fechaISO": "2026-11-03T21:36:48+00:00"
+      "fechaISO": "2026-11-03T23:19:42+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Wall Street avanza al cierre del mercado gracias a un repunte del sector tecnológico y mientras agentes observan el desarrollo de las midterms",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-umuun",
+      "texto": "Superintendencia de Pensiones publica norma sobre el traspaso del ahorro voluntario al nuevo esquema de fondos generacionales",
+      "link": "http://www.df.cl/mercados/pensiones/superintendencia-de-pensiones-publica-norma-sobre-el-traspaso-del-ahorro",
       "fecha": "Tue, 03 Nov 2026",
-      "fechaISO": "2026-11-03T21:21:01+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Estacionamientos impulsan los ingresos de Mallplaza y la compañía prevé seguir expandiendo este negocio",
-      "link": "http://www.df.cl/empresas/retail/negocio-de-estacionamientos-impulsa-ingresos-de-mallplaza-y-grupo-proyecta",
-      "fecha": "Tue, 03 Nov 2026",
-      "fechaISO": "2026-11-03T21:49:27+00:00"
+      "fechaISO": "2026-11-03T22:28:57+00:00"
     }
   ]
 }
