@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-05T20:21:17.174730+00:00",
-  "macro": {},
+  "actualizado": "2026-11-05T22:37:07.200669+00:00",
+  "macro": {
+    "dolar": 971.0,
+    "uf": 41274.2,
+    "utm": 72440,
+    "cobre": 6.42
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 322.0,
@@ -33,7 +38,7 @@
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 4070.0,
+      "precio": 4069.0,
       "anterior": 4220.3,
       "alto52": 8680.0,
       "bajo52": 4025.0
@@ -183,7 +188,7 @@
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7060.0,
+      "precio": 7098.0,
       "anterior": 7086.1,
       "alto52": 9000.0,
       "bajo52": 7052.0
@@ -207,7 +212,7 @@
       "bajo52": 21505.0
     },
     "FORUS": {
-      "precio": 1569.6,
+      "precio": 1570.0,
       "anterior": 1681.9,
       "alto52": 2510.0,
       "bajo52": 1569.6
@@ -231,7 +236,7 @@
       "bajo52": 6.5
     },
     "PAZ": {
-      "precio": 1026.6,
+      "precio": 1015.2,
       "anterior": 1050.0,
       "alto52": 1120.9,
       "bajo52": 762.88
@@ -243,7 +248,7 @@
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1535.0,
+      "precio": 1536.8,
       "anterior": 1581.3,
       "alto52": 1875.0,
       "bajo52": 1401.1
@@ -255,7 +260,7 @@
       "bajo52": 251.75
     },
     "EMBONOR-B": {
-      "precio": 1750.0,
+      "precio": 1784.5,
       "anterior": 1825.1,
       "alto52": 2050.0,
       "bajo52": 1366.1
@@ -267,7 +272,7 @@
       "bajo52": 2000.0
     },
     "WATTS": {
-      "precio": 617.63,
+      "precio": 617.61,
       "anterior": 656.5,
       "alto52": 820.0,
       "bajo52": 617.63
@@ -297,19 +302,19 @@
       "bajo52": 1414.4
     },
     "BICE": {
-      "precio": 430.9,
+      "precio": 430.17,
       "anterior": 419.01,
       "alto52": 450.0,
       "bajo52": 333.76
     },
     "HABITAT": {
-      "precio": 1285.0,
+      "precio": 1283.8,
       "anterior": 1287.4,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4812.6,
+      "precio": 4815.6,
       "anterior": 4918.9,
       "alto52": 5588.4,
       "bajo52": 4530.0
@@ -321,7 +326,7 @@
       "bajo52": 1775.0
     },
     "CFIBTGRCA": {
-      "precio": 20600.0,
+      "precio": 20599.18,
       "anterior": 21000.0,
       "alto52": 27090.0,
       "bajo52": 20400.0
@@ -420,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Ya es la sexta: los precios de los combustibles se encaminan hacia una nueva alza la próxima semana",
-      "link": "http://www.df.cl/economia-y-politica/macro/se-proyecta-una-sexta-alza-en-el-precio-de-los-combustibles-para-la-proxima",
+      "texto": "CMPC registra pérdidas en el tercer trimestre y sus ganancias acumuladas caen 84%",
+      "link": "http://www.df.cl/empresas/industria/cmpc-registra-perdidas-en-el-tercer-trimestre-y-sus-ganancias-acumuladas",
       "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T20:10:13+00:00"
+      "fechaISO": "2026-11-05T22:35:38+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El Nasdaq se hunde más de 5% y arrastra a la bolsa chilena mientras se profundiza el declive de expectativas sobre la IA",
+      "texto": "Empresas Copec eleva 45,6% su utilidad en el tercer trimestre y suma US$ 1.001 millones a septiembre",
+      "link": "http://www.df.cl/empresas/industria/empresas-copec-eleva-45-6-su-utilidad-en-el-tercer-trimestre-y-suma-us",
+      "fecha": "Thu, 05 Nov 2026",
+      "fechaISO": "2026-11-05T22:13:49+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "El Nasdaq se hunde 5,5% y cierra su peor sesión desde abril de 2025 por un quiebre de expectativas sobre la infraestructura de IA",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ae8vo",
       "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T19:38:14+00:00"
+      "fechaISO": "2026-11-05T22:32:34+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar se dispara a niveles de $ 980 al cierre de una sesión marcada por la fuerte aversión al riesgo de los mercados bursátiles",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-uhrvs",
+      "texto": "Alzas de dos dígitos se imponen entre productos agrícolas por fenómeno de El Niño ad portas de un nuevo IPC",
+      "link": "http://www.df.cl/economia-y-politica/macro/fenomeno-de-el-nino-incide-en-los-precios-de-las-hortalizas-en-las-ferias",
       "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T19:16:42+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Millicom proyecta fin a reestructuración de Movistar en Chile y cifra en US$ 95 millones costos en indemnizaciones",
-      "link": "http://www.df.cl/empresas/industria/millicom-proyecta-fin-a-reestructuracion-de-movistar-en-chile-y-cifra-en",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T19:56:53+00:00"
+      "fechaISO": "2026-11-05T21:28:42+00:00"
     }
   ]
 }
