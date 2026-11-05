@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T22:29:33.013304+00:00",
+  "actualizado": "2026-11-05T00:57:05.663719+00:00",
   "macro": {
     "dolar": 980.6,
     "uf": 41268.88,
@@ -425,6 +425,20 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Bill Gates sorprende con visita a Chile y recorre la mina subterránea de Chuquicamata",
+      "link": "http://www.df.cl/empresas/mineria/bill-gates-sorprende-con-visita-a-chile-y-recorre-la-mina-subterranea-de",
+      "fecha": "Wed, 04 Nov 2026",
+      "fechaISO": "2026-11-04T23:59:03+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Sala cuna avanza en el Congreso con nuevo financiamiento",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/sala-cuna-avanza-en-el-congreso-con-nuevo-financiamiento",
+      "fecha": "Wed, 04 Nov 2026",
+      "fechaISO": "2026-11-04T23:52:04+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Arauco revierte sus pérdidas a septiembre y gana casi US$ 100 millones",
       "link": "http://www.df.cl/empresas/industria/arauco-revierte-perdidas-y-gana-casi-us-100-millones-a-septiembre",
       "fecha": "Wed, 04 Nov 2026",
@@ -436,20 +450,6 @@
       "link": "http://www.df.cl/mercados/fondos-de-inversion/marsh-completa-la-adquisicion-de-gestora-espanola-altamarcam-y-alcanza-us",
       "fecha": "Wed, 04 Nov 2026",
       "fechaISO": "2026-11-04T21:57:14+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Menor nivel de escrituraciones en Chile golpea los ingresos de Paz Corp, que caen 26,5% a septiembre",
-      "link": "http://www.df.cl/empresas/construccion/menor-nivel-de-escrituraciones-en-chile-golpea-los-ingresos-de-paz-corp",
-      "fecha": "Wed, 04 Nov 2026",
-      "fechaISO": "2026-11-04T22:00:48+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Francisco Ibáñez, de Bloomberg Indices, y el régimen de las AFP: “Esperaría que se mantengan cerca de su benchmark”",
-      "link": "http://www.df.cl/mercados/pensiones/francisco-ibanez-de-bloomberg-indices-y-el-regimen-de-las-afp-esperaria",
-      "fecha": "Wed, 04 Nov 2026",
-      "fechaISO": "2026-11-04T21:46:04+00:00"
     }
   ]
 }
