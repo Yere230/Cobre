@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T19:44:32.109626+00:00",
+  "actualizado": "2026-11-06T21:59:20.071111+00:00",
   "macro": {
     "dolar": 970.9,
     "uf": 41279.51,
@@ -38,7 +38,7 @@
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 4060.0,
+      "precio": 4074.9,
       "anterior": 4220.3,
       "alto52": 8680.0,
       "bajo52": 4040.0
@@ -188,7 +188,7 @@
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7154.5,
+      "precio": 7122.0,
       "anterior": 7086.0,
       "alto52": 9000.0,
       "bajo52": 7055.8
@@ -236,7 +236,7 @@
       "bajo52": 6.35
     },
     "PAZ": {
-      "precio": 1026.6,
+      "precio": 1015.2,
       "anterior": 1050.0,
       "alto52": 1120.9,
       "bajo52": 790.05
@@ -248,7 +248,7 @@
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1535.0,
+      "precio": 1536.8,
       "anterior": 1562.9,
       "alto52": 1875.0,
       "bajo52": 1401.1
@@ -260,7 +260,7 @@
       "bajo52": 254.11
     },
     "EMBONOR-B": {
-      "precio": 1780.0,
+      "precio": 1813.3,
       "anterior": 1835.0,
       "alto52": 2050.0,
       "bajo52": 1366.1
@@ -272,7 +272,7 @@
       "bajo52": 1998.0
     },
     "WATTS": {
-      "precio": 606.0,
+      "precio": 600.92,
       "anterior": 636.81,
       "alto52": 820.0,
       "bajo52": 599.3
@@ -302,19 +302,19 @@
       "bajo52": 1406.0
     },
     "BICE": {
-      "precio": 430.16,
+      "precio": 431.7,
       "anterior": 419.01,
       "alto52": 450.0,
       "bajo52": 336.0
     },
     "HABITAT": {
-      "precio": 1280.2,
+      "precio": 1278.4,
       "anterior": 1269.1,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4876.6,
+      "precio": 4872.3,
       "anterior": 4918.9,
       "alto52": 5588.4,
       "bajo52": 4547.0
@@ -326,7 +326,7 @@
       "bajo52": 1775.0
     },
     "CFIBTGRCA": {
-      "precio": 21000.0,
+      "precio": 21002.9,
       "anterior": 20439.0,
       "alto52": 27090.0,
       "bajo52": 20400.0
@@ -425,10 +425,24 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "SAAM eleva ingresos 8% en el tercer trimestre, pero mayores costos golpean su utilidad",
+      "link": "http://www.df.cl/empresas/industria/saam-eleva-ingresos-8-en-el-tercer-trimestre-pero-mayores-costos-golpean",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T21:49:30+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "IPSA cierra al alza liderado por Cencosud tras resultados y anota su mejor retorno semanal desde junio",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-jbybu",
       "fecha": "Fri, 06 Nov 2026",
-      "fechaISO": "2026-11-06T19:36:35+00:00"
+      "fechaISO": "2026-11-06T21:09:11+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Anasac profundiza participación en negocio de snacks para mascotas con la compra de viñamarina Patagon Raw",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/anasac-profundiza-participacion-en-negocio-de-snacks-para-mascotas-con-la",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T20:40:10+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -436,20 +450,6 @@
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-k5xno",
       "fecha": "Fri, 06 Nov 2026",
       "fechaISO": "2026-11-06T19:16:43+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Remiten a la Fiscalía Oriente denuncia de legisladores PPD por caída de fotos D y E",
-      "link": "http://www.df.cl/economia-y-politica/congreso/remiten-a-la-fiscalia-oriente-denuncia-de-legisladores-ppd-por-caida-de",
-      "fecha": "Fri, 06 Nov 2026",
-      "fechaISO": "2026-11-06T18:04:43+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Corredores de bolsa se unen y lanzan nueva asociación gremial",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/corredores-de-bolsa-se-unen-y-lanzan-nueva-asociacion-gremial",
-      "fecha": "Fri, 06 Nov 2026",
-      "fechaISO": "2026-11-06T17:18:17+00:00"
     }
   ]
 }
