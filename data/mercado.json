@@ -1,197 +1,197 @@
 {
-  "actualizado": "2026-11-06T00:59:31.230829+00:00",
+  "actualizado": "2026-11-06T19:44:32.109626+00:00",
   "macro": {
-    "dolar": 971.0,
-    "uf": 41274.2,
+    "dolar": 970.9,
+    "uf": 41279.51,
     "utm": 72440,
-    "cobre": 6.42
+    "cobre": 6.4
   },
   "acciones": {
     "AGUAS-A": {
-      "precio": 322.0,
+      "precio": 326.2,
       "anterior": 325.82,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 189.69,
-      "anterior": 189.01,
+      "precio": 189.1,
+      "anterior": 183.0,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 61000.0,
+      "precio": 60500.0,
       "anterior": 63497.0,
       "alto52": 68446.0,
       "bajo52": 48350.0
     },
     "ITAUCL": {
-      "precio": 22350.0,
-      "anterior": 22461.0,
+      "precio": 22080.0,
+      "anterior": 21900.0,
       "alto52": 25887.0,
       "bajo52": 16610.0
     },
     "BSANTANDER": {
-      "precio": 79.1,
+      "precio": 79.42,
       "anterior": 77.87,
       "alto52": 84.4,
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 4069.0,
+      "precio": 4060.0,
       "anterior": 4220.3,
       "alto52": 8680.0,
-      "bajo52": 4025.0
+      "bajo52": 4040.0
     },
     "CENCOSUD": {
-      "precio": 1619.9,
+      "precio": 1670.0,
       "anterior": 1807.9,
       "alto52": 3238.0,
-      "bajo52": 1611.2
+      "bajo52": 1646.2
     },
     "CENCOMALLS": {
-      "precio": 2125.0,
+      "precio": 2180.0,
       "anterior": 2190.0,
       "alto52": 2799.9,
-      "bajo52": 2100.0
+      "bajo52": 2087.2
     },
     "COLBUN": {
-      "precio": 151.5,
-      "anterior": 152.98,
+      "precio": 153.01,
+      "anterior": 151.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5272.1,
+      "precio": 5263.0,
       "anterior": 5188.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 46.8,
-      "anterior": 46.8,
+      "precio": 47.0,
+      "anterior": 46.31,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4825.0,
+      "precio": 4720.0,
       "anterior": 4720.0,
       "alto52": 4969.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4100.0,
-      "anterior": 4200.0,
+      "precio": 4020.0,
+      "anterior": 4237.7,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 905.0,
-      "anterior": 945.0,
+      "precio": 898.0,
+      "anterior": 940.0,
       "alto52": 1501.1,
-      "bajo52": 904.0
+      "bajo52": 888.78
     },
     "COPEC": {
-      "precio": 6340.0,
-      "anterior": 6530.0,
+      "precio": 6375.0,
+      "anterior": 6420.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 81.5,
-      "anterior": 83.0,
+      "precio": 83.0,
+      "anterior": 84.35,
       "alto52": 93.39,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 83.4,
-      "anterior": 82.96,
+      "precio": 83.9,
+      "anterior": 80.2,
       "alto52": 88.4,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 2000.0,
-      "anterior": 1924.4,
-      "alto52": 2030.1,
+      "precio": 1990.0,
+      "anterior": 1939.0,
+      "alto52": 2030.0,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6499.0,
-      "anterior": 6588.8,
+      "precio": 6504.3,
+      "anterior": 6304.2,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 880.0,
-      "anterior": 877.52,
+      "precio": 882.0,
+      "anterior": 876.67,
       "alto52": 1150.0,
-      "bajo52": 865.0
+      "bajo52": 868.0
     },
     "ILC": {
-      "precio": 23240.0,
-      "anterior": 23100.0,
+      "precio": 23185.0,
+      "anterior": 23900.0,
       "alto52": 26000.0,
       "bajo52": 14800.0
     },
     "LTM": {
-      "precio": 22.95,
-      "anterior": 21.62,
+      "precio": 23.36,
+      "anterior": 20.51,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3350.1,
-      "anterior": 3580.0,
+      "precio": 3452.7,
+      "anterior": 3537.0,
       "alto52": 4596.3,
-      "bajo52": 2570.4
+      "bajo52": 2656.3
     },
     "MALLPLAZA": {
-      "precio": 3199.9,
-      "anterior": 3398.0,
+      "precio": 3202.4,
+      "anterior": 3360.0,
       "alto52": 4700.0,
-      "bajo52": 2791.9
+      "bajo52": 2860.0
     },
     "QUINENCO": {
-      "precio": 4570.0,
-      "anterior": 4493.0,
+      "precio": 4550.0,
+      "anterior": 4509.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 432.99,
-      "anterior": 450.0,
+      "precio": 445.0,
+      "anterior": 448.5,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1200.0,
-      "anterior": 1280.0,
+      "precio": 1233.2,
+      "anterior": 1290.0,
       "alto52": 1499.9,
-      "bajo52": 1040.0
+      "bajo52": 1065.0
     },
     "SMU": {
-      "precio": 102.4,
-      "anterior": 104.89,
+      "precio": 104.98,
+      "anterior": 102.97,
       "alto52": 166.5,
-      "bajo52": 98.32
+      "bajo52": 99.34
     },
     "SQM-B": {
-      "precio": 55320.0,
-      "anterior": 56000.0,
+      "precio": 56400.0,
+      "anterior": 53300.0,
       "alto52": 86900.0,
       "bajo52": 44005.0
     },
     "CONCHATORO": {
-      "precio": 855.0,
-      "anterior": 860.0,
+      "precio": 860.0,
+      "anterior": 858.75,
       "alto52": 1105.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7098.0,
-      "anterior": 7086.1,
+      "precio": 7154.5,
+      "anterior": 7086.0,
       "alto52": 9000.0,
-      "bajo52": 7052.0
+      "bajo52": 7055.8
     },
     "ALMENDRAL": {
       "precio": 24.4,
@@ -209,85 +209,85 @@
       "precio": 25500.0,
       "anterior": 25565.0,
       "alto52": 25871.0,
-      "bajo52": 21505.0
+      "bajo52": 21520.0
     },
     "FORUS": {
-      "precio": 1570.0,
-      "anterior": 1681.9,
+      "precio": 1544.2,
+      "anterior": 1643.0,
       "alto52": 2510.0,
-      "bajo52": 1569.6
+      "bajo52": 1544.2
     },
     "HITES": {
-      "precio": 127.06,
-      "anterior": 128.05,
+      "precio": 126.0,
+      "anterior": 127.06,
       "alto52": 146.09,
       "bajo52": 105.13
     },
     "INGEVEC": {
-      "precio": 211.74,
-      "anterior": 216.09,
+      "precio": 209.65,
+      "anterior": 210.8,
       "alto52": 227.0,
-      "bajo52": 121.7
+      "bajo52": 123.34
     },
     "MASISA": {
-      "precio": 6.8,
-      "anterior": 7.1,
+      "precio": 6.4,
+      "anterior": 6.8,
       "alto52": 20.04,
-      "bajo52": 6.5
+      "bajo52": 6.35
     },
     "PAZ": {
-      "precio": 1015.2,
+      "precio": 1026.6,
       "anterior": 1050.0,
       "alto52": 1120.9,
-      "bajo52": 762.88
+      "bajo52": 790.05
     },
     "SOCOVESA": {
-      "precio": 155.0,
-      "anterior": 157.45,
+      "precio": 157.0,
+      "anterior": 157.51,
       "alto52": 185.29,
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1536.8,
-      "anterior": 1581.3,
+      "precio": 1535.0,
+      "anterior": 1562.9,
       "alto52": 1875.0,
       "bajo52": 1401.1
     },
     "SONDA": {
       "precio": 265.0,
-      "anterior": 264.65,
+      "anterior": 260.01,
       "alto52": 374.0,
-      "bajo52": 251.75
+      "bajo52": 254.11
     },
     "EMBONOR-B": {
-      "precio": 1784.5,
-      "anterior": 1825.1,
+      "precio": 1780.0,
+      "anterior": 1835.0,
       "alto52": 2050.0,
       "bajo52": 1366.1
     },
     "CRISTALES": {
-      "precio": 2100.0,
+      "precio": 1998.0,
       "anterior": 2100.0,
       "alto52": 2790.0,
-      "bajo52": 2000.0
+      "bajo52": 1998.0
     },
     "WATTS": {
-      "precio": 617.61,
-      "anterior": 656.5,
+      "precio": 606.0,
+      "anterior": 636.81,
       "alto52": 820.0,
-      "bajo52": 617.63
+      "bajo52": 599.3
     },
     "TRICOT": {
       "precio": 583.12,
-      "anterior": 585.0,
+      "anterior": 583.12,
       "alto52": 688.8,
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 89.52,
-      "anterior": 91.7,
+      "precio": 88.5,
+      "anterior": 91.12,
       "alto52": 155.0,
-      "bajo52": 89.52
+      "bajo52": 88.5
     },
     "BLUMAR": {
       "precio": 369.0,
@@ -296,43 +296,43 @@
       "bajo52": 220.01
     },
     "INVERCAP": {
-      "precio": 1418.2,
-      "anterior": 1470.8,
+      "precio": 1406.0,
+      "anterior": 1463.0,
       "alto52": 2278.8,
-      "bajo52": 1414.4
+      "bajo52": 1406.0
     },
     "BICE": {
-      "precio": 430.17,
+      "precio": 430.16,
       "anterior": 419.01,
       "alto52": 450.0,
-      "bajo52": 333.76
+      "bajo52": 336.0
     },
     "HABITAT": {
-      "precio": 1283.8,
-      "anterior": 1287.4,
+      "precio": 1280.2,
+      "anterior": 1269.1,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4815.6,
+      "precio": 4876.6,
       "anterior": 4918.9,
       "alto52": 5588.4,
-      "bajo52": 4530.0
+      "bajo52": 4547.0
     },
     "CFINRENTAS": {
-      "precio": 2170.11,
+      "precio": 2170.0,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1775.0
     },
     "CFIBTGRCA": {
-      "precio": 20599.18,
-      "anterior": 21000.0,
+      "precio": 21000.0,
+      "anterior": 20439.0,
       "alto52": 27090.0,
       "bajo52": 20400.0
     },
     "CFIBTGRRA": {
-      "precio": 7300.0,
+      "precio": 7550.0,
       "anterior": 7300.0,
       "alto52": 12472.8,
       "bajo52": 7100.0
@@ -369,6 +369,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Félix de Vicente retiró candidatura a la CPC tras polémicos dichos por rebajas de condena a pedófilos",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/felix-de-vicente-retiro-candidatura-a-la-cpc-tras-polemicos-dichos-por/2026-11-06/145951.html",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T17:59:51+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Lanzaron la Expo Industrial Internacional Chile 2026 con foco en innovación y negocios",
       "link": "https://www.cooperativa.cl/noticias/economia/empresas/lanzaron-la-expo-industrial-internacional-chile-2026-con-foco-en/2026-11-04/115644.html?=efectochina",
       "fecha": "Wed, 04 Nov 2026",
@@ -389,67 +396,60 @@
       "fechaISO": "2026-11-03T19:47:50+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Hasta en los túneles: Metro de Santiago alcanza cobertura 5G total",
-      "link": "https://www.cooperativa.cl/noticias/pais/transportes/metro/hasta-en-los-tuneles-metro-de-santiago-alcanza-cobertura-5g-total/2026-11-02/104748.html",
-      "fecha": "Mon, 02 Nov 2026",
-      "fechaISO": "2026-11-02T13:47:48+00:00"
-    },
-    {
       "fuente": "Cooperativa · Economía",
-      "texto": "Derrame en la División Andina de Codelco amenazó con llegar al río",
-      "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/derrame-en-la-division-andina-de-codelco-amenazo-con-llegar-al-rio/2026-11-05/154521.html",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T18:45:21+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Renunció el presidente de Paraguay",
-      "link": "https://www.cooperativa.cl/noticias/mundo/paraguay/renuncio-el-presidente-de-paraguay/2026-11-05/133136.html",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T16:31:36+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Exdirector de Libertad y Desarrollo ante las pésimas cifras económicas: \"No tengo la explicación\"",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/exdirector-de-libertad-y-desarrollo-ante-las-pesimas-cifras-economicas/2026-11-05/123426.html",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T15:34:26+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "CNC por brechas de formalidad y certificación en malls chinos: \"La fiscalización ha sido débil\"",
-      "link": "https://www.cooperativa.cl/noticias/economia/retail/comercio/cnc-por-brechas-de-formalidad-y-certificacion-en-malls-chinos-la/2026-11-05/122253.html",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T15:22:53+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Clínica Indisa alista inversiones por US$ 42 millones para ampliar sus recintos y abrir nuevos centros en Santiago",
-      "link": "http://www.df.cl/empresas/salud/clinica-indisa-alista-inversiones-por-us-42-millones-para-ampliar-sus",
+      "texto": "Félix de Vicente retiró candidatura a la CPC tras polémicos dichos por rebajas de condena a pedófilos",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/felix-de-vicente-retiro-candidatura-a-la-cpc-tras-polemicos-dichos-por/2026-11-06/145951.html",
       "fecha": "Fri, 06 Nov 2026",
-      "fechaISO": "2026-11-06T00:35:33+00:00"
+      "fechaISO": "2026-11-06T17:59:51+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Juicio político: Senado de Paraguay rechazó prórroga y citó hoy mismo a Peña",
+      "link": "https://www.cooperativa.cl/noticias/mundo/paraguay/juicio-politico-senado-de-paraguay-rechazo-prorroga-y-cito-hoy-mismo-a/2026-11-06/125234.html",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T15:52:34+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Gobierno e IPC de octubre: \"Sabemos que estas alzas golpean el bolsillo de las familias\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/inflacion/gobierno-e-ipc-de-octubre-sabemos-que-estas-alzas-golpean-el-bolsillo/2026-11-06/103710.html",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T13:37:10+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Eyzaguirre: \"Yo no quiero que al Gobierno le vaya estupendo, pero tampoco quiero que capote\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/ppd/eyzaguirre-yo-no-quiero-que-al-gobierno-le-vaya-estupendo-pero/2026-11-06/105801.html",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T13:58:01+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Codelco estima daño contable de hasta US$ 140 millones por producción abultada y gobierno cuestiona a la anterior administración",
-      "link": "http://www.df.cl/empresas/mineria/codelco-detecta-preliminarmente-mas-de-42-mil-toneladas-de-produccion",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T23:12:33+00:00"
+      "texto": "IPSA cierra al alza liderado por Cencosud tras resultados y anota su mejor retorno semanal desde junio",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-jbybu",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T19:36:35+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Ingeniero Erick Zbinden es nombrado como director ejecutivo de la Comisión Chilena de Energía Nuclear",
-      "link": "http://www.df.cl/empresas/energia/ingeniero-erick-zbinden-es-nombrado-como-director-ejecutivo-de-la-comision",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T22:42:55+00:00"
+      "texto": "Dólar borra alza inicial, cierra estable y registra una caída semanal mientras se calma la venta de acciones tecnológicas",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-k5xno",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T19:16:43+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "CMPC registra pérdidas en el tercer trimestre y sus ganancias acumuladas caen 84%",
-      "link": "http://www.df.cl/empresas/industria/cmpc-registra-perdidas-en-el-tercer-trimestre-y-sus-ganancias-acumuladas",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T23:14:11+00:00"
+      "texto": "Remiten a la Fiscalía Oriente denuncia de legisladores PPD por caída de fotos D y E",
+      "link": "http://www.df.cl/economia-y-politica/congreso/remiten-a-la-fiscalia-oriente-denuncia-de-legisladores-ppd-por-caida-de",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T18:04:43+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Corredores de bolsa se unen y lanzan nueva asociación gremial",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/corredores-de-bolsa-se-unen-y-lanzan-nueva-asociacion-gremial",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T17:18:17+00:00"
     }
   ]
 }
