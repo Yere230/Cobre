@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T22:37:07.200669+00:00",
+  "actualizado": "2026-11-06T00:59:31.230829+00:00",
   "macro": {
     "dolar": 971.0,
     "uf": 41274.2,
@@ -425,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Clínica Indisa alista inversiones por US$ 42 millones para ampliar sus recintos y abrir nuevos centros en Santiago",
+      "link": "http://www.df.cl/empresas/salud/clinica-indisa-alista-inversiones-por-us-42-millones-para-ampliar-sus",
+      "fecha": "Fri, 06 Nov 2026",
+      "fechaISO": "2026-11-06T00:35:33+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Codelco estima daño contable de hasta US$ 140 millones por producción abultada y gobierno cuestiona a la anterior administración",
+      "link": "http://www.df.cl/empresas/mineria/codelco-detecta-preliminarmente-mas-de-42-mil-toneladas-de-produccion",
+      "fecha": "Thu, 05 Nov 2026",
+      "fechaISO": "2026-11-05T23:12:33+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Ingeniero Erick Zbinden es nombrado como director ejecutivo de la Comisión Chilena de Energía Nuclear",
+      "link": "http://www.df.cl/empresas/energia/ingeniero-erick-zbinden-es-nombrado-como-director-ejecutivo-de-la-comision",
+      "fecha": "Thu, 05 Nov 2026",
+      "fechaISO": "2026-11-05T22:42:55+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "CMPC registra pérdidas en el tercer trimestre y sus ganancias acumuladas caen 84%",
       "link": "http://www.df.cl/empresas/industria/cmpc-registra-perdidas-en-el-tercer-trimestre-y-sus-ganancias-acumuladas",
       "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T22:35:38+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Empresas Copec eleva 45,6% su utilidad en el tercer trimestre y suma US$ 1.001 millones a septiembre",
-      "link": "http://www.df.cl/empresas/industria/empresas-copec-eleva-45-6-su-utilidad-en-el-tercer-trimestre-y-suma-us",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T22:13:49+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "El Nasdaq se hunde 5,5% y cierra su peor sesión desde abril de 2025 por un quiebre de expectativas sobre la infraestructura de IA",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ae8vo",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T22:32:34+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Alzas de dos dígitos se imponen entre productos agrícolas por fenómeno de El Niño ad portas de un nuevo IPC",
-      "link": "http://www.df.cl/economia-y-politica/macro/fenomeno-de-el-nino-incide-en-los-precios-de-las-hortalizas-en-las-ferias",
-      "fecha": "Thu, 05 Nov 2026",
-      "fechaISO": "2026-11-05T21:28:42+00:00"
+      "fechaISO": "2026-11-05T23:14:11+00:00"
     }
   ]
 }
