@@ -1,11 +1,6 @@
 {
-  "actualizado": "2026-11-09T22:45:50.529262+00:00",
-  "macro": {
-    "dolar": 979.9,
-    "uf": 41295.46,
-    "utm": 72440,
-    "cobre": 6.32
-  },
+  "actualizado": "2026-11-10T00:36:54.686125+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
       "precio": 328.8,
@@ -397,6 +392,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Honorables cruzaron burlas etílicas, desafíos de hombría y \"caras de raja\" en la Cámara",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/honorables-cruzaron-burlas-etilicas-desafios-de-hombria-y-caras-de/2026-11-09/203525.html",
+      "fecha": "Mon, 09 Nov 2026",
+      "fechaISO": "2026-11-09T23:35:25+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Cámara Baja aprobó en general el Presupuesto 2027, que avanzó a votación particular",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/camara-baja-aprobo-en-general-el-presupuesto-2027-que-avanzo-a-votacion/2026-11-09/195727.html",
+      "fecha": "Mon, 09 Nov 2026",
+      "fechaISO": "2026-11-09T22:57:27+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Camioneros y opositores desprecian anuncio de Kast y mantienen presión por los combustibles",
       "link": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/camioneros-y-opositores-desprecian-anuncio-de-kast-y-mantienen-presion/2026-11-09/184813.html",
       "fecha": "Mon, 09 Nov 2026",
@@ -410,25 +419,25 @@
       "fechaISO": "2026-11-09T19:37:54+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Oposición bloquea ingreso del director de Presupuestos y replica medida contra Martínez",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/oposicion-bloquea-ingreso-del-director-de-presupuestos-y-replica-medida/2026-11-09/150443.html",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T18:04:43+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "PS acusa \"espectáculo comunicacional\" para desprestigiar a Codelco y \"luego vender barato\" activos de la cuprera",
+      "link": "http://www.df.cl/empresas/mineria/ps-acusa-espectaculo-comunicacional-para-desprestigiar-a-codelco-y-luego",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T00:14:39+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Kast anunció proyecto para limitar a $20 alzas de combustibles por tres meses",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/kast-anuncio-proyecto-para-limitar-a-20-alzas-de-combustibles-por-tres/2026-11-09/123318.html",
+      "fuente": "Diario Financiero",
+      "texto": "Hospitales concesionados acumulan retrasos de hasta 76 meses y solo dos mantienen sus plazos originales",
+      "link": "http://www.df.cl/empresas/construccion/hospitales-concesionados-acumulan-retrasos-de-hasta-76-meses-y-solo-dos",
       "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T15:33:18+00:00"
+      "fechaISO": "2026-11-09T23:30:25+00:00"
     },
     {
       "fuente": "Diario Financiero",
       "texto": "FNE archiva investigación a Cencosud, Tottus, SMU y Walmart que solicitó la Suprema: no encontró colusión",
       "link": "http://www.df.cl/empresas/industria/fne-archiva-investigacion-a-cencosud-tottus-smu-y-walmart-que-solicito-la",
       "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T21:58:14+00:00"
+      "fechaISO": "2026-11-09T22:59:11+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -436,20 +445,6 @@
       "link": "http://www.df.cl/economia-y-politica/congreso/parlamentarios-independientes-rn-proponen-que-parte-de-las-utilidades-de",
       "fecha": "Mon, 09 Nov 2026",
       "fechaISO": "2026-11-09T21:52:53+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA cierra al alza cerca de 10.600 puntos mientras Latam sigue beneficiándose de la fuerte caída del petróleo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-6sn4e",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T21:06:12+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "SMU registra pérdidas por casi $ 4 mil millones a septiembre pese a crecimiento de sus ingresos",
-      "link": "http://www.df.cl/empresas/retail/smu-registra-perdidas-por-casi-4-mil-millones-a-septiembre-pese-a",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T21:09:29+00:00"
     }
   ]
 }
