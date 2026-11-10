@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-10T00:36:54.686125+00:00",
-  "macro": {},
+  "actualizado": "2026-11-10T02:48:55.280527+00:00",
+  "macro": {
+    "dolar": 979.9,
+    "uf": 41295.46,
+    "utm": 72440,
+    "cobre": 6.32
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 328.8,
@@ -270,7 +275,7 @@
       "precio": 599.4,
       "anterior": 636.76,
       "alto52": 820.0,
-      "bajo52": 599.4
+      "bajo52": 600.92
     },
     "TRICOT": {
       "precio": 583.12,
@@ -392,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Cuech: Los recortes van a afectar especialmente a las universidades de regiones",
+      "link": "https://www.cooperativa.cl/noticias/pais/educacion/universidades/cuech-los-recortes-van-a-afectar-especialmente-a-las-universidades-de/2026-11-09/231206.html",
+      "fecha": "Mon, 09 Nov 2026",
+      "fechaISO": "2026-11-10T02:12:06+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Honorables cruzaron burlas etílicas, desafíos de hombría y \"caras de raja\" en la Cámara",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/honorables-cruzaron-burlas-etilicas-desafios-de-hombria-y-caras-de/2026-11-09/203525.html",
       "fecha": "Mon, 09 Nov 2026",
@@ -410,13 +422,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/camioneros-y-opositores-desprecian-anuncio-de-kast-y-mantienen-presion/2026-11-09/184813.html",
       "fecha": "Mon, 09 Nov 2026",
       "fechaISO": "2026-11-09T21:48:13+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Innova Viña: La apuesta para fomentar la industria de videojuegos y el conocimiento local",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/innova-vina-la-apuesta-para-fomentar-la-industria-de-videojuegos-y-el/2026-11-09/163754.html",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T19:37:54+00:00"
     },
     {
       "fuente": "Diario Financiero",
