@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-10T20:03:57.071824+00:00",
-  "macro": {},
+  "actualizado": "2026-11-10T22:13:48.886496+00:00",
+  "macro": {
+    "dolar": 969.8,
+    "uf": 41302.33,
+    "utm": 72440,
+    "cobre": 6.33
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 332.4,
@@ -33,7 +38,7 @@
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 3865.1,
+      "precio": 3867.5,
       "anterior": 4200.7,
       "alto52": 8680.0,
       "bajo52": 3850.0
@@ -117,7 +122,7 @@
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 895.0,
+      "precio": 897.25,
       "anterior": 883.82,
       "alto52": 1150.0,
       "bajo52": 856.49
@@ -183,7 +188,7 @@
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7105.0,
+      "precio": 7104.9,
       "anterior": 7072.0,
       "alto52": 9000.0,
       "bajo52": 7052.0
@@ -207,7 +212,7 @@
       "bajo52": 21867.0
     },
     "FORUS": {
-      "precio": 1544.2,
+      "precio": 1539.4,
       "anterior": 1600.0,
       "alto52": 2510.0,
       "bajo52": 1525.0
@@ -243,13 +248,13 @@
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1577.7,
+      "precio": 1568.9,
       "anterior": 1559.5,
       "alto52": 1875.0,
       "bajo52": 1404.2
     },
     "SONDA": {
-      "precio": 265.0,
+      "precio": 264.93,
       "anterior": 260.0,
       "alto52": 374.0,
       "bajo52": 251.75
@@ -291,13 +296,13 @@
       "bajo52": 222.0
     },
     "INVERCAP": {
-      "precio": 1350.0,
+      "precio": 1352.7,
       "anterior": 1436.0,
       "alto52": 2278.8,
       "bajo52": 1350.0
     },
     "BICE": {
-      "precio": 435.9,
+      "precio": 433.75,
       "anterior": 420.03,
       "alto52": 450.0,
       "bajo52": 338.5
@@ -309,7 +314,7 @@
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4860.1,
+      "precio": 4871.8,
       "anterior": 4849.0,
       "alto52": 5588.4,
       "bajo52": 4600.0
@@ -392,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "ChileConverge Emprende 2027: Apoyo económico y asesorías para iniciativas de planteles técnicos",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/chileconverge-emprende-2027-apoyo-economico-y-asesorias-para/2026-11-10/171159.html",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T20:11:59+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Presupuesto: Cámara rechazó asignaciones para gastos y personal de expresidentes",
       "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-camara-rechazo-asignaciones-para-gastos-y-personal-de/2026-11-10/163108.html",
       "fecha": "Tue, 10 Nov 2026",
@@ -412,39 +424,32 @@
       "fechaISO": "2026-11-10T17:47:09+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Kast llamó a camioneros a \"pensar en Chile\" frente al paro por el alza de las bencinas",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-llamo-a-camioneros-a-pensar-en-chile-frente-al-paro-por-el-alza/2026-11-10/124428.html",
+      "fuente": "Diario Financiero",
+      "texto": "Revés para Barrick: Tribunal Ambiental suspende por 30 días aprobación de proyecto minero en zona de Pascua Lama",
+      "link": "http://www.df.cl/empresas/mineria/reves-para-barrick-tribunal-ambiental-suspende-por-30-dias-aprobacion-de",
       "fecha": "Tue, 10 Nov 2026",
-      "fechaISO": "2026-11-10T15:44:28+00:00"
+      "fechaISO": "2026-11-10T22:13:16+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Utilidades de grupo Falabella crecen 18% en el tercer trimestre: “Demostramos la fortaleza de nuestro ecosistema”",
-      "link": "http://www.df.cl/empresas/retail/utilidades-de-falabella-crecen-18-en-el-tercer-trimestre-demostramos-la",
+      "texto": "Propuestas transversales por combustibles: desde eliminar el impuesto específico hasta traspasar las utilidades de ENAP al Mepco",
+      "link": "http://www.df.cl/economia-y-politica/congreso/propuestas-transversales-por-combustibles-desde-eliminar-el-impuesto",
       "fecha": "Tue, 10 Nov 2026",
-      "fechaISO": "2026-11-10T19:46:55+00:00"
+      "fechaISO": "2026-11-10T21:32:29+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "IPSA cierra estable y Wall Street cae mientras las tasas cortas de EEUU se disparan tras un IPC que superó los pronósticos",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ebapu",
+      "texto": "César Pérez Novoa, de BTG: \"Clima, insumos y mercado laboral pueden poner en riesgo la producción de cobre de Chile en 2027\"",
+      "link": "http://www.df.cl/empresas/mineria/cesar-perez-novoa-de-btg-clima-insumos-y-mercado-laboral-pueden-poner",
       "fecha": "Tue, 10 Nov 2026",
-      "fechaISO": "2026-11-10T19:33:52+00:00"
+      "fechaISO": "2026-11-10T21:35:09+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar cierra con un salto de $ 13 tras datos de inflación que cimentaron la expectativa de una próxima subida de tasas en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-go6di",
+      "texto": "Multi X multiplica por seis sus ganancias en el tercer trimestre por alza del precio del salmón",
+      "link": "http://www.df.cl/empresas/industria/multi-x-multiplica-por-seis-sus-ganancias-en-el-tercer-trimestre-por-alza",
       "fecha": "Tue, 10 Nov 2026",
-      "fechaISO": "2026-11-10T19:23:03+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Kast recibe en La Moneda a la presidenta del Banco Santander, Ana Botín",
-      "link": "http://www.df.cl/economia-y-politica/pais/kast-se-reunio-en-la-moneda-con-la-presidenta-del-banco-santander-ana",
-      "fecha": "Tue, 10 Nov 2026",
-      "fechaISO": "2026-11-10T19:29:15+00:00"
+      "fechaISO": "2026-11-10T21:40:42+00:00"
     }
   ]
 }
