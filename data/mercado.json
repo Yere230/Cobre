@@ -1,195 +1,190 @@
 {
-  "actualizado": "2026-11-10T02:48:55.280527+00:00",
-  "macro": {
-    "dolar": 979.9,
-    "uf": 41295.46,
-    "utm": 72440,
-    "cobre": 6.32
-  },
+  "actualizado": "2026-11-10T20:03:57.071824+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 328.8,
-      "anterior": 322.0,
+      "precio": 332.4,
+      "anterior": 324.25,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 190.8,
-      "anterior": 187.0,
+      "precio": 192.97,
+      "anterior": 187.2,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 61400.0,
-      "anterior": 62100.0,
+      "precio": 60800.0,
+      "anterior": 61700.0,
       "alto52": 68446.0,
       "bajo52": 48350.0
     },
     "ITAUCL": {
-      "precio": 22500.0,
-      "anterior": 22150.0,
+      "precio": 22255.0,
+      "anterior": 22349.0,
       "alto52": 25887.0,
       "bajo52": 16610.0
     },
     "BSANTANDER": {
-      "precio": 79.35,
-      "anterior": 78.3,
+      "precio": 79.5,
+      "anterior": 78.6,
       "alto52": 84.4,
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 3910.0,
-      "anterior": 4157.3,
+      "precio": 3865.1,
+      "anterior": 4200.7,
       "alto52": 8680.0,
-      "bajo52": 3895.0
+      "bajo52": 3850.0
     },
     "CENCOSUD": {
-      "precio": 1700.0,
-      "anterior": 1669.0,
+      "precio": 1745.0,
+      "anterior": 1698.9,
       "alto52": 3238.0,
       "bajo52": 1611.2
     },
     "CENCOMALLS": {
-      "precio": 2200.0,
-      "anterior": 2150.0,
+      "precio": 2197.6,
+      "anterior": 2109.9,
       "alto52": 2799.9,
       "bajo52": 2087.2
     },
     "COLBUN": {
       "precio": 154.0,
-      "anterior": 153.7,
+      "anterior": 153.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5203.0,
-      "anterior": 5050.0,
+      "precio": 5271.0,
+      "anterior": 5180.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.28,
-      "anterior": 45.51,
+      "precio": 47.75,
+      "anterior": 47.14,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4754.5,
-      "anterior": 4700.0,
+      "precio": 4770.0,
+      "anterior": 4685.2,
       "alto52": 4969.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4030.0,
-      "anterior": 4100.0,
+      "precio": 4236.0,
+      "anterior": 4200.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 884.03,
-      "anterior": 937.06,
+      "precio": 890.0,
+      "anterior": 931.0,
       "alto52": 1501.1,
-      "bajo52": 882.01
+      "bajo52": 875.0
     },
     "COPEC": {
-      "precio": 6384.0,
-      "anterior": 6411.0,
+      "precio": 6329.0,
+      "anterior": 6522.4,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 82.6,
-      "anterior": 83.48,
+      "precio": 83.0,
+      "anterior": 82.4,
       "alto52": 93.39,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 85.1,
-      "anterior": 83.2,
+      "precio": 84.01,
+      "anterior": 83.7,
       "alto52": 88.4,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 2001.0,
-      "anterior": 2000.0,
+      "precio": 1993.4,
+      "anterior": 2015.0,
       "alto52": 2051.1,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6629.0,
-      "anterior": 6300.1,
+      "precio": 6620.0,
+      "anterior": 6369.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 882.03,
-      "anterior": 880.3,
+      "precio": 895.0,
+      "anterior": 883.82,
       "alto52": 1150.0,
       "bajo52": 856.49
     },
     "ILC": {
-      "precio": 23200.0,
-      "anterior": 23900.0,
+      "precio": 23000.0,
+      "anterior": 23599.0,
       "alto52": 26000.0,
       "bajo52": 14800.0
     },
     "LTM": {
-      "precio": 24.1,
-      "anterior": 22.0,
+      "precio": 24.51,
+      "anterior": 21.69,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3450.0,
-      "anterior": 3473.0,
+      "precio": 3391.7,
+      "anterior": 3420.0,
       "alto52": 4596.3,
       "bajo52": 2656.3
     },
     "MALLPLAZA": {
-      "precio": 3191.0,
-      "anterior": 3290.0,
+      "precio": 3239.9,
+      "anterior": 3319.9,
       "alto52": 4700.0,
       "bajo52": 2861.1
     },
     "QUINENCO": {
-      "precio": 4500.0,
+      "precio": 4490.0,
       "anterior": 4509.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 445.0,
-      "anterior": 439.0,
+      "precio": 437.9,
+      "anterior": 431.5,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1268.6,
-      "anterior": 1265.5,
+      "precio": 1238.5,
+      "anterior": 1232.0,
       "alto52": 1499.9,
-      "bajo52": 1089.0
+      "bajo52": 1100.0
     },
     "SMU": {
-      "precio": 103.5,
-      "anterior": 102.5,
+      "precio": 102.0,
+      "anterior": 100.99,
       "alto52": 166.5,
       "bajo52": 98.32
     },
     "SQM-B": {
-      "precio": 54795.0,
-      "anterior": 53320.0,
+      "precio": 53500.0,
+      "anterior": 52890.0,
       "alto52": 86900.0,
       "bajo52": 46900.0
     },
     "CONCHATORO": {
-      "precio": 864.0,
-      "anterior": 860.75,
-      "alto52": 1103.1,
+      "precio": 872.48,
+      "anterior": 862.0,
+      "alto52": 1095.0,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7191.4,
-      "anterior": 7083.2,
+      "precio": 7105.0,
+      "anterior": 7072.0,
       "alto52": 9000.0,
       "bajo52": 7052.0
     },
@@ -200,10 +195,10 @@
       "bajo52": 23.29
     },
     "CAMANCHACA": {
-      "precio": 89.83,
-      "anterior": 91.21,
+      "precio": 93.0,
+      "anterior": 91.0,
       "alto52": 96.88,
-      "bajo52": 59.01
+      "bajo52": 62.0
     },
     "ENAEX": {
       "precio": 25800.0,
@@ -215,7 +210,7 @@
       "precio": 1544.2,
       "anterior": 1600.0,
       "alto52": 2510.0,
-      "bajo52": 1544.2
+      "bajo52": 1525.0
     },
     "HITES": {
       "precio": 126.0,
@@ -227,13 +222,13 @@
       "precio": 209.65,
       "anterior": 210.8,
       "alto52": 227.0,
-      "bajo52": 128.2
+      "bajo52": 133.0
     },
     "MASISA": {
-      "precio": 6.05,
+      "precio": 5.88,
       "anterior": 6.8,
       "alto52": 20.04,
-      "bajo52": 6.05
+      "bajo52": 5.88
     },
     "PAZ": {
       "precio": 1040.0,
@@ -242,26 +237,26 @@
       "bajo52": 790.05
     },
     "SOCOVESA": {
-      "precio": 159.07,
+      "precio": 156.0,
       "anterior": 160.0,
       "alto52": 185.29,
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1536.8,
-      "anterior": 1566.6,
+      "precio": 1577.7,
+      "anterior": 1559.5,
       "alto52": 1875.0,
       "bajo52": 1404.2
     },
     "SONDA": {
       "precio": 265.0,
-      "anterior": 260.01,
+      "anterior": 260.0,
       "alto52": 374.0,
       "bajo52": 251.75
     },
     "EMBONOR-B": {
-      "precio": 1760.0,
-      "anterior": 1846.8,
+      "precio": 1825.0,
+      "anterior": 1815.1,
       "alto52": 2050.0,
       "bajo52": 1366.1
     },
@@ -272,10 +267,10 @@
       "bajo52": 1998.0
     },
     "WATTS": {
-      "precio": 599.4,
-      "anterior": 636.76,
+      "precio": 600.0,
+      "anterior": 636.0,
       "alto52": 820.0,
-      "bajo52": 600.92
+      "bajo52": 600.0
     },
     "TRICOT": {
       "precio": 583.12,
@@ -287,47 +282,47 @@
       "precio": 89.07,
       "anterior": 91.31,
       "alto52": 155.0,
-      "bajo52": 87.58
+      "bajo52": 89.0
     },
     "BLUMAR": {
       "precio": 369.0,
       "anterior": 369.0,
       "alto52": 378.02,
-      "bajo52": 220.01
+      "bajo52": 222.0
     },
     "INVERCAP": {
-      "precio": 1383.2,
-      "anterior": 1446.0,
+      "precio": 1350.0,
+      "anterior": 1436.0,
       "alto52": 2278.8,
-      "bajo52": 1383.2
+      "bajo52": 1350.0
     },
     "BICE": {
-      "precio": 431.03,
-      "anterior": 415.37,
+      "precio": 435.9,
+      "anterior": 420.03,
       "alto52": 450.0,
       "bajo52": 338.5
     },
     "HABITAT": {
-      "precio": 1283.8,
-      "anterior": 1271.2,
+      "precio": 1280.0,
+      "anterior": 1272.1,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4866.8,
-      "anterior": 4771.2,
+      "precio": 4860.1,
+      "anterior": 4849.0,
       "alto52": 5588.4,
       "bajo52": 4600.0
     },
     "CFINRENTAS": {
-      "precio": 2180.0,
+      "precio": 2170.1,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1775.0
     },
     "CFIBTGRCA": {
-      "precio": 21002.9,
-      "anterior": 20652.28,
+      "precio": 21082.0,
+      "anterior": 20551.0,
       "alto52": 27090.0,
       "bajo52": 20400.0
     },
@@ -397,59 +392,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Cuech: Los recortes van a afectar especialmente a las universidades de regiones",
-      "link": "https://www.cooperativa.cl/noticias/pais/educacion/universidades/cuech-los-recortes-van-a-afectar-especialmente-a-las-universidades-de/2026-11-09/231206.html",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-10T02:12:06+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Honorables cruzaron burlas etílicas, desafíos de hombría y \"caras de raja\" en la Cámara",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/honorables-cruzaron-burlas-etilicas-desafios-de-hombria-y-caras-de/2026-11-09/203525.html",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T23:35:25+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Cámara Baja aprobó en general el Presupuesto 2027, que avanzó a votación particular",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/camara-baja-aprobo-en-general-el-presupuesto-2027-que-avanzo-a-votacion/2026-11-09/195727.html",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T22:57:27+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Camioneros y opositores desprecian anuncio de Kast y mantienen presión por los combustibles",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/camioneros-y-opositores-desprecian-anuncio-de-kast-y-mantienen-presion/2026-11-09/184813.html",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T21:48:13+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "PS acusa \"espectáculo comunicacional\" para desprestigiar a Codelco y \"luego vender barato\" activos de la cuprera",
-      "link": "http://www.df.cl/empresas/mineria/ps-acusa-espectaculo-comunicacional-para-desprestigiar-a-codelco-y-luego",
+      "texto": "Presupuesto: Cámara rechazó asignaciones para gastos y personal de expresidentes",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-camara-rechazo-asignaciones-para-gastos-y-personal-de/2026-11-10/163108.html",
       "fecha": "Tue, 10 Nov 2026",
-      "fechaISO": "2026-11-10T00:14:39+00:00"
+      "fechaISO": "2026-11-10T19:31:08+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Camioneros y \"No + TAG\" se reúnen con el Ministerio de Transportes",
+      "link": "https://www.cooperativa.cl/noticias/pais/transportes/camioneros-y-no-tag-se-reunen-con-el-ministerio-de-transportes/2026-11-10/073518.html",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T10:35:18+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Presupuesto 2027: Dichos de Quiroz tensan debate en la Cámara",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-dichos-de-quiroz-tensan-debate-en-la-camara/2026-11-10/144709.html",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T17:47:09+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Kast llamó a camioneros a \"pensar en Chile\" frente al paro por el alza de las bencinas",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-llamo-a-camioneros-a-pensar-en-chile-frente-al-paro-por-el-alza/2026-11-10/124428.html",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T15:44:28+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Hospitales concesionados acumulan retrasos de hasta 76 meses y solo dos mantienen sus plazos originales",
-      "link": "http://www.df.cl/empresas/construccion/hospitales-concesionados-acumulan-retrasos-de-hasta-76-meses-y-solo-dos",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T23:30:25+00:00"
+      "texto": "Utilidades de grupo Falabella crecen 18% en el tercer trimestre: “Demostramos la fortaleza de nuestro ecosistema”",
+      "link": "http://www.df.cl/empresas/retail/utilidades-de-falabella-crecen-18-en-el-tercer-trimestre-demostramos-la",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T19:46:55+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "FNE archiva investigación a Cencosud, Tottus, SMU y Walmart que solicitó la Suprema: no encontró colusión",
-      "link": "http://www.df.cl/empresas/industria/fne-archiva-investigacion-a-cencosud-tottus-smu-y-walmart-que-solicito-la",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T22:59:11+00:00"
+      "texto": "IPSA cierra estable y Wall Street cae mientras las tasas cortas de EEUU se disparan tras un IPC que superó los pronósticos",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ebapu",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T19:33:52+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Parlamentarios independientes de RN proponen que parte de las utilidades de ENAP se destinen al Mepco",
-      "link": "http://www.df.cl/economia-y-politica/congreso/parlamentarios-independientes-rn-proponen-que-parte-de-las-utilidades-de",
-      "fecha": "Mon, 09 Nov 2026",
-      "fechaISO": "2026-11-09T21:52:53+00:00"
+      "texto": "Dólar cierra con un salto de $ 13 tras datos de inflación que cimentaron la expectativa de una próxima subida de tasas en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-go6di",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T19:23:03+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Kast recibe en La Moneda a la presidenta del Banco Santander, Ana Botín",
+      "link": "http://www.df.cl/economia-y-politica/pais/kast-se-reunio-en-la-moneda-con-la-presidenta-del-banco-santander-ana",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T19:29:15+00:00"
     }
   ]
 }
