@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T22:13:48.886496+00:00",
+  "actualizado": "2026-11-11T00:43:40.089709+00:00",
   "macro": {
     "dolar": 969.8,
     "uf": 41302.33,
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Presupuesto: Cámara rechazó partida del Ministerio del Interior por recortes a emergencias y Ley Cholito",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-camara-rechazo-partida-del-ministerio-del-interior-por/2026-11-10/192635.html",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T22:26:35+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "ChileConverge Emprende 2027: Apoyo económico y asesorías para iniciativas de planteles técnicos",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/chileconverge-emprende-2027-apoyo-economico-y-asesorias-para/2026-11-10/171159.html",
       "fecha": "Tue, 10 Nov 2026",
@@ -417,11 +424,25 @@
       "fechaISO": "2026-11-10T10:35:18+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Presupuesto 2027: Dichos de Quiroz tensan debate en la Cámara",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-dichos-de-quiroz-tensan-debate-en-la-camara/2026-11-10/144709.html",
+      "fuente": "Diario Financiero",
+      "texto": "Andrés Trivelli, del Grupo LarrainVial, por MK4: “No veo ninguna razón por la cual una empresa chilena no pueda aspirar a ser un gestor global de mercados emergentes”",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/mk4-no-veo-ninguna-razon-por-la-cual-una-empresa-chilena-no-pueda-aspirar",
       "fecha": "Tue, 10 Nov 2026",
-      "fechaISO": "2026-11-10T17:47:09+00:00"
+      "fechaISO": "2026-11-10T23:35:25+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Marley Coffee apuesta por nuevo formato de cafeterías para expandirse en Chile y Latinoamérica",
+      "link": "http://www.df.cl/empresas/consumo/marley-coffee-apuesta-por-nuevo-formato-de-cafeterias-para-expandirse-en",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T23:24:56+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "DP World invertirá US$ 227 millones en San Antonio y extiende su concesión hasta 2041",
+      "link": "http://www.df.cl/empresas/industria/dp-world-invertira-us-227-millones-en-san-antonio-y-extiende-su-concesion",
+      "fecha": "Tue, 10 Nov 2026",
+      "fechaISO": "2026-11-10T23:16:12+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -429,27 +450,6 @@
       "link": "http://www.df.cl/empresas/mineria/reves-para-barrick-tribunal-ambiental-suspende-por-30-dias-aprobacion-de",
       "fecha": "Tue, 10 Nov 2026",
       "fechaISO": "2026-11-10T22:13:16+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Propuestas transversales por combustibles: desde eliminar el impuesto específico hasta traspasar las utilidades de ENAP al Mepco",
-      "link": "http://www.df.cl/economia-y-politica/congreso/propuestas-transversales-por-combustibles-desde-eliminar-el-impuesto",
-      "fecha": "Tue, 10 Nov 2026",
-      "fechaISO": "2026-11-10T21:32:29+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "César Pérez Novoa, de BTG: \"Clima, insumos y mercado laboral pueden poner en riesgo la producción de cobre de Chile en 2027\"",
-      "link": "http://www.df.cl/empresas/mineria/cesar-perez-novoa-de-btg-clima-insumos-y-mercado-laboral-pueden-poner",
-      "fecha": "Tue, 10 Nov 2026",
-      "fechaISO": "2026-11-10T21:35:09+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Multi X multiplica por seis sus ganancias en el tercer trimestre por alza del precio del salmón",
-      "link": "http://www.df.cl/empresas/industria/multi-x-multiplica-por-seis-sus-ganancias-en-el-tercer-trimestre-por-alza",
-      "fecha": "Tue, 10 Nov 2026",
-      "fechaISO": "2026-11-10T21:40:42+00:00"
     }
   ]
 }
