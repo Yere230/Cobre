@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T19:54:38.660033+00:00",
+  "actualizado": "2026-11-11T23:23:11.166702+00:00",
   "macro": {
     "dolar": 977.0,
     "uf": 41309.19,
@@ -230,7 +230,7 @@
       "bajo52": 136.0
     },
     "MASISA": {
-      "precio": 5.44,
+      "precio": 5.54,
       "anterior": 6.8,
       "alto52": 20.04,
       "bajo52": 5.44
@@ -248,7 +248,7 @@
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1576.8,
+      "precio": 1571.0,
       "anterior": 1553.2,
       "alto52": 1875.0,
       "bajo52": 1404.2
@@ -260,7 +260,7 @@
       "bajo52": 251.75
     },
     "EMBONOR-B": {
-      "precio": 1800.0,
+      "precio": 1798.2,
       "anterior": 1780.0,
       "alto52": 2050.0,
       "bajo52": 1366.1
@@ -296,7 +296,7 @@
       "bajo52": 222.0
     },
     "INVERCAP": {
-      "precio": 1310.3,
+      "precio": 1310.1,
       "anterior": 1426.0,
       "alto52": 2278.8,
       "bajo52": 1310.3
@@ -308,25 +308,25 @@
       "bajo52": 339.35
     },
     "HABITAT": {
-      "precio": 1285.0,
+      "precio": 1276.9,
       "anterior": 1267.4,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4880.0,
+      "precio": 4874.7,
       "anterior": 4860.1,
       "alto52": 5588.4,
       "bajo52": 4600.0
     },
     "CFINRENTAS": {
-      "precio": 2129.0,
+      "precio": 2121.01,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1775.0
     },
     "CFIBTGRCA": {
-      "precio": 20650.0,
+      "precio": 20651.24,
       "anterior": 20599.18,
       "alto52": 27090.0,
       "bajo52": 20400.0
@@ -397,59 +397,59 @@
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "¿Por qué el Gobierno pausó el proyecto para limitar el alza de los combustibles?",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/por-que-el-gobierno-pauso-el-proyecto-para-limitar-el-alza-de-los/2026-11-11/155703.html",
+      "texto": "Programa Emerge de Anglo American cumplió 20 años",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/programa-emerge-de-anglo-american-cumplio-20-anos/2026-11-11/173859.html",
       "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T18:57:03+00:00"
+      "fechaISO": "2026-11-11T20:38:59+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "La IA supera a los buscadores como fuente de información sobre marcas",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/la-ia-supera-a-los-buscadores-como-fuente-de-informacion-sobre-marcas/2026-11-11/151440.html",
+      "texto": "En medio del paro: gasolinas y diésel suben 39 y 42 pesos por litro este jueves",
+      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/en-medio-del-paro-gasolinas-y-diesel-suben-39-y-42-pesos-por-litro-este/2026-11-11/170328.html",
       "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T18:14:40+00:00"
+      "fechaISO": "2026-11-11T20:03:28+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Cámara rechazó la partida de Educación y Quiroz ofreció una alternativa a \"Yo Elijo Mi PC\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/camara-rechazo-la-partida-de-educacion-y-quiroz-ofrecio-una-alternativa/2026-11-11/142154.html",
+      "texto": "Ministro criticó el paro de camioneros: Es un sector que ha tenido tratamiento privilegiado",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/ministro-critico-el-paro-de-camioneros-es-un-sector-que-ha-tenido/2026-11-11/164010.html",
       "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T17:21:54+00:00"
+      "fechaISO": "2026-11-11T19:40:10+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
-      "texto": "Quiroz reconoce que Chile está en recesión y abre la puerta a inversión extranjera en Codelco",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/quiroz-reconoce-que-chile-esta-en-recesion-y-abre-la-puerta-a-inversion/2026-11-11/103033.html",
+      "texto": "¿Qué significa que Chile esté en recesión técnica?",
+      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/que-significa-que-chile-este-en-recesion-tecnica/2026-11-11/163718.html",
       "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T13:30:33+00:00"
+      "fechaISO": "2026-11-11T19:37:18+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena sufre una caída de última hora, mientras Wall Street sube con el impulso de CoreWeave y sus perspectivas sobre la IA",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-986fe",
+      "texto": "Presupuesto: Hacienda se abre a reponer en el Senado los recursos para el programa “Yo Elijo mi PC”",
+      "link": "http://www.df.cl/economia-y-politica/macro/presupuesto-2027-quiroz-se-abre-a-un-acuerdo-en-el-senado-para-reponer-los",
       "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T19:35:42+00:00"
+      "fechaISO": "2026-11-11T23:21:41+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Codelco y Grupo Adani firman acuerdo para avanzar en alianza de exploración para el proyecto de cobre Kaburkaala en Chile",
-      "link": "http://www.df.cl/empresas/mineria/codelco-y-grupo-adani-firman-acuerdo-para-avanzar-en-alianza-de-exploracion",
+      "texto": "Tribunal Constitucional declara admisible requerimiento de diputados contra cambios a la OGUC",
+      "link": "http://www.df.cl/empresas/construccion/tribunal-constitucional-declara-admisible-requerimiento-de-diputados-contra",
       "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T19:47:57+00:00"
+      "fechaISO": "2026-11-11T23:19:53+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Dólar borra alza y cierra estable en Chile mientras la divisa alcanza máximos desde abril de 2025 en los mercados globales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kyrj4",
+      "texto": "Kast viaja con amplia comitiva empresarial a China, Vietnam y Japón en busca de nuevas oportunidades comerciales",
+      "link": "http://www.df.cl/economia-y-politica/politica/kast-viaja-con-frei-y-amplia-comitiva-empresarial-a-la-apec-en-china",
       "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T19:14:38+00:00"
+      "fechaISO": "2026-11-11T22:12:59+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Fondo Renta CLP de Moneda Patria levanta US$ 54 millones en nueva inyección de capital y supera los US$ 1.100 millones en patrimonio",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/fondo-renta-clp-de-moneda-patria-levanta-us-54-millones-en-nueva-inyeccion",
+      "texto": "Grupo transversal de senadores se reúne con camioneros de la Quinta Región y se compromete a abogar por ellos ante el Ejecutivo",
+      "link": "http://www.df.cl/economia-y-politica/congreso/grupo-transversal-de-senadores-se-reune-con-camioneros-de-la-quinta-region",
       "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T19:10:16+00:00"
+      "fechaISO": "2026-11-11T22:18:27+00:00"
     }
   ]
 }
