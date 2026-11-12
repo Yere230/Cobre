@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T23:23:11.166702+00:00",
+  "actualizado": "2026-11-12T01:56:55.261450+00:00",
   "macro": {
     "dolar": 977.0,
     "uf": 41309.19,
@@ -89,7 +89,7 @@
       "precio": 890.0,
       "anterior": 904.0,
       "alto52": 1501.1,
-      "bajo52": 884.0
+      "bajo52": 881.0
     },
     "COPEC": {
       "precio": 6250.0,
@@ -112,7 +112,7 @@
     "ECL": {
       "precio": 1950.0,
       "anterior": 2002.0,
-      "alto52": 2051.1,
+      "alto52": 2098.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
@@ -215,7 +215,7 @@
       "precio": 1541.7,
       "anterior": 1600.0,
       "alto52": 2510.0,
-      "bajo52": 1541.7
+      "bajo52": 1525.0
     },
     "HITES": {
       "precio": 126.0,
@@ -299,7 +299,7 @@
       "precio": 1310.1,
       "anterior": 1426.0,
       "alto52": 2278.8,
-      "bajo52": 1310.3
+      "bajo52": 1322.4
     },
     "BICE": {
       "precio": 440.0,
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Gobierno retrotraerá el alza de este jueves y congelará precios de las bencinas hasta febrero",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gobierno-retrotraera-el-alza-de-este-jueves-y-congelara-precios-de-las/2026-11-11/215316.html",
+      "fecha": "Wed, 11 Nov 2026",
+      "fechaISO": "2026-11-12T00:53:16+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Programa Emerge de Anglo American cumplió 20 años",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/programa-emerge-de-anglo-american-cumplio-20-anos/2026-11-11/173859.html",
       "fecha": "Wed, 11 Nov 2026",
@@ -417,11 +424,11 @@
       "fechaISO": "2026-11-11T19:40:10+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "¿Qué significa que Chile esté en recesión técnica?",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/que-significa-que-chile-este-en-recesion-tecnica/2026-11-11/163718.html",
-      "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T19:37:18+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Camioneros mantienen paro pese a que el gobierno ofrece congelar combustibles hasta febrero",
+      "link": "http://www.df.cl/economia-y-politica/pais/sigue-el-paro-de-camioneros-gobierno-y-transportistas-no-logran-acuerdo",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T01:21:28+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -435,7 +442,7 @@
       "texto": "Tribunal Constitucional declara admisible requerimiento de diputados contra cambios a la OGUC",
       "link": "http://www.df.cl/empresas/construccion/tribunal-constitucional-declara-admisible-requerimiento-de-diputados-contra",
       "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T23:19:53+00:00"
+      "fechaISO": "2026-11-11T23:41:02+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -443,13 +450,6 @@
       "link": "http://www.df.cl/economia-y-politica/politica/kast-viaja-con-frei-y-amplia-comitiva-empresarial-a-la-apec-en-china",
       "fecha": "Wed, 11 Nov 2026",
       "fechaISO": "2026-11-11T22:12:59+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Grupo transversal de senadores se reúne con camioneros de la Quinta Región y se compromete a abogar por ellos ante el Ejecutivo",
-      "link": "http://www.df.cl/economia-y-politica/congreso/grupo-transversal-de-senadores-se-reune-con-camioneros-de-la-quinta-region",
-      "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T22:18:27+00:00"
     }
   ]
 }
