@@ -1,233 +1,228 @@
 {
-  "actualizado": "2026-11-12T01:56:55.261450+00:00",
-  "macro": {
-    "dolar": 977.0,
-    "uf": 41309.19,
-    "utm": 72440,
-    "cobre": 6.38
-  },
+  "actualizado": "2026-11-12T20:30:46.113462+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 330.1,
-      "anterior": 332.3,
+      "precio": 330.0,
+      "anterior": 322.0,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 194.4,
-      "anterior": 191.98,
+      "precio": 193.03,
+      "anterior": 189.69,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 61100.0,
-      "anterior": 62500.0,
+      "precio": 62300.0,
+      "anterior": 61000.0,
       "alto52": 68446.0,
       "bajo52": 48350.0
     },
     "ITAUCL": {
-      "precio": 22809.0,
-      "anterior": 22500.0,
+      "precio": 22710.0,
+      "anterior": 22350.0,
       "alto52": 25887.0,
       "bajo52": 16610.0
     },
     "BSANTANDER": {
-      "precio": 80.0,
-      "anterior": 80.25,
+      "precio": 80.05,
+      "anterior": 79.1,
       "alto52": 84.4,
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 3844.1,
-      "anterior": 4246.2,
+      "precio": 3637.0,
+      "anterior": 4069.0,
       "alto52": 8680.0,
-      "bajo52": 3802.1
+      "bajo52": 3637.0
     },
     "CENCOSUD": {
-      "precio": 1733.4,
-      "anterior": 1693.1,
+      "precio": 1776.1,
+      "anterior": 1619.9,
       "alto52": 3238.0,
       "bajo52": 1611.2
     },
     "CENCOMALLS": {
-      "precio": 2179.0,
-      "anterior": 2135.0,
+      "precio": 2221.0,
+      "anterior": 2125.0,
       "alto52": 2799.9,
       "bajo52": 2087.2
     },
     "COLBUN": {
-      "precio": 152.6,
-      "anterior": 151.1,
+      "precio": 153.99,
+      "anterior": 151.5,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5191.0,
-      "anterior": 5308.0,
+      "precio": 5385.0,
+      "anterior": 5272.1,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 48.0,
-      "anterior": 48.5,
+      "precio": 48.15,
+      "anterior": 46.8,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4700.0,
-      "anterior": 4718.0,
+      "precio": 4788.9,
+      "anterior": 4825.0,
       "alto52": 4969.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 4060.0,
-      "anterior": 4156.0,
+      "precio": 4500.0,
+      "anterior": 4100.0,
       "alto52": 5250.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 890.0,
-      "anterior": 904.0,
+      "precio": 900.0,
+      "anterior": 905.0,
       "alto52": 1501.1,
       "bajo52": 881.0
     },
     "COPEC": {
-      "precio": 6250.0,
-      "anterior": 6520.0,
+      "precio": 6280.0,
+      "anterior": 6340.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 81.95,
-      "anterior": 82.94,
+      "precio": 81.6,
+      "anterior": 81.5,
       "alto52": 93.39,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.5,
-      "anterior": 84.95,
+      "precio": 82.31,
+      "anterior": 83.4,
       "alto52": 88.4,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1950.0,
-      "anterior": 2002.0,
+      "precio": 2000.0,
+      "anterior": 2000.0,
       "alto52": 2098.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6580.0,
-      "anterior": 6560.0,
+      "precio": 6675.0,
+      "anterior": 6499.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 879.7,
-      "anterior": 883.73,
+      "precio": 888.62,
+      "anterior": 880.0,
       "alto52": 1150.0,
-      "bajo52": 850.0
+      "bajo52": 856.49
     },
     "ILC": {
-      "precio": 22875.0,
-      "anterior": 23610.0,
+      "precio": 22630.0,
+      "anterior": 23240.0,
       "alto52": 26000.0,
       "bajo52": 14800.0
     },
     "LTM": {
-      "precio": 24.25,
-      "anterior": 23.36,
+      "precio": 24.01,
+      "anterior": 22.95,
       "alto52": 30.0,
       "bajo52": 20.33
     },
     "PARAUCO": {
-      "precio": 3355.5,
-      "anterior": 3500.0,
+      "precio": 3499.9,
+      "anterior": 3350.1,
       "alto52": 4596.3,
       "bajo52": 2656.3
     },
     "MALLPLAZA": {
-      "precio": 3219.9,
-      "anterior": 3246.0,
+      "precio": 3278.5,
+      "anterior": 3199.9,
       "alto52": 4700.0,
       "bajo52": 2861.1
     },
     "QUINENCO": {
-      "precio": 4530.0,
-      "anterior": 4589.0,
+      "precio": 4500.0,
+      "anterior": 4570.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 429.9,
-      "anterior": 435.0,
+      "precio": 431.0,
+      "anterior": 432.99,
       "alto52": 484.34,
       "bajo52": 350.0
     },
     "SALFACORP": {
-      "precio": 1161.0,
-      "anterior": 1260.0,
+      "precio": 1115.0,
+      "anterior": 1200.0,
       "alto52": 1499.9,
-      "bajo52": 1100.0
+      "bajo52": 1070.0
     },
     "SMU": {
-      "precio": 101.0,
-      "anterior": 105.0,
+      "precio": 99.4,
+      "anterior": 102.4,
       "alto52": 166.5,
-      "bajo52": 95.0
+      "bajo52": 98.0
     },
     "SQM-B": {
-      "precio": 53500.0,
-      "anterior": 55775.0,
+      "precio": 54100.0,
+      "anterior": 55320.0,
       "alto52": 86900.0,
       "bajo52": 47600.0
     },
     "CONCHATORO": {
-      "precio": 845.0,
-      "anterior": 864.5,
-      "alto52": 1095.0,
+      "precio": 858.99,
+      "anterior": 855.0,
+      "alto52": 1088.6,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7089.9,
-      "anterior": 7071.0,
+      "precio": 7052.0,
+      "anterior": 7098.0,
       "alto52": 9000.0,
-      "bajo52": 7052.0
+      "bajo52": 7043.9
     },
     "ALMENDRAL": {
-      "precio": 24.4,
-      "anterior": 24.1,
+      "precio": 26.0,
+      "anterior": 24.4,
       "alto52": 34.0,
       "bajo52": 23.29
     },
     "CAMANCHACA": {
-      "precio": 91.51,
-      "anterior": 91.0,
+      "precio": 91.31,
+      "anterior": 89.83,
       "alto52": 96.88,
-      "bajo52": 63.71
+      "bajo52": 64.03
     },
     "ENAEX": {
-      "precio": 25850.0,
+      "precio": 26053.0,
       "anterior": 25500.0,
-      "alto52": 25871.0,
+      "alto52": 26053.0,
       "bajo52": 21867.0
     },
     "FORUS": {
       "precio": 1541.7,
-      "anterior": 1600.0,
+      "anterior": 1570.0,
       "alto52": 2510.0,
       "bajo52": 1525.0
     },
     "HITES": {
       "precio": 126.0,
       "anterior": 127.06,
-      "alto52": 146.09,
+      "alto52": 144.8,
       "bajo52": 105.13
     },
     "INGEVEC": {
       "precio": 209.65,
       "anterior": 211.74,
       "alto52": 227.0,
-      "bajo52": 136.0
+      "bajo52": 140.0
     },
     "MASISA": {
       "precio": 5.54,
@@ -237,33 +232,33 @@
     },
     "PAZ": {
       "precio": 1040.0,
-      "anterior": 1046.2,
+      "anterior": 1015.2,
       "alto52": 1120.9,
       "bajo52": 790.05
     },
     "SOCOVESA": {
       "precio": 160.0,
-      "anterior": 158.5,
-      "alto52": 185.29,
+      "anterior": 155.0,
+      "alto52": 183.5,
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1571.0,
-      "anterior": 1553.2,
+      "precio": 1574.8,
+      "anterior": 1536.8,
       "alto52": 1875.0,
       "bajo52": 1404.2
     },
     "SONDA": {
-      "precio": 262.0,
-      "anterior": 270.0,
+      "precio": 266.97,
+      "anterior": 265.0,
       "alto52": 374.0,
       "bajo52": 251.75
     },
     "EMBONOR-B": {
-      "precio": 1798.2,
-      "anterior": 1780.0,
+      "precio": 1813.0,
+      "anterior": 1784.5,
       "alto52": 2050.0,
-      "bajo52": 1366.1
+      "bajo52": 1371.0
     },
     "CRISTALES": {
       "precio": 1998.0,
@@ -273,7 +268,7 @@
     },
     "WATTS": {
       "precio": 599.15,
-      "anterior": 636.0,
+      "anterior": 617.61,
       "alto52": 820.0,
       "bajo52": 599.15
     },
@@ -284,10 +279,10 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 86.68,
-      "anterior": 91.6,
+      "precio": 84.98,
+      "anterior": 89.52,
       "alto52": 155.0,
-      "bajo52": 86.68
+      "bajo52": 84.98
     },
     "BLUMAR": {
       "precio": 369.0,
@@ -296,37 +291,37 @@
       "bajo52": 222.0
     },
     "INVERCAP": {
-      "precio": 1310.1,
-      "anterior": 1426.0,
+      "precio": 1298.0,
+      "anterior": 1418.2,
       "alto52": 2278.8,
-      "bajo52": 1322.4
+      "bajo52": 1298.0
     },
     "BICE": {
-      "precio": 440.0,
-      "anterior": 427.1,
+      "precio": 440.27,
+      "anterior": 430.17,
       "alto52": 450.0,
-      "bajo52": 339.35
+      "bajo52": 352.05
     },
     "HABITAT": {
-      "precio": 1276.9,
-      "anterior": 1267.4,
+      "precio": 1284.0,
+      "anterior": 1283.8,
       "alto52": 1600.0,
       "bajo52": 1251.0
     },
     "CFMITNIPSA": {
-      "precio": 4874.7,
-      "anterior": 4860.1,
+      "precio": 4885.6,
+      "anterior": 4815.6,
       "alto52": 5588.4,
       "bajo52": 4600.0
     },
     "CFINRENTAS": {
-      "precio": 2121.01,
+      "precio": 2108.82,
       "anterior": 2183.56,
       "alto52": 2340.0,
       "bajo52": 1775.0
     },
     "CFIBTGRCA": {
-      "precio": 20651.24,
+      "precio": 20700.0,
       "anterior": 20599.18,
       "alto52": 27090.0,
       "bajo52": 20400.0
@@ -369,6 +364,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Caso presunta espía china: junta directiva de Nvidia evalúa destituir a Jensen Huang",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/caso-presunta-espia-china-junta-directiva-de-nvidia-evalua-destituir-a/2026-11-12/003232.html",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T03:32:32+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Félix de Vicente retiró candidatura a la CPC tras polémicos dichos por rebajas de condena a pedófilos",
       "link": "https://www.cooperativa.cl/noticias/economia/empresas/felix-de-vicente-retiro-candidatura-a-la-cpc-tras-polemicos-dichos-por/2026-11-06/145951.html",
       "fecha": "Fri, 06 Nov 2026",
@@ -389,67 +391,60 @@
       "fechaISO": "2026-11-04T12:54:45+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "\"No fue suerte\": libro reúne historias reales de éxito en el emprendimiento chileno",
-      "link": "https://www.cooperativa.cl/noticias/economia/empresas/no-fue-suerte-libro-reune-historias-reales-de-exito-en-el/2026-11-03/164750.html",
-      "fecha": "Tue, 03 Nov 2026",
-      "fechaISO": "2026-11-03T19:47:50+00:00"
-    },
-    {
       "fuente": "Cooperativa · Economía",
-      "texto": "Gobierno retrotraerá el alza de este jueves y congelará precios de las bencinas hasta febrero",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gobierno-retrotraera-el-alza-de-este-jueves-y-congelara-precios-de-las/2026-11-11/215316.html",
-      "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-12T00:53:16+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Programa Emerge de Anglo American cumplió 20 años",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/programa-emerge-de-anglo-american-cumplio-20-anos/2026-11-11/173859.html",
-      "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T20:38:59+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "En medio del paro: gasolinas y diésel suben 39 y 42 pesos por litro este jueves",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/en-medio-del-paro-gasolinas-y-diesel-suben-39-y-42-pesos-por-litro-este/2026-11-11/170328.html",
-      "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T20:03:28+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Ministro criticó el paro de camioneros: Es un sector que ha tenido tratamiento privilegiado",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/ministro-critico-el-paro-de-camioneros-es-un-sector-que-ha-tenido/2026-11-11/164010.html",
-      "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T19:40:10+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Camioneros mantienen paro pese a que el gobierno ofrece congelar combustibles hasta febrero",
-      "link": "http://www.df.cl/economia-y-politica/pais/sigue-el-paro-de-camioneros-gobierno-y-transportistas-no-logran-acuerdo",
+      "texto": "AFP Uno propone al Gobierno cambio en el retiro programado para elevar las pensiones cerca de un 7%",
+      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/afp-uno-propone-al-gobierno-cambio-en-el-retiro-programado-para-elevar/2026-11-12/164423.html",
       "fecha": "Thu, 12 Nov 2026",
-      "fechaISO": "2026-11-12T01:21:28+00:00"
+      "fechaISO": "2026-11-12T19:44:23+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Oposición levantó veto al jefe de la Dipres en la Cámara",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/oposicion-levanto-veto-al-jefe-de-la-dipres-en-la-camara/2026-11-12/162201.html",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T19:22:01+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Paro de camioneros complica la exportación de cerezas y el transporte interurbano",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/paro-de-camioneros-complica-la-exportacion-de-cerezas-y-el-transporte/2026-11-12/145927.html",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T17:59:27+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Tesorería demandó por $149 millones a agrícola fundada por jefe del Segundo Piso",
+      "link": "https://www.cooperativa.cl/noticias/pais/organismos-del-estado/tesoreria-demando-por-149-millones-a-agricola-fundada-por-jefe-del/2026-11-12/150610.html",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T18:06:10+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Presupuesto: Hacienda se abre a reponer en el Senado los recursos para el programa “Yo Elijo mi PC”",
-      "link": "http://www.df.cl/economia-y-politica/macro/presupuesto-2027-quiroz-se-abre-a-un-acuerdo-en-el-senado-para-reponer-los",
-      "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T23:21:41+00:00"
+      "texto": "Nvidia enfrentará su primera prueba sin Huang: las cifras que espera Wall Street para recuperar la confianza",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/nvidia-enfrentara-su-primera-prueba-sin-huang-las-cifras-que-espera-wall",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T20:30:19+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Tribunal Constitucional declara admisible requerimiento de diputados contra cambios a la OGUC",
-      "link": "http://www.df.cl/empresas/construccion/tribunal-constitucional-declara-admisible-requerimiento-de-diputados-contra",
-      "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T23:41:02+00:00"
+      "texto": "Entel se dispara casi 11% en bolsa y lidera las alzas del IPSA por inicio de proceso para venta de operación en Perú",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/entel-se-dispara-mas-de-7-en-bolsa-y-lidera-las-alzas-del-ipsa-por-inicio",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T19:34:47+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Kast viaja con amplia comitiva empresarial a China, Vietnam y Japón en busca de nuevas oportunidades comerciales",
-      "link": "http://www.df.cl/economia-y-politica/politica/kast-viaja-con-frei-y-amplia-comitiva-empresarial-a-la-apec-en-china",
-      "fecha": "Wed, 11 Nov 2026",
-      "fechaISO": "2026-11-11T22:12:59+00:00"
+      "texto": "KPMG Chile ficha a dos expertos de la industria minera y refuerza su área de consultoría",
+      "link": "http://www.df.cl/mercados/banca-fintech/kpmg-chile-ficha-a-dos-expertos-de-la-industria-minera-y-refuerza-su-area",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T19:50:20+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "IPSA supera los 10.600 puntos al cierre mientras Wall Street sufre presión por el desplome de Nvidia tras la renuncia de su CEO",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-mbvul",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T19:37:13+00:00"
     }
   ]
 }
