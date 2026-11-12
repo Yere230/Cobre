@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-12T20:30:46.113462+00:00",
-  "macro": {},
+  "actualizado": "2026-11-12T22:39:45.783099+00:00",
+  "macro": {
+    "dolar": 984.5,
+    "uf": 41316.06,
+    "utm": 72440,
+    "cobre": 6.26
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 330.0,
@@ -392,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "¿Cómo puede la economía circular frenar las pérdidas hortícolas en la agricultura chilena?",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/como-puede-la-economia-circular-frenar-las-perdidas-horticolas-en-la/2026-11-12/171249.html",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T20:12:49+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "AFP Uno propone al Gobierno cambio en el retiro programado para elevar las pensiones cerca de un 7%",
       "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/afp-uno-propone-al-gobierno-cambio-en-el-retiro-programado-para-elevar/2026-11-12/164423.html",
       "fecha": "Thu, 12 Nov 2026",
@@ -412,39 +424,32 @@
       "fechaISO": "2026-11-12T17:59:27+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Tesorería demandó por $149 millones a agrícola fundada por jefe del Segundo Piso",
-      "link": "https://www.cooperativa.cl/noticias/pais/organismos-del-estado/tesoreria-demando-por-149-millones-a-agricola-fundada-por-jefe-del/2026-11-12/150610.html",
+      "fuente": "Diario Financiero",
+      "texto": "Cámara Nacional de Comercio advierte sobre creciente riesgo para las cadenas de abastecimiento a medida que se prolonga el paro de camiones",
+      "link": "http://www.df.cl/regiones/la-araucania/desde-talcahuano-a-la-araucania-18-camiones-transportan-combustible-para",
       "fecha": "Thu, 12 Nov 2026",
-      "fechaISO": "2026-11-12T18:06:10+00:00"
+      "fechaISO": "2026-11-12T22:24:17+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Nvidia enfrentará su primera prueba sin Huang: las cifras que espera Wall Street para recuperar la confianza",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/nvidia-enfrentara-su-primera-prueba-sin-huang-las-cifras-que-espera-wall",
+      "texto": "Grandes gremios del transporte de carga CNDC y CNTC llegan a acuerdo con el gobierno por precios del diésel",
+      "link": "http://www.df.cl/economia-y-politica/pais/grandes-gremios-del-transporte-de-carga-cndc-y-cntc-llegan-a-acuerdo-con-el",
       "fecha": "Thu, 12 Nov 2026",
-      "fechaISO": "2026-11-12T20:30:19+00:00"
+      "fechaISO": "2026-11-12T22:12:06+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Entel se dispara casi 11% en bolsa y lidera las alzas del IPSA por inicio de proceso para venta de operación en Perú",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/entel-se-dispara-mas-de-7-en-bolsa-y-lidera-las-alzas-del-ipsa-por-inicio",
+      "texto": "Millicom va por Entel Perú: telco chilena confirma oferta no vinculante por su filial peruana",
+      "link": "http://www.df.cl/empresas/industria/millicom-va-por-entel-peru-telco-chilena-confirma-oferta-no-vinculante-por",
       "fecha": "Thu, 12 Nov 2026",
-      "fechaISO": "2026-11-12T19:34:47+00:00"
+      "fechaISO": "2026-11-12T21:27:50+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "KPMG Chile ficha a dos expertos de la industria minera y refuerza su área de consultoría",
-      "link": "http://www.df.cl/mercados/banca-fintech/kpmg-chile-ficha-a-dos-expertos-de-la-industria-minera-y-refuerza-su-area",
-      "fecha": "Thu, 12 Nov 2026",
-      "fechaISO": "2026-11-12T19:50:20+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA supera los 10.600 puntos al cierre mientras Wall Street sufre presión por el desplome de Nvidia tras la renuncia de su CEO",
+      "texto": "Bolsa chilena supera los 10.600 puntos, mientras que Wall Street cierra a la baja tras la renuncia del CEO de Nvidia",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-mbvul",
       "fecha": "Thu, 12 Nov 2026",
-      "fechaISO": "2026-11-12T19:37:13+00:00"
+      "fechaISO": "2026-11-12T21:05:49+00:00"
     }
   ]
 }
