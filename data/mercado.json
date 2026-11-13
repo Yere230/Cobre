@@ -1,11 +1,6 @@
 {
-  "actualizado": "2026-11-12T22:39:45.783099+00:00",
-  "macro": {
-    "dolar": 984.5,
-    "uf": 41316.06,
-    "utm": 72440,
-    "cobre": 6.26
-  },
+  "actualizado": "2026-11-13T01:15:24.564731+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
       "precio": 330.0,
@@ -425,6 +420,20 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Se acabó la espera: oposición presentó la acusación constitucional contra el ministro Rabat",
+      "link": "http://www.df.cl/economia-y-politica/congreso/se-acabo-la-espera-oposicion-presento-la-acusacion-constitucional-contras",
+      "fecha": "Thu, 12 Nov 2026",
+      "fechaISO": "2026-11-12T23:53:25+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Acuerdo total: propuesta del gobierno es aprobada por todas las asociaciones de camioneros y se levanta el paro",
+      "link": "http://www.df.cl/economia-y-politica/pais/grandes-gremios-del-transporte-de-carga-cndc-y-cntc-llegan-a-acuerdo-con-el",
+      "fecha": "Fri, 13 Nov 2026",
+      "fechaISO": "2026-11-13T00:28:41+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Cámara Nacional de Comercio advierte sobre creciente riesgo para las cadenas de abastecimiento a medida que se prolonga el paro de camiones",
       "link": "http://www.df.cl/regiones/la-araucania/desde-talcahuano-a-la-araucania-18-camiones-transportan-combustible-para",
       "fecha": "Thu, 12 Nov 2026",
@@ -432,24 +441,10 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Grandes gremios del transporte de carga CNDC y CNTC llegan a acuerdo con el gobierno por precios del diésel",
-      "link": "http://www.df.cl/economia-y-politica/pais/grandes-gremios-del-transporte-de-carga-cndc-y-cntc-llegan-a-acuerdo-con-el",
-      "fecha": "Thu, 12 Nov 2026",
-      "fechaISO": "2026-11-12T22:12:06+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
       "texto": "Millicom va por Entel Perú: telco chilena confirma oferta no vinculante por su filial peruana",
       "link": "http://www.df.cl/empresas/industria/millicom-va-por-entel-peru-telco-chilena-confirma-oferta-no-vinculante-por",
       "fecha": "Thu, 12 Nov 2026",
       "fechaISO": "2026-11-12T21:27:50+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena supera los 10.600 puntos, mientras que Wall Street cierra a la baja tras la renuncia del CEO de Nvidia",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-mbvul",
-      "fecha": "Thu, 12 Nov 2026",
-      "fechaISO": "2026-11-12T21:05:49+00:00"
     }
   ]
 }
