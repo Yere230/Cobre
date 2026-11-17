@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T00:42:03.897602+00:00",
+  "actualizado": "2026-11-17T03:00:22.344492+00:00",
   "macro": {
     "dolar": 999.1,
     "uf": 41343.55,
@@ -171,25 +171,25 @@
     },
     "SMU": {
       "precio": 98.5,
-      "anterior": 103.5,
+      "anterior": 104.98,
       "alto52": 166.5,
       "bajo52": 95.0
     },
     "SQM-B": {
       "precio": 51300.0,
-      "anterior": 54795.0,
+      "anterior": 56400.0,
       "alto52": 86900.0,
       "bajo52": 51111.0
     },
     "CONCHATORO": {
       "precio": 849.98,
-      "anterior": 864.0,
+      "anterior": 860.0,
       "alto52": 1083.8,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
       "precio": 7010.7,
-      "anterior": 7191.4,
+      "anterior": 7122.0,
       "alto52": 9000.0,
       "bajo52": 7000.0
     },
@@ -207,7 +207,7 @@
     },
     "ENAEX": {
       "precio": 26053.0,
-      "anterior": 25800.0,
+      "anterior": 25500.0,
       "alto52": 26053.0,
       "bajo52": 21867.0
     },
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Congreso despachó el tiempo récord ley para rebajar precios de combustibles",
+      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/congreso-despacho-el-tiempo-record-ley-para-rebajar-precios-de/2026-11-16/222912.html",
+      "fecha": "Mon, 16 Nov 2026",
+      "fechaISO": "2026-11-17T01:29:12+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Nvidia: Premio Nacional de Ciencias Aplicadas apunta a maniobra para frenar acceso chino a chips de IA",
       "link": "https://www.cooperativa.cl/noticias/economia/empresas/tecnologia/nvidia-premio-nacional-de-ciencias-aplicadas-apunta-a-maniobra-para/2026-11-16/190756.html",
       "fecha": "Mon, 16 Nov 2026",
@@ -417,11 +424,11 @@
       "fechaISO": "2026-11-16T21:36:02+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "CChC redujo su proyección de inversión total en construcción para 2026",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/construccion/cchc-redujo-su-proyeccion-de-inversion-total-en-construccion-para-2026/2026-11-16/142124.html",
-      "fecha": "Mon, 16 Nov 2026",
-      "fechaISO": "2026-11-16T17:21:24+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "El congelamiento de las alzas de los combustibles será realidad: Congreso despacha a ley la norma tras acuerdo entre el gobierno y los camioneros",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/costara-al-fisco-us-820-millones-hacienda-ingresa-al-congreso-indicacion",
+      "fecha": "Tue, 17 Nov 2026",
+      "fechaISO": "2026-11-17T01:18:06+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -443,13 +450,6 @@
       "link": "http://www.df.cl/economia-y-politica/laboral-personas/parten-las-negociaciones-entre-la-cut-y-el-gobierno-por-reajuste-del-sector",
       "fecha": "Mon, 16 Nov 2026",
       "fechaISO": "2026-11-16T23:25:18+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Argentina mira a Chile para desarrollar millonarios proyectos de cobre y mineras exploran alianzas",
-      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/argentina-mira-a-chile-para-desarrollar-millonarios-proyectos-de-cobre-y",
-      "fecha": "Mon, 16 Nov 2026",
-      "fechaISO": "2026-11-16T21:11:07+00:00"
     }
   ]
 }
