@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-17T21:25:03.815460+00:00",
-  "macro": {},
+  "actualizado": "2026-11-17T23:47:34.010365+00:00",
+  "macro": {
+    "dolar": 1001.2,
+    "uf": 41350.42,
+    "utm": 72440,
+    "cobre": 6.11
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 324.9,
@@ -36,7 +41,7 @@
       "precio": 3451.0,
       "anterior": 3867.5,
       "alto52": 8680.0,
-      "bajo52": 3396.9
+      "bajo52": 3402.1
     },
     "CENCOSUD": {
       "precio": 1745.0,
@@ -420,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "La doble alerta del IEF del Banco Central: tasas globales en alza y hogares y empresas bajo presión",
+      "link": "http://www.df.cl/mercados/renta-fija/ief-aborda-el-riesgo-de-nuevas-alzas-de-tasas-en-eeuu-y-su-impacto-en-chile",
+      "fecha": "Tue, 17 Nov 2026",
+      "fechaISO": "2026-11-17T23:31:45+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Nvidia desafía su crisis de liderazgo: duplica ventas y supera previsiones de Wall Street tras salida de Huang",
+      "link": "http://www.df.cl/empresas/multinacionales/nvidia-desafia-su-crisis-de-liderazgo-duplica-ventas-y-supera-previsiones",
+      "fecha": "Tue, 17 Nov 2026",
+      "fechaISO": "2026-11-17T22:49:31+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Arauco confirma venta de activos forestales por US$ 470 millones en el Maule",
+      "link": "http://www.df.cl/empresas/industria/arauco-acuerda-venta-de-activos-forestales-por-us-470-millones-en-el-maule",
+      "fecha": "Tue, 17 Nov 2026",
+      "fechaISO": "2026-11-17T21:40:00+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Wall Street cierra en rojo y el S&P 500 queda en mínimos desde julio con todas las miradas puestas en los resultados de Nvidia",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-vmrcr",
       "fecha": "Tue, 17 Nov 2026",
-      "fechaISO": "2026-11-17T21:16:23+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Ripley eleva sus ganancias trimestrales apoyada en la banca y Perú, pese al retroceso del retail chileno",
-      "link": "http://www.df.cl/empresas/resultados-de-empresas/ripley-eleva-sus-ganancias-trimestrales-apoyada-en-la-banca-y-peru-pese-al",
-      "fecha": "Tue, 17 Nov 2026",
-      "fechaISO": "2026-11-17T20:42:20+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "$ 507 millones en clientes y $ 620 en indemnización: lo que obtuvo el abogado Claudio Lizana en su arbitraje con Carey",
-      "link": "http://www.df.cl/empresas/entre-codigos/507-millones-en-clientes-y-620-en-indemnizacion-lo-que-obtuvo-el",
-      "fecha": "Tue, 17 Nov 2026",
-      "fechaISO": "2026-11-17T21:14:34+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Avanza proyecto de sala cuna universal y este miércoles lo votará la Sala de la Cámara de Diputados",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/avanza-proyecto-de-sala-cuna-universal-y-este-miercoles-se-votara-la-sala",
-      "fecha": "Tue, 17 Nov 2026",
-      "fechaISO": "2026-11-17T20:06:12+00:00"
+      "fechaISO": "2026-11-17T21:27:49+00:00"
     }
   ]
 }
