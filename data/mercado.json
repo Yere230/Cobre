@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-16T22:35:53.541208+00:00",
-  "macro": {},
+  "actualizado": "2026-11-17T00:42:03.897602+00:00",
+  "macro": {
+    "dolar": 999.1,
+    "uf": 41343.55,
+    "utm": 72440,
+    "cobre": 6.19
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 324.2,
@@ -364,6 +369,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Nvidia: Premio Nacional de Ciencias Aplicadas apunta a maniobra para frenar acceso chino a chips de IA",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/tecnologia/nvidia-premio-nacional-de-ciencias-aplicadas-apunta-a-maniobra-para/2026-11-16/190756.html",
+      "fecha": "Mon, 16 Nov 2026",
+      "fechaISO": "2026-11-16T22:07:56+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "La Casa Blanca atribuyó caos aéreo en EE.UU. a un sistema obsoleto: \"Va a seguir fallando\"",
       "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/la-casa-blanca-atribuyo-caos-aereo-en-ee-uu-a-un-sistema-obsoleto-va/2026-11-14/004126.html",
       "fecha": "Sat, 14 Nov 2026",
@@ -384,11 +396,11 @@
       "fechaISO": "2026-11-14T00:41:01+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "CENIA: Los trabajadores usan la IA, pero las empresas no la adoptan y no hay impacto productivo",
-      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/cenia-los-trabajadores-usan-la-ia-pero-las-empresas-no-la-adoptan-y-no/2026-11-13/194827.html",
-      "fecha": "Fri, 13 Nov 2026",
-      "fechaISO": "2026-11-13T22:48:27+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Nvidia: Premio Nacional de Ciencias Aplicadas apunta a maniobra para frenar acceso chino a chips de IA",
+      "link": "https://www.cooperativa.cl/noticias/economia/empresas/tecnologia/nvidia-premio-nacional-de-ciencias-aplicadas-apunta-a-maniobra-para/2026-11-16/190756.html",
+      "fecha": "Mon, 16 Nov 2026",
+      "fechaISO": "2026-11-16T22:07:56+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -412,11 +424,11 @@
       "fechaISO": "2026-11-16T17:21:24+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Analista internacional: Xi Jinping podría ganar más en cita con Trump y Putin",
-      "link": "https://www.cooperativa.cl/noticias/economia/foros-internacionales/apec/analista-internacional-xi-jinping-podria-ganar-mas-en-cita-con-trump-y/2026-11-16/131510.html",
+      "fuente": "Diario Financiero",
+      "texto": "FNE archiva investigación de ocho años contra CMPC y Arauco por prácticas anticompetitivas",
+      "link": "http://www.df.cl/empresas/industria/fne-archiva-investigacion-de-ocho-anos-contra-cmpc-y-arauco-por-practicas",
       "fecha": "Mon, 16 Nov 2026",
-      "fechaISO": "2026-11-16T16:15:10+00:00"
+      "fechaISO": "2026-11-16T23:36:58+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -430,7 +442,7 @@
       "texto": "Parten las negociaciones entre funcionarios públicos y el gobierno por reajuste: solicitan aumento de 6,3% en los salarios",
       "link": "http://www.df.cl/economia-y-politica/laboral-personas/parten-las-negociaciones-entre-la-cut-y-el-gobierno-por-reajuste-del-sector",
       "fecha": "Mon, 16 Nov 2026",
-      "fechaISO": "2026-11-16T21:54:11+00:00"
+      "fechaISO": "2026-11-16T23:25:18+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -438,13 +450,6 @@
       "link": "http://www.df.cl/economia-y-politica/comercio-exterior/argentina-mira-a-chile-para-desarrollar-millonarios-proyectos-de-cobre-y",
       "fecha": "Mon, 16 Nov 2026",
       "fechaISO": "2026-11-16T21:11:07+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bolsa chilena cierra con fuerte caída a cerca de 10.500 puntos mientras la inquietud sobre la IA repercute en los mercados globales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-eumxy",
-      "fecha": "Mon, 16 Nov 2026",
-      "fechaISO": "2026-11-16T21:07:10+00:00"
     }
   ]
 }
