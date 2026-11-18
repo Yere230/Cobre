@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T23:47:34.010365+00:00",
+  "actualizado": "2026-11-18T02:29:26.067660+00:00",
   "macro": {
     "dolar": 1001.2,
     "uf": 41350.42,
@@ -215,7 +215,7 @@
       "precio": 1515.0,
       "anterior": 1539.4,
       "alto52": 2510.0,
-      "bajo52": 1515.0
+      "bajo52": 1500.0
     },
     "HITES": {
       "precio": 124.0,
@@ -233,7 +233,7 @@
       "precio": 5.54,
       "anterior": 5.88,
       "alto52": 20.04,
-      "bajo52": 5.44
+      "bajo52": 5.19
     },
     "PAZ": {
       "precio": 1040.0,
@@ -269,7 +269,7 @@
       "precio": 1998.0,
       "anterior": 1998.0,
       "alto52": 2790.0,
-      "bajo52": 1998.0
+      "bajo52": 1900.0
     },
     "WATTS": {
       "precio": 574.84,
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Mayores de 65 años: ¿Cómo hacer el trámite para pedir exención de pago de contribuciones?",
+      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/mayores-de-65-anos-como-hacer-el-tramite-para-pedir-exencion-de-pago/2026-11-17/191311.html",
+      "fecha": "Tue, 17 Nov 2026",
+      "fechaISO": "2026-11-17T22:13:11+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Fue publicada en el Diario Oficial la ley que rebaja los precios de combustibles",
       "link": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/fue-publicada-en-el-diario-oficial-la-ley-que-rebaja-los-precios-de/2026-11-17/171139.html",
       "fecha": "Tue, 17 Nov 2026",
@@ -417,18 +424,18 @@
       "fechaISO": "2026-11-17T17:19:36+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Senado inició debate del Presupuesto con una disputa sobre recursos para pensiones",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/senado-inicio-debate-del-presupuesto-con-una-disputa-sobre-recursos-para/2026-11-17/144302.html",
-      "fecha": "Tue, 17 Nov 2026",
-      "fechaISO": "2026-11-17T17:43:02+00:00"
-    },
-    {
       "fuente": "Diario Financiero",
       "texto": "La doble alerta del IEF del Banco Central: tasas globales en alza y hogares y empresas bajo presión",
       "link": "http://www.df.cl/mercados/renta-fija/ief-aborda-el-riesgo-de-nuevas-alzas-de-tasas-en-eeuu-y-su-impacto-en-chile",
       "fecha": "Tue, 17 Nov 2026",
       "fechaISO": "2026-11-17T23:31:45+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Utilidad de SQM sube 288% a septiembre por buenos precios del litio",
+      "link": "http://www.df.cl/empresas/mineria/utilidad-de-sqm-sube-288-a-septiembre-por-buenos-precios-del-litio",
+      "fecha": "Wed, 18 Nov 2026",
+      "fechaISO": "2026-11-18T00:28:19+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -443,13 +450,6 @@
       "link": "http://www.df.cl/empresas/industria/arauco-acuerda-venta-de-activos-forestales-por-us-470-millones-en-el-maule",
       "fecha": "Tue, 17 Nov 2026",
       "fechaISO": "2026-11-17T21:40:00+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Wall Street cierra en rojo y el S&P 500 queda en mínimos desde julio con todas las miradas puestas en los resultados de Nvidia",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-vmrcr",
-      "fecha": "Tue, 17 Nov 2026",
-      "fechaISO": "2026-11-17T21:27:49+00:00"
     }
   ]
 }
