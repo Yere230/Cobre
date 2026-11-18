@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-18T20:57:04.846179+00:00",
-  "macro": {},
+  "actualizado": "2026-11-18T23:19:05.605269+00:00",
+  "macro": {
+    "dolar": 996.7,
+    "uf": 41357.3,
+    "utm": 72440,
+    "cobre": 6.02
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 324.9,
@@ -420,31 +425,31 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Bolsa de Santiago cierra con fuerte caída por debajo de 10.400 puntos presionada por los resultados y previsiones de SQM",
+      "texto": "Unicornio mexicano Kavak logra la rentabilidad en Chile y define su próxima etapa de expansión a regiones",
+      "link": "http://www.df.cl/empresas/actualidad/kavak-consolida-su-rentabilidad-en-chile-y-define-su-proxima-etapa",
+      "fecha": "Wed, 18 Nov 2026",
+      "fechaISO": "2026-11-18T22:28:09+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Cambios en Softys: Felipe Arancibia deja la dirección corporativa de Finanzas y asumirá como director de Vision Consultores",
+      "link": "http://www.df.cl/empresas/industria/cambios-en-softys-felipe-arancibia-deja-la-direccion-corporativa-de",
+      "fecha": "Wed, 18 Nov 2026",
+      "fechaISO": "2026-11-18T21:59:30+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Bolsa de Santiago cierra con fuerte caída por debajo de los 10.400 puntos, presionada por los resultados y previsiones de SQM",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-oempy",
       "fecha": "Wed, 18 Nov 2026",
-      "fechaISO": "2026-11-18T20:05:41+00:00"
+      "fechaISO": "2026-11-18T21:13:53+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "SMA formula cargos contra filial de AquaChile por sobreproducción de salmones en Aysén",
-      "link": "http://www.df.cl/sma-formula-cargos-contra-filial-de-aquachile-por-sobreproduccion-de",
+      "texto": "CEO de Enel Chile pide remunerar los servicios que le dan estabilidad a la red eléctrica",
+      "link": "http://www.df.cl/empresas/energia/ceo-de-enel-chile-instala-relevancia-de-servicios-para-dar-estabilidad-a-la",
       "fecha": "Wed, 18 Nov 2026",
-      "fechaISO": "2026-11-18T19:47:40+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Ofician a Contraloría para que se pronuncie sobre legalidad de acuerdo suscrito por Lincolao con OpenAI",
-      "link": "http://www.df.cl/economia-y-politica/congreso/ofician-a-contraloria-para-que-se-pronuncie-sobre-legalidad-de-acuerdo",
-      "fecha": "Wed, 18 Nov 2026",
-      "fechaISO": "2026-11-18T19:50:33+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar despega sobre los $ 1.000 y cierra en máximos de 22 meses con el cobre en caída libre por el cambio de perspectivas sobre la IA",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ji6d7",
-      "fecha": "Wed, 18 Nov 2026",
-      "fechaISO": "2026-11-18T19:48:05+00:00"
+      "fechaISO": "2026-11-18T22:19:55+00:00"
     }
   ]
 }
