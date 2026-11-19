@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T23:19:05.605269+00:00",
+  "actualizado": "2026-11-19T01:55:46.442601+00:00",
   "macro": {
     "dolar": 996.7,
     "uf": 41357.3,
@@ -425,6 +425,20 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Gremios y economistas celebran: sala cuna logra avanzar en la Cámara y ahora es el turno del Senado",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/sala-cuna-universal-da-nuevo-paso-diputados-aprueban-el-proyecto-y-ahora",
+      "fecha": "Thu, 19 Nov 2026",
+      "fechaISO": "2026-11-19T00:24:58+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Negociación para cupo en el CFA se retomará post Presupuesto y vacante en el cargo superará los 100 días",
+      "link": "http://www.df.cl/economia-y-politica/macro/negociacion-para-cupo-en-el-cfa-se-retomara-post-presupuesto-y-vacante-en",
+      "fecha": "Wed, 18 Nov 2026",
+      "fechaISO": "2026-11-18T23:23:21+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Unicornio mexicano Kavak logra la rentabilidad en Chile y define su próxima etapa de expansión a regiones",
       "link": "http://www.df.cl/empresas/actualidad/kavak-consolida-su-rentabilidad-en-chile-y-define-su-proxima-etapa",
       "fecha": "Wed, 18 Nov 2026",
@@ -432,24 +446,10 @@
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Cambios en Softys: Felipe Arancibia deja la dirección corporativa de Finanzas y asumirá como director de Vision Consultores",
+      "texto": "Cambios en Softys: Felipe Arancibia deja la dirección corporativa de Finanzas y asumirá como director de Vinson Consulting",
       "link": "http://www.df.cl/empresas/industria/cambios-en-softys-felipe-arancibia-deja-la-direccion-corporativa-de",
-      "fecha": "Wed, 18 Nov 2026",
-      "fechaISO": "2026-11-18T21:59:30+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Bolsa de Santiago cierra con fuerte caída por debajo de los 10.400 puntos, presionada por los resultados y previsiones de SQM",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-oempy",
-      "fecha": "Wed, 18 Nov 2026",
-      "fechaISO": "2026-11-18T21:13:53+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "CEO de Enel Chile pide remunerar los servicios que le dan estabilidad a la red eléctrica",
-      "link": "http://www.df.cl/empresas/energia/ceo-de-enel-chile-instala-relevancia-de-servicios-para-dar-estabilidad-a-la",
-      "fecha": "Wed, 18 Nov 2026",
-      "fechaISO": "2026-11-18T22:19:55+00:00"
+      "fecha": "Thu, 19 Nov 2026",
+      "fechaISO": "2026-11-19T00:34:33+00:00"
     }
   ]
 }
