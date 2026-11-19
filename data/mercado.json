@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-19T21:03:14.811458+00:00",
-  "macro": {},
+  "actualizado": "2026-11-19T23:27:44.858066+00:00",
+  "macro": {
+    "dolar": 1002.1,
+    "uf": 41364.17,
+    "utm": 72440,
+    "cobre": 6
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 322.5,
@@ -392,6 +397,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "DataVoz: Uno de cada cuatro chilenos suspende consultas médicas por estrechez económica",
+      "link": "https://www.cooperativa.cl/noticias/pais/salud/datavoz-uno-de-cada-cuatro-chilenos-suspende-consultas-medicas-por/2026-11-19/195940.html",
+      "fecha": "Thu, 19 Nov 2026",
+      "fechaISO": "2026-11-19T22:59:40+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Dólar cerró en 1.014 pesos y se acerca a su valor más alto",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-cerro-en-1-014-pesos-y-se-acerca-a-su-valor-mas-alto/2026-11-19/192439.html",
+      "fecha": "Thu, 19 Nov 2026",
+      "fechaISO": "2026-11-19T22:24:39+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "\"EtMday\": el hub europeo conecta a startups chilenas con fondos globales",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/etmday-el-hub-europeo-conecta-a-startups-chilenas-con-fondos-globales/2026-11-19/170244.html",
       "fecha": "Thu, 19 Nov 2026",
@@ -405,25 +424,25 @@
       "fechaISO": "2026-11-19T18:23:48+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Se salva \"Yo elijo mi PC\" tras acuerdo transversal en el Senado",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/se-salva-yo-elijo-mi-pc-tras-acuerdo-transversal-en-el-senado/2026-11-19/144603.html",
+      "fuente": "Diario Financiero",
+      "texto": "Gobierno pone fin a contratos de firma argentina Metropol en Red: Voy y Subus asumirán sus 52 recorridos",
+      "link": "http://www.df.cl/empresas/industria/gobierno-pone-fin-a-contratos-de-firma-argentina-metropol-en-red-voy-y",
       "fecha": "Thu, 19 Nov 2026",
-      "fechaISO": "2026-11-19T17:46:03+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Midterms: Musk se siente \"tonto\" por haber gastado 445 millones de dólares en apoyar a republicanos",
-      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/midterms-musk-se-siente-tonto-por-haber-gastado-445-millones-de/2026-11-19/115218.html",
-      "fecha": "Thu, 19 Nov 2026",
-      "fechaISO": "2026-11-19T14:52:18+00:00"
+      "fechaISO": "2026-11-19T22:23:22+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Wall Street camina a su racha de caídas más larga desde abril de 2024 luego de que Anthropic no lograra revitalizar al mercado",
+      "texto": "Wall Street cierra con pérdidas de 2% y anota su mayor racha de caídas desde abril de 2024 luego de que Anthropic no lograra revitalizar al mercado",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-6h568",
       "fecha": "Thu, 19 Nov 2026",
-      "fechaISO": "2026-11-19T19:34:42+00:00"
+      "fechaISO": "2026-11-19T21:18:36+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Más de US$ 900 mil recaudados: Tesorería entrega primer balance de las facilidades de pago del CAE en el marco de la Ley de Reconstrucción",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/mas-de-us-900-mil-recaudados-tesoreria-entrega-primer-balance-de-las",
+      "fecha": "Thu, 19 Nov 2026",
+      "fechaISO": "2026-11-19T21:12:30+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -431,20 +450,6 @@
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kdug8",
       "fecha": "Thu, 19 Nov 2026",
       "fechaISO": "2026-11-19T20:58:42+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Echeverría Izquierdo aumenta levemente sus utilidades a septiembre y mantiene un backlog histórico",
-      "link": "http://www.df.cl/empresas/construccion/echeverria-izquierdo-aumenta-levemente-sus-utilidades-al-tercer-trimestre",
-      "fecha": "Thu, 19 Nov 2026",
-      "fechaISO": "2026-11-19T19:14:21+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Jorge Uauy es electo como nuevo presidente de la Asociación Nacional de Fútbol Profesional",
-      "link": "http://www.df.cl/empresas/jorge-uauy-es-electo-como-nuevo-presidente-de-la-asociacion-nacional-de",
-      "fecha": "Thu, 19 Nov 2026",
-      "fechaISO": "2026-11-19T16:39:42+00:00"
     }
   ]
 }
