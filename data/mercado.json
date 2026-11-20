@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T23:27:44.858066+00:00",
+  "actualizado": "2026-11-20T01:49:11.265546+00:00",
   "macro": {
     "dolar": 1002.1,
     "uf": 41364.17,
@@ -41,7 +41,7 @@
       "precio": 3429.0,
       "anterior": 3637.0,
       "alto52": 8680.0,
-      "bajo52": 3380.0
+      "bajo52": 3361.5
     },
     "CENCOSUD": {
       "precio": 1700.0,
@@ -82,7 +82,7 @@
     "ENTEL": {
       "precio": 5600.0,
       "anterior": 4500.0,
-      "alto52": 5800.0,
+      "alto52": 6300.0,
       "bajo52": 3300.0
     },
     "CMPC": {
@@ -191,7 +191,7 @@
       "precio": 7099.8,
       "anterior": 7052.0,
       "alto52": 9000.0,
-      "bajo52": 7000.0
+      "bajo52": 6948.1
     },
     "ALMENDRAL": {
       "precio": 38.85,
@@ -215,7 +215,7 @@
       "precio": 1515.0,
       "anterior": 1541.7,
       "alto52": 2510.0,
-      "bajo52": 1500.0
+      "bajo52": 1480.0
     },
     "HITES": {
       "precio": 127.62,
@@ -233,7 +233,7 @@
       "precio": 5.17,
       "anterior": 5.54,
       "alto52": 20.04,
-      "bajo52": 5.16
+      "bajo52": 5.15
     },
     "PAZ": {
       "precio": 1040.0,
@@ -275,7 +275,7 @@
       "precio": 575.0,
       "anterior": 599.15,
       "alto52": 820.0,
-      "bajo52": 574.84
+      "bajo52": 569.5
     },
     "TRICOT": {
       "precio": 583.12,
@@ -311,7 +311,7 @@
       "precio": 1248.1,
       "anterior": 1284.0,
       "alto52": 1600.0,
-      "bajo52": 1219.7
+      "bajo52": 1214.0
     },
     "CFMITNIPSA": {
       "precio": 4754.2,
@@ -425,6 +425,13 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Producción de Codelco caería a su menor nivel desde 1995 y expertos advierten presión sobre costos, deuda y aportes al Estado",
+      "link": "http://www.df.cl/empresas/mineria/produccion-de-codelco-caeria-a-su-menor-nivel-desde-1995-y-expertos",
+      "fecha": "Thu, 19 Nov 2026",
+      "fechaISO": "2026-11-19T23:30:44+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Gobierno pone fin a contratos de firma argentina Metropol en Red: Voy y Subus asumirán sus 52 recorridos",
       "link": "http://www.df.cl/empresas/industria/gobierno-pone-fin-a-contratos-de-firma-argentina-metropol-en-red-voy-y",
       "fecha": "Thu, 19 Nov 2026",
@@ -443,13 +450,6 @@
       "link": "http://www.df.cl/economia-y-politica/actualidad/mas-de-us-900-mil-recaudados-tesoreria-entrega-primer-balance-de-las",
       "fecha": "Thu, 19 Nov 2026",
       "fechaISO": "2026-11-19T21:12:30+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar supera los $ 1.010 y cierra en máximos desde el inicio de 2025 luego de que flaqueara el entusiasmo inicial por la salida a bolsa de Anthropic",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kdug8",
-      "fecha": "Thu, 19 Nov 2026",
-      "fechaISO": "2026-11-19T20:58:42+00:00"
     }
   ]
 }
