@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T20:48:56.242832+00:00",
+  "actualizado": "2026-11-20T23:00:11.828407+00:00",
   "macro": {
     "dolar": 1008.8,
     "uf": 41371.05,
@@ -179,7 +179,7 @@
       "precio": 48850.0,
       "anterior": 53550.0,
       "alto52": 86900.0,
-      "bajo52": 47517.0
+      "bajo52": 47518.0
     },
     "CONCHATORO": {
       "precio": 838.8,
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Alcaldes piden al Congreso frenar recorte del 58,3% a la Ley Cholito en el Presupuesto 2027",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/municipales/alcaldes-piden-al-congreso-frenar-recorte-del-58-3-a-la-ley-cholito-en/2026-11-20/191512.html",
+      "fecha": "Fri, 20 Nov 2026",
+      "fechaISO": "2026-11-20T22:15:12+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Mercado Colores en Barrio Yungay tendrá 150 emprendimientos y cinco escenarios simultáneos",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/mercado-colores-en-barrio-yungay-tendra-150-emprendimientos-y-cinco/2026-11-20/170644.html",
       "fecha": "Fri, 20 Nov 2026",
@@ -417,11 +424,25 @@
       "fechaISO": "2026-11-20T14:02:59+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Senado despachó el Presupuesto 2027: repuso recursos para Educación y Cultura",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/senado-despacho-el-presupuesto-2027-repuso-recursos-para-educacion-y/2026-11-20/104454.html",
+      "fuente": "Diario Financiero",
+      "texto": "La trastienda de la gira de Kast por Asia: el menú del banquete con Xi Jinping, los billetes en Tokio y los murciélagos en Hanói",
+      "link": "http://www.df.cl/economia-y-politica/gobierno/la-trastienda-de-la-gira-de-kast-por-asia-el-menu-del-banquete-con-xi",
       "fecha": "Fri, 20 Nov 2026",
-      "fechaISO": "2026-11-20T13:44:54+00:00"
+      "fechaISO": "2026-11-20T22:43:45+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Utilidades de Patio Comercial se disparan a septiembre y crecen más de 600%",
+      "link": "http://www.df.cl/empresas/retail/utilidades-de-patio-comercial-se-disparan-a-septiembre-y-crecen-mas-de-600",
+      "fecha": "Fri, 20 Nov 2026",
+      "fechaISO": "2026-11-20T21:57:58+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "El Nasdaq se hunde más de 5% y Wall Street anota su racha de pérdidas más larga desde 2020 por el desmoronamiento de apuestas a la IA",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-utj86",
+      "fecha": "Fri, 20 Nov 2026",
+      "fechaISO": "2026-11-20T21:25:29+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -429,27 +450,6 @@
       "link": "http://www.df.cl/empresas/telecom-tecnologia/firma-chilena-asimov-cierra-alianza-con-aws-para-acelerar-adopcion-de-ia-en",
       "fecha": "Fri, 20 Nov 2026",
       "fechaISO": "2026-11-20T20:28:40+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Argentina Metropol rechaza término anticipado de contratos de Buses Alfa y Omega y anuncia acciones judiciales contra el MTT",
-      "link": "http://www.df.cl/empresas/industria/metropol-rechaza-termino-anticipado-de-contratos-de-buses-alfa-y-omega-y",
-      "fecha": "Fri, 20 Nov 2026",
-      "fechaISO": "2026-11-20T20:09:19+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA da la revancha en subasta de cierre y quiebra su racha de caídas mientras el Nasdaq se hunde casi 5% en la bolsa neoyorquina",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-utj86",
-      "fecha": "Fri, 20 Nov 2026",
-      "fechaISO": "2026-11-20T20:14:21+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra sobre los $ 1.020 por primera vez desde julio de 2022 luego de que se reactivaran las fuertes ventas de cobre",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ctefc",
-      "fecha": "Fri, 20 Nov 2026",
-      "fechaISO": "2026-11-20T19:18:45+00:00"
     }
   ]
 }
