@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T23:00:11.828407+00:00",
+  "actualizado": "2026-11-21T01:37:25.590274+00:00",
   "macro": {
     "dolar": 1008.8,
     "uf": 41371.05,
@@ -179,7 +179,7 @@
       "precio": 48850.0,
       "anterior": 53550.0,
       "alto52": 86900.0,
-      "bajo52": 47518.0
+      "bajo52": 47517.0
     },
     "CONCHATORO": {
       "precio": 838.8,
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "AChM: Recorte de $11.800 millones a Indap sería una \"catástrofe\" para el mundo rural",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/achm-recorte-de-11-800-millones-a-indap-seria-una-catastrofe-para-el/2026-11-20/194745.html",
+      "fecha": "Fri, 20 Nov 2026",
+      "fechaISO": "2026-11-20T22:47:45+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Alcaldes piden al Congreso frenar recorte del 58,3% a la Ley Cholito en el Presupuesto 2027",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/municipales/alcaldes-piden-al-congreso-frenar-recorte-del-58-3-a-la-ley-cholito-en/2026-11-20/191512.html",
       "fecha": "Fri, 20 Nov 2026",
@@ -415,13 +422,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/condenado-del-caso-audio-lanzo-libro-y-afirma-que-hay-material-para-una/2026-11-20/120226.html",
       "fecha": "Fri, 20 Nov 2026",
       "fechaISO": "2026-11-20T15:02:26+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Republicanos evalúan votar por separado fondos para terapias hormonales en menores",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/republicanos-evaluan-votar-por-separado-fondos-para-terapias-hormonales/2026-11-20/110259.html",
-      "fecha": "Fri, 20 Nov 2026",
-      "fechaISO": "2026-11-20T14:02:59+00:00"
     },
     {
       "fuente": "Diario Financiero",
