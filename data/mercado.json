@@ -1,215 +1,210 @@
 {
-  "actualizado": "2026-11-24T04:52:37.310900+00:00",
-  "macro": {
-    "dolar": 1017.7,
-    "uf": 41398.57,
-    "utm": 72440,
-    "cobre": 5.51
-  },
+  "actualizado": "2026-11-24T22:49:26.883610+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
-      "precio": 319.0,
-      "anterior": 324.2,
+      "precio": 316.0,
+      "anterior": 324.9,
       "alto52": 400.0,
       "bajo52": 310.11
     },
     "CHILE": {
-      "precio": 188.35,
-      "anterior": 191.6,
+      "precio": 187.3,
+      "anterior": 190.85,
       "alto52": 200.7,
       "bajo52": 155.18
     },
     "BCI": {
-      "precio": 60800.0,
-      "anterior": 62500.0,
+      "precio": 60087.0,
+      "anterior": 61000.0,
       "alto52": 68446.0,
       "bajo52": 51950.0
     },
     "ITAUCL": {
-      "precio": 22628.0,
+      "precio": 22300.0,
       "anterior": 22700.0,
       "alto52": 25887.0,
       "bajo52": 16610.0
     },
     "BSANTANDER": {
-      "precio": 78.85,
-      "anterior": 79.06,
+      "precio": 79.0,
+      "anterior": 78.01,
       "alto52": 84.4,
       "bajo52": 65.77
     },
     "CAP": {
-      "precio": 3250.1,
-      "anterior": 3585.0,
+      "precio": 3080.0,
+      "anterior": 3451.0,
       "alto52": 8680.0,
-      "bajo52": 3141.1
+      "bajo52": 3080.0
     },
     "CENCOSUD": {
-      "precio": 1685.0,
-      "anterior": 1784.6,
+      "precio": 1635.1,
+      "anterior": 1745.0,
       "alto52": 3238.0,
       "bajo52": 1611.2
     },
     "CENCOMALLS": {
-      "precio": 2150.0,
-      "anterior": 2180.0,
+      "precio": 2120.0,
+      "anterior": 2140.0,
       "alto52": 2799.9,
       "bajo52": 2068.4
     },
     "COLBUN": {
-      "precio": 153.4,
-      "anterior": 152.5,
+      "precio": 150.8,
+      "anterior": 151.0,
       "alto52": 156.51,
       "bajo52": 123.55
     },
     "CCU": {
-      "precio": 5082.0,
-      "anterior": 5260.0,
+      "precio": 5020.5,
+      "anterior": 5340.0,
       "alto52": 6598.3,
       "bajo52": 4947.0
     },
     "VAPORES": {
-      "precio": 47.03,
-      "anterior": 47.95,
+      "precio": 46.11,
+      "anterior": 48.0,
       "alto52": 54.8,
       "bajo52": 42.0
     },
     "ANDINA-B": {
-      "precio": 4720.1,
-      "anterior": 4800.0,
+      "precio": 4650.0,
+      "anterior": 4780.3,
       "alto52": 4969.0,
       "bajo52": 3834.3
     },
     "ENTEL": {
-      "precio": 5511.0,
-      "anterior": 5939.0,
+      "precio": 5435.0,
+      "anterior": 5741.7,
       "alto52": 6300.0,
       "bajo52": 3300.0
     },
     "CMPC": {
-      "precio": 941.5,
-      "anterior": 900.0,
+      "precio": 944.0,
+      "anterior": 910.0,
       "alto52": 1501.1,
       "bajo52": 874.21
     },
     "COPEC": {
-      "precio": 6345.0,
-      "anterior": 6180.1,
+      "precio": 6400.0,
+      "anterior": 6215.0,
       "alto52": 7949.0,
       "bajo52": 5702.1
     },
     "ENELAM": {
-      "precio": 78.92,
-      "anterior": 79.85,
+      "precio": 78.0,
+      "anterior": 79.4,
       "alto52": 93.39,
       "bajo52": 73.95
     },
     "ENELCHILE": {
-      "precio": 81.25,
-      "anterior": 82.25,
+      "precio": 80.5,
+      "anterior": 81.8,
       "alto52": 88.4,
       "bajo52": 67.67
     },
     "ECL": {
-      "precio": 1987.4,
-      "anterior": 2010.1,
+      "precio": 1950.0,
+      "anterior": 1986.0,
       "alto52": 2098.9,
       "bajo52": 1290.0
     },
     "FALABELLA": {
-      "precio": 6778.0,
+      "precio": 6625.0,
       "anterior": 6810.0,
       "alto52": 6948.5,
       "bajo52": 5237.7
     },
     "IAM": {
-      "precio": 897.32,
-      "anterior": 888.04,
+      "precio": 878.0,
+      "anterior": 880.0,
       "alto52": 1150.0,
       "bajo52": 839.0
     },
     "ILC": {
-      "precio": 22500.0,
-      "anterior": 22700.0,
+      "precio": 22200.0,
+      "anterior": 22450.0,
       "alto52": 26000.0,
-      "bajo52": 15222.0
+      "bajo52": 15598.0
     },
     "LTM": {
-      "precio": 24.2,
-      "anterior": 23.49,
+      "precio": 23.92,
+      "anterior": 23.47,
       "alto52": 30.0,
       "bajo52": 20.51
     },
     "PARAUCO": {
-      "precio": 3535.0,
-      "anterior": 3416.1,
+      "precio": 3492.3,
+      "anterior": 3421.0,
       "alto52": 4596.3,
-      "bajo52": 2760.0
+      "bajo52": 2815.0
     },
     "MALLPLAZA": {
-      "precio": 3280.1,
-      "anterior": 3250.0,
+      "precio": 3245.0,
+      "anterior": 3237.8,
       "alto52": 4700.0,
       "bajo52": 3010.0
     },
     "QUINENCO": {
-      "precio": 4460.0,
-      "anterior": 4540.0,
+      "precio": 4520.0,
+      "anterior": 4570.0,
       "alto52": 4900.0,
       "bajo52": 3501.0
     },
     "RIPLEY": {
-      "precio": 423.51,
-      "anterior": 430.0,
+      "precio": 417.0,
+      "anterior": 430.1,
       "alto52": 472.99,
       "bajo52": 350.0
     },
     "SALFACORP": {
       "precio": 1000.0,
-      "anterior": 1040.0,
+      "anterior": 1040.5,
       "alto52": 1499.9,
-      "bajo52": 951.44
+      "bajo52": 950.0
     },
     "SMU": {
-      "precio": 97.86,
-      "anterior": 98.5,
+      "precio": 98.4,
+      "anterior": 98.59,
       "alto52": 166.5,
       "bajo52": 95.0
     },
     "SQM-B": {
-      "precio": 49780.0,
-      "anterior": 51300.0,
+      "precio": 48689.0,
+      "anterior": 51600.0,
       "alto52": 86900.0,
-      "bajo52": 48200.0
+      "bajo52": 47946.0
     },
     "CONCHATORO": {
       "precio": 848.0,
-      "anterior": 849.98,
+      "anterior": 850.0,
       "alto52": 1067.7,
       "bajo52": 815.0
     },
     "ANTARCHILE": {
-      "precio": 7099.0,
-      "anterior": 7010.7,
+      "precio": 7110.0,
+      "anterior": 7000.0,
       "alto52": 9000.0,
       "bajo52": 6948.1
     },
     "ALMENDRAL": {
-      "precio": 38.92,
-      "anterior": 36.02,
+      "precio": 38.0,
+      "anterior": 36.18,
       "alto52": 42.9,
       "bajo52": 23.29
     },
     "CAMANCHACA": {
-      "precio": 95.36,
-      "anterior": 92.1,
+      "precio": 95.0,
+      "anterior": 92.05,
       "alto52": 96.88,
       "bajo52": 65.01
     },
     "ENAEX": {
       "precio": 26000.0,
-      "anterior": 26053.0,
+      "anterior": 26000.0,
       "alto52": 26053.0,
-      "bajo52": 21867.0
+      "bajo52": 22100.0
     },
     "FORUS": {
       "precio": 1515.0,
@@ -218,38 +213,38 @@
       "bajo52": 1480.0
     },
     "HITES": {
-      "precio": 125.29,
+      "precio": 124.0,
       "anterior": 124.0,
       "alto52": 144.4,
       "bajo52": 105.13
     },
     "INGEVEC": {
       "precio": 202.0,
-      "anterior": 209.65,
+      "anterior": 207.0,
       "alto52": 227.0,
       "bajo52": 142.5
     },
     "MASISA": {
-      "precio": 4.81,
+      "precio": 4.69,
       "anterior": 5.54,
       "alto52": 20.04,
-      "bajo52": 4.81
+      "bajo52": 4.69
     },
     "PAZ": {
-      "precio": 1055.0,
+      "precio": 1050.1,
       "anterior": 1040.0,
       "alto52": 1120.9,
       "bajo52": 790.05
     },
     "SOCOVESA": {
       "precio": 154.2,
-      "anterior": 155.45,
+      "anterior": 153.48,
       "alto52": 175.0,
       "bajo52": 112.0
     },
     "SK": {
-      "precio": 1524.9,
-      "anterior": 1571.8,
+      "precio": 1560.0,
+      "anterior": 1558.5,
       "alto52": 1875.0,
       "bajo52": 1404.2
     },
@@ -260,8 +255,8 @@
       "bajo52": 250.0
     },
     "EMBONOR-B": {
-      "precio": 1701.3,
-      "anterior": 1749.8,
+      "precio": 1650.0,
+      "anterior": 1725.0,
       "alto52": 2050.0,
       "bajo52": 1399.0
     },
@@ -273,7 +268,7 @@
     },
     "WATTS": {
       "precio": 575.0,
-      "anterior": 582.0,
+      "anterior": 574.84,
       "alto52": 820.0,
       "bajo52": 569.5
     },
@@ -284,8 +279,8 @@
       "bajo52": 513.1
     },
     "MANQUEHUE": {
-      "precio": 85.1,
-      "anterior": 83.23,
+      "precio": 84.84,
+      "anterior": 82.85,
       "alto52": 142.0,
       "bajo52": 82.84
     },
@@ -296,38 +291,38 @@
       "bajo52": 239.81
     },
     "INVERCAP": {
-      "precio": 1128.9,
-      "anterior": 1248.7,
+      "precio": 1096.0,
+      "anterior": 1208.0,
       "alto52": 2278.8,
-      "bajo52": 1128.9
+      "bajo52": 1096.0
     },
     "BICE": {
-      "precio": 430.0,
-      "anterior": 441.49,
+      "precio": 424.32,
+      "anterior": 441.04,
       "alto52": 450.0,
       "bajo52": 356.35
     },
     "HABITAT": {
-      "precio": 1254.9,
-      "anterior": 1259.6,
+      "precio": 1250.2,
+      "anterior": 1219.7,
       "alto52": 1600.0,
       "bajo52": 1214.0
     },
     "CFMITNIPSA": {
-      "precio": 4804.1,
-      "anterior": 4864.9,
+      "precio": 4741.5,
+      "anterior": 4805.0,
       "alto52": 5588.4,
-      "bajo52": 4692.0
+      "bajo52": 4695.0
     },
     "CFINRENTAS": {
-      "precio": 2133.58,
+      "precio": 2130.31,
       "anterior": 2183.56,
       "alto52": 2340.0,
-      "bajo52": 1874.0
+      "bajo52": 1881.0
     },
     "CFIBTGRCA": {
-      "precio": 21000.0,
-      "anterior": 21020.0,
+      "precio": 20701.0,
+      "anterior": 20701.0,
       "alto52": 27090.0,
       "bajo52": 20400.0
     },
@@ -369,6 +364,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "ChileConverge Emprende: las claves del concurso técnico-profesional que reparte más de $75 millones",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/chileconverge-emprende-las-claves-del-concurso-tecnico-profesional-que/2026-11-24/171959.html",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-24T20:19:59+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Nvidia rebotó 31,5%, su mayor subida en 23 años, tras el regreso de Jensen Huang",
       "link": "https://www.cooperativa.cl/noticias/economia/empresas/tecnologia/nvidia-reboto-31-5-su-mayor-subida-en-23-anos-tras-el-regreso-de/2026-11-23/205638.html",
       "fecha": "Mon, 23 Nov 2026",
@@ -389,11 +391,25 @@
       "fechaISO": "2026-11-20T15:02:26+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Anthropic debuta con alza de 34% en Wall Street y supera récord de SpaceX",
-      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/anthropic-debuta-con-alza-de-34-en-wall-street-y-supera-record-de-spacex/2026-11-19/152348.html",
-      "fecha": "Thu, 19 Nov 2026",
-      "fechaISO": "2026-11-19T18:23:48+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "ChileConverge Emprende: las claves del concurso técnico-profesional que reparte más de $75 millones",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/chileconverge-emprende-las-claves-del-concurso-tecnico-profesional-que/2026-11-24/171959.html",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-24T20:19:59+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Dólar superó los 1.032 pesos, mientras el cobre cayó a 5,46 dólares la libra",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-supero-los-1-032-pesos-mientras-el-cobre-cayo-a-5-46-dolares-la/2026-11-24/150844.html",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-24T18:08:44+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Ejército de Irán endurece el bloqueo de Ormuz, hasta que EE.UU. \"ceda\"",
+      "link": "https://www.cooperativa.cl/noticias/mundo/iran/ejercito-de-iran-endurece-el-bloqueo-de-ormuz-hasta-que-ee-uu-ceda/2026-11-24/082751.html",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-24T11:27:51+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -403,53 +419,32 @@
       "fechaISO": "2026-11-24T00:38:28+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Nvidia rebotó 31,5%, su mayor subida en 23 años, tras el regreso de Jensen Huang",
-      "link": "https://www.cooperativa.cl/noticias/economia/empresas/tecnologia/nvidia-reboto-31-5-su-mayor-subida-en-23-anos-tras-el-regreso-de/2026-11-23/205638.html",
-      "fecha": "Mon, 23 Nov 2026",
-      "fechaISO": "2026-11-23T23:56:38+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Experto: Es natural que tras 100 años de explotación la productividad de las minas caiga",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/experto-es-natural-que-tras-100-anos-de-explotacion-la-productividad-de/2026-11-23/180519.html",
-      "fecha": "Mon, 23 Nov 2026",
-      "fechaISO": "2026-11-23T21:05:19+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "StartupLab Patagonia: La estrategia de innovación tecnológica de Puerto Varas",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/startuplab-patagonia-la-estrategia-de-innovacion-tecnologica-de-puerto/2026-11-23/173152.html",
-      "fecha": "Mon, 23 Nov 2026",
-      "fechaISO": "2026-11-23T20:31:52+00:00"
-    },
-    {
       "fuente": "Diario Financiero",
-      "texto": "Forum desafía el estancamiento automotriz y crece 5,5% en volúmenes de financiamiento en 2026",
-      "link": "http://www.df.cl/mercados/banca-fintech/forum-desafia-el-estancamiento-automotriz-y-crece-5-5-en-volumenes-de",
-      "fecha": "Mon, 23 Nov 2026",
-      "fechaISO": "2026-11-23T23:26:36+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Comisión Revisora de la AC contra Rabat: desde la instalación del gobierno se han firmado casi 1.900 decretos de rebaja de penas",
-      "link": "http://www.df.cl/economia-y-politica/congreso/comision-revisora-de-la-ac-contra-rabat-desde-la-instalacion-del-gobierno",
-      "fecha": "Mon, 23 Nov 2026",
-      "fechaISO": "2026-11-23T23:41:50+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Cuartas pistas y Free Flow: VíasChile ingresa proyecto por US$ 456 millones para ampliar tramo de la Ruta 5 Norte",
-      "link": "http://www.df.cl/empresas/construccion/cuartas-pistas-y-free-flow-viaschile-ingresa-proyecto-por-us-456-millones",
+      "texto": "La “factura” de Pedro Araya a Juan Luis Castro: el conflicto político que subyace al \"caso firmas\"",
+      "link": "http://www.df.cl/economia-y-politica/congreso/la-factura-de-pedro-araya-a-juan-luis-castro-el-conflicto-politico-que",
       "fecha": "Tue, 24 Nov 2026",
-      "fechaISO": "2026-11-24T00:22:01+00:00"
+      "fechaISO": "2026-11-24T21:42:00+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "El Nasdaq se dispara 6,5% y Wall Street corta su larga racha de pérdidas por la restitución de Huang a la cabeza de Nvidia",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-j63ro",
-      "fecha": "Mon, 23 Nov 2026",
-      "fechaISO": "2026-11-23T21:42:03+00:00"
+      "texto": "Avanza en el Congreso proyecto que moderniza uso de firma electrónica",
+      "link": "http://www.df.cl/economia-y-politica/pais/avanza-en-el-congreso-proyecto-que-moderniza-uso-de-firma-electronica",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-24T21:17:24+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Bolsa chilena cae fuerte y el IPSA cierra próximo a 10.300 mientras la aversión al riesgo vuelve a apoderarse de los mercados bursátiles",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-yemej",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-24T21:09:32+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Pax, la startup brasileña de IA contra el crimen que levantó US$ 40 millones, acelera su expansión en el país",
+      "link": "http://www.df.cl/empresas/empresas-y-startups/historias-de-startups/pax-la-startup-brasilena-de-ia-contra-el-crimen-que-levanto-us-40",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-24T19:54:48+00:00"
     }
   ]
 }
