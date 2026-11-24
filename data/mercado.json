@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-11-24T00:26:24.251404+00:00",
+  "actualizado": "2026-11-24T03:12:12.283544+00:00",
   "macro": {
-    "dolar": 1017.2,
-    "uf": 41391.69,
+    "dolar": 1017.7,
+    "uf": 41398.57,
     "utm": 72440,
-    "cobre": 5.68
+    "cobre": 5.51
   },
   "acciones": {
     "AGUAS-A": {
@@ -397,6 +397,13 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Presupuesto para cuatro ministerios se resolverá en comisión mixta",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-para-cuatro-ministerios-se-resolvera-en-comision-mixta/2026-11-23/213828.html",
+      "fecha": "Mon, 23 Nov 2026",
+      "fechaISO": "2026-11-24T00:38:28+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "Nvidia rebotó 31,5%, su mayor subida en 23 años, tras el regreso de Jensen Huang",
       "link": "https://www.cooperativa.cl/noticias/economia/empresas/tecnologia/nvidia-reboto-31-5-su-mayor-subida-en-23-anos-tras-el-regreso-de/2026-11-23/205638.html",
       "fecha": "Mon, 23 Nov 2026",
@@ -415,13 +422,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/startuplab-patagonia-la-estrategia-de-innovacion-tecnologica-de-puerto/2026-11-23/173152.html",
       "fecha": "Mon, 23 Nov 2026",
       "fechaISO": "2026-11-23T20:31:52+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Nvidia restituyó a Huang entre alzas en la bolsa y elogios de Trump",
-      "link": "https://www.cooperativa.cl/noticias/economia/empresas/tecnologia/nvidia-restituyo-a-huang-entre-alzas-en-la-bolsa-y-elogios-de-trump/2026-11-23/121736.html",
-      "fecha": "Mon, 23 Nov 2026",
-      "fechaISO": "2026-11-23T15:17:36+00:00"
     },
     {
       "fuente": "Diario Financiero",
