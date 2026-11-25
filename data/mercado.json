@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T01:17:31.069351+00:00",
+  "actualizado": "2026-11-25T03:36:23.805281+00:00",
   "macro": {
     "dolar": 1017.7,
     "uf": 41398.57,
@@ -53,7 +53,7 @@
       "precio": 2120.0,
       "anterior": 2140.0,
       "alto52": 2799.9,
-      "bajo52": 2068.4
+      "bajo52": 2050.0
     },
     "COLBUN": {
       "precio": 150.8,
@@ -173,13 +173,13 @@
       "precio": 98.4,
       "anterior": 98.59,
       "alto52": 166.5,
-      "bajo52": 95.0
+      "bajo52": 94.69
     },
     "SQM-B": {
       "precio": 48689.0,
       "anterior": 51600.0,
       "alto52": 86900.0,
-      "bajo52": 47946.0
+      "bajo52": 47500.0
     },
     "CONCHATORO": {
       "precio": 848.0,
@@ -369,6 +369,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Jurado estadounidense declaró a Huawei culpable de fraude y robo de secretos",
+      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/jurado-estadounidense-declaro-a-huawei-culpable-de-fraude-y-robo-de/2026-11-24/233351.html",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-25T02:33:51+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "ChileConverge Emprende: las claves del concurso técnico-profesional que reparte más de $75 millones",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/chileconverge-emprende-las-claves-del-concurso-tecnico-profesional-que/2026-11-24/171959.html",
       "fecha": "Tue, 24 Nov 2026",
@@ -389,11 +396,18 @@
       "fechaISO": "2026-11-23T15:17:36+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Condenado del caso Audio lanzó libro y afirma que hay material para una película de humor negro",
-      "link": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/condenado-del-caso-audio-lanzo-libro-y-afirma-que-hay-material-para-una/2026-11-20/120226.html",
-      "fecha": "Fri, 20 Nov 2026",
-      "fechaISO": "2026-11-20T15:02:26+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Robo de carga: alertan por aumento del riesgo en camiones durante Black Friday y Navidad",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/robo-de-vehiculos/robo-de-carga-alertan-por-aumento-del-riesgo-en-camiones-durante-black/2026-11-25/002451.html",
+      "fecha": "Wed, 25 Nov 2026",
+      "fechaISO": "2026-11-25T03:24:51+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Jurado estadounidense declaró a Huawei culpable de fraude y robo de secretos",
+      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/jurado-estadounidense-declaro-a-huawei-culpable-de-fraude-y-robo-de/2026-11-24/233351.html",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-25T02:33:51+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -408,20 +422,6 @@
       "link": "https://www.cooperativa.cl/noticias/mundo/paraguay/fiscalia-de-paraguay-acuso-al-destituido-santiago-pena-por-lavado-de/2026-11-24/200320.html",
       "fecha": "Tue, 24 Nov 2026",
       "fechaISO": "2026-11-24T23:03:20+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "ChileConverge Emprende: las claves del concurso técnico-profesional que reparte más de $75 millones",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/chileconverge-emprende-las-claves-del-concurso-tecnico-profesional-que/2026-11-24/171959.html",
-      "fecha": "Tue, 24 Nov 2026",
-      "fechaISO": "2026-11-24T20:19:59+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Dólar superó los 1.032 pesos, mientras el cobre cayó a 5,46 dólares la libra",
-      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-supero-los-1-032-pesos-mientras-el-cobre-cayo-a-5-46-dolares-la/2026-11-24/150844.html",
-      "fecha": "Tue, 24 Nov 2026",
-      "fechaISO": "2026-11-24T18:08:44+00:00"
     },
     {
       "fuente": "Diario Financiero",
