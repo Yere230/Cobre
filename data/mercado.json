@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-24T22:49:26.883610+00:00",
-  "macro": {},
+  "actualizado": "2026-11-25T01:17:31.069351+00:00",
+  "macro": {
+    "dolar": 1017.7,
+    "uf": 41398.57,
+    "utm": 72440,
+    "cobre": 5.51
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 316.0,
@@ -392,6 +397,20 @@
     },
     {
       "fuente": "Cooperativa · Economía",
+      "texto": "Comisión mixta aprobó recursos para sitios de memoria y oficinas de expresidentes",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/comision-mixta-aprobo-recursos-para-sitios-de-memoria-y-oficinas-de/2026-11-24/212107.html",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-25T00:21:07+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Fiscalía de Paraguay acusó al destituido Santiago Peña por lavado de activos y cohecho agravado",
+      "link": "https://www.cooperativa.cl/noticias/mundo/paraguay/fiscalia-de-paraguay-acuso-al-destituido-santiago-pena-por-lavado-de/2026-11-24/200320.html",
+      "fecha": "Tue, 24 Nov 2026",
+      "fechaISO": "2026-11-24T23:03:20+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
       "texto": "ChileConverge Emprende: las claves del concurso técnico-profesional que reparte más de $75 millones",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/chileconverge-emprende-las-claves-del-concurso-tecnico-profesional-que/2026-11-24/171959.html",
       "fecha": "Tue, 24 Nov 2026",
@@ -403,20 +422,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-supero-los-1-032-pesos-mientras-el-cobre-cayo-a-5-46-dolares-la/2026-11-24/150844.html",
       "fecha": "Tue, 24 Nov 2026",
       "fechaISO": "2026-11-24T18:08:44+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Ejército de Irán endurece el bloqueo de Ormuz, hasta que EE.UU. \"ceda\"",
-      "link": "https://www.cooperativa.cl/noticias/mundo/iran/ejercito-de-iran-endurece-el-bloqueo-de-ormuz-hasta-que-ee-uu-ceda/2026-11-24/082751.html",
-      "fecha": "Tue, 24 Nov 2026",
-      "fechaISO": "2026-11-24T11:27:51+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Presupuesto para cuatro ministerios se resolverá en comisión mixta",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-para-cuatro-ministerios-se-resolvera-en-comision-mixta/2026-11-23/213828.html",
-      "fecha": "Mon, 23 Nov 2026",
-      "fechaISO": "2026-11-24T00:38:28+00:00"
     },
     {
       "fuente": "Diario Financiero",
