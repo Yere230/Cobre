@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T22:01:52.384187+00:00",
+  "actualizado": "2026-11-26T00:52:46.972941+00:00",
   "macro": {},
   "acciones": {
     "AGUAS-A": {
@@ -420,6 +420,20 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Chile tendrá Sala Cuna Universal: Congreso despacha reforma que cambia el acceso y financiamiento del beneficio",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/sala-cuna-universal-las-claves-de-la-reforma-que-cambia-el-acceso-y",
+      "fecha": "Thu, 26 Nov 2026",
+      "fechaISO": "2026-11-26T00:49:20+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
+      "texto": "Moller cuadruplica sus utilidades a septiembre y retoma la búsqueda de terrenos para nuevos proyectos inmobiliarios",
+      "link": "http://www.df.cl/empresas/construccion/moller-cuadruplica-sus-utilidades-a-septiembre-y-retoma-la-busqueda-de",
+      "fecha": "Wed, 25 Nov 2026",
+      "fechaISO": "2026-11-25T23:07:56+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "I-Med acuerda pagar US$ 4 millones al Fisco tras investigación de la FNE por riesgos a la libre competencia",
       "link": "http://www.df.cl/empresas/salud/i-med-acuerda-pagar-us-4-millones-al-fisco-tras-investigacion-de-la-fne",
       "fecha": "Wed, 25 Nov 2026",
@@ -431,20 +445,6 @@
       "link": "http://www.df.cl/empresas/energia/accionistas-de-grupo-saesa-buscan-un-socio-y-en-proximos-dias-comenzara",
       "fecha": "Wed, 25 Nov 2026",
       "fechaISO": "2026-11-25T21:47:56+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Congreso despacha a Ley el primer Presupuesto de la era Kast luego de acuerdos entre Quiroz y parte de la oposición",
-      "link": "http://www.df.cl/economia-y-politica/macro/congreso-despacha-a-ley-el-primer-presupuesto-de-la-era-kast-luego-de",
-      "fecha": "Wed, 25 Nov 2026",
-      "fechaISO": "2026-11-25T21:30:25+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "IPSA da un giro de última hora y cierra al alza sobre los 10.400 mientras agentes buscan un piso a las caídas bursátiles",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-egedl",
-      "fecha": "Wed, 25 Nov 2026",
-      "fechaISO": "2026-11-25T21:05:17+00:00"
     }
   ]
 }
