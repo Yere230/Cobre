@@ -1,11 +1,6 @@
 {
-  "actualizado": "2026-11-26T21:59:40.686321+00:00",
-  "macro": {
-    "dolar": 1044.1,
-    "uf": 41412.34,
-    "utm": 72440,
-    "cobre": 5.35
-  },
+  "actualizado": "2026-11-27T00:58:32.067853+00:00",
+  "macro": {},
   "acciones": {
     "AGUAS-A": {
       "precio": 321.99,
@@ -369,6 +364,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "Fiscalía Económica acusó a Apple por abuso de posición monopólica",
+      "link": "https://www.cooperativa.cl/noticias/economia/competitividad/libre-competencia/fiscalia-economica-acuso-a-apple-por-abuso-de-posicion-monopolica/2026-11-26/204622.html",
+      "fecha": "Thu, 26 Nov 2026",
+      "fechaISO": "2026-11-26T23:46:22+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Consternación en el mundo científico por autorización de EE.UU. a SpaceX para lanzar un millón de satélites",
       "link": "https://www.cooperativa.cl/noticias/sociedad/astronomia/espacio/consternacion-en-el-mundo-cientifico-por-autorizacion-de-ee-uu-a-spacex/2026-11-26/171358.html",
       "fecha": "Thu, 26 Nov 2026",
@@ -389,11 +391,18 @@
       "fechaISO": "2026-11-25T02:33:51+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "ChileConverge Emprende: las claves del concurso técnico-profesional que reparte más de $75 millones",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/chileconverge-emprende-las-claves-del-concurso-tecnico-profesional-que/2026-11-24/171959.html",
-      "fecha": "Tue, 24 Nov 2026",
-      "fechaISO": "2026-11-24T20:19:59+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "CMPC aspira a no superar los 360 incendios forestales, límite al que llegó el año pasado",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/incendios-forestales/cmpc-aspira-a-no-superar-los-360-incendios-forestales-limite-al-que/2026-11-26/210402.html",
+      "fecha": "Thu, 26 Nov 2026",
+      "fechaISO": "2026-11-27T00:04:02+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "Fiscalía Económica acusó a Apple por abuso de posición monopólica",
+      "link": "https://www.cooperativa.cl/noticias/economia/competitividad/libre-competencia/fiscalia-economica-acuso-a-apple-por-abuso-de-posicion-monopolica/2026-11-26/204622.html",
+      "fecha": "Thu, 26 Nov 2026",
+      "fechaISO": "2026-11-26T23:46:22+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -410,46 +419,32 @@
       "fechaISO": "2026-11-26T20:13:58+00:00"
     },
     {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Black Friday 2026: consejos para cotizar, encontrar descuentos y evitar estafas",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/black-friday-2026-consejos-para-cotizar-encontrar-descuentos-y-evitar/2026-11-26/133642.html",
-      "fecha": "Thu, 26 Nov 2026",
-      "fechaISO": "2026-11-26T16:36:42+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Sercotec pedirá capacitación previa para postular a sus fondos 2027",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/sercotec-pedira-capacitacion-previa-para-postular-a-sus-fondos-2027/2026-11-26/133626.html",
-      "fecha": "Thu, 26 Nov 2026",
-      "fechaISO": "2026-11-26T16:36:26+00:00"
+      "fuente": "Diario Financiero",
+      "texto": "Codelco cambia dos vicepresidentes y designa a nueva gerenta para Ventanas",
+      "link": "http://www.df.cl/empresas/mineria/codelco-cambia-dos-vicepresidentes-y-designa-a-nueva-gerenta-para-ventanas",
+      "fecha": "Fri, 27 Nov 2026",
+      "fechaISO": "2026-11-27T00:34:15+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Estudio de la CNEP plantea que licencias médicas breves en sector público disminuirían 52% si se pagaran desde el tercer día",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/estudio-de-la-cnep-plantea-que-licencias-medicas-breves-en-sector-publico",
+      "texto": "Fuerza de venta de las AFP crece casi 10% en un año mientras se acercan cambios en el sistema previsional",
+      "link": "http://www.df.cl/mercados/pensiones/fuerza-de-venta-de-las-afp-crece-casi-10-en-un-ano-mientras-se-acercan",
       "fecha": "Thu, 26 Nov 2026",
-      "fechaISO": "2026-11-26T21:19:37+00:00"
+      "fechaISO": "2026-11-26T23:36:07+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Fondo de CMB Prime y hermanos Pacheco invierten US$ 55 millones en nuevo terminal de Puerto Chincui",
-      "link": "http://www.df.cl/empresas/industria/tmp-inaugura-segundo-terminal-en-puerto-chincui-y-suma-us-100-millones",
+      "texto": "FNE acusa a Apple de abuso de posición dominante en la App Store en Chile y pide multa de US$ 80 millones",
+      "link": "http://www.df.cl/empresas/telecom-tecnologia/fne-acusa-a-apple-de-abuso-de-posicion-dominante-en-la-app-store-en-chile-y",
       "fecha": "Thu, 26 Nov 2026",
-      "fechaISO": "2026-11-26T21:30:26+00:00"
+      "fechaISO": "2026-11-26T23:19:59+00:00"
     },
     {
       "fuente": "Diario Financiero",
-      "texto": "Cuánto ha permeado en el mundo empresarial la importancia de incluir el compliance en su gestión",
-      "link": "http://www.df.cl/empresas/entre-codigos/cuanto-ha-permeado-en-el-mundo-empresarial-la-importancia-de-incluir-el",
+      "texto": "Gobierno entrega primera oferta de reajuste salarial a los funcionarios públicos: cifra está levemente por sobre la inflación",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/gobierno-entrega-primera-oferta-de-reajuste-salarial-a-los-funcionarios",
       "fecha": "Thu, 26 Nov 2026",
-      "fechaISO": "2026-11-26T20:39:27+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Blumar triplica sus ganancias en plena negociación para vender su negocio salmonero",
-      "link": "http://www.df.cl/empresas/industria/blumar-triplica-sus-ganancias-en-plena-negociacion-para-vender-su-negocio",
-      "fecha": "Thu, 26 Nov 2026",
-      "fechaISO": "2026-11-26T21:59:14+00:00"
+      "fechaISO": "2026-11-26T23:05:33+00:00"
     }
   ]
 }
