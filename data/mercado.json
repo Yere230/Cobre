@@ -1,6 +1,11 @@
 {
-  "actualizado": "2026-11-27T21:42:42.907839+00:00",
-  "macro": {},
+  "actualizado": "2026-11-28T00:24:43.753556+00:00",
+  "macro": {
+    "dolar": 1037.9,
+    "uf": 41419.22,
+    "utm": 72440,
+    "cobre": 5.27
+  },
   "acciones": {
     "AGUAS-A": {
       "precio": 325.5,
@@ -420,10 +425,17 @@
     },
     {
       "fuente": "Diario Financiero",
+      "texto": "Kast aborda 10% de desempleo: “Nos golpea, es una cifra mala, pero tenemos la tranquilidad que estamos haciendo las cosas bien”",
+      "link": "http://www.df.cl/economia-y-politica/politica/kast-en-medio-de-complejo-momento-economico-afirma-que-aquellos-que-estan",
+      "fecha": "Fri, 27 Nov 2026",
+      "fechaISO": "2026-11-27T23:24:00+00:00"
+    },
+    {
+      "fuente": "Diario Financiero",
       "texto": "Reajuste del sector público: gobierno logra acuerdo con 13 de los 16 gremios y pacta alza salarial de 4,6% nominal",
       "link": "http://www.df.cl/economia-y-politica/laboral-personas/reajuste-del-sector-publico-gobierno-logra-acuerdo-con-13-de-los-16",
       "fecha": "Fri, 27 Nov 2026",
-      "fechaISO": "2026-11-27T21:34:59+00:00"
+      "fechaISO": "2026-11-27T22:00:44+00:00"
     },
     {
       "fuente": "Diario Financiero",
@@ -438,13 +450,6 @@
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-s7b3f",
       "fecha": "Fri, 27 Nov 2026",
       "fechaISO": "2026-11-27T21:30:37+00:00"
-    },
-    {
-      "fuente": "Diario Financiero",
-      "texto": "Dólar cierra a la baja y pierde los $ 1.040 mientras el cobre amplía su recuperación tras el apoyo de China a sus mercados",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-xdnjh",
-      "fecha": "Fri, 27 Nov 2026",
-      "fechaISO": "2026-11-27T19:10:37+00:00"
     }
   ]
 }
