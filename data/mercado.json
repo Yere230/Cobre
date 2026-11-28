@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-28T00:24:43.753556+00:00",
+  "actualizado": "2026-11-28T02:50:04.336835+00:00",
   "macro": {
     "dolar": 1037.9,
     "uf": 41419.22,
@@ -41,13 +41,13 @@
       "precio": 3590.0,
       "anterior": 3385.0,
       "alto52": 8680.0,
-      "bajo52": 3131.1
+      "bajo52": 2977.4
     },
     "CENCOSUD": {
       "precio": 1640.0,
       "anterior": 1697.0,
       "alto52": 3238.0,
-      "bajo52": 1610.0
+      "bajo52": 1580.1
     },
     "CENCOMALLS": {
       "precio": 2210.2,
@@ -167,7 +167,7 @@
       "precio": 1130.0,
       "anterior": 990.0,
       "alto52": 1499.9,
-      "bajo52": 951.44
+      "bajo52": 950.0
     },
     "SMU": {
       "precio": 97.69,
@@ -179,7 +179,7 @@
       "precio": 50730.0,
       "anterior": 48850.0,
       "alto52": 86900.0,
-      "bajo52": 47500.0
+      "bajo52": 46527.0
     },
     "CONCHATORO": {
       "precio": 878.0,
@@ -233,7 +233,7 @@
       "precio": 5.0,
       "anterior": 4.98,
       "alto52": 20.04,
-      "bajo52": 4.01
+      "bajo52": 3.9
     },
     "PAZ": {
       "precio": 1040.0,
@@ -275,7 +275,7 @@
       "precio": 590.0,
       "anterior": 575.0,
       "alto52": 820.0,
-      "bajo52": 566.27
+      "bajo52": 564.0
     },
     "TRICOT": {
       "precio": 583.12,
@@ -299,7 +299,7 @@
       "precio": 1083.9,
       "anterior": 1159.0,
       "alto52": 2278.8,
-      "bajo52": 1039.8
+      "bajo52": 1029.2
     },
     "BICE": {
       "precio": 429.0,
@@ -369,6 +369,13 @@
     },
     {
       "fuente": "Cooperativa · Empresas",
+      "texto": "OpenAI contrademandó a Apple por robo de secretos comerciales y bloqueo a recursos",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/openai-contrademando-a-apple-por-robo-de-secretos-comerciales-y-bloqueo/2026-11-27/192541.html",
+      "fecha": "Fri, 27 Nov 2026",
+      "fechaISO": "2026-11-27T22:25:41+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Empresas",
       "texto": "Codelco anunció dos nuevos vicepresidentes y una nueva gerenta general",
       "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/codelco-anuncio-dos-nuevos-vicepresidentes-y-una-nueva-gerenta-general/2026-11-26/212948.html",
       "fecha": "Thu, 26 Nov 2026",
@@ -389,11 +396,18 @@
       "fechaISO": "2026-11-26T02:45:13+00:00"
     },
     {
-      "fuente": "Cooperativa · Empresas",
-      "texto": "Jurado estadounidense declaró a Huawei culpable de fraude y robo de secretos",
-      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/jurado-estadounidense-declaro-a-huawei-culpable-de-fraude-y-robo-de/2026-11-24/233351.html",
-      "fecha": "Tue, 24 Nov 2026",
-      "fechaISO": "2026-11-25T02:33:51+00:00"
+      "fuente": "Cooperativa · Economía",
+      "texto": "Núñez y los 100 días de Kast: \"A la ciudadanía no le podemos pedir más plazo\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/nunez-y-los-100-dias-de-kast-a-la-ciudadania-no-le-podemos-pedir-mas/2026-11-27/212810.html",
+      "fecha": "Fri, 27 Nov 2026",
+      "fechaISO": "2026-11-28T00:28:10+00:00"
+    },
+    {
+      "fuente": "Cooperativa · Economía",
+      "texto": "OpenAI contrademandó a Apple por robo de secretos comerciales y bloqueo a recursos",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/openai-contrademando-a-apple-por-robo-de-secretos-comerciales-y-bloqueo/2026-11-27/192541.html",
+      "fecha": "Fri, 27 Nov 2026",
+      "fechaISO": "2026-11-27T22:25:41+00:00"
     },
     {
       "fuente": "Cooperativa · Economía",
@@ -408,20 +422,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/terracars-el-taller-mecanico-que-nacio-en-un-patio-y-gano-el-gran/2026-11-27/170658.html",
       "fecha": "Fri, 27 Nov 2026",
       "fechaISO": "2026-11-27T20:06:58+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "Desempleo en 10%: ¿Resultado de una \"receta ochentera\" del Gobierno?",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/desempleo-en-10-resultado-de-una-receta-ochentera-del-gobierno/2026-11-27/112340.html",
-      "fecha": "Fri, 27 Nov 2026",
-      "fechaISO": "2026-11-27T14:23:40+00:00"
-    },
-    {
-      "fuente": "Cooperativa · Economía",
-      "texto": "INE: Desempleo llegó al 10 por ciento en trimestre agosto-octubre",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/ine-desempleo-llego-al-10-por-ciento-en-trimestre-agosto-octubre/2026-11-27/090609.html",
-      "fecha": "Fri, 27 Nov 2026",
-      "fechaISO": "2026-11-27T12:06:09+00:00"
     },
     {
       "fuente": "Diario Financiero",
